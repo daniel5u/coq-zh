@@ -2,7 +2,7 @@
   "WorkshopId": 3839454603,
   "Title": "卡德洞窟 简体中文 (QudZH)",
   "Description": "[h1]卡德洞窟 简体中文汉化 (QudZH)[/h1]\n基于官方 [b]lang-experimental[/b] 本地化框架的完整简体中文语言包。\n\n[h2]覆盖范围[/h2]\n[list]\n[*]官方可翻译文本 26,194 / 26,194 条（100%）\n[*]程序生成历史短语库 5,222 条：苏丹福音、村庄史、流言、墓志铭、菜谱\n[*]随机命名：音节级音译 + 意译称号\n[*]中文代词与亲属称谓\n[*]运行时中文排版：CJK 断行、去英文冠词、中文数词与列举、不对中文词做英文复数/变位\n[*]C# 拼接的界面与日志文本（约 1,470 条模板）\n[/list]\n\n[h2]文风[/h2]\n传说、描述与书籍采用半文半白的书面语（雅而不涩，古而不僻）；界面采用简明现代汉语。圣经/闪族名称参照和合本（约帕、各各他、拿非利人）。统一术语表约 1,600 条。\n\n[h2]安装[/h2]\n[olist]\n[*]Steam → Caves of Qud → 属性 → 测试版 → 选择 [b]lang-experimental[/b]。\n[*]订阅本模组，启动游戏，在 Mods 中启用并允许脚本模组。\n[*]停用其他中文语言模组（两个 zh 语言包会冲突）。\n[*]选项 → Language → 简体中文，然后重启游戏。\n[/olist]\n\n[h2]English[/h2]\nComplete Simplified Chinese translation for Caves of Qud on the [b]lang-experimental[/b] branch, with a consistent glossary and CJK-aware runtime text handling. Requires script mods.\n\n[h2]源码与反馈[/h2]\n[url=https://github.com/daniel5u/coq-zh]github.com/daniel5u/coq-zh[/url]\n代码：MIT；原创中文译文：CC BY-SA 4.0。游戏文本版权归 Freehold Games 所有。本模组为非官方爱好者汉化。",
-  "Tags": "Localization",
+  "Tags": "Translation,Localization,UI",
   "Visibility": "0",
   "ImagePath": "preview.png"
 }

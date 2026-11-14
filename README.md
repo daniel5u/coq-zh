@@ -79,6 +79,9 @@ python3 tools/workshop.py --dry-run                     # show what would be upl
 STEAM_USERNAME=<account> python3 tools/workshop.py       # upload (SteamCMD must have a cached login)
 ```
 
+SteamCMD cannot set Workshop tags, so set them once with the in-game uploader (Mods → Upload; the
+Tags field is prefilled from `workshop.json`). Later SteamCMD uploads keep them.
+
 The first upload creates the item and writes its `WorkshopId` into `workshop.json`; commit that file.
 Each later `vX.Y.Z` tag also updates the item from CI (`workshop` job) when the `steam-workshop`
 environment has the secrets `STEAM_USERNAME` and `STEAM_CONFIG_VDF` (base64 of a logged-in
