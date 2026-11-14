@@ -6,6 +6,11 @@ on:
     tags: ['v*']
   pull_request:
   workflow_dispatch:
+    inputs:
+      workshop:
+        description: Upload the current main branch to Steam Workshop
+        type: boolean
+        default: false
 
 permissions:
   contents: read
@@ -77,10 +82,13 @@ jobs:
           gh release edit "$RELEASE_TAG" --draft=false
 
   workshop:
-    # Mirrors each tagged release to Steam Workshop. Skips itself until the
-    # repository has the steam-workshop secrets and workshop.json has an item ID.
-    if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v')
-    needs: release
+    # Mirrors each tagged release (or a manual run with workshop=true) to Steam
+    # Workshop. Skips itself until the steam-workshop secrets and item ID exist.
+    if: >-
+      always() && needs.checks.result == 'success' &&
+      ((github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v') && needs.release.result == 'success') ||
+       (github.event_name == 'workflow_dispatch' && inputs.workshop))
+    needs: [checks, release]
     runs-on: ubuntu-latest
     timeout-minutes: 20
     environment: steam-workshop
@@ -122,9 +130,14 @@ jobs:
           STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
           RELEASE_TAG: ${{ github.ref_name }}
         run: |
-          python3 tools/check_release.py --tag "$RELEASE_TAG"
-          python3 tools/workshop.py --steamcmd "$HOME/steamcmd/steamcmd.sh" \
-            --changenote "QudZH $RELEASE_TAG — https://github.com/${{ github.repository }}/releases/tag/$RELEASE_TAG"
+          if [ "${{ github.event_name }}" = push ]; then
+            python3 tools/check_release.py --tag "$RELEASE_TAG"
+            note="QudZH $RELEASE_TAG — https://github.com/${{ github.repository }}/releases/tag/$RELEASE_TAG"
+          else
+            python3 tools/check_release.py
+            note="QudZH main @ ${GITHUB_SHA::7} — https://github.com/${{ github.repository }}/commit/$GITHUB_SHA"
+          fi
+          python3 tools/workshop.py --steamcmd "$HOME/steamcmd/steamcmd.sh" --changenote "$note"
       - name: Remove Steam login
         if: always()
         run: rm -rf "$HOME/steamcmd/config" "$HOME/Steam/config"
