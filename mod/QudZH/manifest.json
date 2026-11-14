@@ -4,5 +4,6 @@
   "Version": "0.1.0",
   "Author": "QudZH contributors",
   "Description": "《卡德洞窟》简体中文语言包：基于官方 lang-experimental 本地化框架，覆盖全部官方可翻译文本，统一术语表，古雅文风；附带中文排版（断行、数词、去冠词）运行时支持。需切换到 Steam 测试分支 lang-experimental。",
-  "Tags": "Localization"
+  "Tags": "Localization",
+  "PreviewImage": "preview.png"
 }
