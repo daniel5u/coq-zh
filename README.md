@@ -69,6 +69,21 @@ See [docs/TEXT_EXTRACTION_SCOPE.md](docs/TEXT_EXTRACTION_SCOPE.md) for coverage 
 - `LibraryCorpus.json` (Markov-generated book text) is not translated.
 - Not yet play-tested end to end; please report rendering issues (especially generated combat messages and procedural history sentences).
 
+## Steam Workshop sync
+
+GitHub is the source of truth for the Workshop item: `tools/workshop.py` uploads exactly the files
+in the release ZIP, with the title, description and preview from `mod/QudZH/workshop.json`.
+
+```bash
+python3 tools/workshop.py --dry-run                     # show what would be uploaded
+STEAM_USERNAME=<account> python3 tools/workshop.py       # upload (SteamCMD must have a cached login)
+```
+
+The first upload creates the item and writes its `WorkshopId` into `workshop.json`; commit that file.
+Each later `vX.Y.Z` tag also updates the item from CI (`workshop` job) when the `steam-workshop`
+environment has the secrets `STEAM_USERNAME` and `STEAM_CONFIG_VDF` (base64 of a logged-in
+SteamCMD `config.vdf`). Without them the job is skipped.
+
 ## License
 
 Original code is [MIT](LICENSE). Original Chinese translations and project documentation are [CC BY-SA 4.0](LICENSES/CC-BY-SA-4.0.txt). *Caves of Qud* game text and other third-party material keep their own rights. See [NOTICE.md](NOTICE.md).

@@ -75,3 +75,56 @@ jobs:
           gh release create "$RELEASE_TAG" dist/QudZH.zip dist/QudZH.zip.sha256 \
             --verify-tag --draft --title "QudZH $RELEASE_TAG" --generate-notes
           gh release edit "$RELEASE_TAG" --draft=false
+
+  workshop:
+    # Mirrors each tagged release to Steam Workshop. Skips itself until the
+    # repository has the steam-workshop secrets and workshop.json has an item ID.
+    if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v')
+    needs: release
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment: steam-workshop
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Check sync prerequisites
+        id: ready
+        env:
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          STEAM_CONFIG_VDF: ${{ secrets.STEAM_CONFIG_VDF }}
+        run: |
+          id=$(python3 -c "import json;print(json.load(open('mod/QudZH/workshop.json',encoding='utf-8-sig'))['WorkshopId'])")
+          if [ -z "$STEAM_USERNAME" ] || [ -z "$STEAM_CONFIG_VDF" ]; then
+            echo "::notice::Steam Workshop sync skipped: STEAM_USERNAME / STEAM_CONFIG_VDF secrets are not set"; echo "go=false" >> "$GITHUB_OUTPUT"
+          elif [ "$id" = "0" ]; then
+            echo "::notice::Steam Workshop sync skipped: create the item first so workshop.json has a WorkshopId"; echo "go=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Install SteamCMD and restore login
+        if: steps.ready.outputs.go == 'true'
+        env:
+          STEAM_CONFIG_VDF: ${{ secrets.STEAM_CONFIG_VDF }}
+        run: |
+          sudo dpkg --add-architecture i386 && sudo apt-get update -qq && sudo apt-get install -y -qq lib32gcc-s1 >/dev/null
+          mkdir -p "$HOME/steamcmd" && curl -fsSL https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz | tar -xz -C "$HOME/steamcmd"
+          "$HOME/steamcmd/steamcmd.sh" +quit >/dev/null || true
+          for dir in "$HOME/steamcmd/config" "$HOME/Steam/config"; do
+            mkdir -p "$dir" && echo "$STEAM_CONFIG_VDF" | base64 -d > "$dir/config.vdf" && chmod 600 "$dir/config.vdf"
+          done
+      - name: Upload release to Steam Workshop
+        if: steps.ready.outputs.go == 'true'
+        env:
+          STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          python3 tools/check_release.py --tag "$RELEASE_TAG"
+          python3 tools/workshop.py --steamcmd "$HOME/steamcmd/steamcmd.sh" \
+            --changenote "QudZH $RELEASE_TAG — https://github.com/${{ github.repository }}/releases/tag/$RELEASE_TAG"
+      - name: Remove Steam login
+        if: always()
+        run: rm -rf "$HOME/steamcmd/config" "$HOME/Steam/config"
