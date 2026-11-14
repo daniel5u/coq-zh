@@ -1,0 +1,8 @@
+{"id": "SparkingBaetyls#00001", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=MeleeWeapon]", "src": "A MIGHTY WEAPON"}
+{"id": "SparkingBaetyls#00002", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=Armor]", "src": "A SPLENDID VESTMENT"}
+{"id": "SparkingBaetyls#00003", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=MissileWeapon]", "src": "A BLAZING CANNON"}
+{"id": "SparkingBaetyls#00004", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=Artifact]", "src": "A PECULIAR CONTRAPTION"}
+{"id": "SparkingBaetyls#00005", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=AttributePoints]", "src": "ENHANCED PROWESS"}
+{"id": "SparkingBaetyls#00006", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=MutationPoints]", "src": "ENHANCED PROWESS"}
+{"id": "SparkingBaetyls#00007", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=SkillPoints]", "src": "HEIGHTENED SKILL"}
+{"id": "SparkingBaetyls#00008", "file": "SparkingBaetyls", "tag": "reward", "attr": "Description", "path": "[sparkingbaetyls][rewards][reward,Name=Reputation]", "src": "GREAT RENOWN"}

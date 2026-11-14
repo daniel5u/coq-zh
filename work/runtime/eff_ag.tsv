@@ -1,0 +1,31 @@
+time-dilated ({{C|#}} Quickness)	时间膨胀（{{C|#迅捷}}）
+# Quickness	#迅捷
+Molting beams of prismatic light.	蜕下棱彩光束。
+Can use {0} at level #.	可在#级使用{0}。
+# levels to {0}.	{0}阶位#。
+# level to {0}.	{0}阶位#。
+Has been latched onto.	已被缠住。
+Can't move without breaking free first.	挣脱之前无法移动。
+Has been latched onto by {0}.	被{0}缠住了。
+# life drained per turn.	每回合被汲取#点生命。
+covered in liquid	沾满液体
+Covered in # {0} of {1}.	沾满#{0}{1}。
+Covered in liquid.	沾满液体。
+stained by liquid	沾染液体
+Stained by {0}.	沾染了{0}。
+Lunge and Swipe have no cooldown.	突刺与挥击没有冷却时间。
++# to your penetration roll and -# to hit while wielding a long blade in the primary hand.	主手持长刃时，穿透判定+#，命中值-#。
++# DV while wielding a long blade in the primary hand.	主手持长刃时，闪避值+#。
++# to hit while wielding a long blade in the primary hand.	主手持长刃时，命中值+#。
+Can't fast travel.	无法快速旅行。
+{{amorous|love}} tonic	{{amorous|爱}}药剂
+Will fall in love with the first thing examined.	会爱上第一个检视的对象。
+{{m|phosphorescent}}	{{m|磷光}}
+Radiates light in radius #.	在半径#范围内发光。
+Regenerates at thrice the normal rate.	以正常速度的三倍恢复。
+Negative status effects wear off at thrice the normal rate.	负面状态效果以正常速度的三倍消退。
+Stops meditating if another action is taken or # damage is taken in a single round.	若采取其他行动，或在单回合内受到#点伤害，冥想便会中止。
+Locked in psychic battle with a foe. (# {0} remaining)	正与敌手进行心灵战斗。（还剩# {0}）
+Has a bloody nose.	流了鼻血。
+-# move speed due to missing or broken limbs	因肢体缺失或骨折，移动速度-#
+Mobility impaired due to missing or broken limbs.	因肢体缺失或骨折而行动不便。

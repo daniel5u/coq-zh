@@ -1,0 +1,2 @@
+{"id": "Templates#00001", "file": "Templates", "tag": "statDefaultUnit", "attr": "Unit", "path": "[templates][statDefaultUnit,Name=Cooldown]", "src": "round"}
+{"id": "Templates#00002", "file": "Templates", "tag": "statDefaultUnit", "attr": "Unit", "path": "[templates][statDefaultUnit,Name=Duration]", "src": "round"}

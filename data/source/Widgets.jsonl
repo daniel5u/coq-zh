@@ -1,0 +1,18 @@
+{"id": "Widgets#00001", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=LandmarkJoppaIrudadHut][part,Name=ZoneLandmarkBox]", "src": "hut"}
+{"id": "Widgets#00002", "file": "Widgets", "tag": "part", "attr": "Preposition", "path": "[objects][object,Name=LandmarkJoppaIrudadHut][part,Name=ZoneLandmarkBox]", "src": "in"}
+{"id": "Widgets#00003", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=LandmarkJoppaArgyveWorkshop][part,Name=ZoneLandmarkBox]", "src": "workshop"}
+{"id": "Widgets#00004", "file": "Widgets", "tag": "part", "attr": "Preposition", "path": "[objects][object,Name=LandmarkJoppaArgyveWorkshop][part,Name=ZoneLandmarkBox]", "src": "in"}
+{"id": "Widgets#00005", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=LandmarkJoppaTamTent][part,Name=ZoneLandmarkBox]", "src": "tent"}
+{"id": "Widgets#00006", "file": "Widgets", "tag": "part", "attr": "Preposition", "path": "[objects][object,Name=LandmarkJoppaTamTent][part,Name=ZoneLandmarkBox]", "src": "in"}
+{"id": "Widgets#00007", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=LandmarkJoppaWatervine][part,Name=ZoneLandmarkGroup]", "src": "watervine patch"}
+{"id": "Widgets#00008", "file": "Widgets", "tag": "part", "attr": "Preposition", "path": "[objects][object,Name=LandmarkJoppaWatervine][part,Name=ZoneLandmarkGroup]", "src": "by"}
+{"id": "Widgets#00009", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=LandmarkJoppaMill][part,Name=ZoneLandmarkBox]", "src": "village mill"}
+{"id": "Widgets#00010", "file": "Widgets", "tag": "part", "attr": "Preposition", "path": "[objects][object,Name=LandmarkJoppaMill][part,Name=ZoneLandmarkBox]", "src": "by"}
+{"id": "Widgets#00011", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=CoralPolypSpawner][part,Name=Render]", "src": "coral polyp"}
+{"id": "Widgets#00012", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=CoralAndPalladiumSpawner][part,Name=Render]", "src": "palladium strut with coral growth"}
+{"id": "Widgets#00013", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=PalladiumStrutSpawner][part,Name=Render]", "src": "palladium strut"}
+{"id": "Widgets#00014", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=ArspliceHyphaeSpawner][part,Name=Render]", "src": "arsplice hyphae"}
+{"id": "Widgets#00015", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=PistonPressController][part,Name=Render]", "src": "machine press"}
+{"id": "Widgets#00016", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=PistonPressElement][part,Name=Render]", "src": "machine press"}
+{"id": "Widgets#00017", "file": "Widgets", "tag": "part", "attr": "Short", "path": "[objects][object,Name=PistonPressElement][part,Name=Description]", "src": "Light glints off the tiny scratches torn into the vast tube's chrome surface from where metal smashed bone into grated submission."}
+{"id": "Widgets#00018", "file": "Widgets", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=DummyTinkerScreenObject][part,Name=Render]", "src": "{{C|Known Modifications}}"}

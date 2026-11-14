@@ -1,0 +1,77 @@
+You possess a towering vision of self that you project onto the minds of nearby creatures.	你怀有一种巍然的自我之象，并将其投映于周遭生灵的心神之上。
+# Ego	#自我
+Creatures within a radius of # are alerted to your presence [unimplemented]	半径#格内的生物会察觉到你的存在 [未实装]
+Small chance to frighten an adjacent enemy [unimplemented]	有小概率惊吓相邻的敌人 [未实装]
+Increased chance to frighten an adjacent enemy [unimplemented]	惊吓相邻敌人的几率提高 [未实装]
+You detect the presence of creatures within a radius of {{rules|#}}.	你能感知半径{{rules|#}}格内生物的存在。
+{{rules|Increased chance to identify nearby detected creatures}}	{{rules|辨识附近已探测生物的几率提高}}
+Chance to identify nearby detected creatures	有几率辨识附近已探测的生物
+You possess extraordinary analytical prowess but you find difficulty in relating to others.	你天资卓绝，善于剖析万物，却难与他人推心置腹。
+# Intelligence	#智力
+# Ego	#自我
+Small chance to reveal the entire map in a flash of insight	有小概率灵光一闪，揭示整张地图
+Increased chance to reveal the entire map in a flash of insight	灵光一闪揭示整张地图的几率提高
+You are possessed of exceptionally acute smell.	你的嗅觉异常灵敏。
+You detect the presence of creatures within a distance typically up to {{rules|#}} squares depending on terrain	你能感知生物的存在，距离通常至多{{rules|#}}格，视地形而定
++{{rules|#}} Quickness	+{{rules|#}}迅捷
++{{rules|#}} Strength	+{{rules|#}}力量
+{{rules|#}}% chance to daze your opponent on a successful melee attack for 2-3 rounds	近战攻击命中时有{{rules|#}}%几率使对手眩晕2-3回合
+You are possessed of an indefatigable focus which every so often manifests itself as stubbornness.	你的专注坚不可摧，时而显露为一股执拗。
+# Willpower	#意志
+Small chance that you stubbornly refuse to flee from a fight [unimplemented]	有小概率执拗地拒绝从战斗中逃离 [未实装]
+Increased chance that you stubbornly refuse to flee from a flight	执拗地拒绝逃离战斗的几率提高
+Small chance when you are injured to ignore all damage for the next 5 rounds [unimplemented]	受伤时有小概率在接下来5回合内无视一切伤害 [未实装]
+Increased chance when you are injured to ignore all damage for the next 5 rounds [unimplemented]	受伤时在接下来5回合内无视一切伤害的几率提高 [未实装]
+Your blood does not clot easily.	你的血液不易凝结。
+It takes much longer than usual for you to stop bleeding.	你要比常人久得多才能止血。
+Horns jut out of your head.	你头上生出了犄角。
+{0} juts out of your head.	你头上生出了{0}。
+{0} jut out of your head.	你头上生出了{0}。
+20% chance on melee attack to gore your opponent	近战攻击时有20%几率顶刺对手
+Damage increment: {{rules|#}}	伤害增量：{{rules|#}}
+To-hit bonus: {{rules|#}}	命中加值：{{rules|#}}
+Goring attacks may cause bleeding	顶刺攻击可能造成流血
+{{rules|Increased bleeding save difficulty}}	{{rules|流血豁免难度提高}}
+{{rules|Increased bleeding save difficulty and intensity}}	{{rules|流血豁免难度与流血强度提高}}
+{0} is a short-blade class natural weapon.	{0}属于短刃类天生武器。
+{0} are a short-blade class natural weapon.	{0}属于短刃类天生武器。
++{{rules|#}} AV	+{{rules|#}}护甲值
+Cannot wear helmets	无法佩戴头盔
++100 reputation with {{w|antelopes}} and {{w|goatfolk}}	与{{w|羚羊}}及{{w|羊人}}的声望+100
+You breathe ice.	你吐息成冰。
+Breathes ice in a cone.	以锥形喷吐冰霜。
+Damage: #	伤害：#
+Cone length: # tiles	锥形长度：#格
+Cone angle: # degrees	锥形角度：#度
+Cooldown: 15 rounds	冷却时间：15回合
+Decreased temperature.	降低温度。
+You teleport and bring creatures along with you.	你可传送自身，并携周遭生灵同行。
+You teleport to a nearby location and bring everyone within radius {{rules|#}} along with you.	你传送至附近某处，并带上半径{{rules|#}}格内的所有人同行。
+Cooldown: # rounds	冷却时间：#回合
+You cannot be seen.	无人能见你。
+You molt powerful beams across the spectrum of light and matter.	你自身迸发横跨光与物质谱系的强力光束。
+Fires {{rules|#}} beam at random enemies every round for {{rules|#}} rounds	每回合向随机敌人发射{{rules|#}}道光束，持续{{rules|#}}回合
+Fires {{rules|#}} beams at random enemies every round for {{rules|#}} rounds	每回合向随机敌人发射{{rules|#}}道光束，持续{{rules|#}}回合
+Cooldown: {{rules|#}} rounds	冷却时间：{{rules|#}}回合
+You ignite a small fire with your mind.	你以心念点燃一簇小火。
+Range: #	射程：#
+Cooldown: 50 rounds	冷却时间：50回合
+You shift spacetime in the local region.	你扭转了当地的时空。
+Cooldown: #	冷却时间：#
+You bond with a nearby organic creature and leech its life force.	你与附近的有机生物结下羁绊，汲取其生命力。
+Mental attack versus an organic creature	对有机生物发动精神攻击
+Drains {{rules|#}} hit point per round	每回合吸取{{rules|#}}点生命值
+Drains {{rules|#}} hit points per round	每回合吸取{{rules|#}}点生命值
+Target gets a mental save to resist damage each round	目标每回合可进行一次精神豁免以抵抗伤害
+Duration: 20 rounds	持续时间：20回合
+Cooldown: 200 rounds	冷却时间：200回合
+You produce ambient light within a radius of {{rules|#}}.	你在半径{{rules|#}}格内散发环境光。
+You may focus the light into a laser beam, temporarily reducing the radius of your ambient light by 1.	你可将光线聚为激光束，使环境光半径暂时减少1格。
+Laser damage increment: {{rules|#}}	激光伤害增量：{{rules|#}}
+Laser penetration: {{rules|#}}	激光穿透力：{{rules|#}}
+Ambient light recharges at a rate of 1 unit every # rounds until it reaches its maximum value.	环境光每#回合恢复1点，直至达到最大值。
+{{rules|#}}% chance to reflect light-based damage	有{{rules|#}}%几率反射光系伤害
+Your laser beam doesn't penetrate {0}.	你的激光束未能穿透{0}。
+{0} doesn't penetrate your armor.	{0}未能穿透你的护甲。
+You must wait {{C|{0}}} before you can enable ambient light.	你须再等待{{C|{0}}}才能启用环境光。
+You ooze fluids with the best of them.	你分泌体液之盛，无人能及。

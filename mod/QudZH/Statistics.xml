@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<statistics Lang="zh" Encoding="utf-8">
+  <statistic Name="Strength">
+    <displayName>力量</displayName>
+    <displayNameSingular>力量</displayNameSingular>
+    <displayTitle>力量</displayTitle>
+    <displayTitleSingular>力量</displayTitleSingular>
+    <shortName>力量</shortName>
+    <shortTitle>力量</shortTitle>
+    <narrationName>力量</narrationName>
+    <helpText>你的{{W|力量}}决定近战伤害（力量越高，护甲穿透越强）、抵抗强制移动的能力以及负重上限。</helpText>
+  </statistic>
+  <statistic Name="Agility">
+    <displayName>敏捷</displayName>
+    <displayNameSingular>敏捷</displayNameSingular>
+    <displayTitle>敏捷</displayTitle>
+    <displayTitleSingular>敏捷</displayTitleSingular>
+    <shortName>敏捷</shortName>
+    <shortTitle>敏捷</shortTitle>
+    <narrationName>敏捷</narrationName>
+    <helpText>你的{{W|敏捷}}决定你使用近战与远程武器的命中率，以及闪避攻击的几率。</helpText>
+  </statistic>
+  <statistic Name="Toughness">
+    <displayName>坚韧</displayName>
+    <displayNameSingular>坚韧</displayNameSingular>
+    <displayTitle>坚韧</displayTitle>
+    <displayTitleSingular>坚韧</displayTitleSingular>
+    <shortName>坚韧</shortName>
+    <shortTitle>坚韧</shortTitle>
+    <narrationName>坚韧</narrationName>
+    <helpText>你的{{W|坚韧}}决定你的生命值上限、生命值回复速度，以及抵抗毒素与疾病的能力。</helpText>
+  </statistic>
+  <statistic Name="Intelligence">
+    <displayName>智力</displayName>
+    <displayNameSingular>智力</displayNameSingular>
+    <displayTitle>智力</displayTitle>
+    <displayTitleSingular>智力</displayTitleSingular>
+    <shortName>智力</shortName>
+    <shortTitle>智力</shortTitle>
+    <narrationName>智力</narrationName>
+    <helpText>你的{{W|智力}}决定你的技能点数，以及检视古器的能力。</helpText>
+  </statistic>
+  <statistic Name="Willpower">
+    <displayName>意志</displayName>
+    <displayNameSingular>意志</displayNameSingular>
+    <displayTitle>意志</displayTitle>
+    <displayTitleSingular>意志</displayTitleSingular>
+    <shortName>意志</shortName>
+    <shortTitle>意志</shortTitle>
+    <narrationName>意志</narrationName>
+    <helpText>你的{{W|意志}}影响主动技能的冷却时间，决定你抵抗精神攻击的能力，并影响生命值回复速度。</helpText>
+  </statistic>
+  <statistic Name="Ego">
+    <displayName>自我</displayName>
+    <displayNameSingular>自我</displayNameSingular>
+    <displayTitle>自我</displayTitle>
+    <displayTitleSingular>自我</displayTitleSingular>
+    <shortName>自我</shortName>
+    <shortTitle>自我</shortTitle>
+    <narrationName>自我</narrationName>
+    <helpText>你的{{W|自我}}决定精神变异的强度、与商人讨价还价的本领，以及支配其他生物意志的能力。</helpText>
+  </statistic>
+  <statistic Name="AV">
+    <displayName>AV</displayName>
+    <displayNameSingular>AV</displayNameSingular>
+    <displayTitle>AV</displayTitle>
+    <displayTitleSingular>AV</displayTitleSingular>
+    <shortName>AV</shortName>
+    <shortTitle>AV</shortTitle>
+    <narrationName>AV</narrationName>
+    <helpText>你的{{W|护甲值（AV）}}衡量你抵御命中你的物理攻击的能力。此值越高，对手的攻击穿透你的护甲并造成伤害的次数越少。</helpText>
+  </statistic>
+  <statistic Name="DV">
+    <displayName>DV</displayName>
+    <displayNameSingular>DV</displayNameSingular>
+    <displayTitle>DV</displayTitle>
+    <displayTitleSingular>DV</displayTitleSingular>
+    <shortName>DV</shortName>
+    <shortTitle>DV</shortTitle>
+    <narrationName>DV</narrationName>
+    <helpText>你的{{W|闪避值（DV）}}衡量你被物理攻击命中的可能性。此值越高，对手的攻击越难命中你。你的DV受敏捷调整值影响。</helpText>
+  </statistic>
+  <statistic Name="MA">
+    <displayName>MA</displayName>
+    <displayNameSingular>MA</displayNameSingular>
+    <displayTitle>MA</displayTitle>
+    <displayTitleSingular>MA</displayTitleSingular>
+    <shortName>MA</shortName>
+    <shortTitle>MA</shortTitle>
+    <narrationName>MA</narrationName>
+    <helpText>你的{{W|心智护甲（MA）}}衡量你抵御精神攻击的能力。此值越高，对手的精神攻击越难穿透你的防御并伤及你。你的MA受意志调整值影响。</helpText>
+  </statistic>
+  <statistic Name="Speed">
+    <displayName>迅捷</displayName>
+    <displayNameSingular>迅捷</displayNameSingular>
+    <displayTitle>迅捷</displayTitle>
+    <displayTitleSingular>迅捷</displayTitleSingular>
+    <shortName>QN</shortName>
+    <shortTitle>QN</shortTitle>
+    <narrationName>迅捷</narrationName>
+    <helpText>你的{{W|迅捷}}衡量你执行每一个动作的速度。</helpText>
+  </statistic>
+  <statistic Name="MoveSpeed">
+    <displayName>移动速度</displayName>
+    <displayNameSingular>移动速度</displayNameSingular>
+    <displayTitle>移动速度</displayTitle>
+    <displayTitleSingular>移动速度</displayTitleSingular>
+    <shortName>MS</shortName>
+    <shortTitle>MS</shortTitle>
+    <narrationName>移动速度</narrationName>
+    <helpText>你的{{W|移动速度}}衡量你步行或飞行的快慢。</helpText>
+  </statistic>
+  <statistic Name="Temperature">
+    <displayName>体温</displayName>
+    <displayNameSingular>体温</displayNameSingular>
+    <displayTitle>体温</displayTitle>
+    <displayTitleSingular>体温</displayTitleSingular>
+    <shortName>T</shortName>
+    <shortTitle>T</shortTitle>
+    <narrationName>体温</narrationName>
+    <helpText>你的{{W|体温}}衡量你当前的冷热。过冷会降低你的迅捷，并使你无法进行肉体动作。过热会使你着火，并每回合造成伤害。</helpText>
+  </statistic>
+  <statistic Name="AcidResistance">
+    <displayName>抗酸性</displayName>
+    <displayNameSingular>抗酸性</displayNameSingular>
+    <displayTitle>酸抗性</displayTitle>
+    <displayTitleSingular>酸抗性</displayTitleSingular>
+    <shortName>AR</shortName>
+    <shortTitle>AR</shortTitle>
+    <narrationName>抗酸性</narrationName>
+    <helpText>你的{{W|抗酸性}}决定你能削减多少酸蚀伤害。达到100时，你免疫酸蚀伤害。</helpText>
+  </statistic>
+  <statistic Name="ColdResistance">
+    <displayName>抗寒性</displayName>
+    <displayNameSingular>抗寒性</displayNameSingular>
+    <displayTitle>寒冷抗性</displayTitle>
+    <displayTitleSingular>寒冷抗性</displayTitleSingular>
+    <shortName>CR</shortName>
+    <shortTitle>CR</shortTitle>
+    <narrationName>抗寒性</narrationName>
+    <helpText>你的{{W|抗寒性}}决定你能削减多少寒冷伤害，以及你对降低体温效果的隔绝程度。达到100时，你免疫寒冷伤害，且体温无法被降低。</helpText>
+  </statistic>
+  <statistic Name="ElectricResistance">
+    <displayName>抗电性</displayName>
+    <displayNameSingular>抗电性</displayNameSingular>
+    <displayTitle>电抗</displayTitle>
+    <displayTitleSingular>电抗</displayTitleSingular>
+    <shortName>ER</shortName>
+    <shortTitle>ER</shortTitle>
+    <narrationName>抗电性</narrationName>
+    <helpText>你的{{W|抗电性}}决定你能削减多少电击伤害，以及你对电流的阻抗程度。达到100时，你免疫电击伤害，且不再导电。</helpText>
+  </statistic>
+  <statistic Name="HeatResistance">
+    <displayName>抗热性</displayName>
+    <displayNameSingular>抗热性</displayNameSingular>
+    <displayTitle>热抗</displayTitle>
+    <displayTitleSingular>热抗</displayTitleSingular>
+    <shortName>HR</shortName>
+    <shortTitle>HR</shortTitle>
+    <narrationName>抗热性</narrationName>
+    <helpText>你的{{W|抗热性}}决定你能削减多少高温伤害，以及你对升高体温效果的隔绝程度。达到100时，你免疫高温伤害，且体温无法被升高。</helpText>
+  </statistic>
+  <statistic Name="Hitpoints">
+    <displayName>生命值</displayName>
+    <displayNameSingular>生命值</displayNameSingular>
+    <displayTitle>生命值</displayTitle>
+    <displayTitleSingular>生命值</displayTitleSingular>
+    <shortName>HP</shortName>
+    <shortTitle>HP</shortTitle>
+    <narrationName>生命</narrationName>
+  </statistic>
+  <statistic Name="AP">
+    <displayName>属性点数</displayName>
+    <displayNameSingular>属性点数</displayNameSingular>
+    <displayTitle>属性点数</displayTitle>
+    <displayTitleSingular>属性点数</displayTitleSingular>
+    <shortName>AP</shortName>
+    <shortTitle>AP</shortTitle>
+    <narrationName>属性点数</narrationName>
+  </statistic>
+  <statistic Name="MP">
+    <displayName>变异点数</displayName>
+    <displayNameSingular>变异点数</displayNameSingular>
+    <displayTitle>变异点数</displayTitle>
+    <displayTitleSingular>变异点数</displayTitleSingular>
+    <shortName>MP</shortName>
+    <shortTitle>MP</shortTitle>
+    <narrationName>变异点数</narrationName>
+  </statistic>
+  <statistic Name="SP">
+    <displayName>技能点数</displayName>
+    <displayNameSingular>技能点数</displayNameSingular>
+    <displayTitle>技能点数</displayTitle>
+    <displayTitleSingular>技能点数</displayTitleSingular>
+    <shortName>SP</shortName>
+    <shortTitle>SP</shortTitle>
+    <narrationName>技能点数</narrationName>
+  </statistic>
+  <statistic Name="XP">
+    <displayName>经验点数</displayName>
+    <displayNameSingular>经验点数</displayNameSingular>
+    <displayTitle>经验点数</displayTitle>
+    <displayTitleSingular>经验点数</displayTitleSingular>
+    <shortName>XP</shortName>
+    <shortTitle>XP</shortTitle>
+    <narrationName>经验点数</narrationName>
+  </statistic>
+  <statistic Name="XPValue">
+    <displayName>经验值</displayName>
+    <displayNameSingular>经验值</displayNameSingular>
+    <displayTitle>经验值</displayTitle>
+    <displayTitleSingular>经验值</displayTitleSingular>
+    <shortName>XV</shortName>
+    <shortTitle>XV</shortTitle>
+    <narrationName>经验值</narrationName>
+  </statistic>
+  <statistic Name="Level">
+    <displayName>等级</displayName>
+    <displayNameSingular>等级</displayNameSingular>
+    <displayTitle>等级</displayTitle>
+    <displayTitleSingular>等级</displayTitleSingular>
+    <shortName>LV</shortName>
+    <shortTitle>Lv</shortTitle>
+    <narrationName>等级</narrationName>
+  </statistic>
+  <statistic Name="Energy">
+    <displayName>能量</displayName>
+    <displayNameSingular>能量</displayNameSingular>
+    <displayTitle>能量</displayTitle>
+    <displayTitleSingular>能量</displayTitleSingular>
+    <shortName>EN</shortName>
+    <shortTitle>EN</shortTitle>
+    <narrationName>能量</narrationName>
+  </statistic>
+</statistics>

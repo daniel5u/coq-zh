@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<templates Lang="zh" Encoding="utf-8">
+  <template ID="Effect.AdrenalControl2Boosted.Details">
+        <p>迅捷+<stat Name="QuicknessBonus" /></p>
+        <p>物理变异+<stat Name="MutationBonus" Unit="等级" /></p>
+    </template>
+  <template ID="Effect.AnemoneEffect.Details">
+        <switch Name="DamageBonus">
+            <case Value="0" />
+            <default><p>每回合额外受到<stat Name="DamageBonus" />流血伤害。</p></default>
+        </switch>
+        <saveline Name="BleedingSave" HideValue="0" />
+    </template>
+  <template ID="Effect.AshPoison.Details">
+        <p>每回合<stat Name="Damage" />伤害。</p>
+    </template>
+  <template ID="Effect.Asleep.Details">
+        <switch Name="UsesSleepMode">
+            <case Value="true"><p>处于节能模式。</p></case>
+            <default><p>失去意识。</p></default>
+        </switch>
+        <p>闪避值-12。</p>
+        <p>攻击者的穿透判定+4。</p>
+        <switch Name="UsesSleepMode">
+            <case Value="true"><p>若受到伤害，将在眩晕中恢复正常运作。</p></case>
+            <default><p>若受到伤害，将在眩晕中醒来。</p></default>
+        </switch>
+    </template>
+  <template ID="Effect.AxonsDeflated.Details">
+        <p>迅捷<stat Name="QuicknessPenalty" Filters="signed" /></p>
+    </template>
+  <template ID="Effect.AxonsInflated.Details">
+        <p>迅捷<stat Name="QuicknessBonus" Filters="signed" /></p>
+        <p>不久将变得迟钝。</p>
+    </template>
+  <template ID="Effect.BasiliskPoison.Details">
+        <p>在14-18回合内，每回合移动速度-1d6。</p>
+        <p>[合计：移动速度<stat Name="MovementDebuff" Filters="signed" />]</p>
+    </template>
+  <template ID="Effect.Beguiled.Details">
+        <p>被另一生物魅惑，追随其左右。</p>
+        <switch Name="HitpointBonus">
+            <case Value="0" />
+            <default><p>生命值<stat Name="HitpointBonus" Filters="signed" />。</p></default>
+        </switch>
+    </template>
+  <template ID="Effect.Berserk.Details">
+        <p>以斧攻击有100%几率肢解。</p>
+    </template>
+  <template ID="Effect.Blaze_Tonic.Details">
+        <p>热抗+100</p>
+        <p>无法被冻结。</p>
+        <p>造成的热伤害+25%。</p>
+        <p>寒冷抗性-50</p>
+        <switch Name="IsTrueKin">
+            <case Value="true"><p>迅捷+20</p></case>
+            <default><p>迅捷+10</p></default>
+        </switch>
+        <p>体温不会因外部热源而升高。</p>
+        <p>必须不断移动，以免起火自燃、失去此药剂的效果。</p>
+    </template>
+  <template ID="Effect.Blind.Details">
+        <p>目不能视。</p>
+    </template>
+  <template ID="Effect.BlinkingTicSickness.Details">
+        <p>你处于战斗中时，每回合都有小几率被随机传送至附近某处。</p>
+    </template>
+  <template ID="Effect.BoostStatistic.Details">
+        <p><gametext>=stat.title=</gametext><stat Name="Bonus" Filters="signed" /></p>
+    </template>
+  <template ID="Effect.BoostedImmunity.Details">
+        <saveline Name="DiseaseOnsetSave" Type="Disease Onset" />
+    </template>
+  <template ID="Effect.Broken.Details">
+        <p>无法装备或使用。</p>
+    </template>
+  <template ID="Effect.Budding.Details">
+        <p>不久将生出一个分身。</p>
+    </template>
+  <template ID="Effect.Burning.Details">
+        <p>每回合<stat Name="BurningDamage" />伤害。</p>
+    </template>
+  <template ID="Effect.Burrowed.Details">
+        <p>正在地下潜行。</p>
+    </template>
+  <template ID="Effect.CoatedInPlasma.Details">
+        <p>热抗-100</p>
+        <p>寒冷抗性-100</p>
+        <p>电抗-100</p>
+        <p>体温不会自然回归环境温度</p>
+        <p>拍打或翻滚灭火的效果仅为25%</p>
+        <p>清除液体涂层</p>
+    </template>
+  <template ID="Effect.Confused.Details">
+        <p>行动近乎随机。</p>
+        <p>闪避值<stat Name="DVChange" Filters="signed" /></p>
+        <p>心智护甲<stat Name="MAChange" Filters="signed" /></p>
+        <switch Name="MentalChange">
+            <case Value="0" />
+            <default>
+                <p>所有精神属性<stat Name="MentalChange" Filters="signed" /></p>
+            </default>
+        </switch>
+    </template>
+  <template ID="Effect.ContainedAcidEating.Details">
+        <switch Name="HasValidVolume">
+            <case Value="true">
+                <p>正被酸液溶蚀。</p>
+                <p>每回合受到<stat Name="MinDamage" />-<stat Name="MaxDamage" />点伤害。</p>
+            </case>
+            <default><p>无伤害。</p></default>
+        </switch>
+    </template>
+  <template ID="Effect.CorpseTethered.Details">
+        <p>当前所处的格子，不会被安息之钟鸣响时的传送波及。</p>
+    </template>
+  <template ID="Effect.Crackling.Details">
+        <p>电磁失稳。</p>
+    </template>
+  <template ID="Effect.Dashing.Details">
+        <p>向某方向移动时，会冲向最近的障碍物。</p>
+    </template>
+  <template ID="Effect.Dazed.Details">
+        <p>敏捷-4</p>
+        <p>智力-4</p>
+        <p>移动速度-10</p>
+    </template>
+  <template ID="Effect.Disguised.Details">
+        <switch Name="Appearance">
+            <case Value=""><p>外貌化作另一生物。</p></case>
+            <default><p>外貌化作<stat Name="Appearance" />。</p></default>
+        </switch>
+    </template>
+  <template ID="Effect.Disoriented.Details">
+        <p>闪避值<stat Name="DVChange" Filters="signed" /></p>
+        <p>心智护甲<stat Name="MAChange" Filters="signed" /></p>
+    </template>
+  <template ID="Effect.Distracted.Details">
+        <p>以一件诱饵物品作为<gametext>=subject.its=</gametext>目标。</p>
+    </template>
+  <template ID="Effect.Dominated.Details">
+        <p>受他人操控。</p>
+    </template>
+  <template ID="Effect.Dominating.Details">
+        <p>此生物毫无反应。</p>
+        <p>闪避值设为0。</p>
+    </template>
+  <template ID="Effect.Ecstatic.Details">
+        <p>迅捷+10</p>
+    </template>
+  <template ID="Effect.ElectromagneticPulsed.Details">
+        <p>已停机（若为机器人）。</p>
+        <p>无法启动（若为古器）。</p>
+    </template>
+  <template ID="Effect.Emboldened.Details">
+        <p><gametext>=stat.title=</gametext><stat Name="Bonus" Filters="signed" /></p>
+    </template>
+  <template ID="Effect.EmptyTheClips.Details">
+        <p>开手枪的速度加倍。</p>
+    </template>
+  <template ID="Effect.Exhausted.Details">
+        <p>无法采取行动。</p>
+    </template>
+  <template ID="Effect.Famished.Details">
+        <switch Name="IsWilted">
+            <case Value="true">
+                <p>迅捷-5</p>
+                <p>自然愈合速率-10%</p>
+            </case>
+            <default><p>迅捷-10</p></default>
+        </switch>
+    </template>
+  <template ID="Effect.Flagging.Details">
+        <p>不久将沉沉睡去。</p>
+    </template>
+  <template ID="Effect.Flying.Details">
+        <p>非飞行生物无法对其发动近战攻击。</p>
+        <p>不受地形影响。</p>
+    </template>
+  <template ID="Effect.Frenzied.Details">
+        <switch Name="QuicknessBonus">
+            <case Value="0" />
+            <default><p>迅捷<stat Name="QuicknessBonus" Filters="signed" /></p></default>
+        </switch>
+        <p>更倾向于攻击他者。</p>
+        <switch Name="PreferBleedingTarget">
+            <case Value="true"><p>更倾向于攻击正在流血的生物。</p></case>
+            <default />
+        </switch>
+        <switch Name="BerserkOnDealDamage">
+            <case Value="true"><p>下一次在战斗中<gametext>=subject.they= =subject.verb:造成=</gametext>伤害时，将陷入狂暴。</p></case>
+            <default />
+        </switch>
+    </template>
+  <template ID="Effect.Frozen.Details">
+        <p>无法采取物理行动。</p>
+    </template>
+  <template ID="Effect.FungalSporeInfection.Details">
+        <p>皮肤剥落发痒。那里是不是在生长什么东西？</p>
+    </template>
+  <template ID="Effect.FungalVisionary.Details">
+        <p>迅捷-60</p>
+        <p>可窥见半步之隔的诸维度。</p>
+    </template>
+  <template ID="Effect.GeometricHeal.Details">
+        <p>在<stat Name="Duration" Unit="回合" />内恢复<stat Name="TotalHeal" />点生命值。</p>
+    </template>
+  <template ID="Effect.Glotrot.Details">
+        <switch Name="TongueRotting">
+            <case Value="true">
+                <p>舌头正在腐烂脱落。</p>
+                <p>进食或饮水时会流血。</p>
+            </case>
+            <default>
+                <p>舌头已然烂尽。</p>
+                <p>无法说话。</p>
+            </default>
+        </switch>
+    </template>
+  <template ID="Effect.GlotrotOnset.Details">
+        <p>喉咙肿痛，舌头肿胀。</p>
+    </template>
+  <template ID="Effect.Greased.Details">
+        <p>可在蛛网上行走而不被黏住。</p>
+    </template>
+  <template ID="Effect.Hampered.Details">
+        <p>因持握重武器，移动速度<stat Name="MoveSpeedChange" Filters="signed" />。</p>
+    </template>
+  <template ID="Effect.Healing.Details">
+        <p>每回合恢复5%生命值。</p>
+        <p>若采取其他行动或受到伤害，则停止恢复。</p>
+    </template>
+  <template ID="Effect.Hobbled.Details">
+        <p>移动速度-50%</p>
+    </template>
+  <template ID="Effect.Hooked.Details">
+        <p>正被拖行。</p>
+        <p>须先挣脱方可移动。</p>
+    </template>
+  <template ID="Effect.Ill.Details">
+        <p>不会自然恢复生命值。</p>
+        <p>外来治疗的效果仅有一半。</p>
+    </template>
+  <template ID="Effect.Immobilized.Details">
+        <p>无法移动或起身。</p>
+    </template>
+  <template ID="Effect.Incommunicado.Details">
+        <p>不知如何重归首领麾下。</p>
+    </template>
+  <template ID="Effect.Inspired.Details">
+        <p>下次你通过选择食材烹饪膳食时，可从三种动态生成的效果中择一施加。你将为所选效果创制一份食谱。</p>
+    </template>
+  <template ID="Effect.Interdicted.Details">
+        <p>移动速度-10</p>
+    </template>
+  <template ID="Effect.IrisdualCallow.Details">
+        <switch Name="AVShift">
+            <case Value="0" />
+            <default><p><gametext>=statistics[AV].title=</gametext><stat Name="AVShift" Filters="signed" /></p></default>
+        </switch>
+        <switch Name="DVShift">
+            <case Value="0" />
+            <default><p><gametext>=statistics[DV].title=</gametext><stat Name="DVShift" Filters="signed" /></p></default>
+        </switch>
+        <switch Name="MAShift">
+            <case Value="0" />
+            <default><p><gametext>=statistics[MA].title=</gametext><stat Name="MAShift" Filters="signed" /></p></default>
+        </switch>
+        <switch Name="SpeedShift">
+            <case Value="0" />
+            <default><p><stat Name="SpeedShift" Filters="signed" /> <gametext>=statistics[Speed].title=</gametext></p></default>
+        </switch>
+        <switch Name="HeatResistanceShift">
+            <case Value="0" />
+            <default><p><stat Name="HeatResistanceShift" Filters="signed" /> <gametext>=statistics[HeatResistance].title=</gametext></p></default>
+        </switch>
+        <switch Name="ColdResistanceShift">
+            <case Value="0" />
+            <default><p><stat Name="ColdResistanceShift" Filters="signed" /> <gametext>=statistics[ColdResistance].title=</gametext></p></default>
+        </switch>
+        <switch Name="ElectricResistanceShift">
+            <case Value="0" />
+            <default><p><stat Name="ElectricResistanceShift" Filters="signed" /> <gametext>=statistics[ElectricResistance].title=</gametext></p></default>
+        </switch>
+        <switch Name="AcidResistanceShift">
+            <case Value="0" />
+            <default><p><stat Name="AcidResistanceShift" Filters="signed" /> <gametext>=statistics[AcidResistance].title=</gametext></p></default>
+        </switch>
+    </template>
+  <template ID="Effect.Ironshank.Details">
+        <p>腿骨正在关节处融合。</p>
+        <p><stat Name="MoveSpeedChange" Filters="signed" /> 移动速度</p>
+        <p><stat Name="AVChange" Filters="signed" /> 护甲值</p>
+        <p>移动速度将持续下降、护甲值将持续上升，直至移动速度减益达到-80。</p>
+    </template>
+  <template ID="Effect.IronshankOnset.Details">
+        <p>双腿关节隐隐作痛。</p>
+    </template>
+  <template ID="Effect.Lovesick.Details">
+        <p>-6 智力</p>
+        <p>-6 意志</p>
+        <p>-5 移动速度</p>
+    </template>
+  <template ID="Effect.MemberOfPsychicBattle.Details">
+        <p>正与一名敌手陷入心灵对决。（剩余<stat Name="Turns" Unit="回合" />）</p>
+        <switch Name="BloodyNose"><case Value="true"><p>鼻中流血。</p></case></switch>
+    </template>
+  <template ID="Effect.Metamorphed.Details">
+        <p>正在化为另一生物的形貌。</p>
+    </template>
+  <template ID="Effect.Monochrome.Details">
+        <p>眼中只见单一颜色的深浅明暗。</p>
+    </template>
+  <template ID="Effect.MonochromeOnset.Details">
+        <p>视线模糊。</p>
+    </template>
+  <template ID="Effect.Phased.Details">
+        <p>除非对方同样处于相位偏移状态，否则无法与其他生物和物体发生实体接触。</p>
+        <p>可穿过固体。</p>
+    </template>
+  <template ID="Effect.Rebuked.Details">
+        <p>被另一生物斥责，被迫服从。</p>
+    </template>
+  <template ID="Effect.WakingDream.Details">
+        <p>以此生物之身升一级，即可安然醒来。</p>
+        <p>死亡或弃用角色，则惊惧而醒。</p>
+    </template>
+</templates>

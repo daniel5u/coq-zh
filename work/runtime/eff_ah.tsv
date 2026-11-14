@@ -1,0 +1,26 @@
+In the process of mutating.	正在发生变异。
+# Agility	#敏捷
+# Move Speed	#移动速度
+Can't physically interact with creatures and objects.	无法与生物和物件发生物理交互。
+Physically interactive with both in-phase and out-of-phase creatures and objects.	可与同相位及异相位的生物和物件发生物理交互。
+Unable to move.	无法移动。
+Can't move or attack.	无法移动或攻击。
+# DV	#闪避值
+DV set to #.	闪避值设为#。
+{{g|phase spider venom}}	{{g|相位蛛毒液}}
+{{g|poisoned with phase spider venom}}	{{g|中相位蛛毒}}
+Phased.	处于相位状态。
+(#)/# damage per turn.	每回合受到(#)/#点伤害。
+Doesn't regenerate hit points.	不会再生生命值。
+Healing effects are only half as effective.	治疗效果仅有一半效力。
+Will become ill once the poison runs its course.	毒素发挥完作用后将会患病。
+Can't physically interact with creatures and objects unless they're also phased.	无法与生物和物件发生物理交互，除非它们也处于相位状态。
+Can pass through solids.	可穿过固体。
+Can't take actions.	无法采取行动。
+# damage per turn.	每回合受到#点伤害。
+[effect]	[效果]
+[when something happens]	[某事发生时]
+[action takes place]	[执行动作]
+#% to natural healing rate	#%自然愈合速度
+# STR	#力量
++XP	+经验

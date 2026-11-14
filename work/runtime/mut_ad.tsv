@@ -1,0 +1,68 @@
+You spit a puddle of {0}.	你吐出一汪{0}。
+Range: #	射程：#
+Area: #x#	范围：#x#
+Cooldown: # rounds	冷却：#回合
+Cooldown: # round	冷却：#回合
+You emit powerful magnetic pulses.	你能释放强力的磁脉冲。
+After a one-round warmup, you emit a pulse with radius # that attempts to pull metal objects toward you, including metal gear equipped on creatures.	经一回合蓄力后，你释放一道半径为#的脉冲，尝试将金属物体吸向自己，包括生物身上装备的金属器具。
+You tap into the aggregate mind and steal power from other espers.	你接入集合心智，向其他灵能者夺取力量。
+Refreshes all mental mutations	刷新所有精神变异
+Cooldown: {{rules|#}} rounds	冷却：{{rules|#}}回合
+Cooldown is not affected by Willpower.	冷却不受意志影响。
+Each use attracts slightly more attention from psychic interlopers.	每次使用都会略微引来更多灵能闯入者的注意。
+{{rules|Decreased chance for another esper to steal your powers}}	{{rules|其他灵能者夺取你力量的几率降低}}
+Small chance each round for another esper to steal your powers	每回合有小概率被其他灵能者夺取力量
+# reputation with {{w|the Seekers of the Sightless Way}}	与{{w|盲途寻道者}}的声望#
+You reflect mental attacks back at your attackers.	你能将精神攻击反射回攻击者。
+When you suffer a mental attack while Mental Mirror is off cooldown, you gain +{{rules|#}} mental armor (MA).	当你在心灵镜像未处于冷却时遭受精神攻击，获得+{{rules|#}}精神护甲（MA）。
+If the attack then fails to penetrate your MA, it's reflected back at your attacker.	若该攻击未能穿透你的精神护甲，便会被反射回攻击者身上。
+Cooldown: # rounds	冷却：#回合
+You assume the form of any creature you touch.	你能化为任何你所触碰生物的形貌。
+May only assume the form of creatures level {{rules|#}} or lower.	只能化为等级不高于{{rules|#}}的生物形貌。
+Several horns jut out of your head.	数只尖角自你头颅探出。
+20% chance on melee attack to gore your opponent	近战攻击时有20%几率顶刺对手
+Damage increment: #	伤害增量：#
+{{rules|Increased bleeding save difficulty and intensity}}	{{rules|流血豁免难度与强度提高}}
+Goring attacks may cause bleeding	顶刺攻击可能造成流血
+# AV	#护甲值
+Cannot wear helmets	无法佩戴头盔
+Can launch into a destructive charge after a one round warm-up.	经一回合蓄力后，可发起破坏性的冲锋。
+Charge distance: #	冲锋距离：#
+You have an extra set of arms.	你多生了一对手臂。
+{{rules|#}}% chance for each extra arm to deliver an additional melee attack whenever you make a melee attack	每当你发动近战攻击，每条额外手臂有{{rules|#}}%几率追加一次近战攻击
+You have an extra set of legs.	你多生了一对腿。
++{{rules|#}} move speed	移动速度+{{rules|#}}
++{{rules|#}}% carry capacity	负重上限+{{rules|#}}%
+You see in the dark.	你能在黑暗中视物。
+You breathe normality gas.	你能喷吐常态气体。
+Breathes normality gas in a cone.	向锥形区域喷吐常态气体。
+Cone length: # tiles	锥形长度：#格
+Cone angle: # degrees	锥形角度：#度
+You breathe poison gas.	你能喷吐毒气。
+Breathes poison gas in a cone.	向锥形区域喷吐毒气。
+You compulsively lug around everything you can.	你有强迫症般的癖好，能拿的一概扛在身上。
+You must maintain at least 90% of your carry capacity.	你必须保持至少90%的负重上限。
+You cannot drop items if dropping them would reduce your weight beneath this requirement.	若丢弃物品会使你的负重低于此要求，则无法丢弃。
+You suffer one point of damage each round you do not maintain this requirement.	每回合未满足此要求，你便受到一点伤害。
+You can only drop one set of items every 10 rounds.	每10回合只能丢弃一批物品。
+You may phase through solid objects for brief periods of time.	你可在短暂时间内穿行于实体物体之间。
+Duration: {{rules|#}} rounds	持续时间：{{rules|#}}回合
+You peer into your near future.	你得以窥见自己不远的未来。
+You may activate this power and then later revert to the point in time when you activated it.	你可启动此能力，并在稍后回溯至启动时的时间点。
+Duration between use and reversion: {{rules|#}} rounds	从使用到回溯的间隔：{{rules|#}}回合
+Unerringly identify artifacts up to complexity tier {{rules|#}}.	无误鉴别复杂度不超过{{rules|#}}阶的人工造物。
+Learn how to construct identified artifacts up to complexity tier {{rules|#}} (must have the appropriate Tinker skill).	习得所鉴别的复杂度不超过{{rules|#}}阶的人工造物之制造方法（须具备相应的修补术技能）。
+You may open security doors and use some secure devices by touching them.	你可通过触碰开启安保门，并使用部分受保护的装置。
+Toasts affected area over # rounds	在#回合内灼烧受影响区域
+Toasts affected area over # round	在#回合内灼烧受影响区域
+Toasts affected area over 3 rounds, dealing damage and setting things on fire	在3回合内灼烧受影响区域，造成伤害并使物体着火
+{{rules|Increased toast temperature intensity}}	{{rules|灼烧温度强度提高}}
+{{rules|Decreased toast temperature intensity}}	{{rules|灼烧温度强度降低}}
+Round # damage: {{rules|# / 2}}	第#回合伤害：{{rules|# / 2}}
+Your wounds heal very quickly.	你的伤口愈合极快。
+Your full natural healing rate applies in combat.	战斗中仍享有完整的自然愈合速度。
++{{rules|#}}% faster natural healing rate	自然愈合速度加快+{{rules|#}}%
+{{rules|#}}% chance to regrow a missing limb each round	每回合有{{rules|#}}%几率重生缺失的肢体
+{{rules|You cannot be decapitated.}}	{{rules|你无法被斩首。}}
+{{rules|#}}% chance to remove a {{rules|physical debuff}} at random each round	每回合有{{rules|#}}%几率随机移除一个{{rules|身体减益}}
+{{rules|#}}% chance to remove a {{rules|minor physical debuff}} at random each round	每回合有{{rules|#}}%几率随机移除一个{{rules|轻微身体减益}}

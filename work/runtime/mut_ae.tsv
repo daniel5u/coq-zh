@@ -1,0 +1,79 @@
+Area: #x#	范围：#x#
+Creatures are pushed away from center of blast.	生物被从爆心推开。
+{{rules|Increased push force}}	{{rules|推力增强}}
+Cooldown: # rounds	冷却时间：#回合
+You can sense other mental mutants through the psychic aether.	你能透过灵能以太感知其他精神变异者。
+You detect the presence of psychic enemies within a radius of #.	你能察觉半径#格内的灵能敌人。
+There's a chance you identify detected enemies.	你有一定几率辨明所察觉的敌人。
+You breathe shame gas.	你吐出羞耻毒气。
+Breathes shame gas in a cone.	向前方锥形区域喷吐羞耻毒气。
+Cone length: # tiles	锥形长度：#格
+Cone angle: # degrees	锥形角度：#度
+Cooldown: 15 rounds	冷却时间：15回合
+You startle easily and engage your defense mechanisms.	你易受惊吓，一惊便会触发自身的防御机制。
+You breathe sleep gas.	你吐出催眠毒气。
+Breathes sleep gas in a cone.	向前方锥形区域喷吐催眠毒气。
+You breathe stun gas.	你吐出眩晕毒气。
+Breathes stun gas in a cone.	向前方锥形区域喷吐眩晕毒气。
+You produce a viscous slime that you can spit at things.	你能分泌黏稠的黏液，并向目标啐去。
+Covers an area with slime	以黏液覆盖一片区域
+Range: #	射程：#
+Cooldown: 40 rounds	冷却时间：40回合
+You can walk over slime without slipping.	你踏过黏液而不会滑倒。
+You bear a sphincter-choked bilge hose that you use to slurp up nearby liquids and spew them at enemies, occasionally knocking them down.	你生有一根括约肌紧箍的舱底软管，可吸吮近旁的液体，再向敌人喷出，偶尔还能将其撞翻在地。
++# Strength	力量+#
++# AV	护甲值+#
++# Acid Resistance	抗酸性+#
++# reputation with mollusks	与软体动物的声望+#
+Bilge sphincter acts as a melee weapon.	舱底括约肌可作近战武器。
++# move speed when moving through tiles with #+ drams of liquid	穿行于含#+打兰液体的格子时，移动速度+#
+You can spew liquid from your tile into a nearby area.	你能将所在格的液体喷向近旁区域。
+Spew range: #	喷射射程：#
+Spew area: #x#	喷射范围：#x#
+Spew chance to knock the targets down: Strength/Agility save vs. character level	喷射撞倒目标的几率：力量/敏捷豁免对抗角色等级
+Spew cooldown: # rounds	喷射冷却时间：#回合
+Others find it difficult to tolerate you in social settings.	旁人在社交场合难以容忍你。
+-# reputation with every faction	与所有派系的声望-#
+You sunder spacetime, sending things nearby careening through a tear in the cosmic fabric.	你撕裂时空，将近旁之物抛入宇宙织锦的裂隙，天旋地转。
+Summons a vortex that swallows everything in its path.	召唤一道吞噬沿途万物的漩涡。
+Bonus duration: {{rules|#}} rounds	额外持续时间：{{rules|#}}回合
+Cooldown: {{rules|#}} rounds	冷却时间：{{rules|#}}回合
+You may enter the vortex to teleport to a random location in Qud.	你可踏入漩涡，传送至库德的随机地点。
++# reputation with {{w|highly entropic beings}}	与{{w|高熵生物}}的声望+#
+You bear two spinnerets with which you spin a sticky silk.	你生有两个纺器，可纺出黏性蛛丝。
+You can spin sticky silk webs.	你能纺出黏性的蛛丝网。
+While spinning, you leave webs in your wake as you move.	纺丝期间，你移动时会在身后留下蛛网。
+{{rules|Increased web strength}}	{{rules|蛛网强度增强}}
+Duration: {{rules|#}} move actions	持续时间：{{rules|#}}次移动行动
+Cooldown: # rounds	冷却时间：#回合
+You are immune to getting stuck.	你不会被黏住。
++# reputation with {{w|arachnids}}	与{{w|蛛形纲生物}}的声望+#
+You puff with the best of them.	论喷吐孢子，你不输任何同类。
+You capture prey with your sticky tongue.	你以黏舌捕获猎物。
+You pull the nearest creature toward you.	你将最近的生物拉向自己。
+Range: #	射程：#
+You bear a tail with a stinger that delivers {0} venom to your enemies.	你生有一条带毒刺的尾巴，能向敌人注入{0}毒液。
+#% chance on melee attack to sting your opponent ({{c|→}}{{rules|#}} {{r|♥}}{{rules|#}})	近战攻击时有#%几率蛰刺对手（{{c|→}}{{rules|#}} {{r|♥}}{{rules|#}}）
+Stinger is a long blade and can only penetrate once.	毒刺视为长刃，且只能穿透一次。
+Always sting on charge or lunge.	冲锋或扑击时必定蛰刺。
+Stinger applies venom on damage (only #% chance if Stinger is your primary weapon).	毒刺造成伤害时注入毒液（若毒刺为主武器，则仅有#%几率）。
+May use Sting activated ability to strike with your stinger and automatically hit and penetrate.	可使用“蛰刺”主动技能，以毒刺发动必中且必穿透的一击。
+Sting cooldown: # rounds	蛰刺冷却时间：#回合
+You turn things to stone with your gaze.	你的凝视能将万物化为石头。
+You can gaze {{rules|#}} squares after a {0}-turn warmup and turn targets to stone.	经{0}回合蓄力后，你可凝视{{rules|#}}格之外，将目标化为石头。
+You invoke a concussive force in a nearby area, throwing enemies back and stunning them.	你在近旁区域激起震荡之力，将敌人掀飞并使其晕眩。
+Creatures are pushed away from center of blast, stunned, and dealt crushing damage in up to 3 increments.	生物被从爆心推开、晕眩，并受到至多3段碾压伤害。
+{{rules|Increased stun save difficulty}}	{{rules|晕眩豁免难度提高}}
+Damage increment: {{rules|#}}	伤害增量：{{rules|#}}
+Cooldown: 50 rounds	冷却时间：50回合
+You sunder the mind of an enemy, leaving them reeling in pain.	你撕裂敌人的心智，使其痛苦踉跄。
+For up to 10 rounds, you engage in psychic combat with an opponent, dealing damage each round.	最多10回合内，你与一名对手展开灵能战斗，每回合造成伤害。
+Taking any action other than passing the turn will break the connection.	除跳过回合外，执行任何行动都会中断连接。
+Each round you make a mental attack vs. mental armor (MA).	每回合你发动一次精神攻击，对抗精神护甲（MA）。
+After the tenth round, you deal bonus damage equal to the total amount of damage you've done so far.	第十回合后，你额外造成等同于此前累计伤害总量的伤害。
+Range: sight	射程：视线所及
+You can move things with your mind.	你能以意念移物。
+You can manipulate objects at a distance and perform some physical tasks with your mind while immobilized.	你能隔空操纵物体，并在无法行动时以意念完成某些体力活。
+Range: # square	射程：#格
+Range: # squares	射程：#格
+Telekinetic Strength: #	念动力量：#

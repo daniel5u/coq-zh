@@ -1,0 +1,192 @@
+{"id": "Data#00001", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=BaseUnknown][part,Name=Render]", "src": "weird artifact"}
+{"id": "Data#00002", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=BaseUnknown][part,Name=Description]", "src": "Dust powders the puzzling device."}
+{"id": "Data#00003", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownGigantic][part,Name=Description]", "src": "Dust powders the gigantic device."}
+{"id": "Data#00004", "file": "Data", "tag": "part", "attr": "Adjective", "path": "[objects][object,Name=UnknownGigantic][part,Name=SizeAdjective]", "src": "gigantic"}
+{"id": "Data#00005", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownOddTrinket][part,Name=Render]", "src": "odd trinket"}
+{"id": "Data#00006", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownOddTrinket][part,Name=Description]", "src": "Light gleams off the edging of a small curio."}
+{"id": "Data#00007", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownStrangeTubes][part,Name=Render]", "src": "strange tubes"}
+{"id": "Data#00008", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownStrangeTubes][part,Name=Description]", "src": "Tubes of unknown purpose splay at welded joints."}
+{"id": "Data#00009", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownStrangeFurniture][part,Name=Render]", "src": "strange furniture"}
+{"id": "Data#00010", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownStrangeFurniture][part,Name=Description]", "src": "A sitting object of vacant intent catches dust and offlight."}
+{"id": "Data#00011", "file": "Data", "tag": "xtagGrammar", "attr": "adjunctNoun", "path": "[objects][object,Name=UnknownStrangeFurniture][xtagGrammar]", "src": "example"}
+{"id": "Data#00012", "file": "Data", "tag": "xtagGrammar", "attr": "massNoun", "path": "[objects][object,Name=UnknownStrangeFurniture][xtagGrammar]", "src": "true", "copy": true}
+{"id": "Data#00013", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownBizarreContraption][part,Name=Render]", "src": "bizarre contraption"}
+{"id": "Data#00014", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownBizarreContraption][part,Name=Description]", "src": "Knobs and rivets crisscross the inscrutable machine."}
+{"id": "Data#00015", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownMed][part,Name=Render]", "src": "tube"}
+{"id": "Data#00016", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownMed][part,Name=Description]", "src": "A strange substance fills a channel of glass."}
+{"id": "Data#00017", "file": "Data", "tag": "part", "attr": "Adjective", "path": "[objects][object,Name=UnknownMed][part,Name=SizeAdjective]", "src": "small"}
+{"id": "Data#00018", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownStrangeMeat][part,Name=Render]", "src": "strange piece of meat"}
+{"id": "Data#00019", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownStrangeMeat][part,Name=Description]", "src": "An unknown organ bleats with the desperation of life."}
+{"id": "Data#00020", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownStrangePlant][part,Name=Render]", "src": "strange plant"}
+{"id": "Data#00021", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownStrangePlant][part,Name=Description]", "src": "An unfamiliar tendril of green in leaf-sheath circles itself."}
+{"id": "Data#00022", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownPistol][part,Name=Render]", "src": "pistol"}
+{"id": "Data#00023", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownPistol][part,Name=Description]", "src": "Blemishes cross the short barrel of an unidentified gun."}
+{"id": "Data#00024", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownRifle][part,Name=Render]", "src": "rifle"}
+{"id": "Data#00025", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownRifle][part,Name=Description]", "src": "Blemishes cross the long barrel of an unidentified gun."}
+{"id": "Data#00026", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownCannon][part,Name=Render]", "src": "cannon"}
+{"id": "Data#00027", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownCannon][part,Name=Description]", "src": "Smokescar blackens the iron sight and stretches down the big gun's main channel."}
+{"id": "Data#00028", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownBow][part,Name=Render]", "src": "bow"}
+{"id": "Data#00029", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownBow][part,Name=Description]", "src": "Stretch wire connects the nocks of an unidentified bow."}
+{"id": "Data#00030", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownGrenade][part,Name=Render]", "src": "grenade"}
+{"id": "Data#00031", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownGrenade][part,Name=Description]", "src": "A cannister of blast is sheathed in undeciphered metal."}
+{"id": "Data#00032", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownClub][part,Name=Render]", "src": "club"}
+{"id": "Data#00033", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownClub][part,Name=Description]", "src": "A hunk of fused material makes a beating stick."}
+{"id": "Data#00034", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownKnife][part,Name=Render]", "src": "knife"}
+{"id": "Data#00035", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownKnife][part,Name=Description]", "src": "A sharp edge tops a strange hilt."}
+{"id": "Data#00036", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSword][part,Name=Render]", "src": "sword"}
+{"id": "Data#00037", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownSword][part,Name=Description]", "src": "A blade of considerable length runs through a strange hilt."}
+{"id": "Data#00038", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownAxe][part,Name=Render]", "src": "axe"}
+{"id": "Data#00039", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownAxe][part,Name=Description]", "src": "A bladed edge hangs over a finger-smudged haft."}
+{"id": "Data#00040", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownShield][part,Name=Render]", "src": "shield"}
+{"id": "Data#00041", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownShield][part,Name=Description]", "src": "A curved screen of bang-hard surface material is wielded by a welded grip."}
+{"id": "Data#00042", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownArmor][part,Name=Render]", "src": "armor"}
+{"id": "Data#00043", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownArmor][part,Name=Description]", "src": "A shaped cuirass of unknown origin protects the good portion of a body."}
+{"id": "Data#00044", "file": "Data", "tag": "xtagGrammar", "attr": "massNoun", "path": "[objects][object,Name=UnknownArmor][xtagGrammar]", "src": "true", "copy": true}
+{"id": "Data#00045", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownHelmet][part,Name=Render]", "src": "helmet"}
+{"id": "Data#00046", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownHelmet][part,Name=Description]", "src": "A head topper was fashioned for unknown purpose."}
+{"id": "Data#00047", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownMask][part,Name=Render]", "src": "mask"}
+{"id": "Data#00048", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownMask][part,Name=Description]", "src": "A false face was shaped to fashion and stitched with unknown intent."}
+{"id": "Data#00049", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownGoggles][part,Name=Render]", "src": "goggles"}
+{"id": "Data#00050", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownGoggles][part,Name=Description]", "src": "Rounded seers are held by a strap."}
+{"id": "Data#00051", "file": "Data", "tag": "xtagGrammar", "attr": "adjunctNoun", "path": "[objects][object,Name=UnknownGoggles][xtagGrammar]", "src": "pair"}
+{"id": "Data#00052", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownGloves][part,Name=Render]", "src": "gloves"}
+{"id": "Data#00053", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownGloves][part,Name=Description]", "src": "Strange mitts will fit most wrists and fingers."}
+{"id": "Data#00054", "file": "Data", "tag": "xtagGrammar", "attr": "adjunctNoun", "path": "[objects][object,Name=UnknownGloves][xtagGrammar]", "src": "pair"}
+{"id": "Data#00055", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownJewelry][part,Name=Render]", "src": "jewelry"}
+{"id": "Data#00056", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownJewelry][part,Name=Description]", "src": "A rounded torc gleams for unintended eyes."}
+{"id": "Data#00057", "file": "Data", "tag": "xtagGrammar", "attr": "adjunctNoun", "path": "[objects][object,Name=UnknownJewelry][xtagGrammar]", "src": "piece"}
+{"id": "Data#00058", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownCloak][part,Name=Render]", "src": "cloak"}
+{"id": "Data#00059", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownCloak][part,Name=Description]", "src": "Fabric of some type was sutured to an unknown end."}
+{"id": "Data#00060", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownBackpack][part,Name=Render]", "src": "backpack"}
+{"id": "Data#00061", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownBackpack][part,Name=Description]", "src": "A strapped sack was sewn for carrying something."}
+{"id": "Data#00062", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownBoots][part,Name=Render]", "src": "boots"}
+{"id": "Data#00063", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownBoots][part,Name=Description]", "src": "Blemishes of long use cross the surface of the footwear."}
+{"id": "Data#00064", "file": "Data", "tag": "xtagGrammar", "attr": "adjunctNoun", "path": "[objects][object,Name=UnknownBoots][xtagGrammar]", "src": "pair"}
+{"id": "Data#00065", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownBottle][part,Name=Render]", "src": "bottle"}
+{"id": "Data#00066", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownBottle][part,Name=Description]", "src": "It's a vessel of well and unusual make."}
+{"id": "Data#00067", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownDataDisk][part,Name=Render]", "src": "data disk"}
+{"id": "Data#00068", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownDataDisk][part,Name=Description]", "src": "Bits sleep until animated inside their rectangle coffin."}
+{"id": "Data#00069", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownTool][part,Name=Render]", "src": "tool"}
+{"id": "Data#00070", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownTool][part,Name=Description]", "src": "The array of strange parts are summed together as a kind of tool."}
+{"id": "Data#00071", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownEmptyMed][part,Name=Render]", "src": "tube"}
+{"id": "Data#00072", "file": "Data", "tag": "part", "attr": "Short", "path": "[objects][object,Name=UnknownEmptyMed][part,Name=Description]", "src": "Empty air pressurizes a channel of glass."}
+{"id": "Data#00073", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallMilkyTube][part,Name=Render]", "src": "{{Y|milky}} tube"}
+{"id": "Data#00074", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallSmokeyTube][part,Name=Render]", "src": "{{K|smokey}} tube"}
+{"id": "Data#00075", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallRoseyTube][part,Name=Render]", "src": "{{R|rosey}} tube"}
+{"id": "Data#00076", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallTurquoiseTube][part,Name=Render]", "src": "{{C|turquoise}} tube"}
+{"id": "Data#00077", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallCobaltTube][part,Name=Render]", "src": "{{b|cobalt}} tube"}
+{"id": "Data#00078", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallMossyTube][part,Name=Render]", "src": "{{g|mossy}} tube"}
+{"id": "Data#00079", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallGoldFleckedTube][part,Name=Render]", "src": "{{W|gold-flecked}} tube"}
+{"id": "Data#00080", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallMuddyTube][part,Name=Render]", "src": "{{w|muddy}} tube"}
+{"id": "Data#00081", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallVioletTube][part,Name=Render]", "src": "{{m|violet}} tube"}
+{"id": "Data#00082", "file": "Data", "tag": "part", "attr": "DisplayName", "path": "[objects][object,Name=UnknownSmallPlatinumTube][part,Name=Render]", "src": "{{y|platinum}} tube"}
+{"id": "Data#00083", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_artifacts][tag,Name=Description]", "src": "artifact-based"}
+{"id": "Data#00084", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_thirst][tag,Name=Description]", "src": "water and thirst-based"}
+{"id": "Data#00085", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_secrets][tag,Name=Description]", "src": "secret-based"}
+{"id": "Data#00086", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_darkness][tag,Name=Description]", "src": "darkness-based"}
+{"id": "Data#00087", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_armor][tag,Name=Description]", "src": "armor-based"}
+{"id": "Data#00088", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_plantMinor][tag,Name=Description]", "src": "simple plant-based"}
+{"id": "Data#00089", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_plantHighTier][tag,Name=Description]", "src": "powerful plant-based"}
+{"id": "Data#00090", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_electric][tag,Name=Description]", "src": "electric-based"}
+{"id": "Data#00091", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_cold][tag,Name=Description]", "src": "cold-based"}
+{"id": "Data#00092", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_heat][tag,Name=Description]", "src": "heat and fire-based"}
+{"id": "Data#00093", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_love][tag,Name=Description]", "src": "love and loyalty-based"}
+{"id": "Data#00094", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_teleport][tag,Name=Description]", "src": "teleport-based"}
+{"id": "Data#00095", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_regenLowtier][tag,Name=Description]", "src": "regeneration and healing-based"}
+{"id": "Data#00096", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_regenHightier][tag,Name=Description]", "src": "powerful regeneration and healing-based"}
+{"id": "Data#00097", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_medicinal][tag,Name=Description]", "src": "disease prevention and curing-based"}
+{"id": "Data#00098", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_acid][tag,Name=Description]", "src": "acid-based"}
+{"id": "Data#00099", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_fungus][tag,Name=Description]", "src": "fungus-based"}
+{"id": "Data#00100", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_phase][tag,Name=Description]", "src": "phasing-based"}
+{"id": "Data#00101", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_HP][tag,Name=Description]", "src": "HP-based"}
+{"id": "Data#00102", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_reflectHighTier][tag,Name=Description]", "src": "powerful damage reflection-based"}
+{"id": "Data#00103", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_reflect][tag,Name=Description]", "src": "damage reflection-based"}
+{"id": "Data#00104", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_willpower][tag,Name=Description]", "src": "simple Willpower-based"}
+{"id": "Data#00105", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_strength][tag,Name=Description]", "src": "Strength-based"}
+{"id": "Data#00106", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_burrowing][tag,Name=Description]", "src": "burrowing-based"}
+{"id": "Data#00107", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_agility][tag,Name=Description]", "src": "Agility-based"}
+{"id": "Data#00108", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_fear][tag,Name=Description]", "src": "fear-based"}
+{"id": "Data#00109", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_fireBreath][tag,Name=Description]", "src": "fire-breathing"}
+{"id": "Data#00110", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderFireBreath][tag,Name=Description]", "src": "powerful fire-breathing"}
+{"id": "Data#00111", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_iceBreath][tag,Name=Description]", "src": "ice-breathing"}
+{"id": "Data#00112", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderIceBreath][tag,Name=Description]", "src": "powerful ice-breathing"}
+{"id": "Data#00113", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_corrosiveGasBreath][tag,Name=Description]", "src": "corrosive gas-breathing"}
+{"id": "Data#00114", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderCorrosiveGasBreath][tag,Name=Description]", "src": "powerful corrosive gas-breathing"}
+{"id": "Data#00115", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_sleepGasBreath][tag,Name=Description]", "src": "sleep gas-breathing"}
+{"id": "Data#00116", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderSleepGasBreath][tag,Name=Description]", "src": "powerful sleep gas-breathing"}
+{"id": "Data#00117", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_normalityGasBreath][tag,Name=Description]", "src": "normality gas-breathing"}
+{"id": "Data#00118", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderNormalityGasBreath][tag,Name=Description]", "src": "powerful normality gas-breathing"}
+{"id": "Data#00119", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_poisonGasBreath][tag,Name=Description]", "src": "poison gas-breathing"}
+{"id": "Data#00120", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderPoisonGasBreath][tag,Name=Description]", "src": "powerful poison gas-breathing"}
+{"id": "Data#00121", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_stunGasBreath][tag,Name=Description]", "src": "stun gas-breathing"}
+{"id": "Data#00122", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderStunGasBreath][tag,Name=Description]", "src": "powerful stun gas-breathing"}
+{"id": "Data#00123", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_confusionGasBreath][tag,Name=Description]", "src": "confusion gas-breathing"}
+{"id": "Data#00124", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_elderConfusionGasBreath][tag,Name=Description]", "src": "powerful confusion gas-breathing"}
+{"id": "Data#00125", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_starch][tag,Name=Description]", "src": "special Quickness-based"}
+{"id": "Data#00126", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_lignin][tag,Name=Description]", "src": "special regeneration-based"}
+{"id": "Data#00127", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_quicknessMinor][tag,Name=Description]", "src": "simple Quickness-based"}
+{"id": "Data#00128", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_density][tag,Name=Description]", "src": "volatile density-based"}
+{"id": "Data#00129", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_attributes][tag,Name=Description]", "src": "uncertain attribute-based"}
+{"id": "Data#00130", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_slimeSpitting][tag,Name=Description]", "src": "slime-spitting"}
+{"id": "Data#00131", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_regenLowtierMinor][tag,Name=Description]", "src": "simple regeneration and healing-based"}
+{"id": "Data#00132", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_coldMinor][tag,Name=Description]", "src": "simple cold-based"}
+{"id": "Data#00133", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_heatMinor][tag,Name=Description]", "src": "simple heat and fire-based"}
+{"id": "Data#00134", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_medicinalMinor][tag,Name=Description]", "src": "simple disease prevention-based"}
+{"id": "Data#00135", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_acidMinor][tag,Name=Description]", "src": "simple acid-based"}
+{"id": "Data#00136", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_tastyMinor][tag,Name=Description]", "src": "simple taste-based"}
+{"id": "Data#00137", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_cloningMinor][tag,Name=Description]", "src": "simple cloning"}
+{"id": "Data#00138", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_stabilityMinor][tag,Name=Description]", "src": "simple stability-based"}
+{"id": "Data#00139", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_selfPoison][tag,Name=Description]", "src": "self-poisoning"}
+{"id": "Data#00140", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_selfGlotrot][tag,Name=Description]", "src": "self-diseasing"}
+{"id": "Data#00141", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_rubberLowTier][tag,Name=Description]", "src": "rubber-based"}
+{"id": "Data#00142", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_rubberHighTier][tag,Name=Description]", "src": "powerful rubber-based"}
+{"id": "Data#00143", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_tongue][tag,Name=Description]", "src": "tongue-based"}
+{"id": "Data#00144", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_dissociation][tag,Name=Description]", "src": "dissociative"}
+{"id": "Data#00145", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_random][tag,Name=Description]", "src": "random"}
+{"id": "Data#00146", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_randomHighTier][tag,Name=Description]", "src": "random, usually powerful"}
+{"id": "Data#00147", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=ProceduralCookingIngredient_ego][tag,Name=Description]", "src": "ego-based"}
+{"id": "Data#00148", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_R_Data][tag,Name=DisplayName]", "src": "{{R|scrap power systems}}"}
+{"id": "Data#00149", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_R_Data][tag,Name=DisplayCharacter]", "src": "A"}
+{"id": "Data#00150", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_G_Data][tag,Name=DisplayName]", "src": "{{G|scrap crystal}}"}
+{"id": "Data#00151", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_G_Data][tag,Name=DisplayCharacter]", "src": "B"}
+{"id": "Data#00152", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_B_Data][tag,Name=DisplayName]", "src": "{{B|scrap metal}}"}
+{"id": "Data#00153", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_B_Data][tag,Name=DisplayCharacter]", "src": "C"}
+{"id": "Data#00154", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_C_Data][tag,Name=DisplayName]", "src": "{{C|scrap electronics}}"}
+{"id": "Data#00155", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_0_C_Data][tag,Name=DisplayCharacter]", "src": "D"}
+{"id": "Data#00156", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_1_r_Data][tag,Name=DisplayName]", "src": "{{r|phasic power systems}}"}
+{"id": "Data#00157", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_1_r_Data][tag,Name=DisplayCharacter]", "src": "1"}
+{"id": "Data#00158", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_2_g_Data][tag,Name=DisplayName]", "src": "{{g|flawless crystal}}"}
+{"id": "Data#00159", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_2_g_Data][tag,Name=DisplayCharacter]", "src": "2"}
+{"id": "Data#00160", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_3_b_Data][tag,Name=DisplayName]", "src": "{{b|pure alloy}}"}
+{"id": "Data#00161", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_3_b_Data][tag,Name=DisplayCharacter]", "src": "3"}
+{"id": "Data#00162", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_4_c_Data][tag,Name=DisplayName]", "src": "{{c|pristine electronics}}"}
+{"id": "Data#00163", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_4_c_Data][tag,Name=DisplayCharacter]", "src": "4"}
+{"id": "Data#00164", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_5_K_Data][tag,Name=DisplayName]", "src": "{{K|nanomaterials}}"}
+{"id": "Data#00165", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_5_K_Data][tag,Name=DisplayCharacter]", "src": "5"}
+{"id": "Data#00166", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_6_W_Data][tag,Name=DisplayName]", "src": "{{W|photonics}}"}
+{"id": "Data#00167", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_6_W_Data][tag,Name=DisplayCharacter]", "src": "6"}
+{"id": "Data#00168", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_7_Y_Data][tag,Name=DisplayName]", "src": "{{Y|AI microcontrollers}}"}
+{"id": "Data#00169", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_7_Y_Data][tag,Name=DisplayCharacter]", "src": "7"}
+{"id": "Data#00170", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_8_M_Data][tag,Name=DisplayName]", "src": "{{M|metacrystal}}"}
+{"id": "Data#00171", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=BitType_8_M_Data][tag,Name=DisplayCharacter]", "src": "8"}
+{"id": "Data#00172", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_SpiceVillage][tag,Name=Postfix]", "src": "It's engraved with icons dedicated to =spice.entity:sacredThing:the act of procreating=."}
+{"id": "Data#00173", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Joppa][tag,Name=DisplayName]", "src": "Joppa"}
+{"id": "Data#00174", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Joppa][tag,Name=Postfix]", "src": "It's carved in relief with watervine crawling along each point."}
+{"id": "Data#00175", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_GritGate][tag,Name=DisplayName]", "src": "Grit Gate"}
+{"id": "Data#00176", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_GritGate][tag,Name=Postfix]", "src": "It's embossed with angular lines meant to evoke schematics and circuitry."}
+{"id": "Data#00177", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_BeyLah][tag,Name=DisplayName]", "src": "Bey Lah"}
+{"id": "Data#00178", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_BeyLah][tag,Name=Postfix]", "src": "It's engraved with cervine hoofprints leading from the spokes to the center."}
+{"id": "Data#00179", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Kyakukya][tag,Name=DisplayName]", "src": "Kyakukya"}
+{"id": "Data#00180", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Kyakukya][tag,Name=Postfix]", "src": "It's etched with tiny mushrooms all over."}
+{"id": "Data#00181", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Ezra][tag,Name=DisplayName]", "src": "Ezra"}
+{"id": "Data#00182", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Ezra][tag,Name=Postfix]", "src": "It's carved in relief with various types of musa."}
+{"id": "Data#00183", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_YdFreehold][tag,Name=DisplayName]", "src": "Yd Freehold"}
+{"id": "Data#00184", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_YdFreehold][tag,Name=Postfix]", "src": "It's carved in relief with figures of svardym hopping from the spokes toward the hub."}
+{"id": "Data#00185", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_SixDayStilt][tag,Name=DisplayName]", "src": "Six Day Stilt"}
+{"id": "Data#00186", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_SixDayStilt][tag,Name=Postfix]", "src": "It's engraved with a preacher, hand outstretched, on each spoke."}
+{"id": "Data#00187", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Mopango][tag,Name=DisplayName]", "src": "mopango"}
+{"id": "Data#00188", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Mopango][tag,Name=Postfix]", "src": "It's embossed with starbursts along each spoke and a circular rondure around the hub."}
+{"id": "Data#00189", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Pariahs][tag,Name=DisplayName]", "src": "pariahs"}
+{"id": "Data#00190", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Pariahs][tag,Name=Postfix]", "src": "It's engraved with winding roads, a single lone figure walking them."}
+{"id": "Data#00191", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Chavvah][tag,Name=DisplayName]", "src": "Chavvah"}
+{"id": "Data#00192", "file": "Data", "tag": "tag", "attr": "Value", "path": "[objects][object,Name=Data_Asterisk_Chavvah][tag,Name=Postfix]", "src": "It's engraved with crystalline roots entwining each spoke."}

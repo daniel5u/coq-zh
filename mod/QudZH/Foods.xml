@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='utf-8'?>
+<objects Lang="zh" Encoding="utf-8">
+  <object Name="Preservable" Load="Merge">
+    <part Name="Description" Short="" />
+    <tag Name="CustomStackerDisplay" Value="{{y|[{{C|=number=}} =number.pluralize:份=]}}" />
+    <xtagGrammar iArticle="some" adjunctNoun="份" massNoun="true" />
+  </object>
+  <object Name="Raw Meat" Load="Merge">
+    <part Name="Food" Message="肉质虽韧，却足以饱腹。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Raw Bear Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生熊肉}}" />
+    <part Name="Description" Short="生熊肉浸染在自己淌出的血里。" />
+    <part Name="Food" Message="滋味糟糕，却聊胜于无。" />
+  </object>
+  <object Name="Raw Pig Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生猪肉}}" />
+    <part Name="Description" Short="生猪肉浸染在自己淌出的血里。" />
+    <part Name="Food" Message="腌过盐会更好吃。" />
+  </object>
+  <object Name="Raw Boar Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生野猪肉}}" />
+    <part Name="Description" Short="生野猪肉浸染在自己淌出的血里。" />
+    <part Name="Food" Message="腌过盐会更好吃。" />
+  </object>
+  <object Name="Raw Barkbiter Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生啃树皮兽肉}}" />
+    <part Name="Description" Short="生啃树皮兽肉浸染在自己淌出的血里。" />
+    <part Name="Food" Message="腌过盐会更好吃。" />
+  </object>
+  <object Name="Raw Beetle Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{y|生甲虫肉}}" />
+    <part Name="Description" Short="甲虫的肌肉堆叠着，盛在破碎的甲壳上。" />
+    <part Name="Food" Message="味道又苦又咸。" />
+  </object>
+  <object Name="Raw Goat Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生山羊肉}}" />
+    <part Name="Description" Short="生山羊肉浸染在自己淌出的血里。" />
+    <part Name="Food" Message="肉条在口中化开，散出盐与脂的滋味。" />
+  </object>
+  <object Name="Raw Scorpiock Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生蝎蜥肉}}" />
+    <part Name="Description" Short="甲虫的肌肉堆叠着，盛在破碎的外骨骼上。" />
+    <part Name="Food" Message="滋味浓烈刺舌。" />
+  </object>
+  <object Name="Raw Frog Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生蛙肉}}" />
+    <part Name="Description" Short="蛙腿浸染在自己淌出的血里。" />
+  </object>
+  <object Name="Raw Fish Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|生鱼肉}}" />
+    <part Name="Description" Short="颊与颌的肉里透出一丝盐的气味。" />
+    <part Name="Food" Message="肉质层层起片，颇为鲜美。" />
+  </object>
+  <object Name="Raw Worm Meat" Load="Merge">
+    <part Name="Render" DisplayName="{{r|生虫肉}}" />
+    <part Name="Description" Short="虫肉浸染在自己淌出的黏液里。" />
+  </object>
+  <object Name="Dawnglider Tail" Load="Merge">
+    <part Name="Render" DisplayName="{{G|曙光滑翔兽尾}}" />
+    <part Name="Description" Short="脊棱的鳞片拼成镶嵌画般的图样，盘绕如一根绞紧的绳。外皮结着焦壳，散出烟熏的气味。" />
+    <part Name="Food" Message="入口是加了香料的焦味，随后热意涨开。" />
+  </object>
+  <object Name="Albino Ape Heart" Load="Merge">
+    <part Name="Render" DisplayName="{{r|白化猿心}}" />
+    <part Name="Description" Short="一方四腔的湿润生肉，在自身浸透的重量下瘫软塌陷。" />
+    <part Name="Food" Message="嚼劲十足，尝来是温热的铁锈味。" />
+  </object>
+  <object Name="Ogre Ape Heart" Load="Merge">
+    <part Name="Render" DisplayName="{{r|食人魔猿心}}" />
+    <part Name="Description" Short="一方四腔的湿润生肉，在自身浸透的重量下瘫软塌陷。" />
+    <part Name="Food" Message="嚼劲十足，尝来是温热的铁锈味。" />
+  </object>
+  <object Name="Black Puma Haunch" Load="Merge">
+    <part Name="Render" DisplayName="{{K|黑美洲狮}}后腿肉" />
+    <part Name="Description" Short="一撮撮乳光般的黑毛粘在湿漉漉的腿肉上。" />
+    <part Name="Food" Message="烟熏风味，颇为可口。" />
+  </object>
+  <object Name="Tongue Twist" Load="Merge">
+    <part Name="Render" DisplayName="{{r|绕舌}}" />
+    <part Name="Description" Short="三条舌头绞成一股纤维质的扭结，覆着一层唾液而发亮。" />
+    <part Name="Food" Message="这滋味在你舌上似曾相识。" />
+  </object>
+  <object Name="Eyeless Crab Legs" Load="Merge">
+    <part Name="Render" DisplayName="无眼蟹腿" />
+    <part Name="Description" Short="带节生刺的腿足陈列在一汪骨冻之中。" />
+  </object>
+  <object Name="Eyeless King Crab Legs" Load="Merge">
+    <part Name="Render" DisplayName="无眼王蟹腿" />
+    <part Name="Description" Short="巨大的带节生刺的腿足陈列在一汪骨冻之中。" />
+  </object>
+  <object Name="Fire Ant Gaster" Load="Merge">
+    <part Name="Render" DisplayName="{{R|火蚁腹部}}" />
+    <part Name="Description" Short="一道烟晕自钙化的圆球上腾起。" />
+    <part Name="Food" Message="需用力咀嚼，辣意灼人。" />
+  </object>
+  <object Name="Spark Tick Scutum" Load="Merge">
+    <part Name="Render" DisplayName="{{W|电光蜱盾甲}}" />
+    <part Name="Description" Short="一只纸薄的骨碗，蚀刻着明亮分叉的电痕。" />
+    <part Name="Food" Message="在你味蕾上噼啪作响。" />
+  </object>
+  <object Name="Voider Gland" Load="Merge">
+    <part Name="Render" DisplayName="{{B|虚空者腺体}}" />
+    <part Name="Food" Message="入口即化。" />
+    <part Name="Description" Short="空间被分作三处置换腔，在分流器官四周造出负压。" />
+  </object>
+  <object Name="Psychal Gland" Load="Merge">
+    <part Name="Render" DisplayName="{{m|灵能腺体}}" />
+    <part Name="Description" Short="一团盘错的神经自清透的组织包裹中探出。" />
+    <part Name="Food" Message="腺体噗地破裂，一股冷液涨满你的口腔。旁人的记忆渗入你自己的记忆。" />
+  </object>
+  <object Name="Compacted Bone Matter" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|压实骨质}}" />
+    <part Name="Description" Short="不老的骨被磨成粉，在骨虫伤痕累累的肠中压实。" />
+    <part Name="Food" Message="一声令人满足的脆响。" />
+    <xtagGrammar iArticle="some" adjunctNoun="块" massNoun="true" />
+  </object>
+  <object Name="BaseBreatherGland" Load="Merge">
+    <part Name="Food" Message="腺体噗地破裂，腐臭的液体涨满你的口腔。" />
+  </object>
+  <object Name="FireBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{r|焰须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又将四周的空气灼得发烫。" />
+  </object>
+  <object Name="ElderFireBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{R|长老焰须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又将四周的空气灼得发烫。" />
+  </object>
+  <object Name="IceBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{c|霰须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又将四周的空气冻得发脆。" />
+  </object>
+  <object Name="ElderIceBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{c|长老霰须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又将四周的空气冻得发脆。" />
+  </object>
+  <object Name="CorrosiveBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{g|酸须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气刺人。" />
+  </object>
+  <object Name="ElderCorrosiveBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{G|长老酸须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气刺人。" />
+  </object>
+  <object Name="NormalityBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{y|虚无须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气极化。" />
+  </object>
+  <object Name="ElderNormalityBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|长老虚无须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气极化。" />
+  </object>
+  <object Name="PoisonBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{g|胆汁须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气刺人。" />
+  </object>
+  <object Name="ElderPoisonBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{G|长老胆汁须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气刺人。" />
+  </object>
+  <object Name="SleepBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{w|梦须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气潮润。" />
+  </object>
+  <object Name="ElderSleepBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{W|长老梦须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气潮润。" />
+  </object>
+  <object Name="StunBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{c|静须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气凝止。" />
+  </object>
+  <object Name="ElderStunBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{C|长老静须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气凝止。" />
+  </object>
+  <object Name="ConfusionBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{b|迷宫须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气浑浊难辨。" />
+  </object>
+  <object Name="ElderConfusionBreatherGland" Load="Merge">
+    <part Name="Render" DisplayName="{{B|长老迷宫须人腺体}}" />
+    <part Name="Description" Short="芬芳的露水打湿了瘪下的组织瓣片，又使四周的空气浑浊难辨。" />
+  </object>
+  <object Name="Yondercane" Load="Merge">
+    <part Name="Render" DisplayName="{{W|彼方甘蔗}}" />
+    <part Name="Description" Short="流苏彼方灌木的沟纹茎弯向一处失焦的远点。" />
+    <part Name="Food" Message="尝来是远方的味道。" />
+  </object>
+  <object Name="Vinewafer" Load="Merge">
+    <part Name="Render" DisplayName="藤饼" />
+    <part Name="Description" Short="一小块软木在湿气中膨胀。炎热的数周里，一片铺展的叶状体为它浇水——那叶状体怀着一份非人的耐心，自百里长风中吸来一粒雨珠。" />
+  </object>
+  <object Name="Dreadroot Tuber" Load="Merge">
+    <part Name="Render" DisplayName="{{K|噩根块茎}}" />
+    <part Name="Description" Short="肉桂色的球茎被大地的创痕割裂，又在泥土与铬的压力下扭曲，成了一个编码着千年废墟的形状。" />
+  </object>
+  <object Name="Starapple" Load="Merge">
+    <part Name="Render" DisplayName="星苹果" />
+    <part Name="Description" Short="汁液自包裹五点阵核心的亮皮上滴落。在饥饿润湿的眼中，它如一颗石榴石，在火山盐中发亮。" />
+  </object>
+  <object Name="Spine Fruit" Load="Merge">
+    <part Name="Render" DisplayName="刺果" />
+    <part Name="Description" Short="断裂体的一根肋条自其被日光胀起的绿丛中，射出一只湿润尖挺的梨。" />
+  </object>
+  <object Name="Plump Mushroom" Load="Merge">
+    <part Name="Render" DisplayName="饱满蘑菇" />
+    <part Name="Description" Short="在铺展的菌褶盖下，菌柄收束成一段将裂的腰。这真菌在自己那一小片壤土的死物上养得肥壮。" />
+  </object>
+  <object Name="Smoldered Mushroom" Load="Merge">
+    <part Name="Render" DisplayName="熏烤蘑菇" />
+    <part Name="Description" Short="块菌的外壳结着一层酒色的焦渣，由地表世界闻所未闻的气体所生。在极深的地底、越过苍海，它曾被焖至鲜嫩。" />
+  </object>
+  <object Name="Hoarshroom" Load="Merge">
+    <part Name="Render" DisplayName="{{C|发光的}}霜菇" />
+    <part Name="Description" Short="灯罩状的菌盖上闪着霜花，盖下透出柔和的生物光。" />
+    <part Name="RulesDescription" Text="持续时间：180-220回合&#10;你放射出半径2的光。&#10;饮下后的前5回合，你每回合按等级获得0.6生命值（至少3点）。&#10;+20寒抗性&#10;你无法中毒。" />
+  </object>
+  <object Name="Godshroom Cap" Load="Merge">
+    <part Name="Render" DisplayName="{{o|食者之肉}}" />
+    <part Name="Description" Short="视觉得见肿胀的珊瑚月面上多孔的环形山，一时模糊。这是神明的血肉么？" />
+  </object>
+  <object Name="Lah Petals" Load="Merge">
+    <part Name="Render" DisplayName="{{lah|拉花花瓣}}" />
+    <part Name="Description" Short="辛香而呈赭色的花瓣看似一味香草，其咸鲜之味却更近于肉汤，而非药茶。" />
+    <part Name="Food" Message="咸鲜可口，却不够果腹。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Clump of Grave Moss" Load="Merge">
+    <part Name="Render" DisplayName="一丛{{C|墓苔}}" />
+    <part Name="Description" Short="漂白的青色墓苔长成了一丛罕见而柔韧的簇团。" />
+    <part Name="Food" Message="在你口中脆响成屑。" />
+  </object>
+  <object Name="Banana" Load="Merge">
+    <part Name="Render" DisplayName="{{W|香蕉}}" />
+    <part Name="Description" Short="熟透的果脊色泽浓艳，果皮上点着纺锤的微光。" />
+  </object>
+  <object Name="Yuckwheat Stem" Load="Merge">
+    <part Name="Render" DisplayName="{{w|苦麦茎}}" />
+    <part Name="Food" Message="苦得令人作呕。" />
+    <part Name="Description" Short="苦麦茎被清脆地剪断时，孩子们便哭起来，数百年来都是如此。他们号啕、踢打，从母亲怀中挣脱，对那植物药效的种种宽慰之言充耳不闻。剪断碾碎的茎在他们舌上泛出酸味，面孔便扭作孩童的苦相。然而他们夜里睡得安稳些——母亲们是这样说的。" />
+  </object>
+  <object Name="Lagroot Tuber" Load="Merge">
+    <part Name="Render" DisplayName="迟根块茎" />
+    <part Name="Description" Short="含淀粉的枝晶自土中被削下，又刨削成形。" />
+  </object>
+  <object Name="Vanta Petals" Load="Merge">
+    <part Name="Render" DisplayName="{{K|凡塔花瓣}}" />
+    <part Name="Description" Short="光自月牙的影响力边界上滴落，渗入虚空。" />
+    <part Name="Food" Message="其中没有热，也没有光，冻得刺骨。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Urberry" Load="Merge">
+    <part Name="Render" DisplayName="{{m|乌莓}}" />
+    <part Name="Food" Message="原型的鲜美。" />
+    <part Name="Description" Short="土气浓重的汁液压迫果皮，使它成了一枚完美而循光弯曲的球体。内里，一粒种子编码着关于形状之形状的百万重指令集。" />
+  </object>
+  <object Name="Arsplice Seed" Load="Merge">
+    <part Name="Render" DisplayName="{{C-C-c-m-m-c-C-C sequence|阿尔斯普莱斯}}种子" />
+    <part Name="Description" Short="千年都市化成的食糜，曾喂养其腹中暗生分叉的草珊瑚真菌混合体，如今被吸回生态团块的种皮之内。" />
+    <part Name="Food" Message="一束束熨帖的暖光在你体内如分形般绽出。" />
+  </object>
+  <object Name="Bop Cheek" Load="Merge">
+    <part Name="Render" DisplayName="{{B|博普颊肉}}" />
+    <part Name="Description" Short="一块上选的叠层海绵，指尖一触便颤。" />
+    <part Name="Food" Message="比你所吃过的任何东西都更有嚼劲。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Mirror Shard" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|镜片碎屑}}" />
+    <part Name="Description" Short="一枚玻璃碎片在锐利的棱边上发光，其裂痕的纹样是地质压炼的特征。" />
+    <part Name="Food" Message="尖锐而闪亮。" />
+  </object>
+  <object Name="Bundle of Noisegrass" Load="Merge">
+    <part Name="Render" DisplayName="一捆噪声草" />
+    <part Name="Description" Short="星光草在意义的局部极大值处达到顶峰，而后被割下捆扎。" />
+    <part Name="Food" Message="尝来是一团绒毛的味道。" />
+  </object>
+  <object Name="Qudzu Stem" Load="Merge">
+    <part Name="Render" DisplayName="{{r|卡德葛茎}}" />
+    <part Name="Description" Short="一株红芹的茎上敷着数百年磨蚀的尘粉。" />
+  </object>
+  <object Name="Lover's Blossom" Load="Merge">
+    <part Name="Render" DisplayName="{{R|恋人之花}}" />
+    <part Name="Description" Short="被弃的恋人那颗心，在余烬的花瓣下灼烧，在黄水晶的花药中被拧成剧痛，又安放在泪湿的萼片碧玉之床上。" />
+  </object>
+  <object Name="Humble Pie" Load="Merge">
+    <part Name="Render" DisplayName="谦卑派" />
+    <part Name="Description" Short="为酥皮下的碎肉调味的，是一撮伊弗菌粉：取自同名真菌的菌柄，刨下后细细磨碎。整株真菌对哺乳动物的心智而言过于强猛（吞下一株，自我顷刻便会灰飞烟灭），然而一块可口馅饼上的一撮粉末，足以令人想起自己在宇宙间的位次。" />
+    <part Name="RulesDescription" Text="永久-1自我" />
+    <xtagGrammar massNoun="true" />
+    <part Name="Food" Message="尝来发苦。&#10;你的{{Y|自我}}降低{{C|1}}" />
+  </object>
+  <object Name="Ripe Cucumber" Load="Merge">
+    <part Name="Render" DisplayName="{{G|熟黄瓜}}" />
+    <part Name="Description" Short="一根满面疣结的薄荷绿长颈，结在肥沃的藤上，被脆生生地采下。" />
+    <part Name="Food" Message="咬下时清脆，随即迸出一口水。" />
+  </object>
+  <object Name="Taco Suprema" Load="Merge">
+    <part Name="Render" DisplayName="{{m|至尊塔可}}" />
+    <part Name="Food" Message="一份神圣的酥脆化作了加了盐的吗哪。" />
+    <part Name="Description" Short="薄而古老的纸——一张油渍的重写本——裹着煎薄饼的酥脆鞍部。七层凝结的花蜜填满那道酥脆的裂隙。" />
+  </object>
+  <object Name="Crystal of Eve" Load="Merge">
+    <part Name="Render" DisplayName="{{crystalline|夏娃之晶}}" />
+    <part Name="Description" Short="心灵能量如柔绒般悬在零点附近，却在四面体晶习处形成峰峦。这枚晶体自一束根花上被敲下时，系统尚未能生出鸣钟的意识。它以初生的思绪与情感震颤。" />
+    <part Name="Food" Message="晶体碎裂，浓缩的思绪之物如潮涨起，浸透你的心神。" />
+  </object>
+  <object Name="Hunk of Cheese" Load="Merge">
+    <part Name="Render" DisplayName="一块{{W|奶酪}}" />
+    <part Name="Description" Short="干酪布粘在一个猪造方块的油腻表面上。两年来微生物在其各个面上定居，将它催熟至极高的风味。" />
+  </object>
+  <object Name="Rubber Tree Seed" Load="Merge">
+    <part Name="Render" DisplayName="{{r|橡胶树种子}}" />
+    <part Name="Description" Short="光滑而带日晒条纹的壳，护着即将破出的爆裂树芽。" />
+  </object>
+  <object Name="Starapple Preserves" Load="Merge">
+    <part Name="Render" DisplayName="{{R|星苹果酱}}" />
+    <part Name="Description" Short="甜星苹果被捣烂，架在明火上，搁凉后装罐备用。丝丝缕缕的果肉悬在果味的以太中。" />
+  </object>
+  <object Name="Spine Fruit Jam" Load="Merge">
+    <part Name="Render" DisplayName="{{M|刺果酱}}" />
+    <part Name="Description" Short="断裂体的多刺果实被捣烂，架在明火上，搁凉后装罐备用。丝丝缕缕带刺的果肉悬在果味的以太中。" />
+  </object>
+  <object Name="Vinewafer Sheaf" Load="Merge">
+    <part Name="Render" DisplayName="{{g|藤饼穗}}" />
+    <part Name="Description" Short="从吸水的藤本植物上割下的薄饼成束，用细绳捆起。" />
+    <xtagGrammar iArticle="" adjunctNoun="" massNoun="false" />
+  </object>
+  <object Name="Pickled Mushrooms" Load="Merge">
+    <part Name="Render" DisplayName="{{K|腌蘑菇}}" />
+    <part Name="Description" Short="自土中拔出之后，它们的新生活便是泡在盐水里。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Freeze-Dried Hoarshrooms" Load="Merge">
+    <part Name="Render" DisplayName="{{C|冻干霜菇}}" />
+    <part Name="Description" Short="皱缩的毒蕈在自己结出的白霜中冷却脱水。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Pickles" Load="Merge">
+    <part Name="Render" DisplayName="{{g|腌菜}}" />
+    <part Name="Description" Short="疣结的果实如岛屿般陈列在一片盐水的海洋里，装进一只世界玻璃罐中。如今它们随盐的节奏腐熟。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Fire Ant Gaster Paste" Load="Merge">
+    <part Name="Render" DisplayName="{{R|火蚁腹酱}}" />
+    <part Name="Description" Short="灼热之物在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="Cured Dawnglider Tail" Load="Merge">
+    <part Name="Render" DisplayName="{{W|腌制曙光滑翔兽尾}}" />
+    <part Name="Description" Short="盐把盘绕的肉块上那道彩虹般的色泽漂白了，但一丝烟熏的气息仍在。" />
+  </object>
+  <object Name="Salthopper Chip" Load="Merge">
+    <part Name="Render" DisplayName="盐蜢脆片" />
+    <part Name="Description" Short="甲壳自一只捕获的盐蜢外骨骼的侧腹上刨下，干打成一味爽脆的薄片。" />
+    <xtagGrammar iArticle="" adjunctNoun="" massNoun="false" />
+  </object>
+  <object Name="Phase Silk" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|相位丝}}" />
+    <part Name="Description" Short="线自一只相位蜘蛛二维的炉网中剪下，绕成卷。" />
+  </object>
+  <object Name="Fermented Yondercane" Load="Merge">
+    <part Name="Render" DisplayName="{{B|发酵彼方甘蔗}}" />
+    <part Name="Description" Short="数周之久的盐晶沿着一根湿茎的沟谷排列。" />
+  </object>
+  <object Name="Fermented Yuckwheat Stem" Load="Merge">
+    <part Name="Render" DisplayName="{{w|发酵苦麦茎}}" />
+    <part Name="Description" Short="数周之久的盐晶蜷在茎的肘状分叉里。" />
+  </object>
+  <object Name="Voider Gland Paste" Load="Merge">
+    <part Name="Render" DisplayName="{{B|虚空者腺体酱}}" />
+    <part Name="Description" Short="导气的弧形结构在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="Spark Tick Plasma" Load="Merge">
+    <part Name="Render" DisplayName="{{W|电光蜱血浆}}" />
+    <part Name="Description" Short="盾板被刮净、砸碎、磨粉。蜱虫体内的磁质命血被挤出，装进小瓶。" />
+  </object>
+  <object Name="Dried Lah Petals" Load="Merge">
+    <part Name="Render" DisplayName="风干{{lah|拉花花瓣}}" />
+    <part Name="Description" Short="晒干之后，这些厚实的黄褐色花瓣比多数别的花更近似于肉干。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Dried Vanta Petals" Load="Merge">
+    <part Name="Render" DisplayName="{{K|风干凡塔花瓣}}" />
+    <part Name="Description" Short="光自干月牙的影响力边界上滴落，渗入虚空。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Compacted Bone Meal" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|骨粉}}" />
+    <part Name="Description" Short="不老的骨被磨成粉，在骨虫伤痕累累的肠中压实，而后磨成细末。" />
+  </object>
+  <object Name="Crushed Grave Moss" Load="Merge">
+    <part Name="Render" DisplayName="{{C|碾碎的墓苔}}" />
+    <part Name="Description" Short="墓苔长成一丛罕见而柔韧的簇团，随后被碾碎，盛在香料盘上。" />
+  </object>
+  <object Name="Mashed Lag" Load="Merge">
+    <part Name="Render" DisplayName="{{W|捣碎的迟根}}" />
+    <part Name="Description" Short="剥皮的迟根块茎被捣烂，加盐，装罐。" />
+  </object>
+  <object Name="Sun-Dried Banana" Load="Merge">
+    <part Name="Render" DisplayName="{{W|日晒香蕉}}" />
+    <part Name="Description" Short="盐日把果中的水分烘了出去，纺锤的微光却仍落在那片圆盘薄片上。" />
+  </object>
+  <object Name="Psychal Gland Paste" Load="Merge">
+    <part Name="Render" DisplayName="{{m|灵能腺体酱}}" />
+    <part Name="Description" Short="浸透记忆的神经在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="Mirror Dust" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|镜尘}}" />
+    <part Name="Description" Short="一件镜界的古器被击碎，磨成细粉。" />
+  </object>
+  <object Name="Canned Have-It-All" Load="Merge">
+    <part Name="Render" DisplayName="{{w|罐装全能食}}" />
+    <part Name="Description" Short="罐上的刻版画着一头带爪的兽——抑或那是蹄？鼻与额上皱着的是垂肉（还是角？鹿角？）。覆体的究竟是蓬乱打结的毛，还是挣动的羽，替它挡住那热（或那寒）？" />
+  </object>
+  <object Name="Crusty Loaf" Load="Merge">
+    <part Name="Render" DisplayName="硬皮面包" />
+    <part Name="Description" Short="每年秋日，许多沟壑居民都要徒步前往高塔之地，买下坠落葡萄酒。他们回到家中，把麦麸浸进酒里，在陶炉中发面。少数人更为幸运：住在菌林里的人只需出门采收酵母，与真菌为友者只需抖一抖自己那爬满酵母的附肢。" />
+    <xtagGrammar iArticle="" adjunctNoun="" massNoun="false" />
+  </object>
+  <object Name="Ekuemekiyyen Greens" Load="Merge">
+    <part Name="Render" DisplayName="{{g|埃库梅基延蔬菜}}" />
+    <part Name="Description" Short="孔雀石色的叶与开心果被星线捆作一束。既然空气里没有毒素，这些绿意便大胆地蓬松起来。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Food Cube" Load="Merge">
+    <part Name="Render" DisplayName="食物方块" />
+    <part Name="Description" Short="海绵质的食材被塑成一方石板色、比例完美的立方。究竟何种力量，把进食的凌乱与立方的精确结为连理？" />
+    <xtagGrammar iArticle="" adjunctNoun="" massNoun="false" />
+  </object>
+  <object Name="Fermented Tongue" Load="Merge">
+    <part Name="Render" DisplayName="{{r|发酵舌头}}" />
+    <part Name="Description" Short="一条切下的舌头在自己分泌的唾液中发酸，又绕在一根棍上。" />
+  </object>
+  <object Name="Sliced Bop Cheek" Load="Merge">
+    <part Name="Render" DisplayName="{{B|切片博普颊肉}}" />
+    <part Name="Description" Short="一块上选的叠层海绵被切成上桌的薄片，指尖一触便颤。" />
+  </object>
+  <object Name="Wild Rice" Load="Merge">
+    <part Name="Render" DisplayName="{{m-M-m-M sequence|野生}}稻米" />
+    <part Name="Description" Short="梅白色的稻壳触之嘶嘶作响，其芒发出一阵无常而如歌的声音。" />
+  </object>
+  <object Name="Dream Smoke" Load="Merge">
+    <part Name="Render" DisplayName="{{dreamsmoke|梦烟}}" />
+    <part Name="Description" Short="梦之物被催成记忆，趁它尚未蒸散为情绪的湿度，便装瓶封存。" />
+  </object>
+  <object Name="Barkbiter Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{W|啃树皮兽肉干}}" />
+    <part Name="Description" Short="熊肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Bear Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{w|熊肉干}}" />
+    <part Name="Description" Short="熊肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Boar Jerky" Load="Merge">
+    <part Name="Render" DisplayName="野猪肉干" />
+    <part Name="Description" Short="野猪肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Beetle Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{K|甲虫肉干}}" />
+    <part Name="Description" Short="捣碎的甲虫肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Croc Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{g|鳄鱼肉干}}" />
+    <part Name="Description" Short="鳄肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Crab Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|蟹肉干}}" />
+    <part Name="Description" Short="蟹腿被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Frog Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{w|蛙肉干}}" />
+    <part Name="Description" Short="蛙肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Goat Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{w|山羊肉干}}" />
+    <part Name="Description" Short="山羊肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Worm Jerky" Load="Merge">
+    <part Name="Render" DisplayName="虫肉干" />
+    <part Name="Description" Short="虫肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Scorpiock Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{W|蝎蜥肉干}}" />
+    <part Name="Description" Short="捣碎的蝎蜥肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="Fish Jerky" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|鱼肉干}}" />
+    <part Name="Description" Short="鱼肉被切成齐整的条，加盐，烟熏。" />
+  </object>
+  <object Name="BaseBreatherGlandPaste" Load="Merge">
+    <part Name="Description" Short="雾气湿润的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="FireBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{r|焰须人腺体酱}}" />
+    <part Name="Description" Short="烤焦的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderFireBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{R|浓缩焰须人腺体酱}}" />
+    <part Name="Description" Short="烤焦的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="IceBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{c|霰须人腺体酱}}" />
+    <part Name="Description" Short="结霜的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderIceBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{c|浓缩霰须人腺体酱}}" />
+    <part Name="Description" Short="结霜的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="CorrosiveBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{g|酸须人腺体酱}}" />
+    <part Name="Description" Short="酸涩的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderCorrosiveBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{G|浓缩酸须人腺体酱}}" />
+    <part Name="Description" Short="酸涩的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="NormalityBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{y|虚无须人腺体酱}}" />
+    <part Name="Description" Short="六边形的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderNormalityBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|浓缩虚无须人腺体酱}}" />
+    <part Name="Description" Short="六边形的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="PoisonBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{g|胆汁须人腺体酱}}" />
+    <part Name="Description" Short="带毒的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderPoisonBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{G|浓缩胆汁须人腺体酱}}" />
+    <part Name="Description" Short="带毒的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="SleepBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{w|梦须人腺体酱}}" />
+    <part Name="Description" Short="瘪下的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderSleepBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{W|浓缩梦须人腺体酱}}" />
+    <part Name="Description" Short="瘪下的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="StunBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{c|静须人腺体酱}}" />
+    <part Name="Description" Short="静止的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderStunBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{C|浓缩静须人腺体酱}}" />
+    <part Name="Description" Short="静止的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ConfusionBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{b|迷宫须人腺体酱}}" />
+    <part Name="Description" Short="奇异的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="ElderConfusionBreatherGlandPaste" Load="Merge">
+    <part Name="Render" DisplayName="{{B|浓缩迷宫须人腺体酱}}" />
+    <part Name="Description" Short="奇异的组织在研钵中磨碎，在盐水中慢煮，再凝成块。" />
+  </object>
+  <object Name="Starch" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|淀粉}}" />
+    <part Name="Description" Short="" />
+  </object>
+  <object Name="Lignin" Load="Merge">
+    <part Name="Render" DisplayName="{{G|木质素}}" />
+    <part Name="Description" Short="" />
+  </object>
+  <object Name="Congealed Shade Oil" Load="Merge">
+    <part Name="Render" DisplayName="凝结的{{shade|影油}}" />
+    <part Name="Description" Short="影油自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+  <object Name="Congealed Blaze" Load="Merge">
+    <part Name="Render" DisplayName="凝结的{{blaze|烈焰}}" />
+    <part Name="Description" Short="烈焰自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+  <object Name="Congealed Salve" Load="Merge">
+    <part Name="Render" DisplayName="凝结的{{Y|药膏}}" />
+    <part Name="Description" Short="药膏自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+  <object Name="Soul Curd" Load="Merge">
+    <part Name="Render" DisplayName="{{soul|魂凝乳}}" />
+    <part Name="Description" Short="万能灵药自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+  <object Name="Drop of Nectar" Load="Merge">
+    <part Name="Render" DisplayName="一滴{{nectar|甘露}}" />
+    <part Name="Description" Short="食者花蜜自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+    <tag Name="ServingType" Value="丢弃" />
+    <tag Name="ServingName" Value="{{nectar|花蜜}}" />
+  </object>
+  <object Name="Congealed Hulk Honey" Load="Merge">
+    <part Name="Render" DisplayName="凝结的{{G|巨躯}}{{w|蜜}}" />
+    <part Name="Description" Short="巨人蜜自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+  <object Name="Congealed Skulk" Load="Merge">
+    <part Name="Render" DisplayName="凝结的{{skulk|潜行者}}" />
+    <part Name="Description" Short="潜行剂自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+  <object Name="Congealed Love" Load="Merge">
+    <part Name="Render" DisplayName="凝结的{{love|爱意}}" />
+    <part Name="Description" Short="爱意自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+  <object Name="Congealed Rubbergum" Load="Merge">
+    <part Name="Render" DisplayName="凝结的{{rubbergum|橡胶糖胶}}" />
+    <part Name="Description" Short="橡胶糖胶自其注射器中抽出，在辛辣的空气中浓稠起来，装瓶备作烹调之用。" />
+  </object>
+</objects>

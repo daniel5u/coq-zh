@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mutations Lang="zh" Encoding="utf-8" Hidden="true" ExcludeFromPool="true">
+  <category Name="Physical">
+    <mutation Name="Dark Vision" DisplayName="暗视" BearerDescription="暗视者">
+      <description />
+      <leveltext>
+                    <p>你能在暗中视物。</p>
+                </leveltext>
+    </mutation>
+    <mutation Name="Heightened Smell" DisplayName="嗅觉增强" BearerDescription="嗅觉敏锐者">
+      <description>
+                    <p>你生就异常敏锐的嗅觉。</p>
+                </description>
+      <leveltext>
+                    <p>你能察觉一定范围内的生物，范围视地形而定，至多可达<stat Name="Radius" Unit="格" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="true"><p>有几率辨识附近已察觉的生物</p></case>
+                        <default><p>{{rules|辨识附近已察觉生物的几率提高}}</p></default>
+                    </switch>
+                </leveltext>
+    </mutation>
+    <mutation Name="Gills" DisplayName="鳃" BearerDescription="生鳃者" />
+    <mutation Name="Infiltrate" DisplayName="潜入" BearerDescription="潜行渗透者">
+      <description>
+                    <p>你可传送自身，并携带周围生物同行。</p>
+                </description>
+      <leveltext>
+                    <p>你传送至附近某处，并带上半径<stat Name="TeleportRadius" />以内的所有生物同行。</p>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+    <mutation Name="Heat Absorption" DisplayName="热量吸收" BearerDescription="吸热者">
+      <description>
+                    <p>你通过吸收热量来再生。</p>
+                </description>
+      <leveltext>
+                    <p>免疫热伤害</p>
+                    <switch Name="HealFactor">
+                        <case Value="0" />
+                        <default><p>每当你本应受到热伤害时，改为恢复该伤害<stat Name="HealFactor" />%的生命值</p></default>
+                    </switch>
+                </leveltext>
+    </mutation>
+    <mutation Name="Wall Climber" DisplayName="攀墙" BearerDescription="攀壁者" />
+    <mutation Name="Spider Webs" DisplayName="蛛网" BearerDescription="织网者" />
+    <mutation Name="Frost Webs" DisplayName="霜网" BearerDescription="织霜网者" />
+    <mutation Name="Acid Slime Glands" DisplayName="酸液黏液腺" BearerDescription="喷酸者" />
+    <mutation Name="Sticky Tongue" DisplayName="黏舌" BearerDescription="生黏舌者" />
+    <mutation Name="Spore Puff" DisplayName="孢子喷雾" BearerDescription="喷吐孢子者" />
+    <mutation Name="Magnetic Pulse" DisplayName="磁脉冲" BearerDescription="发射磁脉冲者" />
+    <mutation Name="Urchin Belching" DisplayName="海胆喷吐" BearerDescription="呕出海胆者" />
+    <mutation Name="Waveform" DisplayName="波形" BearerDescription="沿波形疾驰者" />
+    <mutation Name="Multiple Horns" DisplayName="多角" BearerDescription="多角者" />
+    <mutation Name="Astral" DisplayName="星界" BearerDescription="星界者" />
+    <mutation Name="Decarbonizer" DisplayName="脱碳器" BearerDescription="抽取碳者" />
+    <mutation Name="Lithifying Gaze" DisplayName="石化凝视" BearerDescription="以凝视石化者" />
+    <mutation Name="Crungling Gaze" DisplayName="克朗格尔凝视" BearerDescription="以凝视引梦者" />
+    <mutation Name="Liquid Font" DisplayName="液体喷泉" BearerDescription="渗流体液者" />
+    <mutation Name="Irisdual Beam" DisplayName="虹膜双束" BearerDescription="蜕出光束者" />
+    <mutation Name="Bilge Sphincter" DisplayName="污水括约肌" BearerDescription="粪泄括约者" />
+    <mutation Name="Crystallinity" DisplayName="结晶化" BearerDescription="晶体化者" />
+    <mutation Name="Fear Aura" DisplayName="恐惧灵气" BearerDescription="气势骇人者" />
+    <mutation Name="Burrowing" DisplayName="掘地" BearerDescription="潜地掘行者" />
+    <mutation Name="Liquid Spitter" DisplayName="液体喷吐" BearerDescription="喷液者" />
+    <mutation Name="Freezing Ultraray" DisplayName="冰冻超射线" BearerDescription="手冻如冰者" />
+    <mutation Name="Defensive Chromatophores" DisplayName="防御性变色细胞" BearerDescription="闪耀者" />
+    <mutation Name="Fire Breath" DisplayName="喷火" BearerDescription="吐火者" />
+    <mutation Name="Ice Breath" DisplayName="吐冰" BearerDescription="吐冰者" />
+    <mutation Name="Normality Breath" DisplayName="常态吐息" BearerDescription="吐常态之息者" />
+    <mutation Name="Corrosive Breath" DisplayName="腐蚀吐息" BearerDescription="吐息蚀物者" />
+    <mutation Name="Confusing Breath" DisplayName="迷乱吐息" BearerDescription="吐息惑人者" />
+    <mutation Name="Stun Breath" DisplayName="昏迷吐息" BearerDescription="吐息致晕者" />
+    <mutation Name="Poison Breath" DisplayName="毒息" BearerDescription="吐息含毒者" />
+    <mutation Name="Sleep Breath" DisplayName="催眠吐息" BearerDescription="吐息催眠者" />
+    <mutation Name="Shame Breath" DisplayName="羞愧吐息" BearerDescription="吐息令人羞愧者" />
+    <mutation Name="Plasma Emission" DisplayName="等离子体喷发" BearerDescription="放射等离子者">
+      <description>
+                    <p>你在自身周围释放一团<stat Name="GasName" />。</p>
+                </description>
+      <leveltext>
+                    <p>释放气体，持续<stat Name="Duration" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="raise"><p>{{rules|<stat Name="LevelEffectDescription" />提高}}</p></case>
+                        <case Value="lower"><p>{{rules|<stat Name="LevelEffectDescription" />降低}}</p></case>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+    <mutation Name="Poison Gas Generation" DisplayName="毒气生成" BearerDescription="排放毒气者">
+      <description>
+                    <p>你在自身周围释放一团<stat Name="GasName" />。</p>
+                </description>
+      <leveltext>
+                    <p>释放气体，持续<stat Name="Duration" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="raise"><p>{{rules|<stat Name="LevelEffectDescription" />提高}}</p></case>
+                        <case Value="lower"><p>{{rules|<stat Name="LevelEffectDescription" />降低}}</p></case>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+    <mutation Name="Defoliant Generation" DisplayName="落叶剂生成" BearerDescription="排放落叶剂者">
+      <description>
+                    <p>你在自身周围释放一团<stat Name="GasName" />。</p>
+                </description>
+      <leveltext>
+                    <p>释放气体，持续<stat Name="Duration" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="raise"><p>{{rules|<stat Name="LevelEffectDescription" />提高}}</p></case>
+                        <case Value="lower"><p>{{rules|<stat Name="LevelEffectDescription" />降低}}</p></case>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+    <mutation Name="Fungicide Generation" DisplayName="杀菌剂生成" BearerDescription="排放杀菌剂者">
+      <description>
+                    <p>你在自身周围释放一团<stat Name="GasName" />。</p>
+                </description>
+      <leveltext>
+                    <p>释放气体，持续<stat Name="Duration" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="raise"><p>{{rules|<stat Name="LevelEffectDescription" />提高}}</p></case>
+                        <case Value="lower"><p>{{rules|<stat Name="LevelEffectDescription" />降低}}</p></case>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+    <mutation Name="Confusion Gas Generation" DisplayName="致乱气体生成" BearerDescription="排放致乱气体者">
+      <description>
+                    <p>你在自身周围释放一团<stat Name="GasName" />。</p>
+                </description>
+      <leveltext>
+                    <p>释放气体，持续<stat Name="Duration" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="raise"><p>{{rules|<stat Name="LevelEffectDescription" />提高}}</p></case>
+                        <case Value="lower"><p>{{rules|<stat Name="LevelEffectDescription" />降低}}</p></case>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+    <mutation Name="Normality Gas Generation" DisplayName="常态气体生成" BearerDescription="排放常态气体者">
+      <description>
+                    <p>你在自身周围释放一团<stat Name="GasName" />。</p>
+                </description>
+      <leveltext>
+                    <p>释放气体，持续<stat Name="Duration" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="raise"><p>{{rules|<stat Name="LevelEffectDescription" />提高}}</p></case>
+                        <case Value="lower"><p>{{rules|<stat Name="LevelEffectDescription" />降低}}</p></case>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+    <mutation Name="Glitter Dust Generation" DisplayName="辉尘生成" BearerDescription="排放微光者">
+      <description>
+                    <p>你在自身周围释放一团<stat Name="GasName" />。</p>
+                </description>
+      <leveltext>
+                    <p>释放气体，持续<stat Name="Duration" /></p>
+                    <switch Name="LevelMatch">
+                        <case Value="raise"><p>{{rules|<stat Name="LevelEffectDescription" />提高}}</p></case>
+                        <case Value="lower"><p>{{rules|<stat Name="LevelEffectDescription" />降低}}</p></case>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+  </category>
+  <category Name="Mental">
+    <mutation Name="Invisibility" DisplayName="隐形" BearerDescription="隐形者" />
+    <mutation Name="Interdiction" DisplayName="禁制" BearerDescription="设禁者" />
+    <mutation Name="Ley Shifting" DisplayName="界脉转移" BearerDescription="挪移时空者" />
+    <mutation Name="Quantum Fugue" DisplayName="量子狂想" BearerDescription="量子逃亡者" />
+    <mutation Name="Reflect Shame" DisplayName="映照羞耻" BearerDescription="反射羞愧者">
+      <description>
+                    <p>你映出周围生物那羞惭难堪的面容。</p>
+                </description>
+      <leveltext />
+    </mutation>
+    <mutation Name="Repelling Force" DisplayName="排斥力场" BearerDescription="排斥者">
+      <description>
+                    <p>你在四周激起一股排斥之力，将敌人击退。</p>
+                </description>
+      <leveltext>
+                    <statline Name="Area" DisplayName="范围" />
+                    <switch Name="LevelMatch">
+                        <case Value="true"><p>范围内的生物会被推离爆心。</p></case>
+                        <default><p>{{rules|推力提高}}</p></default>
+                    </switch>
+                    <statline Name="Cooldown" DisplayName="冷却时间" />
+                </leveltext>
+    </mutation>
+  </category>
+</mutations>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<genders Lang="zh">
+  <gender Name="neuter" Subjective="它" Objective="它" PossessiveAdjective="它的" SubstantivePossessive="它的" Reflexive="它自己" />
+  <gender Name="nonspecific" Subjective="TA" Objective="TA" PossessiveAdjective="TA的" SubstantivePossessive="TA的" Reflexive="TA自己" />
+  <gender Name="neuterperson" Subjective="它" Objective="它" PossessiveAdjective="它的" SubstantivePossessive="它的" Reflexive="它自己" />
+  <gender Name="male" Subjective="他" Objective="他" PossessiveAdjective="他的" SubstantivePossessive="他的" Reflexive="他自己" PersonTerm="男人" ImmaturePersonTerm="男孩" FormalAddressTerm="朋友" OffspringTerm="儿子" SiblingTerm="兄弟" ParentTerm="父亲" />
+  <gender Name="female" Subjective="她" Objective="她" PossessiveAdjective="她的" SubstantivePossessive="她的" Reflexive="她自己" PersonTerm="女人" ImmaturePersonTerm="女孩" FormalAddressTerm="朋友" OffspringTerm="女儿" SiblingTerm="姐妹" ParentTerm="母亲" />
+  <gender Name="plural" Subjective="他们" Objective="他们" PossessiveAdjective="他们的" SubstantivePossessive="他们的" Reflexive="他们自己" PersonTerm="人们" ImmaturePersonTerm="孩子们" FormalAddressTerm="朋友们" OffspringTerm="子女" SiblingTerm="同胞" ParentTerm="先祖" />
+  <gender Name="collective" Subjective="他们" Objective="他们" PossessiveAdjective="他们的" SubstantivePossessive="他们的" Reflexive="他们自己" PersonTerm="人类" ImmaturePersonTerm="孩子们" FormalAddressTerm="朋友们" OffspringTerm="子女" SiblingTerm="同胞" ParentTerm="先祖" />
+  <gender Name="males" Subjective="他们" Objective="他们" PossessiveAdjective="他们的" SubstantivePossessive="他们的" Reflexive="他们自己" PersonTerm="男人们" ImmaturePersonTerm="男孩们" FormalAddressTerm="朋友们" OffspringTerm="儿子们" SiblingTerm="兄弟们" ParentTerm="父亲们" />
+  <gender Name="females" Subjective="她们" Objective="她们" PossessiveAdjective="她们的" SubstantivePossessive="她们的" Reflexive="她们自己" PersonTerm="女人们" ImmaturePersonTerm="女孩们" FormalAddressTerm="朋友们" OffspringTerm="女儿们" SiblingTerm="姐妹们" ParentTerm="母亲们" />
+  <gender Name="hindren male" Subjective="他" Objective="他" PossessiveAdjective="他的" SubstantivePossessive="他的" Reflexive="他自己" PersonTerm="男子" ImmaturePersonTerm="小欣德伦" FormalAddressTerm="雄鹿" OffspringTerm="儿子" SiblingTerm="兄弟" ParentTerm="父亲" />
+  <gender Name="hindren female" Subjective="她" Objective="她" PossessiveAdjective="她的" SubstantivePossessive="她的" Reflexive="她自己" PersonTerm="女子" ImmaturePersonTerm="小欣德伦" FormalAddressTerm="我的母鹿" OffspringTerm="女儿" SiblingTerm="姐妹" ParentTerm="母亲" />
+  <gender Name="hartind" Subjective="TA" Objective="TA" PossessiveAdjective="TA的" SubstantivePossessive="TA的" Reflexive="TA自己" PersonTerm="哈廷德" ImmaturePersonTerm="小欣德伦" FormalAddressTerm="哈廷德" OffspringTerm="孩子" SiblingTerm="手足" ParentTerm="双亲" />
+  <gender Name="elverson" Subjective="TA" Objective="TA" PossessiveAdjective="TA的" SubstantivePossessive="TA的" Reflexive="TA自己" PersonTerm="人" ImmaturePersonTerm="孩子" FormalAddressTerm="朋友" OffspringTerm="孩子" SiblingTerm="手足" ParentTerm="双亲" />
+</genders>

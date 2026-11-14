@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<commands Lang="zh" LoadPriority="-1100">
+  <command ID="AdventureMouseLook" DisplayText="鼠标观察" />
+  <command ID="CmdVendorRepair" DisplayText="请商贩修理" />
+  <command ID="CmdShowSidebar" DisplayText="切换侧边栏" />
+  <command ID="CmdAltFire1" DisplayText="备选远程射击1" />
+  <command ID="CmdMoveFarS" DisplayText="移至南侧边缘" />
+  <command ID="CmdAbilityBar2" DisplayText="切换至能力栏2" />
+  <command ID="CmdTradeAdd" DisplayText="添加一件物品" />
+  <command ID="ForceAttack" DisplayText="指明方向后强制攻击" />
+  <command ID="CmdZoomIn" DisplayText="放大" />
+  <command ID="CmdLockUnlock" DisplayText="切换目标锁定" />
+  <command ID="CmdEquipment" DisplayText="打开装备界面" />
+  <command ID="Page Left" DisplayText="上一页" />
+  <command ID="CmdVendorRecharge" DisplayText="请商贩为物品充能" />
+  <command ID="Use Ability" DisplayText="使用选中的能力" />
+  <command ID="CmdMarkTarget" DisplayText="标记目标" />
+  <command ID="CmdTinkering" DisplayText="打开修补术界面" />
+  <command ID="CmdJournal" DisplayText="打开日志" />
+  <command ID="CmdAttackNearest" DisplayText="近战攻击最近的敌人" />
+  <command ID="AdventureMouseInteract" DisplayText="鼠标交互" />
+  <command ID="CmdExplore" DisplayText="显示整张地图" />
+  <command ID="CmdMoveMenu" DisplayText="调出移动菜单" />
+  <command ID="CmdOptions" DisplayText="查看选项" />
+  <command ID="CmdWaitUntilHealed" DisplayText="休息至痊愈" />
+  <command ID="CmdVendorLook" DisplayText="查看物品" />
+  <command ID="CmdAbility1" DisplayText="使用能力1" />
+  <command ID="CmdAttackE" DisplayText="强制攻击东侧" />
+  <command ID="CmdCompanions" DisplayText="与同伴互动" />
+  <command ID="CmdGetFrom" DisplayText="与附近目标互动" />
+  <command ID="CmdMoveSW" DisplayText="向西南移动" />
+  <command ID="CmdAbilityBar5" DisplayText="切换至能力栏5" />
+  <command ID="CmdSave" DisplayText="保存游戏" />
+  <command ID="CmdAbility10" DisplayText="使用能力10" />
+  <command ID="V Negative" DisplayText="降低数值" />
+  <command ID="LookDirection" DisplayText="朝一个方向观察" />
+  <command ID="CmdNoclipD" DisplayText="穿墙向下移动" />
+  <command ID="CmdMoveFarNE" DisplayText="移动至东北角" />
+  <command ID="CmdWishMenu" DisplayText="许愿菜单" />
+  <command ID="CmdAttackSW" DisplayText="强制攻击西南侧" />
+  <command ID="CmdAbility2" DisplayText="使用能力2" />
+  <command ID="CmdWalk" DisplayText="朝一个方向行走" />
+  <command ID="AdventureMouseQuickLook" DisplayText="鼠标快速查看" />
+  <command ID="CmdAttackDirection" DisplayText="朝一个方向强制攻击" />
+  <command ID="CmdDebugQuickstart" DisplayText="快速入门（需启用调试选项）" />
+  <command ID="CmdAbilityBar1" DisplayText="切换至能力栏1" />
+  <command ID="CmdMoveCenter" DisplayText="移至中心" />
+  <command ID="CmdInventory" DisplayText="打开物品栏" />
+  <command ID="CmdMoveToEdge" DisplayText="移至区域边缘" />
+  <command ID="UI:DetailsNavigate/down" DisplayText="向下浏览详情" />
+  <command ID="LookDirection/left" DisplayText="向西观察" />
+  <command ID="CmdMoveSE" DisplayText="向东南移动" />
+  <command ID="CmdAltFire5" DisplayText="备选远程射击5" />
+  <command ID="CmdAbility9" DisplayText="使用能力9" />
+  <command ID="CmdAbilities" DisplayText="打开能力界面" />
+  <command ID="CmdWish" DisplayText="许愿" />
+  <command ID="Toggle" DisplayText="切换" />
+  <command ID="CmdStatusBuyMutation" DisplayText="属性屏幕：购买新变异" />
+  <command ID="CmdMoveD" DisplayText="向下移动" />
+  <command ID="CmdMoveNW" DisplayText="向西北移动" />
+  <command ID="Page Up" DisplayText="向上翻页" />
+  <command ID="CmdTalk" DisplayText="交谈" />
+  <command ID="InventoryQuickDrink" DisplayText="物品栏：饮用容器中的液体" />
+  <command ID="UI:DetailsNavigate/right" DisplayText="向右浏览详情" />
+  <command ID="CmdStartTrade" DisplayText="从对话开始交易" />
+  <command ID="CmdMoveE" DisplayText="向东移动" />
+  <command ID="CmdChargenItemOptions" DisplayText="为选中物品选择选项" />
+  <command ID="UI:DetailsNavigate/up" DisplayText="向上浏览详情" />
+  <command ID="CmdSkillsPowers" DisplayText="打开技能界面" />
+  <command ID="CmdAltFire4" DisplayText="备选远程射击4" />
+  <command ID="CmdVendorRead" DisplayText="阅读书籍" />
+  <command ID="CmdMoveFarN" DisplayText="移动到北侧边缘" />
+  <command ID="Navigate Vertical" DisplayText="向北 / 南移动（旧版界面中向上 / 下导航菜单）" />
+  <command ID="CmdShowBrainlog" DisplayText="显示脑内日志" />
+  <command ID="CmdMessageHistory" DisplayText="显示消息历史" />
+  <command ID="UI:Navigate/up" DisplayText="向上导航" />
+  <command ID="CmdGet" DisplayText="拾取" />
+  <command ID="IndicateDirection/right" DisplayText="指定东方" />
+  <command ID="Highlight" DisplayText="调出覆盖层 / 提示框" />
+  <command ID="UI:DetailsNavigate" DisplayText="浏览详情" />
+  <command ID="Ability Page Down" DisplayText="能力栏向下翻页" />
+  <command ID="CmdChargenMutationVariant" DisplayText="选择一种变异变体" />
+  <command ID="UI:Navigate/right" DisplayText="向右导航" />
+  <command ID="CmdCharacter" DisplayText="打开属性界面" />
+  <command ID="CmdWhereAmI" DisplayText="在地图上标出你的位置" />
+  <command ID="Take All" DisplayText="全部拿取" />
+  <command ID="IndicateDirection/up" DisplayText="指示北方" />
+  <command ID="CmdFire" DisplayText="发射远程武器" />
+  <command ID="CmdAbility6" DisplayText="使用能力6" />
+  <command ID="UI:DetailsNavigate/left" DisplayText="向左浏览详情" />
+  <command ID="CmdNoclipU" DisplayText="穿墙向上移动" />
+  <command ID="Page Down" DisplayText="向下翻页" />
+  <command ID="AdventureMouseContextAction" DisplayText="鼠标智能使用" />
+  <command ID="GamepadAlt" DisplayText="手柄辅助键" />
+  <command ID="InventoryQuickDrop" DisplayText="物品栏：丢弃物品" />
+  <command ID="Submit" DisplayText="提交文本" />
+  <command ID="CmdAttackSE" DisplayText="强制攻击东南方" />
+  <command ID="Take A Step" DisplayText="指示方向后迈步" />
+  <command ID="Category Right" DisplayText="下一类别" />
+  <command ID="CmdAttackNE" DisplayText="强制攻击东北方" />
+  <command ID="CmdAbility5" DisplayText="使用能力5" />
+  <command ID="CmdMoveN" DisplayText="向北移动" />
+  <command ID="CmdTarget" DisplayText="选择目标" />
+  <command ID="CmdTradeRemove" DisplayText="移除一件物品" />
+  <command ID="CmdStatusShowEffects" DisplayText="属性屏幕：显示状态效果" />
+  <command ID="CmdTradeToggleAll" DisplayText="添加／移除整个物品栏" />
+  <command ID="CmdShowReachability" DisplayText="显示可达性地图" />
+  <command ID="CmdReload" DisplayText="装填远程武器" />
+  <command ID="CmdAbility4" DisplayText="使用能力4" />
+  <command ID="CmdXP" DisplayText="获得250,000经验值" />
+  <command ID="CmdMoveFarE" DisplayText="移至东侧边缘" />
+  <command ID="Navigate Horizontal" DisplayText="向西 / 向东（旧版界面中向左 / 向右导航菜单）" />
+  <command ID="CmdAltFire3" DisplayText="备选远程射击3" />
+  <command ID="CmdDismemberLimb" DisplayText="肢解肢体" />
+  <command ID="CmdAttackU" DisplayText="强制向上攻击" />
+  <command ID="CmdMoveTo" DisplayText="移动至格子" />
+  <command ID="CmdMoveW" DisplayText="向西移动" />
+  <command ID="CmdInsert" DisplayText="插入" />
+  <command ID="CmdMoveS" DisplayText="向南移动" />
+  <command ID="CmdAttackD" DisplayText="强制向下攻击" />
+  <command ID="CmdWait20" DisplayText="等待20回合" />
+  <command ID="CmdSystemMenu" DisplayText="系统菜单" />
+  <command ID="LookDirection/down" DisplayText="向南观察" />
+  <command ID="CmdAttackCell" DisplayText="选择格子以强制攻击" />
+  <command ID="CmdWaitMenu" DisplayText="打开等待菜单" />
+  <command ID="AdventureNavMouseLeftClick" DisplayText="鼠标左键指定目标" />
+  <command ID="CmdVendorActions" DisplayText="与物品交互" />
+  <command ID="CmdMoveNE" DisplayText="向东北移动" />
+  <command ID="CmdShowSidebarMessages" DisplayText="切换侧栏模式" />
+  <command ID="CmdQuests" DisplayText="打开任务界面" />
+  <command ID="CmdReplaceCell" DisplayText="更换能量电池" />
+  <command ID="CmdWaitUntilPartyHealed" DisplayText="休息至全队痊愈" />
+  <command ID="CmdLook" DisplayText="查看" />
+  <command ID="CmdWait100" DisplayText="等待100回合" />
+  <command ID="CmdWaitUntilMorning" DisplayText="休息至清晨" />
+  <command ID="CmdChargenReset" DisplayText="重置选择" />
+  <command ID="CmdMoveToPointOfInterest" DisplayText="移至兴趣点" />
+  <command ID="CmdAutoAttack" DisplayText="近战自动攻击" />
+  <command ID="CmdTargetSelf" DisplayText="指定自身为目标" />
+  <command ID="CmdRegenerateLimb" DisplayText="再生肢体" />
+  <command ID="Previous Ability" DisplayText="上一项能力" />
+  <command ID="CmdLastStatusPage" DisplayText="打开角色界面上次查看的页面" />
+  <command ID="UI:Navigate/down" DisplayText="向下导航" />
+  <command ID="CmdAttackW" DisplayText="强制向西攻击" />
+  <command ID="CmdZoomOut" DisplayText="缩小" />
+  <command ID="CmdAttackS" DisplayText="强制向南攻击" />
+  <command ID="AdventureNavMouseRightClick" DisplayText="鼠标瞄准：右键" />
+  <command ID="CmdAttackN" DisplayText="强制向北攻击" />
+  <command ID="CmdActiveEffects" DisplayText="打开状态效果界面" />
+  <command ID="Page Right" DisplayText="下一页" />
+  <command ID="CmdUse" DisplayText="使用" />
+  <command ID="CmdFactions" DisplayText="打开声望界面" />
+  <command ID="CmdChargenRandom" DisplayText="随机选择" />
+  <command ID="CmdMoveU" DisplayText="向上移动" />
+  <command ID="CmdThrow" DisplayText="投掷" />
+  <command ID="CmdFilter" DisplayText="筛选/搜索" />
+  <command ID="CmdAttackNW" DisplayText="强制向西北攻击" />
+  <command ID="CmdAltFire2" DisplayText="备选远程射击2" />
+  <command ID="UI:Navigate/left" DisplayText="向左导航" />
+  <command ID="CmdToggleMessageVerbosity" DisplayText="切换简略消息" />
+  <command ID="Next Ability" DisplayText="下一项能力" />
+  <command ID="InventoryQuickApply" DisplayText="物品栏：使用物品" />
+  <command ID="InventoryQuickEat" DisplayText="物品栏：食用物品" />
+  <command ID="IndicateDirection/down" DisplayText="指定南方" />
+  <command ID="CmdAbilityBar4" DisplayText="切换至能力栏4" />
+  <command ID="CmdToggleAnimation" DisplayText="切换动画" />
+  <command ID="Category Left" DisplayText="上一类别" />
+  <command ID="CmdAbility3" DisplayText="使用能力3" />
+  <command ID="Store Items" DisplayText="存放物品" />
+  <command ID="CmdAbility7" DisplayText="使用能力7" />
+  <command ID="AdventureMouseForceMove" DisplayText="鼠标强制移动" />
+  <command ID="CmdMoveFarSE" DisplayText="移动至东南角" />
+  <command ID="CmdAutoExplore" DisplayText="自动探索" />
+  <command ID="CmdAbility8" DisplayText="使用能力8" />
+  <command ID="CmdMoveFarNW" DisplayText="移动至西北角" />
+  <command ID="CmdWait" DisplayText="等待/扑打火焰" />
+  <command ID="AdventureMouseInteractAll" DisplayText="鼠标与全部对象互动" />
+  <command ID="CmdOpen" DisplayText="打开" />
+  <command ID="CmdLoad" DisplayText="载入游戏" />
+  <command ID="CmdTradeAllItems" DisplayText="添加 / 移除整组物品" />
+  <command ID="CmdWaitN" DisplayText="等待若干回合" />
+  <command ID="CmdMoveFarSW" DisplayText="移动至西南角" />
+  <command ID="Ability Page Up" DisplayText="能力栏向上翻页" />
+  <command ID="CmdShowFPS" DisplayText="显示帧率" />
+  <command ID="CmdAbilityBar3" DisplayText="切换至能力栏3" />
+  <command ID="CmdMissileWeaponMenu" DisplayText="打开远程武器菜单" />
+  <command ID="CmdVendorExamine" DisplayText="让商贩鉴定" />
+  <command ID="V Positive" DisplayText="增大数值" />
+  <command ID="LookDirection/right" DisplayText="向东观察" />
+  <command ID="IndicateDirection/left" DisplayText="指定西方" />
+  <command ID="LookDirection/up" DisplayText="向北观察" />
+  <command ID="AdventureMouseForceAttack" DisplayText="鼠标强制攻击" />
+  <command ID="CmdMoveFarW" DisplayText="移至西侧边缘" />
+</commands>

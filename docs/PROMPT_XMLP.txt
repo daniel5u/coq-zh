@@ -1,0 +1,5 @@
+Read docs/PROMPT_DESC.txt and docs/RUN_RULES.txt and follow them, with {BATCHES} = {LIST}.
+These units (attr "#inner") are the rules/description paragraphs of mutations, activated abilities and status effects (what the player reads when choosing a mutation or hovering an effect). The `src` is the INNER XML of a <p> element and contains placeholder tags such as <stat Name="StingerPen" />, <gametext>=pv=...</gametext>, <br />, <statline .../>. Keep every tag byte-for-byte (same tags, same attributes, same count; you may move them within the sentence) and translate only the text between them. The output must be well-formed XML content: escape a literal ampersand as &amp; (keep existing &amp; as is), never write a raw < or >. Example:
+src: You bear a tail with a stinger that delivers <stat Name="VenomType" /> venom to your enemies.
+zh : 你生有一条带毒刺的尾巴，能向敌人注入<stat Name="VenomType" />毒液。
+Use precise game-rules Chinese consistent with existing terms (护甲值/闪避值/迅捷/回合/穿透/冷却…; mutation and skill names via `python3 tools/lookup.py`).

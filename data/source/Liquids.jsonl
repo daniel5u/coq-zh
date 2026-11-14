@@ -1,0 +1,283 @@
+{"id": "Liquids#00001", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Acid][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00002", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Acid][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00003", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Acid][displayName]", "src": "{{G|acid}}"}
+{"id": "Liquids#00004", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Acid][adjective]", "src": "{{G|acidic}}"}
+{"id": "Liquids#00005", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Acid][waterRitualName]", "src": "acid"}
+{"id": "Liquids#00006", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Acid][smearedAdjective]", "src": "{{G|acidic}}"}
+{"id": "Liquids#00007", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Acid][smearedName]", "src": "{{G|acid-covered}}"}
+{"id": "Liquids#00008", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Acid][stainedName]", "src": "{{G|acid}}"}
+{"id": "Liquids#00009", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Acid][part,Name=MessageOnDrink]", "src": "{{G|IT BURNS!}}"}
+{"id": "Liquids#00010", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Acid][part,Name=DamageOnDrink]", "src": "from {{G|drinking acid}}!"}
+{"id": "Liquids#00011", "file": "Liquids", "tag": "part", "attr": "DamageMessage", "path": "[liquids][liquid,Name=Acid][part,Name=AcidEating]", "src": "from {{G|acid}}!"}
+{"id": "Liquids#00012", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00013", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00014", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][displayName]", "src": "{{K|asphalt}}"}
+{"id": "Liquids#00015", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][adjective]", "src": "{{K|tarry}}"}
+{"id": "Liquids#00016", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][waterRitualName]", "src": "tar"}
+{"id": "Liquids#00017", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][smearedAdjective]", "src": "{{K|tarry}}"}
+{"id": "Liquids#00018", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][smearedName]", "src": "{{K|tarred}}"}
+{"id": "Liquids#00019", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Asphalt][stainedName]", "src": "{{K|tar}}"}
+{"id": "Liquids#00020", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Asphalt][part,Name=MessageOnDrink]", "src": "{{K|It burns!}}"}
+{"id": "Liquids#00021", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Asphalt][part,Name=DamageOnDrink]", "src": "from {{K|drinking asphalt}}!"}
+{"id": "Liquids#00022", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Algae][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00023", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Algae][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00024", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Algae][displayName]", "src": "{{g|algae}}"}
+{"id": "Liquids#00025", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Algae][adjective]", "src": "{{g|algal}}"}
+{"id": "Liquids#00026", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Algae][waterRitualName]", "src": "algae"}
+{"id": "Liquids#00027", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Algae][smearedAdjective]", "src": "{{g|algal}}"}
+{"id": "Liquids#00028", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Algae][smearedName]", "src": "{{g|algae-covered}}"}
+{"id": "Liquids#00029", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Algae][stainedName]", "src": "{{g|algae}}"}
+{"id": "Liquids#00030", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Algae][part,Name=SnackOnDrink]", "src": "The brine stings your mouth and fills your breath with lake air."}
+{"id": "Liquids#00031", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Blood][circulatoryLossTerm]", "src": "bleeding"}
+{"id": "Liquids#00032", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Blood][circulatoryLossNoun]", "src": "bleed"}
+{"id": "Liquids#00033", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Blood][displayName]", "src": "{{r|blood}}"}
+{"id": "Liquids#00034", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Blood][adjective]", "src": "{{r|bloody}}"}
+{"id": "Liquids#00035", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Blood][waterRitualName]", "src": "blood"}
+{"id": "Liquids#00036", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Blood][smearedAdjective]", "src": "{{r|bloody}}"}
+{"id": "Liquids#00037", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Blood][smearedName]", "src": "{{r|bloody}}"}
+{"id": "Liquids#00038", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Blood][stainedName]", "src": "{{r|blood}}"}
+{"id": "Liquids#00039", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Blood][part,Name=MessageOnDrink]", "src": "It has a metallic taste."}
+{"id": "Liquids#00040", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00041", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00042", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][displayName]", "src": "{{brainbrine|brain brine}}"}
+{"id": "Liquids#00043", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][adjective]", "src": "{{nervous|nervous}}"}
+{"id": "Liquids#00044", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][waterRitualName]", "src": "brain brine"}
+{"id": "Liquids#00045", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][smearedAdjective]", "src": "{{nervous|nervous}}"}
+{"id": "Liquids#00046", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][smearedName]", "src": "{{nervous|nervous}}"}
+{"id": "Liquids#00047", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=BrainBrine][stainedName]", "src": "{{brainbrine|brain-brine}}"}
+{"id": "Liquids#00048", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Cider][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00049", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Cider][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00050", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Cider][displayName]", "src": "{{cider|cider}}"}
+{"id": "Liquids#00051", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Cider][adjective]", "src": "{{cider|spiced}}"}
+{"id": "Liquids#00052", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Cider][waterRitualName]", "src": "cider"}
+{"id": "Liquids#00053", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Cider][smearedAdjective]", "src": "{{cider|fragrant}}"}
+{"id": "Liquids#00054", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Cider][smearedName]", "src": "{{cider|fragrant}}"}
+{"id": "Liquids#00055", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Cider][stainedName]", "src": "{{cider|cider}}"}
+{"id": "Liquids#00056", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Cider][part,Name=DrankWine]", "src": "It is spicy and delicious."}
+{"id": "Liquids#00057", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00058", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00059", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][displayName]", "src": "{{cloning|cloning draught}}"}
+{"id": "Liquids#00060", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][adjective]", "src": "{{cloning|homogenized}}"}
+{"id": "Liquids#00061", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][waterRitualName]", "src": "draught"}
+{"id": "Liquids#00062", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][smearedAdjective]", "src": "{{cloning|homogenized}}"}
+{"id": "Liquids#00063", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][smearedName]", "src": "{{cloning|homogenized}}"}
+{"id": "Liquids#00064", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=CloningDraught][stainedName]", "src": "{{cloning|cloning-draught}}"}
+{"id": "Liquids#00065", "file": "Liquids", "tag": "part", "attr": "DrinkMessage", "path": "[liquids][liquid,Name=CloningDraught][part,Name=CloningBehaviors]", "src": "You feel unsettlingly ambivalent."}
+{"id": "Liquids#00066", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00067", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00068", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][displayName]", "src": "{{C|convalessence}}"}
+{"id": "Liquids#00069", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][adjective]", "src": "{{C|luminous}}"}
+{"id": "Liquids#00070", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][waterRitualName]", "src": "convalessence"}
+{"id": "Liquids#00071", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][smearedAdjective]", "src": "{{C|luminous}}"}
+{"id": "Liquids#00072", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][smearedName]", "src": "{{C|luminous}}"}
+{"id": "Liquids#00073", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][stainedName]", "src": "{{C|convalessence}}"}
+{"id": "Liquids#00074", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Convalessence][part,Name=MessageOnDrink]", "src": "It's effervescent!"}
+{"id": "Liquids#00075", "file": "Liquids", "tag": "verb", "attr": "#text", "path": "[liquids][liquid,Name=Convalessence][freezeObject,Name=CryoGas][verb]", "src": "sublimate"}
+{"id": "Liquids#00076", "file": "Liquids", "tag": "slipperyMessage", "attr": "#text", "path": "[liquids][liquid,Name=Gel][slipperyMessage]", "src": "{{Y|=subject.Does:slip= on the gel!}}"}
+{"id": "Liquids#00077", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Gel][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00078", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Gel][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00079", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Gel][displayName]", "src": "{{Y|gel}}"}
+{"id": "Liquids#00080", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Gel][adjective]", "src": "{{Y|unctuous}}"}
+{"id": "Liquids#00081", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Gel][waterRitualName]", "src": "gel"}
+{"id": "Liquids#00082", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Gel][smearedAdjective]", "src": "{{Y|unctuous}}"}
+{"id": "Liquids#00083", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Gel][smearedName]", "src": "{{Y|unctuous}}"}
+{"id": "Liquids#00084", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Gel][stainedName]", "src": "{{Y|gel}}"}
+{"id": "Liquids#00085", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Gel][part,Name=MessageOnDrink]", "src": "It's very greasy."}
+{"id": "Liquids#00086", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][circulatoryLossTerm]", "src": "oozing"}
+{"id": "Liquids#00087", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][circulatoryLossNoun]", "src": "ooze"}
+{"id": "Liquids#00088", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][displayName]", "src": "{{G|green goo}}"}
+{"id": "Liquids#00089", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][adjective]", "src": "{{G|gooey}}"}
+{"id": "Liquids#00090", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][waterRitualName]", "src": "goo"}
+{"id": "Liquids#00091", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][smearedAdjective]", "src": "{{G|gooey}}"}
+{"id": "Liquids#00092", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][smearedName]", "src": "{{G|gooey}}"}
+{"id": "Liquids#00093", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=GreenGoo][stainedName]", "src": "{{G|goo}}"}
+{"id": "Liquids#00094", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=GreenGoo][part,Name=PoisonOnGoingProne]", "src": "Poisonous goo burns your eyes."}
+{"id": "Liquids#00095", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=GreenGoo][part,Name=PoisonOnDrink]", "src": "You feel poison course through your veins!"}
+{"id": "Liquids#00096", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=GreenGoo][part,Name=MessageOnDrink]", "src": "It's awful!"}
+{"id": "Liquids#00097", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Honey][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00098", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Honey][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00099", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Honey][displayName]", "src": "{{w|honey}}"}
+{"id": "Liquids#00100", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Honey][adjective]", "src": "{{w|honeyed}}"}
+{"id": "Liquids#00101", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Honey][waterRitualName]", "src": "honey"}
+{"id": "Liquids#00102", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Honey][smearedAdjective]", "src": "{{w|sticky}}"}
+{"id": "Liquids#00103", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Honey][smearedName]", "src": "{{w|sticky}}"}
+{"id": "Liquids#00104", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Honey][stainedName]", "src": "{{w|honey}}"}
+{"id": "Liquids#00105", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Honey][part,Name=SnackOnDrink]", "src": "Delicious!"}
+{"id": "Liquids#00106", "file": "Liquids", "tag": "slipperyMessage", "attr": "#text", "path": "[liquids][liquid,Name=Ink][slipperyMessage]", "src": "{{K|=subject.Does:slip= on the ink!}}"}
+{"id": "Liquids#00107", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Ink][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00108", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Ink][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00109", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Ink][displayName]", "src": "{{K|ink}}"}
+{"id": "Liquids#00110", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Ink][adjective]", "src": "{{K|inky}}"}
+{"id": "Liquids#00111", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Ink][waterRitualName]", "src": "ink"}
+{"id": "Liquids#00112", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Ink][smearedAdjective]", "src": "{{K|inky}}"}
+{"id": "Liquids#00113", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Ink][smearedName]", "src": "{{K|inky}}"}
+{"id": "Liquids#00114", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Ink][stainedName]", "src": "{{K|ink}}"}
+{"id": "Liquids#00115", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Ink][part,Name=MessageOnDrink]", "src": "It's very inky."}
+{"id": "Liquids#00116", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Lava][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00117", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Lava][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00118", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Lava][displayName]", "src": "{{lava|lava}}"}
+{"id": "Liquids#00119", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Lava][adjective]", "src": "{{lava|magmatic}}"}
+{"id": "Liquids#00120", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Lava][waterRitualName]", "src": "lava"}
+{"id": "Liquids#00121", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Lava][smearedAdjective]", "src": "{{lava|magmatic}}"}
+{"id": "Liquids#00122", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Lava][smearedName]", "src": "{{lava|lava-covered}}"}
+{"id": "Liquids#00123", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Lava][stainedName]", "src": "{{lava|lava}}"}
+{"id": "Liquids#00124", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Lava][part,Name=MessageOnDrink]", "src": "{{lava|IT BURNS!}}"}
+{"id": "Liquids#00125", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Lava][part,Name=DamageOnDrink]", "src": "from {{lava|drinking lava}}!"}
+{"id": "Liquids#00126", "file": "Liquids", "tag": "accomplishment", "attr": "#text", "path": "[liquids][liquid,Name=Lava][part,Name=AccomplishmentOnDrink][accomplishment]", "src": "Inexplicably, you drank lava."}
+{"id": "Liquids#00127", "file": "Liquids", "tag": "muralText", "attr": "#text", "path": "[liquids][liquid,Name=Lava][part,Name=AccomplishmentOnDrink][muralText]", "src": "For reasons kept secret by the sphinx of subjective experience, =name= drank the forbidden tea."}
+{"id": "Liquids#00128", "file": "Liquids", "tag": "gospelText", "attr": "#text", "path": "[liquids][liquid,Name=Lava][part,Name=AccomplishmentOnDrink][gospelText]", "src": "While traveling through =player.zone.name=, =name= stopped at a tavern in =landmark.nearest=. There =player.subjective= lost a bet and bashfully drank a dram of lava. Miraculously, =player.subjective= left the tavern unharmed."}
+{"id": "Liquids#00129", "file": "Liquids", "tag": "verb", "attr": "#text", "path": "[liquids][liquid,Name=Lava][freezeObject,Name=SmallBoulder][verb]", "src": "solidify"}
+{"id": "Liquids#00130", "file": "Liquids", "tag": "verb", "attr": "#text", "path": "[liquids][liquid,Name=Lava][freezeObject,Name=MediumBoulder][verb]", "src": "solidify"}
+{"id": "Liquids#00131", "file": "Liquids", "tag": "verb", "attr": "#text", "path": "[liquids][liquid,Name=Lava][freezeObject,Name=Shale][verb]", "src": "solidify"}
+{"id": "Liquids#00132", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][circulatoryLossTerm]", "src": "fluxing"}
+{"id": "Liquids#00133", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][circulatoryLossNoun]", "src": "fluxation"}
+{"id": "Liquids#00134", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][displayName]", "src": "{{neutronic|neutron}} {{Y|flux}}"}
+{"id": "Liquids#00135", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][adjective]", "src": "{{neutronic|neutronic}}"}
+{"id": "Liquids#00136", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][waterRitualName]", "src": "flux"}
+{"id": "Liquids#00137", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][smearedAdjective]", "src": "{{neutronic|neutronic}}"}
+{"id": "Liquids#00138", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][smearedName]", "src": "{{neutronic|neutral}}"}
+{"id": "Liquids#00139", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=NeutronFlux][stainedName]", "src": "{{neutronic|flux}}"}
+{"id": "Liquids#00140", "file": "Liquids", "tag": "slipperyMessage", "attr": "#text", "path": "[liquids][liquid,Name=Oil][slipperyMessage]", "src": "{{C|=subject.Does:slip= on the oil!}}"}
+{"id": "Liquids#00141", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Oil][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00142", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Oil][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00143", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Oil][displayName]", "src": "{{K|oil}}"}
+{"id": "Liquids#00144", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Oil][adjective]", "src": "{{K|oily}}"}
+{"id": "Liquids#00145", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Oil][waterRitualName]", "src": "oil"}
+{"id": "Liquids#00146", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Oil][smearedAdjective]", "src": "{{K|oily}}"}
+{"id": "Liquids#00147", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Oil][smearedName]", "src": "{{K|oily}}"}
+{"id": "Liquids#00148", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Oil][stainedName]", "src": "{{K|oil}}"}
+{"id": "Liquids#00149", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Oil][part,Name=MessageOnDrink]", "src": "{{K|Disgusting!}}"}
+{"id": "Liquids#00150", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][circulatoryLossTerm]", "src": "oozing"}
+{"id": "Liquids#00151", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][circulatoryLossNoun]", "src": "ooze"}
+{"id": "Liquids#00152", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][displayName]", "src": "{{K|black ooze}}"}
+{"id": "Liquids#00153", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][adjective]", "src": "{{K|oozing}}"}
+{"id": "Liquids#00154", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][waterRitualName]", "src": "ooze"}
+{"id": "Liquids#00155", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][smearedAdjective]", "src": "{{K|oozing}}"}
+{"id": "Liquids#00156", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][smearedName]", "src": "{{K|oozing}}"}
+{"id": "Liquids#00157", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Ooze][stainedName]", "src": "{{K|ooze}}"}
+{"id": "Liquids#00158", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Ooze][part,Name=MessageOnDrink]", "src": "It's repulsive!"}
+{"id": "Liquids#00159", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Ooze][part,Name=DiseaseOnGoingProne]", "src": "Putrid ooze splashes into your mouth. You gag at the awful taste."}
+{"id": "Liquids#00160", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Ooze][part,Name=DiseaseOnDrink]", "src": "You feel sick!"}
+{"id": "Liquids#00161", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00162", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00163", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][displayName]", "src": "{{c|primordial soup}}"}
+{"id": "Liquids#00164", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][adjective]", "src": "{{c|soupy}}"}
+{"id": "Liquids#00165", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][waterRitualName]", "src": "soup"}
+{"id": "Liquids#00166", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][smearedAdjective]", "src": "{{c|soupy}}"}
+{"id": "Liquids#00167", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][smearedName]", "src": "{{c|soupy}}"}
+{"id": "Liquids#00168", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][stainedName]", "src": "{{c|soup}}"}
+{"id": "Liquids#00169", "file": "Liquids", "tag": "spawnMessage", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][part,Name=SoupSludgeSpawner][spawnMessage]", "src": "The reacting liquids congeal into =object.a.name:withTitles=."}
+{"id": "Liquids#00170", "file": "Liquids", "tag": "stopMessage", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][part,Name=SoupSludgeSpawner][stopMessage]", "src": "The liquids stop reacting."}
+{"id": "Liquids#00171", "file": "Liquids", "tag": "startMessage", "attr": "#text", "path": "[liquids][liquid,Name=PrimordialSoup][part,Name=SoupSludgeSpawner][startMessage]", "src": "The primordial soup =subject.to.the.direction= starts reacting with the =liquid.name=."}
+{"id": "Liquids#00172", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=PrimordialSoup][part,Name=HydrateOnDrink]", "src": "You feel the soup slosh around your stomach."}
+{"id": "Liquids#00173", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00174", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00175", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][displayName]", "src": "{{putrid|putrescence}}"}
+{"id": "Liquids#00176", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][adjective]", "src": "{{putrid|putrid}}"}
+{"id": "Liquids#00177", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][waterRitualName]", "src": "putrescence"}
+{"id": "Liquids#00178", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][smearedAdjective]", "src": "{{putrid|putrid}}"}
+{"id": "Liquids#00179", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][smearedName]", "src": "{{putrid|putrid}}"}
+{"id": "Liquids#00180", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Putrescence][stainedName]", "src": "{{putrid|putrescence}}"}
+{"id": "Liquids#00181", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Putrescence][part,Name=VomitOnDrink]", "src": "It's disgusting!"}
+{"id": "Liquids#00182", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Salt][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00183", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Salt][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00184", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Salt][displayName]", "src": "{{Y|salt}}"}
+{"id": "Liquids#00185", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Salt][adjective]", "src": "{{Y|salty}}"}
+{"id": "Liquids#00186", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Salt][waterRitualName]", "src": "salt"}
+{"id": "Liquids#00187", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Salt][smearedAdjective]", "src": "{{Y|salty}}"}
+{"id": "Liquids#00188", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Salt][smearedName]", "src": "{{Y|salt-encrusted}}"}
+{"id": "Liquids#00189", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Salt][stainedName]", "src": "{{Y|salt}}"}
+{"id": "Liquids#00190", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Salt][part,Name=SaltOnDrink]", "src": "Blech, it's salty!"}
+{"id": "Liquids#00191", "file": "Liquids", "tag": "part", "attr": "Alt", "path": "[liquids][liquid,Name=Salt][part,Name=AltAdjectiveWhenPurityBelow]", "src": "{{w|brackish}}"}
+{"id": "Liquids#00192", "file": "Liquids", "tag": "verb", "attr": "#text", "path": "[liquids][liquid,Name=Salt][freezeObject,Name=Halite][verb]", "src": "solidify"}
+{"id": "Liquids#00193", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Sap][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00194", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Sap][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00195", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Sap][displayName]", "src": "{{W|sap}}"}
+{"id": "Liquids#00196", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Sap][adjective]", "src": "{{W|sugary}}"}
+{"id": "Liquids#00197", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Sap][waterRitualName]", "src": "sap"}
+{"id": "Liquids#00198", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Sap][smearedAdjective]", "src": "{{W|sappy}}"}
+{"id": "Liquids#00199", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Sap][smearedName]", "src": "{{W|sappy}}"}
+{"id": "Liquids#00200", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Sap][stainedName]", "src": "{{W|sap}}"}
+{"id": "Liquids#00201", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Sap][part,Name=SnackOnDrink]", "src": "It's sweet to the taste."}
+{"id": "Liquids#00202", "file": "Liquids", "tag": "slipperyMessage", "attr": "#text", "path": "[liquids][liquid,Name=Slime][slipperyMessage]", "src": "{{slimy|=subject.Does:slip= on the slime!}}"}
+{"id": "Liquids#00203", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Slime][circulatoryLossTerm]", "src": "oozing"}
+{"id": "Liquids#00204", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Slime][circulatoryLossNoun]", "src": "ooze"}
+{"id": "Liquids#00205", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Slime][displayName]", "src": "{{slimy|slime}}"}
+{"id": "Liquids#00206", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Slime][adjective]", "src": "{{slimy|slimy}}"}
+{"id": "Liquids#00207", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Slime][waterRitualName]", "src": "liquid"}
+{"id": "Liquids#00208", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Slime][smearedAdjective]", "src": "{{slimy|slimy}}"}
+{"id": "Liquids#00209", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Slime][smearedName]", "src": "{{slimy|slimy}}"}
+{"id": "Liquids#00210", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Slime][stainedName]", "src": "{{g|slime}}"}
+{"id": "Liquids#00211", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Slime][part,Name=ConfuseOnDrink]", "src": "It's disgustingly slimy!"}
+{"id": "Liquids#00212", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][circulatoryLossTerm]", "src": "oozing"}
+{"id": "Liquids#00213", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][circulatoryLossNoun]", "src": "ooze"}
+{"id": "Liquids#00214", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][displayName]", "src": "{{w|brown sludge}}"}
+{"id": "Liquids#00215", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][adjective]", "src": "{{w|sludgy}}"}
+{"id": "Liquids#00216", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][waterRitualName]", "src": "sludge"}
+{"id": "Liquids#00217", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][smearedAdjective]", "src": "{{w|sludgy}}"}
+{"id": "Liquids#00218", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][smearedName]", "src": "{{w|sludgy}}"}
+{"id": "Liquids#00219", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Sludge][stainedName]", "src": "{{w|sludge}}"}
+{"id": "Liquids#00220", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Sludge][part,Name=RustOnGoingProne]", "src": "Brown sludge splashes into your mouth. You wince at the metallic taste."}
+{"id": "Liquids#00221", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Sludge][part,Name=PoisonOnDrink]", "src": "You feel sick!"}
+{"id": "Liquids#00222", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Sludge][part,Name=MessageOnDrink]", "src": "It's horrifying!"}
+{"id": "Liquids#00223", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00224", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00225", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][displayName]", "src": "{{sunslag|sunslag}}"}
+{"id": "Liquids#00226", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][adjective]", "src": "{{radiant|radiant}}"}
+{"id": "Liquids#00227", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][waterRitualName]", "src": "sunslag"}
+{"id": "Liquids#00228", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][smearedAdjective]", "src": "{{radiant|radiant}}"}
+{"id": "Liquids#00229", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][smearedName]", "src": "{{radiant|radiant}}"}
+{"id": "Liquids#00230", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][stainedName]", "src": "{{sunslag|sunslag}}"}
+{"id": "Liquids#00231", "file": "Liquids", "tag": "tooMuchMessage", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][part,Name=SunSlagOnDrink][tooMuchMessage]", "src": "Brightness burns your mouth, but you cannot be roused any higher."}
+{"id": "Liquids#00232", "file": "Liquids", "tag": "noStatMessage", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][part,Name=SunSlagOnDrink][noStatMessage]", "src": "Brightness burns your mouth."}
+{"id": "Liquids#00233.1", "file": "Liquids", "tag": "boostedMessage", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][part,Name=SunSlagOnDrink][boostedMessage]", "src": "Brightness burns your mouth and inspirits you."}
+{"id": "Liquids#00233.2", "file": "Liquids", "tag": "boostedMessage", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][part,Name=SunSlagOnDrink][boostedMessage]", "src": "Your Quickness is permanently increased by {{rules|=boost=}}."}
+{"id": "Liquids#00234", "file": "Liquids", "tag": "accomplishmentText", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][part,Name=SunSlagOnDrink][accomplishmentText]", "src": "You drank the bright cream of the Palladium Reef and were quickened."}
+{"id": "Liquids#00235", "file": "Liquids", "tag": "muralText", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][part,Name=SunSlagOnDrink][muralText]", "src": "See =player.name= crack apart the bones of poleis and drink their marrow! Be quickened, our Saad, by the civic lifeblood!"}
+{"id": "Liquids#00236", "file": "Liquids", "tag": "gospelText", "attr": "#text", "path": "[liquids][liquid,Name=Sunslag][part,Name=SunSlagOnDrink][gospelText]", "src": "While traveling through =terrain.t=, =player.name= stopped at a tavern in =landmark.nearest=. There =player.subjective= won a bet and triumphantly drank a dram of sunslag. =player.Subjective= =player.verb:were= quickened and left the tavern at an untrackable pace."}
+{"id": "Liquids#00237", "file": "Liquids", "tag": "slipperyMessage", "attr": "#text", "path": "[liquids][liquid,Name=Water][slipperyMessage]", "src": "{{C|=subject.Does:slip= on the ice!}}"}
+{"id": "Liquids#00238", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Water][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00239", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Water][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00240", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Water][displayName]", "src": "{{B|water}}"}
+{"id": "Liquids#00241", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Water][adjective]", "src": "{{Y|dilute}}"}
+{"id": "Liquids#00242", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Water][waterRitualName]", "src": "water"}
+{"id": "Liquids#00243", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Water][smearedAdjective]", "src": "{{B|wet}}"}
+{"id": "Liquids#00244", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Water][smearedName]", "src": "{{B|wet}}"}
+{"id": "Liquids#00245", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Water][stainedName]", "src": "{{B|water}}"}
+{"id": "Liquids#00246", "file": "Liquids", "tag": "amphibiousMessage", "attr": "#text", "path": "[liquids][liquid,Name=Water][part,Name=WaterHydration][amphibiousMessage]", "src": "=subject.Does:pour= the water on =subject.itself=!"}
+{"id": "Liquids#00247", "file": "Liquids", "tag": "freshMessage", "attr": "#text", "path": "[liquids][liquid,Name=Water][part,Name=WaterHydration][freshMessage]", "src": "Ahh, refreshing!"}
+{"id": "Liquids#00248", "file": "Liquids", "tag": "part", "attr": "Alt", "path": "[liquids][liquid,Name=Water][part,Name=AltSmearedAdjectiveWhenSecondaryTo]", "src": "{{B|wet}}"}
+{"id": "Liquids#00249", "file": "Liquids", "tag": "part", "attr": "Alt", "path": "[liquids][liquid,Name=Water][part,Name=AltSmearedAdjectiveWhenMixed]", "src": "{{Y|dilute}}"}
+{"id": "Liquids#00250", "file": "Liquids", "tag": "part", "attr": "Alt", "path": "[liquids][liquid,Name=Water][part,Name=AltNameWhenPure]", "src": "{{B|fresh water}}"}
+{"id": "Liquids#00251", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Wax][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00252", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Wax][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00253", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Wax][displayName]", "src": "{{Y|molten wax}}"}
+{"id": "Liquids#00254", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Wax][adjective]", "src": "{{Y|waxen}}"}
+{"id": "Liquids#00255", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Wax][waterRitualName]", "src": "wax"}
+{"id": "Liquids#00256", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Wax][smearedAdjective]", "src": "{{Y|waxy}}"}
+{"id": "Liquids#00257", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Wax][smearedName]", "src": "{{Y|waxy}}"}
+{"id": "Liquids#00258", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Wax][stainedName]", "src": "{{Y|wax}}"}
+{"id": "Liquids#00259", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Wax][part,Name=TemperatureChangeOnDrink]", "src": "It's hot and disgusting."}
+{"id": "Liquids#00260", "file": "Liquids", "tag": "verb", "attr": "#text", "path": "[liquids][liquid,Name=Wax][freezeObject,Name=Wax Nodule][verb]", "src": "congeal"}
+{"id": "Liquids#00261", "file": "Liquids", "tag": "verb", "attr": "#text", "path": "[liquids][liquid,Name=Wax][freezeObject,Name=Wax Block][verb]", "src": "solidify"}
+{"id": "Liquids#00262", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=Wine][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00263", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=Wine][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00264", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=Wine][displayName]", "src": "{{m|wine}}"}
+{"id": "Liquids#00265", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=Wine][adjective]", "src": "{{m|lush}}"}
+{"id": "Liquids#00266", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=Wine][waterRitualName]", "src": "wine"}
+{"id": "Liquids#00267", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=Wine][smearedAdjective]", "src": "{{m|lush}}"}
+{"id": "Liquids#00268", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=Wine][smearedName]", "src": "{{m|lush}}"}
+{"id": "Liquids#00269", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=Wine][stainedName]", "src": "{{m|wine}}"}
+{"id": "Liquids#00270", "file": "Liquids", "tag": "part", "attr": "Message", "path": "[liquids][liquid,Name=Wine][part,Name=HydrateOnDrink]", "src": "You flush with the warming draught!"}
+{"id": "Liquids#00271", "file": "Liquids", "tag": "circulatoryLossTerm", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][circulatoryLossTerm]", "src": "leaking"}
+{"id": "Liquids#00272", "file": "Liquids", "tag": "circulatoryLossNoun", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][circulatoryLossNoun]", "src": "leak"}
+{"id": "Liquids#00273", "file": "Liquids", "tag": "displayName", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][displayName]", "src": "{{Y|warm static}}"}
+{"id": "Liquids#00274", "file": "Liquids", "tag": "adjective", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][adjective]", "src": "{{Y|entropic}}"}
+{"id": "Liquids#00275", "file": "Liquids", "tag": "waterRitualName", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][waterRitualName]", "src": "warm static"}
+{"id": "Liquids#00276", "file": "Liquids", "tag": "smearedAdjective", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][smearedAdjective]", "src": "{{Y|entropic}}"}
+{"id": "Liquids#00277", "file": "Liquids", "tag": "smearedName", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][smearedName]", "src": "{{Y|entropic}}"}
+{"id": "Liquids#00278", "file": "Liquids", "tag": "stainedName", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][stainedName]", "src": "{{Y|warm static}}"}
+{"id": "Liquids#00279", "file": "Liquids", "tag": "messageObject", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][part,Name=GlitchOnPour][messageObject]", "src": "=subject.T= =verb:glitch= into =object.an=."}
+{"id": "Liquids#00280", "file": "Liquids", "tag": "messageZone", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][part,Name=GlitchOnPour][messageZone]", "src": "The space around you starts to glitch."}
+{"id": "Liquids#00281", "file": "Liquids", "tag": "accomplishmentObject", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][part,Name=GlitchOnPour][accomplishmentObject]", "src": "You poured the raw entropy of the universe onto things and caused them to glitch into other things."}
+{"id": "Liquids#00282", "file": "Liquids", "tag": "accomplishmentZone", "attr": "#text", "path": "[liquids][liquid,Name=WarmStatic][part,Name=GlitchOnPour][accomplishmentZone]", "src": "You poured the raw entropy of the universe on the ground and caused the space around you to glitch."}

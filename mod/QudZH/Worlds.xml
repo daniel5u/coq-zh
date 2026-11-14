@@ -1,0 +1,400 @@
+<?xml version='1.0' encoding='utf-8'?>
+<worlds Lang="zh" Encoding="utf-8">
+  <world Name="ThinWorld" Load="Merge" DisplayName="薄界" />
+  <world Name="Tzimtzlum" Load="Merge" DisplayName="齐姆茨鲁姆" />
+  <world Name="Interior" Load="Merge" DisplayName="内部">
+    <cell Name="Golem" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" Name="控制坑" NameContext="魔像" />
+    </cell>
+    <cell Name="TempleMechaMkI" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" Name="控制坑" NameContext="神殿机甲 I 型" />
+    </cell>
+    <cell Name="TempleMechaMkII" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" Name="控制坑" NameContext="神殿机甲 II 型" />
+    </cell>
+    <cell Name="Mover" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" Name="中庭" NameContext="移运体" />
+    </cell>
+    <cell Name="ShevaStarship" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="出埃及" NameContext="星航者码头" />
+    </cell>
+    <cell Name="ShevaStarCarousel" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="维克维特尔3" NameContext="星航者码头" />
+    </cell>
+    <cell Name="Coda" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" Name="尾声" />
+    </cell>
+  </world>
+  <world Name="JoppaWorld" Load="Merge" DisplayName="卡德">
+    <cell Name="DefaultJoppaCell" Load="Merge">
+      <zone Level="0-9" x="0-2" y="0-2" Load="Merge" Name="露天" IndefiniteArticle="" />
+      <zone Level="11-20" x="0-2" y="0-2" Load="Merge" Name="地下洞窟" />
+      <zone Level="21-30" x="0-2" y="0-2" Load="Merge" Name="地下洞窟" />
+      <zone Level="31-40" x="0-2" y="0-2" Load="Merge" Name="地下洞窟" />
+      <zone Level="41-49" x="0-2" y="0-2" Load="Merge" Name="地下洞窟" />
+    </cell>
+    <cell Name="WaterCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="盐河上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="盐河" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下河流" />
+    </cell>
+    <cell Name="LakeHinnomCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="欣嫩湖上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="欣嫩湖" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="欣嫩湖下洞窟" />
+    </cell>
+    <cell Name="PalladiumReefCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="钯礁上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="钯礁" IndefiniteArticle="" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下礁区" />
+    </cell>
+    <cell Name="YdFreeholdCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="伊德自由领上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="郊外" NameContext="伊德自由领" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="伊德自由领" IndefiniteArticle="" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下礁区" />
+      <zone Level="11" x="1" y="1" Load="Merge" ProperName="true" Name="伊德自由领" />
+    </cell>
+    <cell Name="MoonStairCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="月阶上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="月阶" IndefiniteArticle="" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下阶梯" />
+    </cell>
+    <cell Name="EynRojCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="埃因罗吉上空" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="埃因罗吉" />
+      <zone Level="11-15" x="1" y="1" Load="Merge" ProperName="false" Name="晶体根系" />
+      <zone Level="16-40" x="1" y="1" Load="Merge" ProperName="false" Name="晶体根系" />
+      <zone Level="41-48" x="1" y="1" Load="Merge" ProperName="false" Name="晶体根系" />
+      <zone Level="49" x="1" y="1" Load="Merge" ProperName="false" Name="晶体根系" />
+    </cell>
+    <cell Name="FlowerfieldCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="花田上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="花田" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下花田" />
+    </cell>
+    <cell Name="WatervineCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="盐沼上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="盐沼" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下盐沼" />
+    </cell>
+    <cell Name="SaltMarsh" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="盐沼上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="盐沼" />
+    </cell>
+    <cell Name="Jungle" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="丛林上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="丛林" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下丛林" />
+    </cell>
+    <cell Name="DeepJungle" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="深丛林上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="深丛林" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下深丛林" />
+    </cell>
+    <cell Name="Fungal" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="虹林上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" ProperName="true" Name="虹林" IndefiniteArticle="" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="" NameContext="虹林" />
+    </cell>
+    <cell Name="Fungal Outskirts" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="虹林上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" ProperName="true" Name="虹林" IndefiniteArticle="" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="" NameContext="虹林" />
+    </cell>
+    <cell Name="DesertCanyon" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="沙漠峡谷上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="沙漠峡谷" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下沙漠峡谷" />
+    </cell>
+    <cell Name="Hills" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="丘陵上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="丘陵" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下丘陵" />
+    </cell>
+    <cell Name="Mountains" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="山脉上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="山脉" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下山脉" />
+    </cell>
+    <cell Name="SaltDesertCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="盐漠上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="盐漠" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下盐漠" />
+    </cell>
+    <cell Name="SixDayStilt" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="高塔之地上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="" NameContext="高塔之地" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="六日高塔" />
+    </cell>
+    <cell Name="Kyakukya" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="基亚库基亚上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="郊外" NameContext="基亚库基亚" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="基亚库基亚" />
+    </cell>
+    <cell Name="Joppa" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="约帕上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="郊外" NameContext="约帕" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="约帕" />
+      <zone Level="11" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="12" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="13" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="14" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="14" x="1" y="0" Load="Merge" Name="积水隧道" />
+    </cell>
+    <cell Name="JoppaRuins" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="约帕上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="郊外" NameContext="约帕" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="约帕" />
+      <zone Level="11" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="12" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="13" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="14" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="14" x="1" y="0" Load="Merge" Name="积水隧道" />
+    </cell>
+    <cell Name="Rustwell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="锈井上空" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" Name="锈井" />
+      <zone Level="11" x="1" y="1" Load="Merge" Name="锈井" />
+      <zone Level="12" x="1" y="1" Load="Merge" Name="锈井" />
+      <zone Level="13" x="1" y="1" Load="Merge" Name="锈井" />
+    </cell>
+    <cell Name="Gritgate" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="砂砾门上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="郊外" NameContext="砂砾门" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" NameContext="砂砾门" />
+      <zone Level="11-29" x="0-2" y="0-2" Load="Merge" Name="下层隧道" NameContext="砂砾门" />
+      <zone Level="12" x="1" y="0" Load="Merge" Name="下层隧道" NameContext="砂砾门" />
+      <zone Level="12" x="1" y="1" Load="Merge" Name="下层隧道" NameContext="砂砾门" />
+      <zone Level="13" x="1" y="1" Load="Merge" Name="入口层" NameContext="砂砾门" />
+      <zone Level="13" x="2" y="0" Load="Merge" ProperName="true" Name="砂砾门" />
+      <zone Level="13" x="1" y="0" Load="Merge" ProperName="true" Name="砂砾门" />
+      <zone Level="14" x="1" y="0" Load="Merge" ProperName="true" Name="巴拉斯鲁姆的书斋" NameContext="砂砾门" />
+      <zone Level="15" x="1" y="0" Load="Merge" Name="下层隧道" NameContext="砂砾门" />
+    </cell>
+    <cell Name="Golgotha" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="各各他上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" NameContext="各各他" />
+      <zone Level="10" x="1" y="1" Load="Merge" NameContext="各各他" />
+      <zone Level="11-14" x="1" y="1" Load="Merge" Name="垃圾滑道" NameContext="各各他" />
+      <zone Level="15" x="1" y="1" Load="Merge" ProperName="true" Name="泄殖腔" NameContext="各各他" />
+      <zone Level="16-20" x="1" y="1" Load="Merge" Name="地下洞窟" />
+      <zone Level="21-30" x="1" y="1" Load="Merge" Name="地下洞窟" />
+      <zone Level="31-40" x="1" y="1" Load="Merge" Name="地下洞窟" />
+      <zone Level="41-49" x="1" y="1" Load="Merge" Name="地下洞窟" />
+    </cell>
+    <cell Name="rusted archway" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="锈蚀拱门上空" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" NameContext="锈蚀拱门" />
+      <zone Level="11-13" x="1" y="1" Load="Merge" Name="" NameContext="锈蚀拱门" />
+      <zone Level="14" x="1" y="1" Load="Merge" Name="" NameContext="锈蚀拱门" />
+    </cell>
+    <cell Name="Asphalt Mines" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="沥青矿上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" NameContext="沥青矿" />
+      <zone Level="10" x="1" y="1" Load="Merge" NameContext="沥青矿" />
+      <zone Level="11-14" x="0-2" y="0-2" Load="Merge" Name="上层竖井" NameContext="沥青矿" />
+      <zone Level="15" x="0-2" y="0-2" Load="Merge" Name="中层竖井" NameContext="沥青矿" />
+      <zone Level="16-18" x="0-2" y="0-2" Load="Merge" Name="中层竖井" NameContext="沥青矿" />
+      <zone Level="19-22" x="0-2" y="0-2" Load="Merge" Name="深层竖井" NameContext="沥青矿" />
+      <zone Level="23-27" x="0-2" y="0-2" Load="Merge" ProperName="true" Name="暗下界" NameContext="沥青矿" />
+      <zone Level="28" x="0-2" y="0-2" Load="Merge" ProperName="true" Name="白骨之城" NameContext="沥青矿" />
+      <zone Level="29" x="0-2" y="0-2" Load="Merge" ProperName="true" Name="大海" NameContext="沥青矿" />
+      <zone Level="30-35" x="0-2" y="0-2" Load="Merge" ProperName="true" Name="乌珥隧道" NameContext="沥青矿" />
+      <zone Level="36-40" x="0-2" y="0-2" Load="Merge" ProperName="true" Name="漩涌浩渊" NameContext="沥青矿" />
+      <zone Level="40" x="1" y="1" Load="Merge" ProperName="true" Name="漩涌浩渊" NameContext="沥青矿" />
+    </cell>
+    <cell Name="Bethesda Susa" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="毕士大-苏萨上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="郊外" NameContext="毕士大-苏萨" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="毕士大-苏萨" />
+      <zone Level="11-26" x="1" y="1" Load="Merge" Name="隧道" NameContext="毕士大-苏萨" />
+      <zone Level="11" x="1" y="0" Load="Merge" Name="河道" NameContext="毕士大-苏萨" />
+      <zone Level="11" x="1" y="1" Load="Merge" Name="废弃码头" NameContext="毕士大-苏萨" />
+      <zone Level="11" x="1" y="2" Load="Merge" Name="河道" NameContext="毕士大-苏萨" />
+      <zone Level="12" x="1" y="1" Load="Merge" Name="疗愈池" NameContext="毕士大-苏萨" />
+      <zone Level="13" x="1" y="1" Load="Merge" Name="疗愈池" NameContext="毕士大-苏萨" />
+      <zone Level="14" x="1" y="1" Load="Merge" Name="疗愈池" NameContext="毕士大-苏萨" />
+      <zone Level="15" x="1" y="1" Load="Merge" Name="废弃病房" NameContext="毕士大-苏萨" />
+      <zone Level="16-17" x="1" y="1" Load="Merge" Name="破败病房" NameContext="毕士大-苏萨" />
+      <zone Level="18" x="1" y="1" Load="Merge" Name="破败病房" NameContext="毕士大-苏萨" />
+      <zone Level="19-20" x="1" y="1" Load="Merge" Name="破败病房" NameContext="毕士大-苏萨" />
+      <zone Level="21" x="1" y="1" Load="Merge" Name="废弃病房" NameContext="毕士大-苏萨" />
+      <zone Level="22" x="1" y="1" Load="Merge" Name="废弃病房" NameContext="毕士大-苏萨" />
+      <zone Level="23" x="1" y="1" Load="Merge" Name="义体病房" NameContext="毕士大-苏萨" />
+      <zone Level="24" x="1" y="1" Load="Merge" ProperName="true" Name="冷冻街区" NameContext="毕士大-苏萨" />
+      <zone Level="25" x="1" y="1" Load="Merge" ProperName="true" Name="冷冻街区" NameContext="毕士大-苏萨" />
+      <zone Level="26" x="1" y="1" Load="Merge" ProperName="true" Name="磐石圣殿" NameContext="毕士大-苏萨" />
+      <zone Level="27-30" x="1" y="1" Load="Merge" Name="地下洞窟" />
+      <zone Level="31-40" x="1" y="1" Load="Merge" Name="地下洞窟" />
+      <zone Level="41-49" x="1" y="1" Load="Merge" Name="地下洞窟" />
+    </cell>
+    <cell Name="BananaGrove" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="香蕉林上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="香蕉林" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下香蕉林" />
+    </cell>
+    <cell Name="TheSpindle" Load="Merge">
+      <zone Level="0-9" x="0-2" y="0-2" Load="Merge" Name="纺锤周遭高空" IndefiniteArticle="" />
+      <zone Level="11" x="0-2" y="0-2" Load="Merge" Name="庶民墓窟" NameContext="食者之墓" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="结构肋骨" NameContext="食者之墓" />
+      <zone Level="10" x="1" y="2" Load="Merge" Name="大前厅" NameContext="食者之墓" />
+      <zone Level="10" x="0" y="2" Load="Merge" Name="大前厅" NameContext="食者之墓" />
+      <zone Level="10" x="0" y="0" Load="Merge" Name="大前厅" NameContext="食者之墓" />
+      <zone Level="10" x="0" y="1" Load="Merge" Name="大前厅" NameContext="食者之墓" />
+      <zone Level="10" x="2" y="0" Load="Merge" Name="通道" NameContext="食者之墓" />
+      <zone Level="10" x="2" y="2" Load="Merge" Name="通道" NameContext="食者之墓" />
+      <zone Level="9" x="0" y="0-2" Load="Merge" Name="骨灰堂：地主与变革者" NameContext="食者之墓" />
+      <zone Level="9" x="1-2" y="0" Load="Merge" Name="火葬场" NameContext="食者之墓" />
+      <zone Level="9" x="1-2" y="2" Load="Merge" Name="火葬场" NameContext="食者之墓" />
+      <zone Level="9" x="2" y="1" Load="Merge" Name="火葬场机房" NameContext="食者之墓" />
+      <zone Level="8" x="0-2" y="0-2" Load="Merge" Name="下层墓室：战士与导师" NameContext="食者之墓" />
+      <zone Level="8" x="1" y="1" Load="Merge" Name="纺锤通道" IndefiniteArticle="" />
+      <zone Level="7" x="0-2" y="0-2" Load="Merge" Name="上层墓室：祭司与王族" NameContext="食者之墓" />
+      <zone Level="7" x="1" y="1" Load="Merge" Name="纺锤通道" IndefiniteArticle="" />
+      <zone Level="6" x="0-2" y="0-2" Load="Merge" Name="结构肋骨" NameContext="食者之墓" />
+      <zone Level="6" x="0" y="2" Load="Merge" Name="阈限之道" NameContext="食者之墓" />
+      <zone Level="5" x="0" y="2" Load="Merge" Name="=sultan:1=之墓" NameContext="食者之墓" />
+      <zone Level="5" x="0" y="1" Load="Merge" Name="=sultan:1=之墓" NameContext="食者之墓" />
+      <zone Level="5" x="0" y="0" Load="Merge" Name="=sultan:1=之墓" NameContext="食者之墓" />
+      <zone Level="5" x="1" y="0" Load="Merge" Name="=sultan:1=之墓" NameContext="食者之墓" />
+      <zone Level="5" x="2" y="0" Load="Merge" Name="=sultan:1=之墓" NameContext="食者之墓" />
+      <zone Level="5" x="2" y="1" Load="Merge" Name="=sultan:1=之墓" NameContext="食者之墓" />
+      <zone Level="5" x="2" y="2" Load="Merge" Name="=sultan:1=之墓" NameContext="食者之墓" />
+      <zone Level="4" x="0" y="2" Load="Merge" Name="=sultan:2=之墓" NameContext="食者之墓" />
+      <zone Level="4" x="0" y="1" Load="Merge" Name="=sultan:2=之墓" NameContext="食者之墓" />
+      <zone Level="4" x="0" y="0" Load="Merge" Name="=sultan:2=之墓" NameContext="食者之墓" />
+      <zone Level="4" x="1" y="0" Load="Merge" Name="=sultan:2=之墓" NameContext="食者之墓" />
+      <zone Level="4" x="2" y="0" Load="Merge" Name="=sultan:2=之墓" NameContext="食者之墓" />
+      <zone Level="4" x="2" y="1" Load="Merge" Name="=sultan:2=之墓" NameContext="食者之墓" />
+      <zone Level="4" x="2" y="2" Load="Merge" Name="=sultan:2=之墓" NameContext="食者之墓" />
+      <zone Level="3" x="0" y="2" Load="Merge" Name="=sultan:3=之墓" NameContext="食者之墓" />
+      <zone Level="3" x="0" y="1" Load="Merge" Name="=sultan:3=之墓" NameContext="食者之墓" />
+      <zone Level="3" x="0" y="0" Load="Merge" Name="=sultan:3=之墓" NameContext="食者之墓" />
+      <zone Level="3" x="1" y="0" Load="Merge" Name="=sultan:3=之墓" NameContext="食者之墓" />
+      <zone Level="3" x="2" y="0" Load="Merge" Name="=sultan:3=之墓" NameContext="食者之墓" />
+      <zone Level="3" x="2" y="1" Load="Merge" Name="=sultan:3=之墓" NameContext="食者之墓" />
+      <zone Level="3" x="2" y="2" Load="Merge" Name="=sultan:3=之墓" NameContext="食者之墓" />
+      <zone Level="2" x="0" y="2" Load="Merge" Name="=sultan:4=之墓" NameContext="食者之墓" />
+      <zone Level="2" x="0" y="1" Load="Merge" Name="=sultan:4=之墓" NameContext="食者之墓" />
+      <zone Level="2" x="0" y="0" Load="Merge" Name="=sultan:4=之墓" NameContext="食者之墓" />
+      <zone Level="2" x="1" y="0" Load="Merge" Name="=sultan:4=之墓" NameContext="食者之墓" />
+      <zone Level="2" x="2" y="0" Load="Merge" Name="=sultan:4=之墓" NameContext="食者之墓" />
+      <zone Level="2" x="2" y="1" Load="Merge" Name="=sultan:4=之墓" NameContext="食者之墓" />
+      <zone Level="2" x="2" y="2" Load="Merge" Name="=sultan:4=之墓" NameContext="食者之墓" />
+      <zone Level="1" x="0" y="2" Load="Merge" Name="=sultan:5=之墓" NameContext="食者之墓" />
+      <zone Level="1" x="0" y="1" Load="Merge" Name="=sultan:5=之墓" NameContext="食者之墓" />
+      <zone Level="1" x="0" y="0" Load="Merge" Name="=sultan:5=之墓" NameContext="食者之墓" />
+      <zone Level="1" x="1" y="0" Load="Merge" Name="=sultan:5=之墓" NameContext="食者之墓" />
+      <zone Level="1" x="2" y="0" Load="Merge" Name="=sultan:5=之墓" NameContext="食者之墓" />
+      <zone Level="1" x="2" y="1" Load="Merge" Name="=sultan:5=之墓" NameContext="食者之墓" />
+      <zone Level="1" x="2" y="2" Load="Merge" Name="=sultan:5=之墓" NameContext="食者之墓" />
+      <zone Level="0" x="0" y="2" Load="Merge" Name="未竟之墓" NameContext="食者之墓" />
+      <zone Level="0" x="0" y="1" Load="Merge" Name="未竟之墓" NameContext="食者之墓" />
+      <zone Level="0" x="0" y="0" Load="Merge" Name="未竟之墓" NameContext="食者之墓" />
+      <zone Level="0" x="1" y="0" Load="Merge" Name="未竟之墓" NameContext="食者之墓" />
+      <zone Level="0" x="2" y="0" Load="Merge" Name="未竟之墓" NameContext="食者之墓" />
+      <zone Level="0" x="2" y="1" Load="Merge" Name="未竟之墓" NameContext="食者之墓" />
+      <zone Level="0" x="2" y="2" Load="Merge" Name="未竟之墓" NameContext="食者之墓" />
+      <zone Level="0-14" x="1" y="1" Load="Merge" Name="纺锤通道" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" Name="升天厅" />
+      <zone Level="14" x="1" y="1" Load="Merge" Name="系泊湾" IndefiniteArticle="" />
+      <zone Level="0-5" x="1" y="2" Load="Merge" Name="纺锤周遭高空" IndefiniteArticle="" />
+    </cell>
+    <cell Name="Omonporch" Load="Merge">
+      <zone Level="6-9" x="0-2" y="0-2" Load="Merge" Name="奥蒙门廊上空" IndefiniteArticle="" />
+      <zone Level="0-5" x="1" y="0" Load="Merge" Name="奥蒙门廊上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="" NameContext="奥蒙门廊" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下香蕉林" />
+      <zone Level="10" x="1" y="0" Load="Merge" Name="双门拱廊" NameContext="奥蒙门廊" />
+      <zone Level="10" x="1" y="1" Load="Merge" Name="苏丹之庭" NameContext="奥蒙门廊" />
+      <zone Level="10" x="0" y="0" Load="Merge" ProperName="true" Name="以斯拉" />
+    </cell>
+    <cell Name="Redrock" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="红岩上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="郊外" NameContext="红岩" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" ProperName="true" Name="红岩" />
+      <zone Level="11" x="1" y="1" Load="Merge" Name="" NameContext="红岩" />
+      <zone Level="12" x="1" y="1" Load="Merge" Name="" NameContext="红岩" />
+      <zone Level="13" x="1" y="1" Load="Merge" Name="" NameContext="红岩" />
+      <zone Level="14" x="1" y="1" Load="Merge" Name="" NameContext="红岩" />
+      <zone Level="14" x="1" y="2" Load="Merge" Name="" NameContext="红岩" />
+    </cell>
+    <cell Name="JoppaRedrockChannel" Load="Merge">
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="盐沼" />
+      <zone Level="14" x="1" y="0" Load="Merge" Name="积水隧道" />
+      <zone Level="14" x="1" y="1" Load="Merge" Name="积水隧道" />
+      <zone Level="14" x="1" y="2" Load="Merge" Name="积水隧道" />
+    </cell>
+    <cell Name="RuinsCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="某处遗迹上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="遗迹" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下遗迹" />
+      <zone Level="16-20" x="0-2" y="0-2" Load="Merge" Name="地下遗迹" />
+      <zone Level="21-30" x="0-2" y="0-2" Load="Merge" Name="地下遗迹" />
+      <zone Level="31-40" x="0-2" y="0-2" Load="Merge" Name="地下遗迹" />
+    </cell>
+    <cell Name="BaroqueRuinsCell" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="某处巴洛克遗迹上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="巴洛克遗迹" />
+      <zone Level="11-15" x="0-2" y="0-2" Load="Merge" Name="地下巴洛克遗迹" />
+      <zone Level="16-30" x="0-2" y="0-2" Load="Merge" Name="地下巴洛克遗迹" />
+      <zone Level="31-40" x="0-2" y="0-2" Load="Merge" Name="地下巴洛克遗迹" />
+    </cell>
+    <cell Name="JoppaTutorialArea" Load="Merge">
+      <zone Level="5-9" x="0-2" y="0-2" Load="Merge" Name="盐沼上空" IndefiniteArticle="" />
+      <zone Level="10" x="0-2" y="0-2" Load="Merge" Name="盐沼" />
+      <zone Level="10" x="1" y="1" Load="Merge" Name="盐沼" />
+      <zone Level="10" x="1" y="0" Load="Merge" Name="盐沼" />
+      <zone Level="11" x="1" y="1" Load="Merge" Name="盐沼" />
+      <zone Level="11" x="1" y="0" Load="Merge" Name="盐沼" />
+    </cell>
+  </world>
+  <world Name="NorthSheva" Load="Merge" DisplayName="北舍瓦">
+    <cell Name="DefaultNorthShevaCell" Load="Merge">
+      <zone Level="0-9" x="0-2" y="0-2" Load="Merge" Name="高轨道" />
+    </cell>
+    <cell Name="ArrivariumCell" Load="Merge">
+      <zone Level="10" x="1" y="0" Load="Merge" Name="抵达庭" NameContext="北舍瓦" />
+    </cell>
+    <cell Name="EarthGateCell" Load="Merge">
+      <zone Level="10" x="1" y="0" Load="Merge" Name="地球之门" NameContext="北舍瓦" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="1" Load="Merge" Name="黑墙" NameContext="北舍瓦" IndefiniteArticle="" />
+      <zone Level="10" x="1" y="2" Load="Merge" Name="黑墙" NameContext="北舍瓦" IndefiniteArticle="" />
+    </cell>
+    <cell Name="TifaretCell" Load="Merge">
+      <zone Level="10" x="1" y="2" Load="Merge" Name="浅阶" NameContext="北舍瓦" />
+      <zone Level="9" x="1" y="2" Load="Merge" Name="浅阶" NameContext="北舍瓦" />
+      <zone Level="8" x="1" y="2" Load="Merge" Name="幻灵之桥" NameContext="北舍瓦" />
+      <zone Level="8" x="2" y="2" Load="Merge" Name="提法列特之点" NameContext="北舍瓦" />
+    </cell>
+    <cell Name="ArkStopCell" Load="Merge">
+      <zone Level="10" x="1" y="0" Load="Merge" Name="北方方舟" NameContext="北舍瓦" IndefiniteArticle="" />
+      <zone Level="10" x="0" y="0" Load="Merge" Name="北方方舟" NameContext="北舍瓦" IndefiniteArticle="" />
+    </cell>
+    <cell Name="ArkArchCell" Load="Merge">
+      <zone Level="10" x="1" y="2" Load="Merge" Name="屏障拱门" NameContext="北方方舟" />
+      <zone Level="10" x="1" y="1" Load="Merge" Name="屏障拱门" NameContext="北方方舟" />
+      <zone Level="10" x="1" y="0" Load="Merge" Name="屏障拱门" NameContext="北方方舟" />
+    </cell>
+    <cell Name="ArkSiachCell" Load="Merge">
+      <zone Level="10" x="1" y="2" Load="Merge" Name="大西阿赫" NameContext="北方方舟" />
+      <zone Level="10" x="2" y="2" Load="Merge" Name="木雕空间" NameContext="北方方舟" IndefiniteArticle="" />
+    </cell>
+    <cell Name="QuayStopCell" Load="Merge">
+      <zone Level="10" x="2" y="2" Load="Merge" Name="星航者码头" NameContext="北舍瓦" />
+    </cell>
+    <cell Name="QuayCellSurface" Load="Merge">
+      <zone Level="10" x="0" y="2" Load="Merge" Name="北方荒原" NameContext="星航者码头" />
+    </cell>
+    <cell Name="QuayCell" Load="Merge">
+      <zone Level="10" x="0" y="0" Load="Merge" Name="北方荒原" NameContext="星航者码头" />
+      <zone Level="10" x="0" y="1" Load="Merge" Name="北方荒原" NameContext="星航者码头" />
+    </cell>
+    <cell Name="StarOrchidTempleCell" Load="Merge">
+      <zone Level="10" x="1" y="1" Load="Merge" Name="星兰圣殿" />
+      <zone Level="9" x="1" y="1" Load="Merge" Name="星兰圣殿" />
+      <zone Level="8" x="1" y="1" Load="Merge" Name="星兰圣殿" />
+    </cell>
+  </world>
+</worlds>

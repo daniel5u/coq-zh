@@ -1,0 +1,78 @@
+You extract carbon from living material.	你自活物之中萃取碳质。
+Shoots a beam with a 3-round windup that dismembers the limbs of its targets.	发射一道光束，蓄能3回合，可肢解目标的肢体。
+Beam distance: {{rules|#}} spaces	光束距离：{{rules|#}}格
+Cooldown: # rounds	冷却时间：#回合
+You can't act while scintillating.	闪烁期间你无法行动。
+Confuses nearby hostile creatures per Confusion rank #.	使附近的敌对生物陷入惑乱，惑乱等级为#。
+Duration: 5 rounds	持续时间：5回合
+Cooldown: 200 rounds	冷却时间：200回合
+In stressful situations, you scintillate.	身处险境之时，你周身熠熠闪烁。
+Area: 7x7 around self	范围：以自身为中心的7x7区域
+Damage to non-structural objects: {{rules|#}}	对非结构物体的伤害：{{rules|#}}
+Damage to structural objects: {{rules|#}}	对结构物体的伤害：{{rules|#}}
+You are exhausted for 3 rounds after using this power.	使用此能力后，你将力竭3回合。
+You garrote an adjacent creature's mind and control its actions while your own body lies dormant.	你以心念勒缚相邻生物的神智，操控其一举一动，而自身躯壳则陷入沉眠。
+Mental attack versus creature with a mind	对有心智的生物发动精神攻击
+Success roll: {{rules|mutation rank}} or Ego mod (whichever is higher) + character level + 1d8 vs. Defender MA + character level	成功判定：{{rules|变异等级}}或自我调整值（取较高者）+角色等级+1d8，对抗防御者心智护甲+角色等级
+Range: 1	射程：1
+Duration: {{rules|#}} rounds	持续时间：{{rules|#}}回合
+Cooldown: 75 rounds	冷却时间：75回合
+You accrue electrical charge that you can use and discharge to deal damage.	你积蓄电荷，可加以运用，亦可释放以造成伤害。
+Maximum charge: {{rules|#}}	最大电荷：{{rules|#}}
+Accrue base {{rules|#}} charge per turn	每回合基础积蓄{{rules|#}}点电荷
+Can discharge all held charge for 1d4 damage per # charge	可释放全部所存电荷，每#点电荷造成1d4伤害
+Discharge can arc to adjacent targets dealing reduced damage, up to 1 target per # charge	放电可电弧跳跃至相邻目标并造成减弱的伤害，每#点电荷最多波及1个目标
+EMP causes involuntary discharge (difficulty 18 Willpower save)	电磁脉冲会引发不受控的放电（意志豁免难度18）
+You can drink change from electrical power sources.	你可从电力来源中汲取电荷。
+You can drink charge from energy cells and capacitors.	你可从能量电池与电容器中汲取电荷。
+You gain # charge per point of electrical damage taken.	每受到1点电击伤害，你获得#点电荷。
+You can provide charge to equipped devices that have integrated power.	你可为所装备的、带有集成供电的装置供给电荷。
+Area: {{rules|#x#}} centered around yourself	范围：以自身为中心的{{rules|#x#}}区域
+Duration: {{rules|#-#}} rounds	持续时间：{{rules|#-#}}回合
+You scare creatures around you.	你令周遭生灵心生惧意。
+You cause adjacent creatures to flee in terror.	你使相邻生物惊惧奔逃。
+Additionally, you sometimes scare creatures passively.	此外，你偶尔会不经意间吓退生物。
+You breathe fire.	你口吐烈焰。
+Breathes fire in a cone.	喷吐锥形火焰。
+Damage: #	伤害：#
+Cone length: # tiles	锥形长度：#格
+Cone angle: # degrees	锥形角度：#度
+Cooldown: 15 rounds	冷却时间：15回合
+{{rules|Increased temperature}}	{{rules|温度提升}}
+Emits a #-square ray of flame in the direction of your choice.	向你所选的方向射出一道#格长的火焰射线。
+Damage: {{rules|#}}	伤害：{{rules|#}}
+Cooldown: 10 rounds	冷却时间：10回合
+Melee attacks heat opponents by {{rules|#}} degrees	近战攻击使对手升温{{rules|#}}度
+You emit a ray of flame.	你能射出火焰射线。
+You emit a ray of flame from your {0}.	你的{0}能射出火焰射线。
+Creates a 3x3 forcefield centered on yourself	以自身为中心生成一道3x3的力场
+You may fire missile weapons through the forcefield.	你可以隔着力场发射远程武器。
+Creates 9 contiguous squares of immobile forcefield.	生成9格相连、不可移动的力场。
+Emits a #-square ray of frost in the direction of your choice	向你所选的方向射出一道#格长的寒霜射线
+Cooldown: 30 rounds	冷却时间：30回合
+Cannot wear face accessories	无法佩戴面部配饰
+You emit jets of frost from your mouth.	你自口中喷出道道寒霜。
+Emits a #-square ray of frost in the direction of your choice.	向你所选的方向射出一道#格长的寒霜射线。
+Cooldown: 20 rounds	冷却时间：20回合
+Melee attacks cool opponents by {{rules|#}} degrees	近战攻击使对手降温{{rules|#}}度
+You emit a ray of frost.	你能射出寒霜射线。
+You emit a ray of frost from your {0}.	你的{0}能射出寒霜射线。
+You fill a nearby area with frosty webs.	你使附近区域布满凝霜蛛网。
+Range: 12	射程：12
+Area: 3x3	范围：3x3
+You release a burst of {0} around yourself.	你在周身释放一阵{0}。
+You release a gaseous burst around yourself.	你在周身释放一阵气体。
+Releases gas for {{rules|#}} rounds	释放气体，持续{{rules|#}}回合
+{{rules|Decreased {0}}}	{{rules|{0}降低}}
+{{rules|Increased {0}}}	{{rules|{0}提升}}
+You are unusually large.	你的体格异乎寻常地庞大。
+Can only use most equipment if it is gigantic.	多数装备须为巨型方可使用。
+Cannot enter small spaces.	无法进入狭小空间。
+Heavier.	体重更沉。
+Can carry more.	负重更多。
+You regenerate by absorbing heat.	你吸纳热量以自愈。
+Immune to heat damage	免疫热伤害
+Whenever you would have taken heat damage, you heal for {{rules|#}}% of that damage instead	每当你本应受到热伤害时，改为恢复该伤害的{{rules|#}}%生命
+Your joints stretch much further than usual.	你的关节伸展之幅远胜常人。
++{{rules|#}} Agility	+{{rules|#}}敏捷
+{{rules|#}}% chance that Sprint and skills with Agility prerequisites don't go on cooldown after use	{{rules|#}}%几率使冲刺及以敏捷为前置的技能在使用后不进入冷却

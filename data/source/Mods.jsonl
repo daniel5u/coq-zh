@@ -1,0 +1,145 @@
+{"id": "Mods#00001", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00002", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "lacquered"}
+{"id": "Mods#00003", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Lacquered: This item cannot rust."}
+{"id": "Mods#00004", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00005", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "sturdy"}
+{"id": "Mods#00006", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Sturdy: This item cannot break."}
+{"id": "Mods#00007", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00008", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "slender"}
+{"id": "Mods#00009", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Slender: This item weighs less than normal."}
+{"id": "Mods#00010", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00011", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "willowy"}
+{"id": "Mods#00012", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Willowy: This item weighs much less than normal."}
+{"id": "Mods#00013", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00014", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "fitted with suspensors"}
+{"id": "Mods#00015", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00016", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "jewel-encrusted"}
+{"id": "Mods#00017", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Jewel-Encrusted: This item is much more valuable than usual and grants the wearer +100 reputation with water barons."}
+{"id": "Mods#00018", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "rifles"}
+{"id": "Mods#00019", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "drum-loaded"}
+{"id": "Mods#00020", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Drum-loaded: This weapon may hold 20% additional ammo."}
+{"id": "Mods#00021", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "rifles"}
+{"id": "Mods#00022", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "scoped"}
+{"id": "Mods#00023", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Scoped: This weapon has increased accuracy."}
+{"id": "Mods#00024", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "rifles"}
+{"id": "Mods#00025", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "liquid-cooled"}
+{"id": "Mods#00026", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "rifles"}
+{"id": "Mods#00027", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "fitted with a beamsplitter"}
+{"id": "Mods#00028", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "rifles"}
+{"id": "Mods#00029", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "nanon"}
+{"id": "Mods#00030", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00031", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "sharp"}
+{"id": "Mods#00032", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Sharp: +1 to penetration rolls"}
+{"id": "Mods#00033", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00034", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "masterwork"}
+{"id": "Mods#00035", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Masterwork: This weapon scores critical hits twice as often."}
+{"id": "Mods#00036", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00037", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "displacer"}
+{"id": "Mods#00038", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00039", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "morphogenetic"}
+{"id": "Mods#00040", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00041", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "serrated"}
+{"id": "Mods#00042", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Serrated: This weapon has a 3% chance to dismember opponents."}
+{"id": "Mods#00043", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00044", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "gigantic"}
+{"id": "Mods#00045", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00046", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "electrified"}
+{"id": "Mods#00047", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00048", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "freezing"}
+{"id": "Mods#00049", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00050", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "flaming"}
+{"id": "Mods#00051", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "melee weapons"}
+{"id": "Mods#00052", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "counterweighted"}
+{"id": "Mods#00053", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00054", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "reinforced"}
+{"id": "Mods#00055", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Reinforced: +1 AV"}
+{"id": "Mods#00056", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00057", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "flexiweaved"}
+{"id": "Mods#00058", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00059", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "recycling"}
+{"id": "Mods#00060", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Recycling: This item collects, purifies, and stores up to 8 drams of the wearer's wastewater."}
+{"id": "Mods#00061", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00062", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "disguise"}
+{"id": "Mods#00063", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00064", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "visored"}
+{"id": "Mods#00065", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Visored: +1 DV"}
+{"id": "Mods#00066", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00067", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "padded"}
+{"id": "Mods#00068", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00069", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "lanterned"}
+{"id": "Mods#00070", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Lanterned: This item provides light."}
+{"id": "Mods#00071", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00072", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "fitted with filters"}
+{"id": "Mods#00073", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00074", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "two-faced"}
+{"id": "Mods#00075", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Two-faced: This item grants an additional face slot."}
+{"id": "Mods#00076", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00077", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "of terrifying visage"}
+{"id": "Mods#00078", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Terrifying visage: This item reduces the cooldowns of Berate, Intimidate, and Menacing Stare by 10 rounds. Additionally, it takes up both a head and face slot."}
+{"id": "Mods#00079", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00080", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "of serene visage"}
+{"id": "Mods#00081", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Serene visage: +1 Willpower and reduces the cooldown of Meditate by 40 rounds. Additionally, this item takes up both a head and face slot."}
+{"id": "Mods#00082", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00083", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "co-processor"}
+{"id": "Mods#00084", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00085", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "spiked"}
+{"id": "Mods#00086", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00087", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "refractive"}
+{"id": "Mods#00088", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00089", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "six-fingered"}
+{"id": "Mods#00090", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Six-Fingered: +1 Agility"}
+{"id": "Mods#00091", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00092", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "gesticulating"}
+{"id": "Mods#00093", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00094", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "feathered"}
+{"id": "Mods#00095", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Feathered: This item grants the wearer +250 reputation with birds."}
+{"id": "Mods#00096", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00097", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "scaled"}
+{"id": "Mods#00098", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Scaled: This item grants the wearer +250 reputation with unshelled reptiles."}
+{"id": "Mods#00099", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00100", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "wooly"}
+{"id": "Mods#00101", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Wooly: This item grants resistance to heat and cold."}
+{"id": "Mods#00102", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00103", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "snail-encrusted"}
+{"id": "Mods#00104", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Snail-Encrusted: This item grants the wearer +250 reputation with mollusks."}
+{"id": "Mods#00105", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00106", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "spring-loaded"}
+{"id": "Mods#00107", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Spring-loaded: +5-10 movespeed"}
+{"id": "Mods#00108", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00109", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "fitted with cleats"}
+{"id": "Mods#00110", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00111", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "polarized"}
+{"id": "Mods#00112", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "armor"}
+{"id": "Mods#00113", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "nav"}
+{"id": "Mods#00114", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00115", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "nulling"}
+{"id": "Mods#00116", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "ammo and energy cells"}
+{"id": "Mods#00117", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "high-capacity"}
+{"id": "Mods#00118", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "ammo and energy cells"}
+{"id": "Mods#00119", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "metered"}
+{"id": "Mods#00120", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "ammo and energy cells"}
+{"id": "Mods#00121", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "radio-powered"}
+{"id": "Mods#00122", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00123", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "illuminated"}
+{"id": "Mods#00124", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Illuminated: This book is adorned with decorative marginalia and illustrations. It's worth 30% more."}
+{"id": "Mods#00125", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00126", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "extradimensional"}
+{"id": "Mods#00127", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Extradimensional: This item has recently materialized, inheriting some properties from its home dimension."}
+{"id": "Mods#00128", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "grenades"}
+{"id": "Mods#00129", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "airfoil"}
+{"id": "Mods#00130", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "grenades"}
+{"id": "Mods#00131", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "phase-conjugate"}
+{"id": "Mods#00132", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00133", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "electromagnetically-shielded"}
+{"id": "Mods#00134", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00135", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "jacked"}
+{"id": "Mods#00136", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00137", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "overloaded"}
+{"id": "Mods#00138", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00139", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "phase-harmonic"}
+{"id": "Mods#00140", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00141", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "engraved"}
+{"id": "Mods#00142", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Engraved: This item is engraved with a depiction of a historical event."}
+{"id": "Mods#00143", "file": "Mods", "tag": "mod", "attr": "TinkerCategory", "path": "[mods][mod]", "src": "utility"}
+{"id": "Mods#00144", "file": "Mods", "tag": "mod", "attr": "TinkerDisplayName", "path": "[mods][mod]", "src": "painted"}
+{"id": "Mods#00145", "file": "Mods", "tag": "mod", "attr": "Description", "path": "[mods][mod]", "src": "Painted: This item is painted with a depiction of a historical event."}

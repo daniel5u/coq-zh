@@ -1,0 +1,21 @@
+{"id": "Biomes#00001", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Fungal][variant,Name=Weak][noun]", "src": "fungus patch"}
+{"id": "Biomes#00002", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Fungal][variant,Name=Medium][noun]", "src": "fungus grove"}
+{"id": "Biomes#00003", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Fungal][variant,Name=Strong][noun]", "src": "fungus forest"}
+{"id": "Biomes#00004", "file": "Biomes", "tag": "journalSecret", "attr": "#text", "path": "[biomes][biome,Name=Fungal][variant,Name=Strong][journalSecret]", "src": "a {{m|fungus}} forest"}
+{"id": "Biomes#00005", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Slimy][variant,Name=Weak][noun]", "src": "slime patch"}
+{"id": "Biomes#00006", "file": "Biomes", "tag": "adjective", "attr": "#text", "path": "[biomes][biome,Name=Slimy][variant,Name=Weak][adjective]", "src": "slimy"}
+{"id": "Biomes#00007", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Slimy][variant,Name=Medium][noun]", "src": "slime field"}
+{"id": "Biomes#00008", "file": "Biomes", "tag": "adjective", "attr": "#text", "path": "[biomes][biome,Name=Slimy][variant,Name=Medium][adjective]", "src": "slime-drenched"}
+{"id": "Biomes#00009", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Slimy][variant,Name=Strong][noun]", "src": "slime bog"}
+{"id": "Biomes#00010", "file": "Biomes", "tag": "journalSecret", "attr": "#text", "path": "[biomes][biome,Name=Slimy][variant,Name=Strong][journalSecret]", "src": "a {{g|slime}} bog"}
+{"id": "Biomes#00011", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Tarry][variant,Name=Weak][noun]", "src": "tar patch"}
+{"id": "Biomes#00012", "file": "Biomes", "tag": "adjective", "attr": "#text", "path": "[biomes][biome,Name=Tarry][variant,Name=Weak][adjective]", "src": "tarry"}
+{"id": "Biomes#00013", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Tarry][variant,Name=Medium][noun]", "src": "tar pools"}
+{"id": "Biomes#00014", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Tarry][variant,Name=Strong][noun]", "src": "flaming tar pits"}
+{"id": "Biomes#00015", "file": "Biomes", "tag": "journalSecret", "attr": "#text", "path": "[biomes][biome,Name=Tarry][variant,Name=Strong][journalSecret]", "src": "some {{fiery|flaming}} {{K|tar}} pits"}
+{"id": "Biomes#00016", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Rusty][variant,Name=Weak][noun]", "src": "rust patch"}
+{"id": "Biomes#00017", "file": "Biomes", "tag": "adjective", "attr": "#text", "path": "[biomes][biome,Name=Rusty][variant,Name=Weak][adjective]", "src": "rusty"}
+{"id": "Biomes#00018", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Rusty][variant,Name=Medium][noun]", "src": "rust field"}
+{"id": "Biomes#00019", "file": "Biomes", "tag": "adjective", "attr": "#text", "path": "[biomes][biome,Name=Rusty][variant,Name=Medium][adjective]", "src": "rust-shrouded"}
+{"id": "Biomes#00020", "file": "Biomes", "tag": "noun", "attr": "#text", "path": "[biomes][biome,Name=Rusty][variant,Name=Strong][noun]", "src": "rust bog"}
+{"id": "Biomes#00021", "file": "Biomes", "tag": "journalSecret", "attr": "#text", "path": "[biomes][biome,Name=Rusty][variant,Name=Strong][journalSecret]", "src": "a {{rusty|rust}} bog"}

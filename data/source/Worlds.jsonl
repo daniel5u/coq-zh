@@ -1,0 +1,503 @@
+{"id": "Worlds#00001", "file": "Worlds", "tag": "world", "attr": "DisplayName", "path": "[worlds][world,Name=ThinWorld]", "src": "Thin World"}
+{"id": "Worlds#00002", "file": "Worlds", "tag": "world", "attr": "DisplayName", "path": "[worlds][world,Name=Tzimtzlum]", "src": "Tzimtzlum"}
+{"id": "Worlds#00003", "file": "Worlds", "tag": "world", "attr": "DisplayName", "path": "[worlds][world,Name=Interior]", "src": "Inside"}
+{"id": "Worlds#00004", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=Interior][cell,Name=Golem][zone,Level=10,x=1,y=1]", "src": "Control pit"}
+{"id": "Worlds#00005", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=Interior][cell,Name=Golem][zone,Level=10,x=1,y=1]", "src": "Golem"}
+{"id": "Worlds#00006", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=Interior][cell,Name=TempleMechaMkI][zone,Level=10,x=1,y=1]", "src": "Control pit"}
+{"id": "Worlds#00007", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=Interior][cell,Name=TempleMechaMkI][zone,Level=10,x=1,y=1]", "src": "Temple mecha mk I"}
+{"id": "Worlds#00008", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=Interior][cell,Name=TempleMechaMkII][zone,Level=10,x=1,y=1]", "src": "Control pit"}
+{"id": "Worlds#00009", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=Interior][cell,Name=TempleMechaMkII][zone,Level=10,x=1,y=1]", "src": "Temple mecha mk II"}
+{"id": "Worlds#00010", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=Interior][cell,Name=Mover][zone,Level=10,x=1,y=1]", "src": "Atrium"}
+{"id": "Worlds#00011", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=Interior][cell,Name=Mover][zone,Level=10,x=1,y=1]", "src": "Mover"}
+{"id": "Worlds#00012", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=Interior][cell,Name=ShevaStarship][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00013", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=Interior][cell,Name=ShevaStarship][zone,Level=10,x=1,y=1]", "src": "Exodus"}
+{"id": "Worlds#00014", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=Interior][cell,Name=ShevaStarship][zone,Level=10,x=1,y=1]", "src": "Starfarer's Quay"}
+{"id": "Worlds#00015", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=Interior][cell,Name=ShevaStarCarousel][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00016", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=Interior][cell,Name=ShevaStarCarousel][zone,Level=10,x=1,y=1]", "src": "vqvtl 3"}
+{"id": "Worlds#00017", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=Interior][cell,Name=ShevaStarCarousel][zone,Level=10,x=1,y=1]", "src": "Starfarer's Quay"}
+{"id": "Worlds#00018", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=Interior][cell,Name=Coda][zone,Level=10,x=1,y=1]", "src": "Coda"}
+{"id": "Worlds#00019", "file": "Worlds", "tag": "world", "attr": "DisplayName", "path": "[worlds][world,Name=JoppaWorld]", "src": "Qud"}
+{"id": "Worlds#00020", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DefaultJoppaCell][zone,Level=0-9,x=0-2,y=0-2]", "src": "open sky"}
+{"id": "Worlds#00021", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DefaultJoppaCell][zone,Level=0-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00022", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DefaultJoppaCell][zone,Level=11-20,x=0-2,y=0-2]", "src": "subterranean caves"}
+{"id": "Worlds#00023", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DefaultJoppaCell][zone,Level=21-30,x=0-2,y=0-2]", "src": "subterranean caves"}
+{"id": "Worlds#00024", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DefaultJoppaCell][zone,Level=31-40,x=0-2,y=0-2]", "src": "subterranean caves"}
+{"id": "Worlds#00025", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DefaultJoppaCell][zone,Level=41-49,x=0-2,y=0-2]", "src": "subterranean caves"}
+{"id": "Worlds#00026", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WaterCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above a salt river"}
+{"id": "Worlds#00027", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WaterCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00028", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WaterCell][zone,Level=10,x=0-2,y=0-2]", "src": "salt river"}
+{"id": "Worlds#00029", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WaterCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean river"}
+{"id": "Worlds#00030", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=LakeHinnomCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Lake Hinnom"}
+{"id": "Worlds#00031", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=LakeHinnomCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00032", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=LakeHinnomCell][zone,Level=10,x=0-2,y=0-2]", "src": "Lake Hinnom"}
+{"id": "Worlds#00033", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=LakeHinnomCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "caverns beneath Lake Hinnom"}
+{"id": "Worlds#00034", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=PalladiumReefCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Palladium Reef"}
+{"id": "Worlds#00035", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=PalladiumReefCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00036", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=PalladiumReefCell][zone,Level=10,x=0-2,y=0-2]", "src": "Palladium Reef"}
+{"id": "Worlds#00037", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=PalladiumReefCell][zone,Level=10,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00038", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=PalladiumReefCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean reef"}
+{"id": "Worlds#00039", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Yd Freehold"}
+{"id": "Worlds#00040", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00041", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=10,x=0-2,y=0-2]", "src": "outskirts"}
+{"id": "Worlds#00042", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=10,x=0-2,y=0-2]", "src": "the Yd Freehold"}
+{"id": "Worlds#00043", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=10,x=0-2,y=0-2]", "src": "some"}
+{"id": "Worlds#00044", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00045", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=10,x=1,y=1]", "src": "Yd Freehold"}
+{"id": "Worlds#00046", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=10,x=1,y=1]", "src": "the"}
+{"id": "Worlds#00047", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean reef"}
+{"id": "Worlds#00048", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=11,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00049", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=YdFreeholdCell][zone,Level=11,x=1,y=1]", "src": "Yd Freehold"}
+{"id": "Worlds#00050", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=MoonStairCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Moon Stair"}
+{"id": "Worlds#00051", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=MoonStairCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00052", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=MoonStairCell][zone,Level=10,x=0-2,y=0-2]", "src": "Moon Stair"}
+{"id": "Worlds#00053", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=MoonStairCell][zone,Level=10,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00054", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=MoonStairCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean stair"}
+{"id": "Worlds#00055", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Eyn Roj"}
+{"id": "Worlds#00056", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00057", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00058", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=10,x=1,y=1]", "src": "Eyn Roj"}
+{"id": "Worlds#00059", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=11-15,x=1,y=1]", "src": "false", "copy": true}
+{"id": "Worlds#00060", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=11-15,x=1,y=1]", "src": "crystalline roots"}
+{"id": "Worlds#00061", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=16-40,x=1,y=1]", "src": "false", "copy": true}
+{"id": "Worlds#00062", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=16-40,x=1,y=1]", "src": "crystalline roots"}
+{"id": "Worlds#00063", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=41-48,x=1,y=1]", "src": "false", "copy": true}
+{"id": "Worlds#00064", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=41-48,x=1,y=1]", "src": "crystalline roots"}
+{"id": "Worlds#00065", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=49,x=1,y=1]", "src": "false", "copy": true}
+{"id": "Worlds#00066", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=EynRojCell][zone,Level=49,x=1,y=1]", "src": "crystalline roots"}
+{"id": "Worlds#00067", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=FlowerfieldCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above flower fields"}
+{"id": "Worlds#00068", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=FlowerfieldCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00069", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=FlowerfieldCell][zone,Level=10,x=0-2,y=0-2]", "src": "flower fields"}
+{"id": "Worlds#00070", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=FlowerfieldCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean flower fields"}
+{"id": "Worlds#00071", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WatervineCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above salt marsh"}
+{"id": "Worlds#00072", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WatervineCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00073", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WatervineCell][zone,Level=10,x=0-2,y=0-2]", "src": "salt marsh"}
+{"id": "Worlds#00074", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=WatervineCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean salt marsh"}
+{"id": "Worlds#00075", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SaltMarsh][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above salt marsh"}
+{"id": "Worlds#00076", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SaltMarsh][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00077", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SaltMarsh][zone,Level=10,x=0-2,y=0-2]", "src": "salt marsh"}
+{"id": "Worlds#00078", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Jungle][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above jungle"}
+{"id": "Worlds#00079", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Jungle][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00080", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Jungle][zone,Level=10,x=0-2,y=0-2]", "src": "jungle"}
+{"id": "Worlds#00081", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Jungle][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean jungle"}
+{"id": "Worlds#00082", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DeepJungle][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the deep jungle"}
+{"id": "Worlds#00083", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DeepJungle][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00084", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DeepJungle][zone,Level=10,x=0-2,y=0-2]", "src": "deep jungle"}
+{"id": "Worlds#00085", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DeepJungle][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean deep jungle"}
+{"id": "Worlds#00086", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Rainbow Wood"}
+{"id": "Worlds#00087", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00088", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal][zone,Level=10,x=0-2,y=0-2]", "src": "true", "copy": true}
+{"id": "Worlds#00089", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal][zone,Level=10,x=0-2,y=0-2]", "src": "Rainbow Wood"}
+{"id": "Worlds#00090", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal][zone,Level=10,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00091", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal][zone,Name=,Level=11-15,x=0-2,y=0-2]", "src": "the Rainbow Wood"}
+{"id": "Worlds#00092", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal Outskirts][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Rainbow Wood"}
+{"id": "Worlds#00093", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal Outskirts][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00094", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal Outskirts][zone,Level=10,x=0-2,y=0-2]", "src": "true", "copy": true}
+{"id": "Worlds#00095", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal Outskirts][zone,Level=10,x=0-2,y=0-2]", "src": "Rainbow Wood"}
+{"id": "Worlds#00096", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal Outskirts][zone,Level=10,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00097", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Fungal Outskirts][zone,Name=,Level=11-15,x=0-2,y=0-2]", "src": "the Rainbow Wood"}
+{"id": "Worlds#00098", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DesertCanyon][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above desert canyon"}
+{"id": "Worlds#00099", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DesertCanyon][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00100", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DesertCanyon][zone,Level=10,x=0-2,y=0-2]", "src": "desert canyon"}
+{"id": "Worlds#00101", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=DesertCanyon][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean desert canyon"}
+{"id": "Worlds#00102", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Hills][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above hills"}
+{"id": "Worlds#00103", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Hills][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00104", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Hills][zone,Level=10,x=0-2,y=0-2]", "src": "hills"}
+{"id": "Worlds#00105", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Hills][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean hills"}
+{"id": "Worlds#00106", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Mountains][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above mountains"}
+{"id": "Worlds#00107", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Mountains][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00108", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Mountains][zone,Level=10,x=0-2,y=0-2]", "src": "mountains"}
+{"id": "Worlds#00109", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Mountains][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean mountains"}
+{"id": "Worlds#00110", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SaltDesertCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above salt desert"}
+{"id": "Worlds#00111", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SaltDesertCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00112", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SaltDesertCell][zone,Level=10,x=0-2,y=0-2]", "src": "salt desert"}
+{"id": "Worlds#00113", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SaltDesertCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean salt desert"}
+{"id": "Worlds#00114", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SixDayStilt][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Stiltgrounds"}
+{"id": "Worlds#00115", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SixDayStilt][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00116", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SixDayStilt][zone,Name=,Level=10,x=0-2,y=0-2]", "src": "The Stiltgrounds"}
+{"id": "Worlds#00117", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SixDayStilt][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00118", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=SixDayStilt][zone,Level=10,x=1,y=1]", "src": "Six Day Stilt"}
+{"id": "Worlds#00119", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Kyakukya][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Kyakukya"}
+{"id": "Worlds#00120", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Kyakukya][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00121", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Kyakukya][zone,Level=10,x=0-2,y=0-2]", "src": "outskirts"}
+{"id": "Worlds#00122", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Kyakukya][zone,Level=10,x=0-2,y=0-2]", "src": "Kyakukya"}
+{"id": "Worlds#00123", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Kyakukya][zone,Level=10,x=0-2,y=0-2]", "src": "some"}
+{"id": "Worlds#00124", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Kyakukya][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00125", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Kyakukya][zone,Level=10,x=1,y=1]", "src": "Kyakukya"}
+{"id": "Worlds#00126", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Joppa"}
+{"id": "Worlds#00127", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00128", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=10,x=0-2,y=0-2]", "src": "outskirts"}
+{"id": "Worlds#00129", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=10,x=0-2,y=0-2]", "src": "Joppa"}
+{"id": "Worlds#00130", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=10,x=0-2,y=0-2]", "src": "some"}
+{"id": "Worlds#00131", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00132", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=10,x=1,y=1]", "src": "Joppa"}
+{"id": "Worlds#00133", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=11,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00134", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=12,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00135", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=13,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00136", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=14,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00137", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Joppa][zone,Level=14,x=1,y=0]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00138", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Joppa"}
+{"id": "Worlds#00139", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00140", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=10,x=0-2,y=0-2]", "src": "outskirts"}
+{"id": "Worlds#00141", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=10,x=0-2,y=0-2]", "src": "Joppa"}
+{"id": "Worlds#00142", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=10,x=0-2,y=0-2]", "src": "some"}
+{"id": "Worlds#00143", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00144", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=10,x=1,y=1]", "src": "Joppa"}
+{"id": "Worlds#00145", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=11,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00146", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=12,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00147", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=13,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00148", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=14,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00149", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRuins][zone,Level=14,x=1,y=0]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00150", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Rustwell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Rust Wells"}
+{"id": "Worlds#00151", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Rustwell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00152", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Rustwell][zone,Level=10,x=1,y=1]", "src": "Rustwell"}
+{"id": "Worlds#00153", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Rustwell][zone,Level=11,x=1,y=1]", "src": "Rustwell"}
+{"id": "Worlds#00154", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Rustwell][zone,Level=12,x=1,y=1]", "src": "Rustwell"}
+{"id": "Worlds#00155", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Rustwell][zone,Level=13,x=1,y=1]", "src": "Rustwell"}
+{"id": "Worlds#00156", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Grit Gate"}
+{"id": "Worlds#00157", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00158", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=10,x=0-2,y=0-2]", "src": "outskirts"}
+{"id": "Worlds#00159", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=10,x=0-2,y=0-2]", "src": "Grit Gate"}
+{"id": "Worlds#00160", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=10,x=0-2,y=0-2]", "src": "some"}
+{"id": "Worlds#00161", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=10,x=1,y=1]", "src": "Grit Gate"}
+{"id": "Worlds#00162", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=11-29,x=0-2,y=0-2]", "src": "lower tunnels"}
+{"id": "Worlds#00163", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=11-29,x=0-2,y=0-2]", "src": "Grit Gate"}
+{"id": "Worlds#00164", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=12,x=1,y=0]", "src": "lower tunnels"}
+{"id": "Worlds#00165", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=12,x=1,y=0]", "src": "Grit Gate"}
+{"id": "Worlds#00166", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=12,x=1,y=1]", "src": "lower tunnels"}
+{"id": "Worlds#00167", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=12,x=1,y=1]", "src": "Grit Gate"}
+{"id": "Worlds#00168", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=13,x=1,y=1]", "src": "entrance level"}
+{"id": "Worlds#00169", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=13,x=1,y=1]", "src": "Grit Gate"}
+{"id": "Worlds#00170", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=13,x=2,y=0]", "src": "true", "copy": true}
+{"id": "Worlds#00171", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=13,x=2,y=0]", "src": "Grit Gate"}
+{"id": "Worlds#00172", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=13,x=1,y=0]", "src": "true", "copy": true}
+{"id": "Worlds#00173", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=13,x=1,y=0]", "src": "Grit Gate"}
+{"id": "Worlds#00174", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=14,x=1,y=0]", "src": "true", "copy": true}
+{"id": "Worlds#00175", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=14,x=1,y=0]", "src": "Barathrum's Study"}
+{"id": "Worlds#00176", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=14,x=1,y=0]", "src": "Grit Gate"}
+{"id": "Worlds#00177", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=15,x=1,y=0]", "src": "lower tunnels"}
+{"id": "Worlds#00178", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Gritgate][zone,Level=15,x=1,y=0]", "src": "Grit Gate"}
+{"id": "Worlds#00179", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Golgotha"}
+{"id": "Worlds#00180", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00181", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=10,x=0-2,y=0-2]", "src": "Golgotha"}
+{"id": "Worlds#00182", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=10,x=1,y=1]", "src": "Golgotha"}
+{"id": "Worlds#00183", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=11-14,x=1,y=1]", "src": "trash chutes"}
+{"id": "Worlds#00184", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=11-14,x=1,y=1]", "src": "Golgotha"}
+{"id": "Worlds#00185", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=15,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00186", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=15,x=1,y=1]", "src": "Cloaca"}
+{"id": "Worlds#00187", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=15,x=1,y=1]", "src": "Golgotha"}
+{"id": "Worlds#00188", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=16-20,x=1,y=1]", "src": "subterranean caves"}
+{"id": "Worlds#00189", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=21-30,x=1,y=1]", "src": "subterranean caves"}
+{"id": "Worlds#00190", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=31-40,x=1,y=1]", "src": "subterranean caves"}
+{"id": "Worlds#00191", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Golgotha][zone,Level=41-49,x=1,y=1]", "src": "subterranean caves"}
+{"id": "Worlds#00192", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=rusted archway][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above a rusted archway"}
+{"id": "Worlds#00193", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=rusted archway][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00194", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=rusted archway][zone,Level=10,x=1,y=1]", "src": "a rusted archway"}
+{"id": "Worlds#00195", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=rusted archway][zone,Name=,Level=11-13,x=1,y=1]", "src": "a rusted archway"}
+{"id": "Worlds#00196", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=rusted archway][zone,Name=,Level=14,x=1,y=1]", "src": "a rusted archway"}
+{"id": "Worlds#00197", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above the Asphalt Mines"}
+{"id": "Worlds#00198", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00199", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=10,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00200", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=10,x=1,y=1]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00201", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=11-14,x=0-2,y=0-2]", "src": "upper shafts"}
+{"id": "Worlds#00202", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=11-14,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00203", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=15,x=0-2,y=0-2]", "src": "middle shafts"}
+{"id": "Worlds#00204", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=15,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00205", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=16-18,x=0-2,y=0-2]", "src": "middle shafts"}
+{"id": "Worlds#00206", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=16-18,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00207", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=19-22,x=0-2,y=0-2]", "src": "deep shafts"}
+{"id": "Worlds#00208", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=19-22,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00209", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=23-27,x=0-2,y=0-2]", "src": "true", "copy": true}
+{"id": "Worlds#00210", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=23-27,x=0-2,y=0-2]", "src": "Darkunder"}
+{"id": "Worlds#00211", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=23-27,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00212", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=28,x=0-2,y=0-2]", "src": "true", "copy": true}
+{"id": "Worlds#00213", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=28,x=0-2,y=0-2]", "src": "City of Bones"}
+{"id": "Worlds#00214", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=28,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00215", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=29,x=0-2,y=0-2]", "src": "true", "copy": true}
+{"id": "Worlds#00216", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=29,x=0-2,y=0-2]", "src": "Great Sea"}
+{"id": "Worlds#00217", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=29,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00218", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=30-35,x=0-2,y=0-2]", "src": "true", "copy": true}
+{"id": "Worlds#00219", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=30-35,x=0-2,y=0-2]", "src": "Tunnels of Ur"}
+{"id": "Worlds#00220", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=30-35,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00221", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=36-40,x=0-2,y=0-2]", "src": "true", "copy": true}
+{"id": "Worlds#00222", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=36-40,x=0-2,y=0-2]", "src": "Swilling Vast"}
+{"id": "Worlds#00223", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=36-40,x=0-2,y=0-2]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00224", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=40,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00225", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=40,x=1,y=1]", "src": "Swilling Vast"}
+{"id": "Worlds#00226", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Asphalt Mines][zone,Level=40,x=1,y=1]", "src": "the Asphalt Mines"}
+{"id": "Worlds#00227", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Bethesda Susa"}
+{"id": "Worlds#00228", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00229", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=10,x=0-2,y=0-2]", "src": "outskirts"}
+{"id": "Worlds#00230", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=10,x=0-2,y=0-2]", "src": "Bethesda Susa"}
+{"id": "Worlds#00231", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=10,x=0-2,y=0-2]", "src": "some"}
+{"id": "Worlds#00232", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00233", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=10,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00234", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11-26,x=1,y=1]", "src": "tunnels"}
+{"id": "Worlds#00235", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11-26,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00236", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11,x=1,y=0]", "src": "river passage"}
+{"id": "Worlds#00237", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11,x=1,y=0]", "src": "Bethesda Susa"}
+{"id": "Worlds#00238", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11,x=1,y=1]", "src": "ruined wharf"}
+{"id": "Worlds#00239", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00240", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11,x=1,y=2]", "src": "river passage"}
+{"id": "Worlds#00241", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=11,x=1,y=2]", "src": "Bethesda Susa"}
+{"id": "Worlds#00242", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=12,x=1,y=1]", "src": "healing pools"}
+{"id": "Worlds#00243", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=12,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00244", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=13,x=1,y=1]", "src": "healing pools"}
+{"id": "Worlds#00245", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=13,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00246", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=14,x=1,y=1]", "src": "healing pools"}
+{"id": "Worlds#00247", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=14,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00248", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=15,x=1,y=1]", "src": "abandoned ward"}
+{"id": "Worlds#00249", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=15,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00250", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=16-17,x=1,y=1]", "src": "ruined ward"}
+{"id": "Worlds#00251", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=16-17,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00252", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=18,x=1,y=1]", "src": "ruined ward"}
+{"id": "Worlds#00253", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=18,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00254", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=19-20,x=1,y=1]", "src": "ruined ward"}
+{"id": "Worlds#00255", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=19-20,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00256", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=21,x=1,y=1]", "src": "abandoned ward"}
+{"id": "Worlds#00257", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=21,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00258", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=22,x=1,y=1]", "src": "abandoned ward"}
+{"id": "Worlds#00259", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=22,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00260", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=23,x=1,y=1]", "src": "cybernetics ward"}
+{"id": "Worlds#00261", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=23,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00262", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=24,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00263", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=24,x=1,y=1]", "src": "Cryobarrio"}
+{"id": "Worlds#00264", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=24,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00265", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=25,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00266", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=25,x=1,y=1]", "src": "Cryobarrio"}
+{"id": "Worlds#00267", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=25,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00268", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=26,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00269", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=26,x=1,y=1]", "src": "Temple of the Rock"}
+{"id": "Worlds#00270", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=26,x=1,y=1]", "src": "Bethesda Susa"}
+{"id": "Worlds#00271", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=27-30,x=1,y=1]", "src": "subterranean caves"}
+{"id": "Worlds#00272", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=31-40,x=1,y=1]", "src": "subterranean caves"}
+{"id": "Worlds#00273", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Bethesda Susa][zone,Level=41-49,x=1,y=1]", "src": "subterranean caves"}
+{"id": "Worlds#00274", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BananaGrove][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above a banana grove"}
+{"id": "Worlds#00275", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BananaGrove][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00276", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BananaGrove][zone,Level=10,x=0-2,y=0-2]", "src": "banana grove"}
+{"id": "Worlds#00277", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BananaGrove][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean banana grove"}
+{"id": "Worlds#00278", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0-9,x=0-2,y=0-2]", "src": "sky around the Spindle"}
+{"id": "Worlds#00279", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00280", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=11,x=0-2,y=0-2]", "src": "Folk Catacombs"}
+{"id": "Worlds#00281", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=11,x=0-2,y=0-2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00282", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0-2,y=0-2]", "src": "structural rib"}
+{"id": "Worlds#00283", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0-2,y=0-2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00284", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=1,y=2]", "src": "Grand Vestibule"}
+{"id": "Worlds#00285", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=1,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00286", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0,y=2]", "src": "Grand Vestibule"}
+{"id": "Worlds#00287", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00288", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0,y=0]", "src": "Grand Vestibule"}
+{"id": "Worlds#00289", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00290", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0,y=1]", "src": "Grand Vestibule"}
+{"id": "Worlds#00291", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=0,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00292", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=2,y=0]", "src": "access corridor"}
+{"id": "Worlds#00293", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00294", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=2,y=2]", "src": "access corridor"}
+{"id": "Worlds#00295", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00296", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=0,y=0-2]", "src": "Columbarium: Landlords and Changers"}
+{"id": "Worlds#00297", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=0,y=0-2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00298", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=1-2,y=0]", "src": "Crematory"}
+{"id": "Worlds#00299", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=1-2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00300", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=1-2,y=2]", "src": "Crematory"}
+{"id": "Worlds#00301", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=1-2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00302", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=2,y=1]", "src": "Crematory Machine Room"}
+{"id": "Worlds#00303", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=9,x=2,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00304", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=8,x=0-2,y=0-2]", "src": "Lower Crypts: Warriors and Tutors"}
+{"id": "Worlds#00305", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=8,x=0-2,y=0-2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00306", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=8,x=1,y=1]", "src": "Spindle Channel"}
+{"id": "Worlds#00307", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=8,x=1,y=1]", "src": "the"}
+{"id": "Worlds#00308", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=7,x=0-2,y=0-2]", "src": "Upper Crypts: Priests and Royal Families"}
+{"id": "Worlds#00309", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=7,x=0-2,y=0-2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00310", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=7,x=1,y=1]", "src": "Spindle Channel"}
+{"id": "Worlds#00311", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=7,x=1,y=1]", "src": "the"}
+{"id": "Worlds#00312", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=6,x=0-2,y=0-2]", "src": "structural rib"}
+{"id": "Worlds#00313", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=6,x=0-2,y=0-2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00314", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=6,x=0,y=2]", "src": "Liminal Way"}
+{"id": "Worlds#00315", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=6,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00316", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=0,y=2]", "src": "Tomb of =sultan:1="}
+{"id": "Worlds#00317", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00318", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=0,y=1]", "src": "Tomb of =sultan:1="}
+{"id": "Worlds#00319", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=0,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00320", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=0,y=0]", "src": "Tomb of =sultan:1="}
+{"id": "Worlds#00321", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=0,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00322", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=1,y=0]", "src": "Tomb of =sultan:1="}
+{"id": "Worlds#00323", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=1,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00324", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=2,y=0]", "src": "Tomb of =sultan:1="}
+{"id": "Worlds#00325", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00326", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=2,y=1]", "src": "Tomb of =sultan:1="}
+{"id": "Worlds#00327", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=2,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00328", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=2,y=2]", "src": "Tomb of =sultan:1="}
+{"id": "Worlds#00329", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=5,x=2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00330", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=0,y=2]", "src": "Tomb of =sultan:2="}
+{"id": "Worlds#00331", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00332", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=0,y=1]", "src": "Tomb of =sultan:2="}
+{"id": "Worlds#00333", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=0,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00334", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=0,y=0]", "src": "Tomb of =sultan:2="}
+{"id": "Worlds#00335", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=0,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00336", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=1,y=0]", "src": "Tomb of =sultan:2="}
+{"id": "Worlds#00337", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=1,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00338", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=2,y=0]", "src": "Tomb of =sultan:2="}
+{"id": "Worlds#00339", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00340", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=2,y=1]", "src": "Tomb of =sultan:2="}
+{"id": "Worlds#00341", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=2,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00342", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=2,y=2]", "src": "Tomb of =sultan:2="}
+{"id": "Worlds#00343", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=4,x=2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00344", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=0,y=2]", "src": "Tomb of =sultan:3="}
+{"id": "Worlds#00345", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00346", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=0,y=1]", "src": "Tomb of =sultan:3="}
+{"id": "Worlds#00347", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=0,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00348", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=0,y=0]", "src": "Tomb of =sultan:3="}
+{"id": "Worlds#00349", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=0,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00350", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=1,y=0]", "src": "Tomb of =sultan:3="}
+{"id": "Worlds#00351", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=1,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00352", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=2,y=0]", "src": "Tomb of =sultan:3="}
+{"id": "Worlds#00353", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00354", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=2,y=1]", "src": "Tomb of =sultan:3="}
+{"id": "Worlds#00355", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=2,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00356", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=2,y=2]", "src": "Tomb of =sultan:3="}
+{"id": "Worlds#00357", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=3,x=2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00358", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=0,y=2]", "src": "Tomb of =sultan:4="}
+{"id": "Worlds#00359", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00360", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=0,y=1]", "src": "Tomb of =sultan:4="}
+{"id": "Worlds#00361", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=0,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00362", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=0,y=0]", "src": "Tomb of =sultan:4="}
+{"id": "Worlds#00363", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=0,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00364", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=1,y=0]", "src": "Tomb of =sultan:4="}
+{"id": "Worlds#00365", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=1,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00366", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=2,y=0]", "src": "Tomb of =sultan:4="}
+{"id": "Worlds#00367", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00368", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=2,y=1]", "src": "Tomb of =sultan:4="}
+{"id": "Worlds#00369", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=2,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00370", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=2,y=2]", "src": "Tomb of =sultan:4="}
+{"id": "Worlds#00371", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=2,x=2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00372", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=0,y=2]", "src": "Tomb of =sultan:5="}
+{"id": "Worlds#00373", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00374", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=0,y=1]", "src": "Tomb of =sultan:5="}
+{"id": "Worlds#00375", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=0,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00376", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=0,y=0]", "src": "Tomb of =sultan:5="}
+{"id": "Worlds#00377", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=0,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00378", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=1,y=0]", "src": "Tomb of =sultan:5="}
+{"id": "Worlds#00379", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=1,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00380", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=2,y=0]", "src": "Tomb of =sultan:5="}
+{"id": "Worlds#00381", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00382", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=2,y=1]", "src": "Tomb of =sultan:5="}
+{"id": "Worlds#00383", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=2,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00384", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=2,y=2]", "src": "Tomb of =sultan:5="}
+{"id": "Worlds#00385", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=1,x=2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00386", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=0,y=2]", "src": "unfinished tomb"}
+{"id": "Worlds#00387", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=0,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00388", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=0,y=1]", "src": "unfinished tomb"}
+{"id": "Worlds#00389", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=0,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00390", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=0,y=0]", "src": "unfinished tomb"}
+{"id": "Worlds#00391", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=0,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00392", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=1,y=0]", "src": "unfinished tomb"}
+{"id": "Worlds#00393", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=1,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00394", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=2,y=0]", "src": "unfinished tomb"}
+{"id": "Worlds#00395", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=2,y=0]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00396", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=2,y=1]", "src": "unfinished tomb"}
+{"id": "Worlds#00397", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=2,y=1]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00398", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=2,y=2]", "src": "unfinished tomb"}
+{"id": "Worlds#00399", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0,x=2,y=2]", "src": "the Tomb of the Eaters"}
+{"id": "Worlds#00400", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0-14,x=1,y=1]", "src": "Spindle Channel"}
+{"id": "Worlds#00401", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0-14,x=1,y=1]", "src": "the"}
+{"id": "Worlds#00402", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=10,x=1,y=1]", "src": "Ascension Chamber"}
+{"id": "Worlds#00403", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=14,x=1,y=1]", "src": "Tether Bay"}
+{"id": "Worlds#00404", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=14,x=1,y=1]", "src": "the"}
+{"id": "Worlds#00405", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0-5,x=1,y=2]", "src": "sky around the Spindle"}
+{"id": "Worlds#00406", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=TheSpindle][zone,Level=0-5,x=1,y=2]", "src": "the"}
+{"id": "Worlds#00407", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=6-9,x=0-2,y=0-2]", "src": "sky above Omonporch"}
+{"id": "Worlds#00408", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=6-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00409", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=0-5,x=1,y=0]", "src": "sky above Omonporch"}
+{"id": "Worlds#00410", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=0-5,x=1,y=0]", "src": "the"}
+{"id": "Worlds#00411", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Name=,Level=10,x=0-2,y=0-2]", "src": "Omonporch"}
+{"id": "Worlds#00412", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean banana grove"}
+{"id": "Worlds#00413", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=10,x=1,y=0]", "src": "Arcade to the Twin Gates"}
+{"id": "Worlds#00414", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=10,x=1,y=0]", "src": "Omonporch"}
+{"id": "Worlds#00415", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=10,x=1,y=1]", "src": "Court of the Sultans"}
+{"id": "Worlds#00416", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=10,x=1,y=1]", "src": "Omonporch"}
+{"id": "Worlds#00417", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=10,x=0,y=0]", "src": "true", "copy": true}
+{"id": "Worlds#00418", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Omonporch][zone,Level=10,x=0,y=0]", "src": "Ezra"}
+{"id": "Worlds#00419", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above Red Rock"}
+{"id": "Worlds#00420", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00421", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Level=10,x=0-2,y=0-2]", "src": "outskirts"}
+{"id": "Worlds#00422", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Level=10,x=0-2,y=0-2]", "src": "Red Rock"}
+{"id": "Worlds#00423", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Level=10,x=0-2,y=0-2]", "src": "some"}
+{"id": "Worlds#00424", "file": "Worlds", "tag": "zone", "attr": "ProperName", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Level=10,x=1,y=1]", "src": "true", "copy": true}
+{"id": "Worlds#00425", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Level=10,x=1,y=1]", "src": "Red Rock"}
+{"id": "Worlds#00426", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Name=,Level=11,x=1,y=1]", "src": "Red Rock"}
+{"id": "Worlds#00427", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Name=,Level=12,x=1,y=1]", "src": "Red Rock"}
+{"id": "Worlds#00428", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Name=,Level=13,x=1,y=1]", "src": "Red Rock"}
+{"id": "Worlds#00429", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Name=,Level=14,x=1,y=1]", "src": "Red Rock"}
+{"id": "Worlds#00430", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=JoppaWorld][cell,Name=Redrock][zone,Name=,Level=14,x=1,y=2]", "src": "Red Rock"}
+{"id": "Worlds#00431", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRedrockChannel][zone,Level=10,x=0-2,y=0-2]", "src": "salt marsh"}
+{"id": "Worlds#00432", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRedrockChannel][zone,Level=14,x=1,y=0]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00433", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRedrockChannel][zone,Level=14,x=1,y=1]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00434", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaRedrockChannel][zone,Level=14,x=1,y=2]", "src": "waterlogged tunnel"}
+{"id": "Worlds#00435", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=RuinsCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above some ruins"}
+{"id": "Worlds#00436", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=RuinsCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00437", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=RuinsCell][zone,Level=10,x=0-2,y=0-2]", "src": "ruins"}
+{"id": "Worlds#00438", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=RuinsCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean ruins"}
+{"id": "Worlds#00439", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=RuinsCell][zone,Level=16-20,x=0-2,y=0-2]", "src": "subterranean ruins"}
+{"id": "Worlds#00440", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=RuinsCell][zone,Level=21-30,x=0-2,y=0-2]", "src": "subterranean ruins"}
+{"id": "Worlds#00441", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=RuinsCell][zone,Level=31-40,x=0-2,y=0-2]", "src": "subterranean ruins"}
+{"id": "Worlds#00442", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BaroqueRuinsCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above some baroque ruins"}
+{"id": "Worlds#00443", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BaroqueRuinsCell][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00444", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BaroqueRuinsCell][zone,Level=10,x=0-2,y=0-2]", "src": "baroque ruins"}
+{"id": "Worlds#00445", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BaroqueRuinsCell][zone,Level=11-15,x=0-2,y=0-2]", "src": "subterranean baroque ruins"}
+{"id": "Worlds#00446", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BaroqueRuinsCell][zone,Level=16-30,x=0-2,y=0-2]", "src": "subterranean baroque ruins"}
+{"id": "Worlds#00447", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=BaroqueRuinsCell][zone,Level=31-40,x=0-2,y=0-2]", "src": "subterranean baroque ruins"}
+{"id": "Worlds#00448", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaTutorialArea][zone,Level=5-9,x=0-2,y=0-2]", "src": "sky above salt marsh"}
+{"id": "Worlds#00449", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaTutorialArea][zone,Level=5-9,x=0-2,y=0-2]", "src": "the"}
+{"id": "Worlds#00450", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaTutorialArea][zone,Level=10,x=0-2,y=0-2]", "src": "salt marsh"}
+{"id": "Worlds#00451", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaTutorialArea][zone,Level=10,x=1,y=1]", "src": "salt marsh"}
+{"id": "Worlds#00452", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaTutorialArea][zone,Level=10,x=1,y=0]", "src": "salt marsh"}
+{"id": "Worlds#00453", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaTutorialArea][zone,Level=11,x=1,y=1]", "src": "salt marsh"}
+{"id": "Worlds#00454", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=JoppaWorld][cell,Name=JoppaTutorialArea][zone,Level=11,x=1,y=0]", "src": "salt marsh"}
+{"id": "Worlds#00455", "file": "Worlds", "tag": "world", "attr": "DisplayName", "path": "[worlds][world,Name=NorthSheva]", "src": "The North Sheva"}
+{"id": "Worlds#00456", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=DefaultNorthShevaCell][zone,Level=0-9,x=0-2,y=0-2]", "src": "high orbit"}
+{"id": "Worlds#00457", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArrivariumCell][zone,Level=10,x=1,y=0]", "src": "Arrivarium"}
+{"id": "Worlds#00458", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArrivariumCell][zone,Level=10,x=1,y=0]", "src": "the North Sheva"}
+{"id": "Worlds#00459", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=0]", "src": "Earth Gate"}
+{"id": "Worlds#00460", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=0]", "src": "the North Sheva"}
+{"id": "Worlds#00461", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=0]", "src": "the"}
+{"id": "Worlds#00462", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=1]", "src": "Black Wall"}
+{"id": "Worlds#00463", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=1]", "src": "the North Sheva"}
+{"id": "Worlds#00464", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=1]", "src": "the"}
+{"id": "Worlds#00465", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=2]", "src": "Black Wall"}
+{"id": "Worlds#00466", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=2]", "src": "the North Sheva"}
+{"id": "Worlds#00467", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=NorthSheva][cell,Name=EarthGateCell][zone,Level=10,x=1,y=2]", "src": "the"}
+{"id": "Worlds#00468", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=10,x=1,y=2]", "src": "Shallow Stair"}
+{"id": "Worlds#00469", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=10,x=1,y=2]", "src": "the North Sheva"}
+{"id": "Worlds#00470", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=9,x=1,y=2]", "src": "Shallow Stair"}
+{"id": "Worlds#00471", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=9,x=1,y=2]", "src": "the North Sheva"}
+{"id": "Worlds#00472", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=8,x=1,y=2]", "src": "Bridge of Eidolons"}
+{"id": "Worlds#00473", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=8,x=1,y=2]", "src": "the North Sheva"}
+{"id": "Worlds#00474", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=8,x=2,y=2]", "src": "Point of Tifaret"}
+{"id": "Worlds#00475", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=TifaretCell][zone,Level=8,x=2,y=2]", "src": "the North Sheva"}
+{"id": "Worlds#00476", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkStopCell][zone,Level=10,x=1,y=0]", "src": "Northern Ark"}
+{"id": "Worlds#00477", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkStopCell][zone,Level=10,x=1,y=0]", "src": "the North Sheva"}
+{"id": "Worlds#00478", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkStopCell][zone,Level=10,x=1,y=0]", "src": "the"}
+{"id": "Worlds#00479", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkStopCell][zone,Level=10,x=0,y=0]", "src": "Northern Ark"}
+{"id": "Worlds#00480", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkStopCell][zone,Level=10,x=0,y=0]", "src": "the North Sheva"}
+{"id": "Worlds#00481", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkStopCell][zone,Level=10,x=0,y=0]", "src": "the"}
+{"id": "Worlds#00482", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkArchCell][zone,Level=10,x=1,y=2]", "src": "Shielding Arch"}
+{"id": "Worlds#00483", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkArchCell][zone,Level=10,x=1,y=2]", "src": "the Northern Ark"}
+{"id": "Worlds#00484", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkArchCell][zone,Level=10,x=1,y=1]", "src": "Shielding Arch"}
+{"id": "Worlds#00485", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkArchCell][zone,Level=10,x=1,y=1]", "src": "the Northern Ark"}
+{"id": "Worlds#00486", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkArchCell][zone,Level=10,x=1,y=0]", "src": "Shielding Arch"}
+{"id": "Worlds#00487", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkArchCell][zone,Level=10,x=1,y=0]", "src": "the Northern Ark"}
+{"id": "Worlds#00488", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkSiachCell][zone,Level=10,x=1,y=2]", "src": "The Great Siach"}
+{"id": "Worlds#00489", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkSiachCell][zone,Level=10,x=1,y=2]", "src": "the Northern Ark"}
+{"id": "Worlds#00490", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkSiachCell][zone,Level=10,x=2,y=2]", "src": "wood-carved space"}
+{"id": "Worlds#00491", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkSiachCell][zone,Level=10,x=2,y=2]", "src": "the Northern Ark"}
+{"id": "Worlds#00492", "file": "Worlds", "tag": "zone", "attr": "IndefiniteArticle", "path": "[worlds][world,Name=NorthSheva][cell,Name=ArkSiachCell][zone,Level=10,x=2,y=2]", "src": "a"}
+{"id": "Worlds#00493", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayStopCell][zone,Level=10,x=2,y=2]", "src": "Starfarer's Quay"}
+{"id": "Worlds#00494", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayStopCell][zone,Level=10,x=2,y=2]", "src": "the North Sheva"}
+{"id": "Worlds#00495", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayCellSurface][zone,Level=10,x=0,y=2]", "src": "Northwise moors"}
+{"id": "Worlds#00496", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayCellSurface][zone,Level=10,x=0,y=2]", "src": "Starfarer's Quay"}
+{"id": "Worlds#00497", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayCell][zone,Level=10,x=0,y=0]", "src": "Northwise moors"}
+{"id": "Worlds#00498", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayCell][zone,Level=10,x=0,y=0]", "src": "Starfarer's Quay"}
+{"id": "Worlds#00499", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayCell][zone,Level=10,x=0,y=1]", "src": "Northwise moors"}
+{"id": "Worlds#00500", "file": "Worlds", "tag": "zone", "attr": "NameContext", "path": "[worlds][world,Name=NorthSheva][cell,Name=QuayCell][zone,Level=10,x=0,y=1]", "src": "Starfarer's Quay"}
+{"id": "Worlds#00501", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=StarOrchidTempleCell][zone,Level=10,x=1,y=1]", "src": "Star Orchid Temple"}
+{"id": "Worlds#00502", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=StarOrchidTempleCell][zone,Level=9,x=1,y=1]", "src": "Star Orchid Temple"}
+{"id": "Worlds#00503", "file": "Worlds", "tag": "zone", "attr": "Name", "path": "[worlds][world,Name=NorthSheva][cell,Name=StarOrchidTempleCell][zone,Level=8,x=1,y=1]", "src": "Star Orchid Temple"}

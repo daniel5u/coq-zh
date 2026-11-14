@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="WaterRitualChecks.cs" />
+    <Compile Include="RuntimeStubs.cs" />
+    <Compile Include="../../mod/QudZH/Scripts/ZhRuntime.cs" Link="ZhRuntime.cs" />
+    <Compile Include="../../mod/QudZH/Scripts/ZhPopupPatches.cs" Link="ZhPopupPatches.cs" />
+    <Compile Include="../../mod/QudZH/Scripts/ZhEquipmentPatches.cs" Link="ZhEquipmentPatches.cs" />
+    <Compile Include="../../mod/QudZH/Scripts/ZhWaterRitualPatches.cs" Link="ZhWaterRitualPatches.cs" />
+    <None Include="../../mod/QudZH/anatomy_labels.tsv" Link="anatomy_labels.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="../../mod/QudZH/runtime_strings.tsv" Link="runtime_strings.tsv" CopyToOutputDirectory="PreserveNewest" />
+    <Compile Include="../../mod/QudZH/Scripts/ZhText.cs" Link="ZhText.cs" />
+  </ItemGroup>
+</Project>

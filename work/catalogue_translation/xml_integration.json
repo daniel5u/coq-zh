@@ -1,0 +1,2300 @@
+[
+  {
+    "id": "01089ba57880b5fa593c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[183]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "02cb6e016bde923d7db2",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[163]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "041aefc44394f530201b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[173]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "058f54d22b306324fa0c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[112]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "05b5e35ed07672879e2e",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[104]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "05f687ea2424d64f5805",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[128]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "0a2ee72db94044a716ac",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[155]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "0ad21fe69de3a724cff7",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[30]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "0b3ba36c06e6176b1439",
+    "file": "ObjectBlueprints/Foods.xml",
+    "path": "/objects[1]/object[53]/part[8]/@Text",
+    "status": "already-localized"
+  },
+  {
+    "id": "0bff20ca00efffcd477b",
+    "file": "ObjectBlueprints/Items.xml",
+    "path": "/objects[1]/object[588]/part[6]/@Text",
+    "status": "already-localized"
+  },
+  {
+    "id": "0d465a4c6381c5d57564",
+    "file": "ObjectBlueprints/Items.xml",
+    "path": "/objects[1]/object[1045]/part[4]/@Text",
+    "status": "already-localized"
+  },
+  {
+    "id": "0e47f09a748fa1321dba",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[171]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "10178ab9eabd4085239d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[111]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "11330cbf80451ed3fa02",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[139]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1208ec01f223c616b981",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[46]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "145681c4b403e292f5c2",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[164]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "156c62649487aa1ed8ae",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[136]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "15a0ecdf3f440f554e34",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[110]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "171fdf99a58f7eb512a5",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[144]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1844ec9cd35935c176f9",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[145]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "185478c2625226eaabba",
+    "file": "Skills.xml",
+    "path": "/skills[1]/skill[20]/power[10]/@Description",
+    "status": "already-localized"
+  },
+  {
+    "id": "18fcb48377c7eca329b1",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[76]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1a30402db0bcd5d11156",
+    "file": "ObjectBlueprints/Items.xml",
+    "path": "/objects[1]/object[252]/part[6]/@Text",
+    "status": "already-localized"
+  },
+  {
+    "id": "1ac33d48f560b1a53810",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[181]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1ad2fa1be94d7dea257a",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[196]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1c07c4874862b3edb5c3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[85]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1d55ff7c387c67b2127d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[56]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1e17933feb3cb6c959b6",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[81]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "1e7c1290fbedc5d8aed3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[161]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2014937b5e23d8774eb2",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[117]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "20356a8e0c7d512f2f7d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[16]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2046220a0e58fa123dbd",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[89]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "22af0498f7260ddc1a50",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[69]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "22c4f04fe4cef57fea39",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[6]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "22e7b36f6375d0017abc",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[131]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "23ae0d56d796dcfdbbc5",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[178]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "240d7e382749cb4d3f15",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[126]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2566cd4666ee94c7580c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[52]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "27ee1cc79f4d065b029e",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[65]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "28cec9b90315eb06bcf6",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[197]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2a392fdfb4db0dadef52",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[100]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2cb16f73f202eb0cc03c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[194]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2ce7fcf8236a4b27124a",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[17]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2ea3fa6f603c8b9766e6",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[118]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2ef3a00c55623dcce849",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[87]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "2ffdbd003f0730c441c3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[184]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "30960e1299bc0eb0a6dc",
+    "file": "ObjectBlueprints/Creatures.xml",
+    "path": "/objects[1]/object[663]/part[4]/@Message",
+    "status": "generated"
+  },
+  {
+    "id": "3190bd87772dab5fca89",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[22]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "326e1f916cb5a57e3362",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[170]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "32d6d4fde57813fdc360",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[127]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "32f98c14ca4a151672f1",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[106]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "33f79dba330d499faed1",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[138]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "35266226b9cdee0bd143",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[68]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "356bb26d4694993f10cc",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[40]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "381db42768e6552fe309",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[94]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "3841f7049ccd9f5fb603",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[8]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "38d5a7a63bef0d066fd0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[116]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "38f651e9d010d59cef35",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[125]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "3919330f49f2cfa6945d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[137]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "3ab8a8811496055f520f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[193]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "3d03a1dea561d0dbeadf",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[57]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "3e990ccabfc583f7a349",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[153]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "40bb50da160cdc21d602",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[10]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "410a5eb820b621b03503",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[1]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "43f41b59d842bd22835d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[43]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "449f5a775762cdc561ee",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[63]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "44ac9c14f4c463800254",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[151]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "453fb9f57fcaa499730d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[42]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "46612d9907f711f715ab",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[90]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "484dd520ba87589cfd9f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[5]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "4a2f28a65c8d61f162b2",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[168]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "4c29fe98fc797804499b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[39]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "4cd265c2b8c65fa69764",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[46]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "4e861834001ff4d492cc",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[140]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "4fc394f039289989c98b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[115]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "4ffc623b2dfaddb569e0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[162]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "54d4c95208e0443b27a9",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[99]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "58dde7d1f5b0482096e7",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[96]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "5c0f64c682b421ef63b3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[192]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "5d0758c93a21bdf8ad73",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[148]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "5fa84b435b5b6771cff3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[34]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "5fb9c3aba7ad5106939f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[66]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "606880fa72838c4f1906",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[28]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "60c78ebbf31cfc0a3f05",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[91]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "62cd4bed2b66ee2f3c58",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[38]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "633b86cbb38f547056b6",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[133]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "662be1119151133cbd7d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[169]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "668ca14ce64dac31f6a7",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[37]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "66a1e7a4d703b16a4200",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[141]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "670a525df752e12b18b3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[107]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "680ff55706a1ab039d33",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[59]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "681eced8cc90627bf8f3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[25]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "68fc25bcbc2d78e16096",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[71]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "6b26866591da69408611",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[122]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "6edce2d433f110062950",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[41]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "705c61f8f4b0cea228cf",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[198]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "72a825fc6b848c0dce8f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[44]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7315c6ee811c7039f9a0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[180]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "74ab0b3c6dbe2093a589",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[58]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "75c2729143b5b8c4d178",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[149]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "75c7c13a4f3eadd4aab0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[54]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "76335a5ea5301d9487bd",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[19]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "76650e250d04f5f2461b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[29]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "77743a45ce61ecc92b11",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[47]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "77bda2dd315d7fbd70bc",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[14]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "793e86059084765871c3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[121]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7ad198a1b6d67df8b57b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[2]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7b2a8cc0842b0ba5df5d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[75]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7b44cc2f5345d3ff4f73",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[156]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7cb2e042a1ff6ed6983f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[153]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "7cba081e03c970f84b1b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[154]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7dd13607d155b3634869",
+    "file": "ObjectBlueprints/Foods.xml",
+    "path": "/objects[1]/object[69]/part[8]/@Message",
+    "status": "already-localized"
+  },
+  {
+    "id": "7dfcabf7d3801c751959",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[158]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7eb846bba89a52ad849d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[189]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "7edea78b2c23473aee9e",
+    "file": "ObjectBlueprints/Widgets.xml",
+    "path": "/objects[1]/object[110]/part[1]/@DisplayName",
+    "status": "generated"
+  },
+  {
+    "id": "7faf85181b2ed21ce9be",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[72]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "83042a409f32ab83b783",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[120]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "8411039839ae1d14540b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[195]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "85b4d76b2e7a69c0ba5c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[102]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "86ccf08630d632ff524f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[97]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "87a2f4936d90fddeca33",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[114]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "87cf1e900bb13732e882",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[199]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "87f3b797e3825e9dc962",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[20]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "8905cedf426a7b6f412c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[11]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "89adf14ba8d64eab667c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[4]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "8aa318eb7eaa233aada0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[49]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "8d7639d8a17f65b0aa95",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[7]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "8d882d7c8eb6f4e70b56",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[21]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "8f1ba0245c0d12d43d03",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[78]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "91c6370cfc662d958209",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[179]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "93b6d3b8ec041ab57c26",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[93]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "94487ff8a3eb863a9d1c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[23]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "951468056acda196b56d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[84]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "95b2b90e8e70ead79522",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[187]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "96a1ba5dca0d4f6a24d4",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[160]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "97b18f2c837204fcfaf2",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[3]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "9849a9fbc7a6cf219809",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[174]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "9a8a44cf133cdfe00f2d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[142]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "9aadfdd93d3bbdc2c34c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[73]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "9b13a2da786abf051b3f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[43]/@DescriptionPrefix",
+    "status": "generated"
+  },
+  {
+    "id": "9ba147221bff6ca46b16",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[82]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "a0de5719f595fbf5ffe3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[64]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "a2d9c724cccfc59fcbe6",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[79]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "a47e2767172aff32772b",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[83]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "a53881ba69df563dcdd9",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[167]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "a5a2729ffa0eeacc1532",
+    "file": "ObjectBlueprints/HiddenObjects.xml",
+    "path": "/objects[1]/object[330]/part[3]/@Verb",
+    "status": "generated"
+  },
+  {
+    "id": "a8fcdfb5ac59f2e4a8aa",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[67]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "aba5bccb4b675fcfc905",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[88]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ac530f47b380e18aa23f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[109]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ae39c0ce51b193abef6f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[200]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "b4f350117ed655771a3e",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[16]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "b50b4fecd040d04955ce",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[135]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "b72a481813ab20749fe3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[147]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "b9d46693ef68949bab25",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[35]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "bb3e2024bad8d87880d1",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[15]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "bc7b631a689b45ca5c51",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[172]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "bc8571eccda698e5c3ea",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[18]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "bd1e011a5cf36fa83603",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[188]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "bd71e60cb60df0b01bf7",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[13]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "bf751b2a871192ac4751",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[146]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0074a9116d444c55",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[14]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-00def6f1bc548a86",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[7]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0151397176817bb9",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[88]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0156c7d0bac33a1e",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[29]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-05dccda838ff5b31",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[10]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-067b03c2f7fa8774",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[31]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-07ee91635763d7e6",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[94]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-08dfb121cff1d772",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[140]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0911ca04e1307e3b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[49]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0c6874e447ef0a93",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[52]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0d903ff0474d1b22",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[92]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0e23163adf07b381",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[112]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0edb7ef3a709aad6",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[16]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0f55a9b7037c0c0e",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[150]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-0fed4755974b9bcd",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[53]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-1217ef324604c030",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[83]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-1257ac04471db97b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[2]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-15f86e24ed25aed1",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[44]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-169541e5585e2059",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[36]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-1d8154e1b461bc4c",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[103]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-1e5c55e5a2d778e3",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[124]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-20b6b08c59d7617b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[32]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-211305c97be37f96",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[57]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-2417736088433b42",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[7]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-24bd5f78e909fc8e",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[143]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-25e17d25341318ac",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[13]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-269a7e8e48e3bcad",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[119]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-26f603d6d473e784",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[27]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-29d5a669e83ca017",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[146]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-2d81dd8910593e04",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[25]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-2dd27cd7656704ad",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[8]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-2fb09efc5c442995",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[15]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-304afc32b7ff2e23",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[3]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-31e7ca308d5f8ab7",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[127]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-32186403819f05af",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[5]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-338c8ac89226e2ed",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[95]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-3725dbfedcd5114e",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[63]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-38557594d0fce7fe",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[138]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-38cee89fc86978ae",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[142]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-3905de76db9b08e3",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[69]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-39a80806440f2490",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[76]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-3ba02cd2a876bc06",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[100]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-3ba548ef4fa093eb",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[79]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-3c9eef577d8d7259",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[139]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-41b4886092550069",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[126]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-44b8e42722f5da00",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[111]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-479ad21ac9096236",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[134]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-4a6c517e2ce8e003",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[108]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-4b2bdc0540dc2794",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[56]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-4cc084a2b9523efb",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[48]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-525ff935ee94d427",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[30]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-52656e8104eef3fd",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[55]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-53d5f5e2115b5ed9",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[121]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-5a22c11640639da0",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[65]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-5a2af601e7a29281",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[15]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-5a5cbc0f60a8f0f9",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[116]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-5b4f5c8af615364f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[18]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-5c4c99d097c5e96c",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[51]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-5e35185a08fb4df3",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[145]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-5ff844fc094b42d4",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[105]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-630ef00b7c4f54d2",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[97]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-636722556374722a",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[22]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-665df8a68ef7a02b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[70]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-67bb37b21a829783",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[50]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-687de21a9cc51a23",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[45]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-6b27a97151bbf20f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[12]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-6b7204778686145f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[8]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-6ccaa6415b5ee449",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[1]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-6f270532b95ca841",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[67]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-70615ec79d3fc736",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[60]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-71d1517c0505f78a",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[38]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-74f3b4f39c054e21",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[125]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-750a3f53c2a56a06",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[151]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-76900f1bfd16c8d4",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[4]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7811a3383dd02efe",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[144]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7ab96fda96315972",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[28]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7b08c776fab6f62d",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[75]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7b39a9fd07f83d61",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[21]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7b47361aad19bb48",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[132]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7bcc3897ff37c02d",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[68]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7c94ee113e1b5cd3",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[61]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7cf3436c5503c0eb",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[117]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-7e5f7f41ed699db4",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[9]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-827bdfb3a77ec0e5",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[19]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8339ccbb3e11652b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[11]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-856cc5edc4d0dc6a",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[147]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-85f056db3d033b91",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[20]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-86d5e46756c374bc",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[4]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-882d433a28287868",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[6]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-889a08322a4116f5",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[148]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8965c67c7e01b8bd",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[149]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-89b8d0f108fbbc1b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[40]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8a7eed7c67a5c2bf",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[98]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8b270e3335b04c31",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[93]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8baccb275efb6d78",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[18]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8bc91e0e8d387196",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[102]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8cb0f0a4842dc2f2",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[26]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8d04c06845b6c3c0",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[81]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8dcf86283f95ace0",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[39]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-8f17c1783f40ba1f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[64]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-903364e2d0ae253d",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[113]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-916128d6fed77d3f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[3]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-961f65605395970f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[77]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-97b25e38f223bc45",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[74]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-985ec71f7b513d15",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[13]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9956482c869f8420",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[43]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9965d2df24d99066",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[66]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9a99b64c488684ec",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[101]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9aa49746329c7245",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[123]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9afe95465b217a91",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[10]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9bb0aacc6d51f140",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[2]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9db6f247de164246",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[130]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-9f55ee1a56417189",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[82]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-a4092e3c6d60325f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[71]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-aa7f87305c29d75c",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[109]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-abc420cd15f8c6c3",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[41]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-ae9c3bd11f760426",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[17]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-afe3de7aa149d0ec",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[152]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-b196c727d38c0fe2",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[120]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-b222aee57dac9e3b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[59]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-b36548cadb5783fc",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[80]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-b83382a973db8eca",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[87]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-ba5caa4285a84d88",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[11]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-baaa790ac260d864",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[12]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-bbd4a3d040e93494",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[14]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-bf888b09bb47fe6f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[85]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c005bca808869050",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[23]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c16338e2b0b46561",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[19]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c18f9ed184c7e012",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[42]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c1a629cde3ef0f05",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[114]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c25be37def09750b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[54]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c423179cddb3abc7",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[33]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c59e96abc48597b1",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[9]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c7be563415579c43",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[110]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-c7d973b9846a11be",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[90]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-ca07c594b02018aa",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[86]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-ca8203711df05fde",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[1]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-cc29053ff492a0bc",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[78]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-cc53fcde823b0dba",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[107]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-cee37055a4152e73",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[37]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-cfb9a27bff19fd91",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[135]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-d06c76d0ea863a5c",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[62]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-d0ac55c06fc52c37",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[35]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-d0b50e064a4f8d94",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[47]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-d43474dc19ab51cc",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[141]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-d5cb968264a5023e",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[5]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-d5cdfcf7ff75338f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[17]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-d9a646fdfb26c04a",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[34]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-db1b9cbc52654384",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[73]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-dcb871e7cc5b0c13",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[106]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-dd18d6da25efab86",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[104]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-ddd58dc102efeab2",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[99]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-df42a4d5d3537666",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[136]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-e08590e8f6828028",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[91]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-e09297d1e0a0bce1",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[137]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-e20ada4b10c51c3b",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[115]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-e747f89f0ead5721",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[58]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-e943f7ddcf9ae051",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[72]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-eaa36b52855867a7",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[122]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-eaff53787da4f163",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[96]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-ed14110fccb312d0",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[128]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-edbbfd1323429234",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[24]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-ee2c28fd245e78a8",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[129]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-f4b13e93df077dc3",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[89]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-f4b30f8b8e273b7f",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[118]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-f5fc3abd854e85db",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[133]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-fa04ae3d5198bd40",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[84]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-fa18c06733fbbf41",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[6]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "bodydesc-fe6b2f43839af6ab",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[131]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "c08ac736a5e29c291b68",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[45]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "c36d819e7bc6d2b7da51",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[62]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "c38ab28d0e189af13c91",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[143]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "c49ffbe64c566bcb4292",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[166]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "c638e8998f64bce25f33",
+    "file": "ObjectBlueprints/ZoneTerrain.xml",
+    "path": "/objects[1]/object[182]/part[2]/@DisplayName",
+    "status": "generated"
+  },
+  {
+    "id": "c66feb5eb8f217c76bfb",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[9]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "c78054582e89a9a7d8cd",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[74]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "c7cc07d7782997e96262",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[53]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "cabef220d487259b3d8f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[12]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "cd5a0cc7c943a15beeec",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[113]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ceb18f0c80cdb41bb608",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[36]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "cec4fda0b9327f19b0d3",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[175]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "cf76c4fb104ffabb56d2",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[4]/@DescriptionPrefix",
+    "status": "generated"
+  },
+  {
+    "id": "cf76c4fb104ffabb56d2",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypes[1]/bodyparttype[8]/@DescriptionPrefix",
+    "status": "generated"
+  },
+  {
+    "id": "d0080597f5d770b3a8ba",
+    "file": "ObjectBlueprints/Furniture.xml",
+    "path": "/objects[1]/object[259]/part[6]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "d0080597f5d770b3a8ba",
+    "file": "ObjectBlueprints/Furniture.xml",
+    "path": "/objects[1]/object[279]/part[6]/@Description",
+    "status": "generated"
+  },
+  {
+    "id": "d0391006767aa7f5da07",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[134]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "d4112ef161eb3b481bec",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[152]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "d614e522f202536b0e0d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[150]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "d61bf1523642fdfc2a0f",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[26]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "d64d15040b317afe17c2",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[45]/@DescriptionPrefix",
+    "status": "generated"
+  },
+  {
+    "id": "d6c6bf411db4dea2cdf4",
+    "file": "Bodies.xml",
+    "path": "/bodies[1]/bodyparttypevariants[1]/bodyparttypevariant[44]/@DescriptionPrefix",
+    "status": "generated"
+  },
+  {
+    "id": "d74575af31d2b986b2af",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[130]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "d759f60c55c55b1a0c70",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[191]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "d771e432b7b138dce828",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[48]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "d8c4e6685cf17a085c52",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[119]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "dd6647f37ee27715cdf9",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[61]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ddd3c3ea6a6a95bc42b0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[123]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ded8f96558974979000c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[186]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "dfaaf0c7ef7415bb2047",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[105]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "dffc8ae22a06e22d875c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[86]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "e08a4af9d7b863383c91",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[124]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "e44564f79f9854d6adf0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[98]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "e69ef068e104920d9da4",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[77]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "e76d1b6d84e4baf35bce",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[182]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ed077f3d8125d60dca19",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[70]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ed077f3d8125d60dca19",
+    "file": "InventoryActions.xml",
+    "path": "/inventoryactions[1]/inventoryaction[63]/command[1]/text()",
+    "status": "unsupported-field"
+  },
+  {
+    "id": "ee18718ff9b41f39081c",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[177]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "ef578e6e0e555b35d0e0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[157]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f0a3af5e39aa70db3fba",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[80]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f0d1cc325a155feb50b6",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[103]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f18474a944b91974e406",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[132]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f1a230ed2592b3b6efa5",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[190]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f1c1d410dd19f729408a",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[129]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f4aa9d49726ace9114d0",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[108]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f5350c536c2c315c1655",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[165]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f766e13e45a0662fa088",
+    "file": "ObjectBlueprints/Creatures.xml",
+    "path": "/objects[1]/object[656]/part[6]/@Message",
+    "status": "generated"
+  },
+  {
+    "id": "f79533f919a73df4e777",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[51]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f8c8567c907d2368b27d",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[95]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "f9ea51dcce90241b030e",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[27]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "fa05e6caf48031c603ba",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[92]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "fab1a5df4e35fd3fb529",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[185]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "fbc450b6ad383d9ab2cf",
+    "file": "Commands.xml",
+    "path": "/commands[1]/command[101]/@DisplayText",
+    "status": "generated"
+  },
+  {
+    "id": "fe8c45af02b4682d831e",
+    "file": "ObjectBlueprints/Furniture.xml",
+    "path": "/objects[1]/object[143]/part[10]/@Verb",
+    "status": "generated"
+  }
+]

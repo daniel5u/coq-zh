@@ -1,0 +1,13 @@
+You are a senior literary editor reviewing an existing English→Simplified Chinese translation of the game Caves of Qud. Work from the repository root. Read docs/STYLE_GUIDE.md and docs/glossary.tsv first, and docs/RUN_RULES.txt (execution rules).
+
+Review these batches: {BATCHES}. For each NAME, the English units are in work/batches/NAME.jsonl and the current Chinese in work/out/NAME.jsonl (match by id). Read them side by side, in order (neighbouring units give context).
+Fix only real problems:
+- mistranslations / wrong meaning, omissions, untranslated fragments;
+- wrong register: flavour descriptions (`Short`, lore, gospels) must be 典雅书面语、半文半白、雅而不涩 and keep the dry dark wit; rules/UI text must be precise and concise; rare/ornate English words must get equally elevated Chinese (not flattened);
+- terminology inconsistent with docs/glossary.tsv (check with `python3 tools/lookup.py "<term>"`);
+- clumsy or machine-like Chinese (翻译腔), wrong measure words, awkward word order around =variables=.
+Do NOT churn acceptable translations; aim to change only what a demanding native editor would change.
+Keep every =variable=, {{markup}}, [[ ]], <xml tags/>, ~ | :: separators and line breaks exactly as in the current translation.
+
+Output: work/patches/review_NAME.jsonl (one file per batch, even if empty) with lines {"src": <exact English src from the batch>, "zh": <full corrected Chinese>} for changed units only. Validate each patch line: `python3 -c "import sys,json;sys.path.insert(0,'tools');from validate import check;[print(r['src'][:50],check({'src':r['src']},r['zh'])[0]) for r in map(json.loads,open('work/patches/review_NAME.jsonl')) if check({'src':r['src']},r['zh'])[0]]"` must print nothing.
+Final reply: per batch, number of units changed and 2-3 representative before→after examples.

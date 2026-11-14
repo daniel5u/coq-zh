@@ -1,0 +1,13 @@
+research/decompiled/
+work/assigned.json.tmp
+*.tmp
+__pycache__/
+research/zhbuild/bin/
+research/zhbuild/obj/
+research/zhchecks/bin/
+research/zhchecks/obj/
+research/tools/
+dist/
+tools/text_catalogue/bin/
+tools/text_catalogue/obj/
+work/text_catalogue/

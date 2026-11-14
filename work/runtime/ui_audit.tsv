@@ -1,0 +1,68 @@
+#! Source-backed UI, popup, quest, and item-message audit; see docs/RUNTIME_COVERAGE_AUDIT.md
+Set Checkpoint	设置检查点
+Restore Checkpoint	恢复检查点
+Control Mapping	按键设置
+Options	选项
+Game Info	游戏信息
+Save and Quit	保存并退出
+End Test	结束测试
+You can only set your checkpoint in settlements.	你只能在聚落中设置检查点。
+You can only restore your checkpoint outside settlements.	你只能在聚落外恢复检查点。
+Are you sure you want to restore your checkpoint?	确定要恢复检查点吗？
+This saved game predates world seed info.	此存档的版本过旧，未记录世界种子。
+You haven't found any points of interest nearby.	你尚未在附近发现值得留意的地点。
+There are hostiles nearby!	附近有敌人！
+Are you sure you want to go to the world map?	确定要进入世界地图吗？
+Would you like to walk to the nearest stairway up?	要走向最近的上行楼梯吗？
+Would you like to walk to the nearest stairway down?	要走向最近的下行楼梯吗？
+It is already daytime.	现在已经是白天了。
+You cannot examine things while you are enraged.	狂怒时无法查看事物。
+You cannot examine things while you are confused.	困惑时无法查看事物。
+Are you sure you want to save and quit?	确定要保存并退出吗？
+Are you sure you want to quit?	确定要退出吗？
+Do you want to save first?	要先保存吗？
+Set Terse messages	已切换为简略消息。
+Set Verbose messages	已切换为详细消息。
+You have received a new quest, {0}!	你接到了新任务：{0}！
+You have failed the quest {0}!	任务失败：{0}！
+You have failed the step, {{R|{0}}}, of the quest {1}!	你未能完成任务{1}的步骤：{{R|{0}}}！
+You have completed the quest {0}!	你完成了任务：{0}！
+You receive {0}!	你获得了{0}！
+You cannot give {0}!	你无法交出{0}！
+You don't have enough skill points.	你的技能点不足。
+You can't be mutated.	你无法发生变异。
+You can't gain {0} mutations.	你无法获得{0}变异。
+The limb rejects the infection!	肢体排斥了感染！
+You've contracted {0} on your {1}.	你的{1}感染了{0}。
+You have increased your {0} to {{C|#}}!	你的{0}已提升至{{C|#}}！
+You gain {0}!	你获得了{0}！
+You have all available {0}.	你已拥有所有可获得的{0}。
+You share your {0} with {1} and begin the water ritual.	你与{1}分享{0}，开始行水礼。
+You gained {{C|#}} skill points!	你获得了{{C|#}}点技能点！
+You gain {{C|#}} XP.	你获得了{{C|#}}点经验。
+You don't have enough {0} to begin the ritual.	你的{0}不足，无法开始行水礼。
+Alarms blare across the enclave.	警报响彻整座聚居地。
+Are you sure you want to delete this entry?	确定要删除这条记录吗？
+You can't delete automatically recorded chronology entries.	你不能删除自动记录的编年史条目。
+Are you sure you want to forget this recipe?\n\n{{y|{0}}}	确定要忘记这个食谱吗？\n\n{{y|{0}}}
+This place already has a name.	此地已经有名字了。
+You stop calling this location '{0}' and start calling it '{1}'.	你不再称此地为“{0}”，改称“{1}”。
+You start calling this location '{0}'.	你开始称此地为“{0}”。
+You ask about your location and are no longer lost.	你打听了所在的位置，不再迷路。
+You don't have anything to use in that slot.	你没有可用于该部位的物品。
+You have no inventory!	你没有物品栏！
+Your tombstone file was saved:\n\n{0}	你的墓志铭文件已保存：\n\n{0}
+There was an error saving: {0}	保存时发生错误：{0}
+You have no abilities to manage!	你没有可管理的能力！
+You must wait {{C|{0}}} to use that ability again.	你必须等待{{C|{0}}}，才能再次使用该能力。
+Can not remove the last binding for {0}.	无法移除{0}的最后一个按键绑定。
+Are you sure you want to clear this binding for {{C|{0}}}?	确定要清除{{C|{0}}}的这个按键绑定吗？
+Are you sure you want to override your bindings with the default?	确定要用默认设置覆盖当前按键绑定吗？
+Would you like to save your changes?	要保存更改吗？
+An error has occurred, would you like to retry?	发生错误，要重试吗？
+An error occurred while posting to the leaderbaord, would you like to try again?	发布到排行榜时发生错误，要重试吗？
+Ereshkigal delivers insight from the Thin World:\n\n{0}	埃列什基伽勒传来薄界的启示：\n\n{0}
+You receive tinkering bits <{{|{0}}}>	你获得了修造零件<{{|{0}}}>
+Quit Without Saving	不存档退出
+Abandon Character	放弃角色
+You have finished the step, {{G|{0}}}, of the quest {1}!	你完成了任务{1}的步骤：{{G|{0}}}！

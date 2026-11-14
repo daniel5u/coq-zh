@@ -1,0 +1,77 @@
+name: Check and release
+
+on:
+  push:
+    branches: [main]
+    tags: ['v*']
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: checks-${{ github.ref }}
+  cancel-in-progress: ${{ !startsWith(github.ref, 'refs/tags/') }}
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-dotnet@0f4a354dd5547a28c70b7853dbd95d5b67886e73 # v6.1.0
+        with:
+          dotnet-version: |
+            8.0.x
+            11.0.x
+      - name: Build catalogue extraction test helper
+        run: dotnet build tools/text_catalogue/TextCatalogue.csproj --configuration Release
+      - name: Check Python tools and packaging
+        run: python3 -m unittest discover -s tools -p 'test_*.py'
+      - name: Check runtime translation boundaries
+        run: dotnet run --project research/zhchecks/zhchecks.csproj --configuration Release
+      - name: Validate distributable files
+        run: python3 tools/check_release.py
+      - name: Check release version
+        if: startsWith(github.ref, 'refs/tags/')
+        env:
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: python3 tools/check_release.py --tag "$RELEASE_TAG"
+      - name: Package committed mod
+        run: python3 tools/package.py
+
+  release:
+    if: github.event_name == 'push' && startsWith(github.ref, 'refs/tags/v')
+    needs: checks
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: '3.12'
+      - name: Package checked release
+        env:
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          python3 tools/check_release.py --tag "$RELEASE_TAG"
+          python3 tools/package.py
+      - name: Publish GitHub release and checksum
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.ref_name }}
+        run: |
+          gh release create "$RELEASE_TAG" dist/QudZH.zip dist/QudZH.zip.sha256 \
+            --verify-tag --draft --title "QudZH $RELEASE_TAG" --generate-notes
+          gh release edit "$RELEASE_TAG" --draft=false

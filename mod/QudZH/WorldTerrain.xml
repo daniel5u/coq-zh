@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='utf-8'?>
+<objects Lang="zh" Encoding="utf-8">
+  <object Name="Terrain" Load="Merge">
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="TerrainDesertCanyon" Load="Merge">
+    <part Name="Render" DisplayName="沙漠峡谷" />
+    <part Name="Description" Short="久远以前，连河流也贪婪无餍；它们啖尽页岩与石灰岩，方在大盐海中胀腹歇息。如今，裂隙般的伤口已腐成绯红与盐。" />
+  </object>
+  <object Name="TerrainDesertCanyon2" Load="Merge">
+    <part Name="Render" DisplayName="沙漠峡谷" />
+    <part Name="Description" Short="久远以前，连河流也贪婪无餍；它们啖尽页岩与石灰岩，方在大盐海中胀腹歇息。如今，裂隙般的伤口已腐成绯红与盐。" />
+  </object>
+  <object Name="TerrainDesertCanyon3" Load="Merge">
+    <part Name="Render" DisplayName="沙漠峡谷" />
+    <part Name="Description" Short="久远以前，连河流也贪婪无餍；它们啖尽页岩与石灰岩，方在大盐海中胀腹歇息。如今，裂隙般的伤口已腐成绯红与盐。" />
+  </object>
+  <object Name="TerrainDesertCanyon4" Load="Merge">
+    <part Name="Render" DisplayName="沙漠峡谷" />
+    <part Name="Description" Short="久远以前，连河流也贪婪无餍；它们啖尽页岩与石灰岩，方在大盐海中胀腹歇息。如今，裂隙般的伤口已腐成绯红与盐。" />
+  </object>
+  <object Name="TerrainSaltmarsh" Load="Merge">
+    <part Name="Render" DisplayName="盐沼" />
+    <part Name="Description" Short="死水池中，莹亮的百合与夜空的星河争辉。然而盐日之下，它们便缩入盐生海藻的荫蔽。" />
+  </object>
+  <object Name="TerrainSaltmarsh2" Load="Merge">
+    <part Name="Render" DisplayName="盐沼" />
+    <part Name="Description" Short="死水池中，莹亮的百合与夜空的星河争辉。然而盐日之下，它们便缩入盐生海藻的荫蔽。" />
+  </object>
+  <object Name="TerrainWatervine" Load="Merge">
+    <part Name="Render" DisplayName="盐沼" />
+    <part Name="Description" Short="死水池中，莹亮的百合与夜空的星河争辉。然而盐日之下，它们便缩入盐生海藻的荫蔽。" />
+  </object>
+  <object Name="TerrainSaltdunes" Load="Merge">
+    <part Name="Render" DisplayName="盐丘" />
+    <part Name="Description" Short="象牙海的沙丘，宛如凝固原地的浪涛。盐层裂开，那是大地受宝石般的太阳灼出水疱、收缩而崩裂之处。天际将苍穹与莫格拉伊这片浩瀚盐漠熔为一体。" />
+  </object>
+  <object Name="TerrainSaltdunes2" Load="Merge">
+    <part Name="Render" DisplayName="盐丘" />
+    <part Name="Description" Short="象牙海的沙丘，宛如凝固原地的浪涛。盐层裂开，那是大地受宝石般的太阳灼出水疱、收缩而崩裂之处。天际将苍穹与莫格拉伊这片浩瀚盐漠熔为一体。" />
+  </object>
+  <object Name="TerrainTremblezone" Load="Merge">
+    <part Name="Render" DisplayName="盐丘" />
+    <part Name="Description" Short="象牙海的沙丘，宛如凝固原地的浪涛。盐层裂开，那是大地受宝石般的太阳灼出水疱、收缩而崩裂之处。天际将苍穹与莫格拉伊这片浩瀚盐漠熔为一体。" />
+  </object>
+  <object Name="TerrainFlowerfields" Load="Merge">
+    <part Name="Render" DisplayName="花田" />
+    <part Name="Description" Short="棱彩丝脉在盐腐之间的裂缝中蔓生。她说，这里有草甸。" />
+  </object>
+  <object Name="TerrainJungle" Load="Merge">
+    <part Name="Render" DisplayName="丛林" />
+    <part Name="Description" Short="根须交缠，叶带飘垂，为平坦沃土添上维度。一片弃叶，竟成了什么东西的家。" />
+  </object>
+  <object Name="TerrainDeepJungle" Load="Merge">
+    <part Name="Render" DisplayName="深丛林" />
+    <part Name="Description" Short="繁盛的草木以迷宫般稠密的根系填满沃土，高耸如冠的树冠则扼断最后几缕天光。" />
+  </object>
+  <object Name="TerrainFungalBase" Load="Merge">
+    <part Name="Render" DisplayName="虹林" />
+    <part Name="Description" Short="孢子在万花筒般的菌冠上盘旋起舞。原初汤浆之河映着熔岩之光，咕噜奏响催生万物的曲调。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainMoonStair" Load="Merge">
+    <part Name="Render" DisplayName="月阶" />
+    <part Name="Description" Short="六棱晶柱自黑色大理石层中迸出，棱边解相为温热的静电露珠。高塔以低频轻声呜鸣。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainCraters" Load="Merge">
+    <part Name="Render" DisplayName="陨坑" />
+    <part Name="Description" Short="" />
+  </object>
+  <object Name="RandomCrater" Load="Merge">
+    <part Name="Render" DisplayName="陨坑" />
+    <part Name="Description" Short="" />
+  </object>
+  <object Name="TerrainHills" Load="Merge">
+    <part Name="Render" DisplayName="丘陵" />
+    <part Name="Description" Short="石之波形图上，时间的微小脉冲。" />
+  </object>
+  <object Name="TerrainMountains" Load="Merge">
+    <part Name="Render" DisplayName="山脉" />
+    <part Name="Description" Short="石之波形图上，世界板块曾彼此激战之处，如今已归于静谧。" />
+  </object>
+  <object Name="TerrainBananaGrove" Load="Merge">
+    <part Name="Render" DisplayName="香蕉林" />
+    <part Name="Description" Short="林苑千万交缠的指枝，在温柔丰盛中摇曳。翠绿叶簇自山间隐秘处攀来，依偎纺锤之基。" />
+    <xtagGrammar massNoun="false" />
+  </object>
+  <object Name="TerrainWater" Load="Merge">
+    <part Name="Render" DisplayName="水域" />
+    <part Name="Description" Short="水" />
+  </object>
+  <object Name="TerrainRiverSvy" Load="Merge">
+    <part Name="Render" DisplayName="斯维河" />
+    <xtagGrammar Proper="true" massNoun="false" />
+    <part Name="Description" Short="斯维河奔越盐冠峰峦，倾泻入藤蔓交织的沃土。巨人的铬质骸骨为两岸投下荫影。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainRiverOpal" Load="Merge">
+    <part Name="Render" DisplayName="欧珀河" />
+    <xtagGrammar Proper="true" massNoun="false" />
+    <part Name="Description" Short="纺锤在她水面闪烁，宛若倒映的幻影。她载着碎裂花岗岩穿过山隘，流入葱茏河口。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainOpalDuskwaters" Load="Merge">
+    <part Name="Render" DisplayName="欧珀暮水" />
+    <xtagGrammar Proper="true" />
+    <part Name="Description" Short="枝叶的荫翳榨去了欧珀河水中的暖意，只留下幽暗池潭。" />
+  </object>
+  <object Name="TerrainRiverYonth" Load="Merge">
+    <part Name="Render" DisplayName="扬特河" />
+    <xtagGrammar Proper="true" massNoun="false" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+    <part Name="Description" Short="扬特河劈开山岳，奔向奇诡的东方，将无名之水引入卡德。鱼状生灵啃食着她的玄武岩碎屑。" />
+  </object>
+  <object Name="TerrainMountainStream" Load="Merge">
+    <part Name="Render" DisplayName="山溪" />
+    <part Name="Description" Short="亘古开裂的旧高山谷地，盈满清凉卤水。" />
+    <xtagGrammar massNoun="false" />
+  </object>
+  <object Name="TerrainLakeHinnom" Load="Merge">
+    <part Name="Render" DisplayName="欣嫩湖" />
+    <part Name="Description" Short="珊瑚般的指枝自海绵床中探出，刺穿藻华；数百只白色埃什在此群集。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainPalladiumReef" Load="Merge">
+    <part Name="Render" DisplayName="钯礁" />
+    <part Name="Description" Short="明亮珊瑚虫构成的生态城，横跨古老的焊接格架，繁盛多样的生命栖居其间，使之生机盎然。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainRuins" Load="Merge">
+    <part Name="Render" DisplayName="遗迹" />
+    <part Name="Description" Short="神秘的食者遗构藤蔓缠覆，正在此崩塌；它们乃远古时于独眼巨人般的车床上纺成。铬质尖塔与女儿墙高出页岩的攫握，暗示其下迷宫深藏。" />
+  </object>
+  <object Name="TerrainBaroqueRuins" Load="Merge">
+    <part Name="Render" DisplayName="巴洛克遗迹" />
+    <part Name="Description" Short="疯长的绿意覆盖着一簇星芒，那是食者最华美的遗构。丛林边角撕裂处，晶钢栏杆与星兰般的尖窗隐约露出。" />
+  </object>
+  <object Name="TerrainJoppa" Load="Merge">
+    <part Name="Render" DisplayName="约帕" />
+    <part Name="Description" Short="翠色糠秕间，农夫如蚁，从盐斑遍布的土地榨取最后几滴纯净水分。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainJoppaRuins" Load="Merge">
+    <part Name="Render" DisplayName="盐沼" />
+    <part Name="Description" Short="死水池中，莹亮的百合与夜空的星河争辉。然而盐日之下，它们便缩入盐生海藻的荫蔽。" />
+  </object>
+  <object Name="TerrainTheSpindle" Load="Merge">
+    <part Name="Render" DisplayName="纺锤" />
+    <part Name="Description" Short="圣地在此：纺锤——一枚无长无尽、玛雅蓝色的针——撕裂墓衣覆裹的大地，刺穿苍穹。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainOmonporch" Load="Merge">
+    <part Name="Render" DisplayName="奥蒙门廊" />
+    <part Name="Description" Short="穿过窒息的树荫，百座墓冢拱门与扶壁凌空而立，俯视着覆顶大理石拱廊；它们覆盖着大地食者的地下墓窟。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainKyakukya" Load="Merge">
+    <part Name="Render" DisplayName="基亚库基亚" />
+    <part Name="Description" Short="此处乃丛林村落，猿神信众居于巨型蘑菇屋中。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainRedRock" Load="Merge">
+    <part Name="Render" DisplayName="红岩" />
+    <part Name="Description" Short="天然染红的石柱从盐蚀峭壁中突兀伸出。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainJoppaRedrockChannel" Load="Merge">
+    <part Name="Render" DisplayName="盐沼" />
+    <part Name="Description" Short="死水池中，莹亮的百合与夜空的星河争辉。然而盐日之下，它们便缩入盐生海藻的荫蔽。" />
+  </object>
+  <object Name="TerrainSixDayStilt" Load="Merge">
+    <part Name="Render" DisplayName="六日高塔" />
+    <part Name="Description" Short="六日高塔自沙丘间拔起，宛如石化的海怪尸骸，沉沉俯压空旷平野。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainEynRogel" Load="Merge">
+    <part Name="Render" DisplayName="隐罗结" />
+    <part Name="Description" Short="隐罗结" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainGritGate" Load="Merge">
+    <part Name="Render" DisplayName="砂砾门" />
+    <part Name="Description" Short="巨门上半部巍然尚立，其上刻着百种不可辨识的文字。铬质栅栏之下，一条宽阔通道豁然洞开，通向丛林沃土。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainRustWell" Load="Merge">
+    <part Name="Render" DisplayName="锈井" />
+    <part Name="Description" Short="赤红卡德葛藤蔓攀附着深钻入地的铬质水井，取之为架。" />
+    <xtagGrammar iArticle="the" />
+  </object>
+  <object Name="TerrainGolgotha" Load="Merge">
+    <part Name="Render" DisplayName="各各他" />
+    <part Name="Description" Short="腐朽丛林深处，锈洞之口若隐若现——那是各各他的铬之墓园。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainBethesdaSusa" Load="Merge">
+    <part Name="Render" DisplayName="毕士大-苏萨" />
+    <part Name="Description" Short="历经万古移位的岩石，将伯赛大巢穴那无角无棱的建筑深深葬起。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainAsphaltMines" Load="Merge">
+    <part Name="Render" DisplayName="沥青矿" />
+    <part Name="Description" Short="瓦砾封埋着这座废弃矿坑；远古部族曾在此汲取黑色血液，所为何事，至今难解。" />
+    <xtagGrammar iArticle="the" />
+  </object>
+  <object Name="TerrainRustedArchway" Load="Merge">
+    <part Name="Render" DisplayName="锈蚀拱门" />
+    <part Name="Description" Short="一道锈弧染红天幕，环绕着铬铸巨人昔日踏过的道路。" />
+    <xtagGrammar massNoun="false" />
+  </object>
+  <object Name="TerrainEynRoj" Load="Merge">
+    <part Name="Render" DisplayName="埃因罗吉" />
+    <part Name="Description" Short="大理石林间，一片空地藏着查娃——生命之树——那劈裂的树干。落叶如镜毯铺展，梦雀啁啾着心灵颂歌。" />
+    <xtagGrammar Proper="true" massNoun="false" />
+    <tag Name="IndefiniteArticle" Value="*delete" />
+    <tag Name="DefiniteArticle" Value="*delete" />
+  </object>
+  <object Name="TerrainPalladiumReef 3l" Load="Merge">
+    <part Name="Render" DisplayName="伊德自由领" />
+    <part Name="Description" Short="染色管道的拓扑结构架设于海绵床上，成为这群诗性社群的北极星。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+    <xtagGrammar Proper="true" massNoun="false" />
+  </object>
+  <object Name="TerrainBrightsheol" Load="Merge">
+    <part Name="Render" DisplayName="明冥" />
+  </object>
+  <object Name="TerrainTzimtzlum" Load="Merge">
+    <part Name="Render" DisplayName="齐姆茨鲁姆" />
+  </object>
+</objects>

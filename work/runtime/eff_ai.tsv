@@ -1,0 +1,66 @@
+{{C|lying on {0}}}	{{C|正躺在{0}上}}
+{{C|prone}}	{{C|倒地}}
+{0}:	{0}：
+# Agility	#敏捷
+# DV	#闪避值
+# move speed	#移动速度
+Must spend a turn to stand up.	起身需要消耗一个回合。
+Recruited by another creature via proselytization.	被另一生物通过劝化招募。
+{{Y|proselytized}}	{{Y|受传教感化}}
+Stable from implosion.	稳定，不会因内爆而毁灭。
+Nothing can emerge.	没有任何东西能从中出现。
+#% HP healed per turn.	每回合恢复#%生命值。
+{{R|marked by {0}}}	{{R|受到{0}标记}}
+Easier to hit with bows and rifles wielded by {0}.	更容易被{0}使用的弓和步枪击中。
+Easier to hit with bows and rifles.	使用弓或步枪时更容易命中。
+{{rubbergum|rubbergum}} tonic	{{rubbergum|橡胶糖胶}}滋补剂
+# electric resistance	#抗电性
+# cold resistance	#抗寒性
+# AV	#护甲值
+Only suffers #% damage from bludgeoning attacks.	钝击攻击对其造成的伤害仅为#%。
+Only suffers #% damage from falling.	坠落对其造成的伤害仅为#%。
+Can't be grabbed.	无法被擒抱。
+{{W|floppy}}	{{W|软趴趴}}
+#% chance to fall prone when moving.	移动时有#%几率跌倒。
+{{Y|salve}} tonic	{{Y|药膏}}滋补剂
+Recovers # hit points per level (minimum #) each turn.	每回合按等级恢复#点生命值（至少#点）。
+{{rainbow|scintillating}}	{{rainbow|流光溢彩}}
+Cannot take actions.	无法采取行动。
+Confuses nearby hostile creatures per Confusion #.	按迷乱等级#使附近的敌对生物陷入混乱。
+{{shade|shade oil}} tonic	{{shade|影油}}滋补剂
+Can phase out of the spatial dimension for #-# turns.	可脱离空间维度#至#回合。
+#% chance per turn to phase out of the spatial dimension for #-# turns.	每回合有#%几率脱离空间维度，持续#至#回合。
+# to-hit	#命中
+# Willpower	#意志
+# Ego	#自我
+# Quickness	#迅捷
+#% Quickness	#%迅捷
+{{r|cleaved ({{C|# AV}})}}	{{r|遭劈裂（{{C|#护甲值}}）}}
+{{psionic|psionically cleaved (# MA)}}	{{psionic|遭灵能劈斩（#心智护甲）}}
+# MA	#心智护甲
+{{r|cracked}}	{{r|开裂}}
+{{g|shield wall}}	{{g|盾墙}}
+Blocks all incoming melee attacks.	格挡所有来袭的近战攻击。
+Improves natural healing rate.	提高自然恢复速度。
+Aids in examining and disassembling artifacts.	有助于检查和拆解古器。
+Slightly improves natural healing rate.	略微提高自然恢复速度。
+Distracts from examining and disassembling artifacts.	妨碍检查和拆解古器。
+Inflicts ongoing damage.	持续造成伤害。
+Must spend a turn to stand up before moving.	移动前必须消耗一个回合起身。
+{{skulk|skulk}} tonic	{{skulk|潜行}}滋补剂
+#% Move Speed at night and underground.	夜间和地下移动速度#%。
+# Agility at night and underground.	夜间和地下敏捷#。
+#% Move Speed in the daylight.	白昼时移动速度#%。
+# Agility in the daylight.	白昼时敏捷#。
+Can see in the dark (radius #).	可在黑暗中视物（半径#）。
+Suffers double damage from light-based attacks.	受到光系攻击时承受双倍伤害。
+Has grown burrowing claws.	长出了掘地之爪。
+Can see things at normal distances.	可在正常距离看清事物。
+{{sphynx|sphynx}} {{Y|salt}} tonic	{{sphynx|斯芬克斯}}{{Y|盐}}滋补剂
+Immune to confusing attacks.	免疫惑乱攻击。
+Can peer into the near future.	可窥见近未来。
+Activated mental mutations cool down twice as quickly.	已激活的精神变异冷却速度加快一倍。
+# damage per turn.	每回合造成#点伤害。
+Doesn't function properly.	无法正常运作。
+Doesn't function properly and can't be equipped.	无法正常运作，也无法装备。
+Will erode into dust if rusted again.	若再次锈蚀，将会风化成尘。

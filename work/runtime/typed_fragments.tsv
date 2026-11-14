@@ -1,0 +1,135 @@
+#! Reviewed fragments used by CTM001-003; only complete fragments are matched.
+point	点数
+points	点数
+dram	打兰
+drams	打兰
+space	格
+spaces	格
+appendages	附肢
+clockwork	发条机构
+flywheel	飞轮
+yourself	自己
+himself	自己
+herself	自己
+itself	自己
+themself	自己
+themselves	自己
+yourselves	自己
+# square	#格
+# squares	#格
+your attack	你的攻击
+Your attack	你的攻击
+{0}的 attack	{0}的攻击
+{0}'s attack	{0}的攻击
+{0}' attack	{0}的攻击
+your life drain	你的生命汲取
+Your life drain	你的生命汲取
+{0}的 life drain	{0}的生命汲取
+{0}'s life drain	{0}的生命汲取
+{0}' life drain	{0}的生命汲取
+your back	你的背部
+Your back	你的背部
+{0}的 back	{0}的背部
+{0}'s back	{0}的背部
+{0}' back	{0}的背部
+its	其
+his	其
+her	其
+their	其
+your	你的
+your armor	你的护甲
+Your armor	你的护甲
+{0}的 armor	{0}的护甲
+{0}'s armor	{0}的护甲
+{0}' armor	{0}的护甲
+your molecular cannon	你的分子炮
+Your molecular cannon	你的分子炮
+{0}的 molecular cannon	{0}的分子炮
+{0}'s molecular cannon	{0}的分子炮
+{0}' molecular cannon	{0}的分子炮
+your astral tether	你的星界系链
+Your astral tether	你的星界系链
+{0}的 astral tether	{0}的星界系链
+{0}'s astral tether	{0}的星界系链
+{0}' astral tether	{0}的星界系链
+# turn remains	#回合
+# turns remain	#回合
+feed	喂食
+apply	使用
+him	其
+them	其
+it	其
+you	你
+You do not have a missile weapon equipped!	你没有装备远程武器！
+You do not have an appropriate missile weapon equipped!	你没有装备合适的远程武器！
+your shield slam	你的盾击
+Your shield slam	你的盾击
+{0}的 shield slam	{0}的盾击
+{0}'s shield slam	{0}的盾击
+{0}' shield slam	{0}的盾击
+your block	你的格挡
+Your block	你的格挡
+{0}的 block	{0}的格挡
+{0}'s block	{0}的格挡
+{0}' block	{0}的格挡
+A set of {0}	一组{0}
+a set of {0}	一组{0}
+bleeding	流血
+leaking	渗漏
+hemorrhaging	大出血
+your shot	你的射击
+Your shot	你的射击
+{0}的 shot	{0}的射击
+{0}'s shot	{0}的射击
+{0}' shot	{0}的射击
+your nose	你的鼻子
+Your nose	你的鼻子
+{0}的 nose	{0}的鼻子
+{0}'s nose	{0}的鼻子
+{0}' nose	{0}的鼻子
+your noses	你的鼻子
+Your noses	你的鼻子
+{0}的 noses	{0}的鼻子
+{0}'s noses	{0}的鼻子
+{0}' noses	{0}的鼻子
+your wounds	你的伤口
+Your wounds	你的伤口
+{0}的 wounds	{0}的伤口
+{0}'s wounds	{0}的伤口
+{0}' wounds	{0}的伤口
+your glow	你的光芒
+Your glow	你的光芒
+{0}的 glow	{0}的光芒
+{0}'s glow	{0}的光芒
+{0}' glow	{0}的光芒
+your visage	你的面容
+Your visage	你的面容
+{0}的 visage	{0}的面容
+{0}'s visage	{0}的面容
+{0}' visage	{0}的面容
+your suppressive fire locks	你的压制射击将
+Your suppressive fire locks	你的压制射击将
+{0}的 suppressive fire locks	{0}的压制射击将
+{0}'s suppressive fire locks	{0}的压制射击将
+{0}' suppressive fire locks	{0}的压制射击将
+your flattening fire drops	你的扫平射击将
+Your flattening fire drops	你的扫平射击将
+{0}的 flattening fire drops	{0}的扫平射击将
+{0}'s flattening fire drops	{0}的扫平射击将
+{0}' flattening fire drops	{0}的扫平射击将
+a #	#
+an #	#
+if they fail a difficulty {0} {1} save	（若其未通过难度{0}的{1}豁免）
+Heartstopper: When powered, this weapon has {0}% chance to put opponents into cardiac arrest.	心停：供能时，此武器有{0}%的几率使对手心脏骤停。
+Heartstopper: When powered, this weapon has {0}% chance to put opponents into cardiac arrest if they fail a difficulty {1} {2} save.	心停：供能时，此武器有{0}%的几率使对手心脏骤停（若其未通过难度{1}的{2}豁免）。
+pure {0}	纯净的{0}
+Liquid-cooled: This weapon's rate of fire is increased by {0}, but {1} requires {2} to function. When fired, there's a one in {3} chance that 1 dram is consumed.	液冷：此武器射速提高{0}，但{1}需要{2}才能运作。每次开火有{3}分之一的几率消耗1打兰。
+Charmed by another creature into following them.	受另一生物魅惑，追随其左右。
+Mercurial: Teleports the user to safety upon taking damage.	水银的：受到伤害时，将使用者传送至安全处。
+Mercurial: Teleports the user to safety upon taking damage ({0}% chance).	水银的：受到伤害时，有{0}%的几率将使用者传送至安全处。
+Refractive: This item has {0}% chance to refract light-based attacks.	折射：此物品有{0}%的几率折射光系攻击。
+# to saves vs. disease onset	对抗疾病发作的豁免#
+Natural healing reduced by #%.	自然恢复速率降低#%。
+Unable to progress until all hearts have stopped (current:#).	须待所有心脏停跳后才会继续发展（当前：#）。
+External healing reduced by #%.	外来治疗效果降低#%。
+Cannot move until @they break free.	挣脱前无法移动。

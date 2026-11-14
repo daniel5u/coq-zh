@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<biomes Lang="zh" Encoding="utf-8">
+  <biome Name="Fungal">
+    <variant Name="Weak">
+      <noun>菌菇斑</noun>
+    </variant>
+    <variant Name="Medium">
+      <noun>菌菇丛</noun>
+    </variant>
+    <variant Name="Strong">
+      <noun>菌菇林</noun>
+      <journalSecret>一片{{m|菌菇}}林</journalSecret>
+    </variant>
+  </biome>
+  <biome Name="Slimy">
+    <variant Name="Weak">
+      <noun>黏液斑</noun>
+      <adjective>黏滑的</adjective>
+    </variant>
+    <variant Name="Medium">
+      <noun>黏液原</noun>
+      <adjective>浸透黏液的</adjective>
+    </variant>
+    <variant Name="Strong">
+      <noun>黏液沼</noun>
+      <journalSecret>一片{{g|黏液}}沼</journalSecret>
+    </variant>
+  </biome>
+  <biome Name="Tarry">
+    <variant Name="Weak">
+      <noun>焦油斑</noun>
+      <adjective>焦油般的</adjective>
+    </variant>
+    <variant Name="Medium">
+      <noun>焦油池</noun>
+    </variant>
+    <variant Name="Strong">
+      <noun>燃烧的焦油坑</noun>
+      <journalSecret>若干{{fiery|燃烧的}}{{K|焦油}}坑</journalSecret>
+    </variant>
+  </biome>
+  <biome Name="Rusty">
+    <variant Name="Weak">
+      <noun>锈斑</noun>
+      <adjective>锈蚀的</adjective>
+    </variant>
+    <variant Name="Medium">
+      <noun>锈原</noun>
+      <adjective>锈幕笼罩的</adjective>
+    </variant>
+    <variant Name="Strong">
+      <noun>锈沼</noun>
+      <journalSecret>一片{{rusty|锈}}沼</journalSecret>
+    </variant>
+  </biome>
+</biomes>

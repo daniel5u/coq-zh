@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sparkingbaetyls Lang="zh" Encoding="utf-8">
+  <rewards>
+    <reward Name="MeleeWeapon" Description="一件威猛的兵器" />
+    <reward Name="Armor" Description="一袭华美的战袍" />
+    <reward Name="MissileWeapon" Description="一门炽烈的巨炮" />
+    <reward Name="Artifact" Description="一件奇诡的机巧之物" />
+    <reward Name="AttributePoints" Description="体魄精进" />
+    <reward Name="MutationPoints" Description="体魄精进" />
+    <reward Name="SkillPoints" Description="技艺精湛" />
+    <reward Name="Reputation" Description="显赫声名" />
+  </rewards>
+</sparkingbaetyls>

@@ -1,0 +1,9172 @@
+{
+ "lang": "zh",
+ "spice": {
+  "elements=": {
+   "glass": {
+    "@professions": [
+     "glassblower",
+     "window maker"
+    ],
+    "materials": [
+     "玻璃",
+     "沙"
+    ],
+    "adjectives": [
+     "釉亮",
+     "污染的",
+     "澄澈",
+     "棱彩"
+    ],
+    "nouns": [
+     "棱镜",
+     "玻璃",
+     "明镜"
+    ],
+    "nounsPlural": [
+     "棱镜",
+     "玻璃",
+     "明镜"
+    ],
+    "practices": [
+     "凝望镜中",
+     "彩绘玻璃",
+     "吹制玻璃",
+     "将棱镜埋入地下"
+    ],
+    "murdermethods": [
+     "将=spice:pronouns.object.!random=困于棱镜之中",
+     "用=^:materials.!random=制成的匕首"
+    ],
+    "inspirationsVerbPhrase": [
+     "在河中望见了=spice.entity:possessivePronoun=自己的倒影",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "通透的面容",
+     "沙色的头发",
+     "镜面般的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "砸碎家家户户的所有玻璃"
+    ],
+    "ruinReason": "遭倾盆玻璃风暴摧残",
+    "ruinDescription": "玻璃横扫的丘陵",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "家家户户的=var=都碎裂了",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "于彩绘玻璃的大教堂中",
+     "于镜厅之中",
+     "于一座巨大的棱镜之内",
+     "值玻璃风暴倾盆之时"
+    ],
+    "mythicalBattleVista": [
+     "笼罩在=var=月牙之下"
+    ]
+   },
+   "jewels": {
+    "@professions": [
+     "jeweler",
+     "geologist"
+    ],
+    "materials": [
+     "珠宝",
+     "晶体",
+     "红宝石",
+     "蓝宝石",
+     "祖母绿",
+     "玛瑙",
+     "碧玉",
+     "宝石",
+     "橄榄石"
+    ],
+    "adjectives": [
+     "缀珠",
+     "闪耀",
+     "璀璨",
+     "莹润",
+     "明澈",
+     "熠熠"
+    ],
+    "nouns": [
+     "宝石",
+     "红宝石",
+     "蓝宝石",
+     "祖母绿",
+     "玛瑙",
+     "碧玉石",
+     "宝石",
+     "紫水晶",
+     "橄榄石"
+    ],
+    "nounsPlural": [
+     "珠宝",
+     "红宝石",
+     "蓝宝石",
+     "祖母绿",
+     "玛瑙",
+     "碧玉石",
+     "宝石",
+     "紫水晶",
+     "橄榄石"
+    ],
+    "practices": [
+     "以珠宝装点己身",
+     "将宝石镶嵌于=spice:jewelry.!random|article=之上",
+     "开采=^:nounsPlural.!random=",
+     "囤积=^:nounsPlural.!random="
+    ],
+    "murdermethods": [
+     "将=spice:pronouns.object.!random=困于=^:nouns.!random|article=之中",
+     "用=^:materials.!random=制成的匕首"
+    ],
+    "inspirationsVerbPhrase": [
+     "偶得一批=^:adjectives.!random==^:nounsPlural.!random=",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "劫走家家户户的所有珠宝"
+    ],
+    "ruinReason": "遍布食人晶洞",
+    "ruinDescription": "噬人晶洞",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "发现了=spice:commonPhrases.epic.!random|article==var=",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "缀满=^:nounsPlural.!random=与=^:nounsPlural.!random=",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "沐浴在=var=之光中"
+    ]
+   },
+   "stars": {
+    "@professions": [
+     "astrologist",
+     "astronomer",
+     "stargazer"
+    ],
+    "materials": [
+     "星尘",
+     "陨石",
+     "光点",
+     "星光"
+    ],
+    "adjectives": [
+     "闪耀",
+     "璀璨",
+     "明亮",
+     "皎洁",
+     "炽白"
+    ],
+    "nouns": [
+     "陨石",
+     "光点",
+     "瓶中之星",
+     "望远镜"
+    ],
+    "nounsPlural": [
+     "星尘",
+     "陨石",
+     "光点",
+     "瓶中之星",
+     "望远镜"
+    ],
+    "practices": [
+     "凝望夜空",
+     "膜拜群星",
+     "描绘星座",
+     "囤积=^:nounsPlural.!random="
+    ],
+    "murdermethods": [
+     "将=spice:pronouns.object.!random=困于=^:nouns.!random|article=之中",
+     "用=^:materials.!random=制成的匕首",
+     "预言=spice:pronouns.possessive.!random=的末日"
+    ],
+    "inspirationsVerbPhrase": [
+     "在夜空中发现了一件不明之物",
+     "目睹了一颗流星坠落",
+     "偶得一批=^:adjectives.!random==^:nounsPlural.!random=",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "降下流星雨砸向各处聚落"
+    ],
+    "ruinReason": "遭闷燃的星尘摧残",
+    "ruinDescription": "冒烟的星露",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "群星排列成=var=形状的星座",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "同时诵念着=spice.entity:possessivePronoun=最爱的那颗星的特性",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "沐浴在=var=之光中"
+    ]
+   },
+   "time": {
+    "@professions": [
+     "historian",
+     "scribe"
+    ],
+    "materials": [
+     "微小的齿轮",
+     "时间本身",
+     "时间之织"
+    ],
+    "adjectives": [
+     "永恒",
+     "无垠",
+     "周期",
+     "韵律",
+     "环行"
+    ],
+    "nouns": [
+     "微型时钟",
+     "随意选定的一刻",
+     "沙漏",
+     "原子钟"
+    ],
+    "nounsPlural": [
+     "微型时钟",
+     "一生中被遗忘的秒数",
+     "沙漏",
+     "原子钟"
+    ],
+    "practices": [
+     "观看沙粒滑过沙漏",
+     "崇拜过去、现在与未来",
+     "令时间停驻",
+     "囤积=^:nounsPlural.!random="
+    ],
+    "murdermethods": [
+     "将=spice:pronouns.object.!random=困于=^:nouns.!random|article=之中",
+     "用=^:materials.!random=制成的匕首",
+     "任由熵吞噬=spice:pronouns.possessive.!random=的血肉"
+    ],
+    "inspirationsVerbPhrase": [
+     "坠入一口井中，历经百世人生",
+     "偶遇一条倒流的河",
+     "偶得一批=^:adjectives.!random==^:nounsPlural.!random=",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "于午夜突袭各处村庄"
+    ],
+    "ruinReason": "充斥着通往别处与别时的游离传送门",
+    "ruinDescription": "磨损的现实边缘",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "家家户户的=var=都停止了运转",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "典礼历时整整一年",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "动作优雅，=var="
+    ]
+   },
+   "salt": {
+    "@professions": [
+     "cook"
+    ],
+    "materials": [
+     "盐",
+     "咸水"
+    ],
+    "adjectives": [
+     "咸涩",
+     "盐花点点",
+     "干涸"
+    ],
+    "nouns": [
+     "一撮盐",
+     "一打兰卤水",
+     "香料根",
+     "叶片"
+    ],
+    "nounsPlural": [
+     "盐",
+     "卤水",
+     "香料",
+     "叶片"
+    ],
+    "practices": [
+     "为食物调味",
+     "以水禁食"
+    ],
+    "murdermethods": [
+     "抽干他皮肤里的水分",
+     "将盐倒入他的眼中",
+     "在=spice:pronouns.possessive.!random=的水中下毒"
+    ],
+    "inspirationsVerbPhrase": [
+     "跋涉过一片死寂的盐滩，偶遇一座神秘的巨石碑",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "在田地里撒盐"
+    ],
+    "ruinReason": "水分被蒸发殆尽",
+    "ruinDescription": "枯骨般干涸的沙漠",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "=var=的滋味充满了每个人的口腔",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "滴水不沾=spice:instancesOf.twoToTen.!random=日之后",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "嚼着=var=叶之际"
+    ]
+   },
+   "ice": {
+    "@professions": [
+     "geologist",
+     "stargazer",
+     "astronomer",
+     "glassblower",
+     "winter eremite"
+    ],
+    "materials": [
+     "冰",
+     "雪",
+     "霜",
+     "雾凇"
+    ],
+    "adjectives": [
+     "凛冽",
+     "霜寒",
+     "冰冷",
+     "冰冻",
+     "冰川般",
+     "隆冬"
+    ],
+    "nouns": [
+     "冰块",
+     "微型冰川",
+     "雪花",
+     "冰锥"
+    ],
+    "nounsPlural": [
+     "冰块",
+     "微型冰川",
+     "雪花",
+     "冰锥"
+    ],
+    "practices": [
+     "将自己埋入雪中直至颈部",
+     "雕刻冰雕",
+     "将万物封入冰中",
+     "踏上穿越冻原的灵修之旅",
+     "在雪地里生活，磨出更厚的皮肤"
+    ],
+    "murdermethods": [
+     "将=spice:pronouns.object.!random=困于=^:nouns.!random|article=之中",
+     "用=^:materials.!random=制成的匕首",
+     "任由=spice:pronouns.object.!random=继续活在一个注定热寂的宇宙里"
+    ],
+    "inspirationsVerbPhrase": [
+     "独自跋涉过一片死寂的冻原",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "偷走村庄暖灯里的灯油"
+    ],
+    "ruinReason": "遭凛冽寒风摧残",
+    "ruinDescription": "刺骨的狂风",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "大雪落满四方",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "赤身裸体立于严寒之中",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "于稀薄而=var=的空气中"
+    ]
+   },
+   "scholarship": {
+    "@professions": [
+     "scholar",
+     "scribe",
+     "philosopher",
+     "scientist",
+     "historian"
+    ],
+    "materials": [
+     "墨",
+     "发条工具",
+     "数据盘"
+    ],
+    "adjectives": [
+     "哲思",
+     "精明",
+     "好问"
+    ],
+    "nouns": [
+     "棘刺",
+     "墨水瓶",
+     "卷轴"
+    ],
+    "nounsPlural": [
+     "刺毛",
+     "墨水瓶",
+     "卷轴"
+    ],
+    "practices": [
+     "沉思万物的意义",
+     "丈量测度"
+    ],
+    "murdermethods": [
+     "使他满心存在之绝望",
+     "发明并放出发条甲虫",
+     "将他从历史的编年中抹去"
+    ],
+    "inspirationsVerbPhrase": [
+     "独自沉思万物的本质",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "从家家户户掳走最聪慧的孩童"
+    ],
+    "ruinReason": "遍布焚毁的书籍与锈蚀的数据盘",
+    "ruinDescription": "数据损毁",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "一所学院创立了",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "同时诵念着=spice.entity:possessivePronoun=最爱的论著",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "圆睁着=var=的双眼"
+    ]
+   },
+   "might": {
+    "@professions": [
+     "soldier",
+     "gladiator"
+    ],
+    "materials": [
+     "泽塔铬",
+     "晶钢",
+     "铁",
+     "金刚石",
+     "骨"
+    ],
+    "adjectives": [
+     "雄壮",
+     "巨硕",
+     "称霸",
+     "强悍",
+     "威严"
+    ],
+    "nouns": [
+     "剑",
+     "钉头锤",
+     "斧",
+     "铁护手",
+     "头骨",
+     "锤",
+     "钝击",
+     "头盔",
+     "胸甲",
+     "护手",
+     "靴"
+    ],
+    "nounsPlural": [
+     "长剑",
+     "火枪",
+     "钉头锤",
+     "战斧",
+     "铁护手",
+     "头骨",
+     "锤类武器",
+     "柄头",
+     "骨骸",
+     "头盔",
+     "胸甲",
+     "护手",
+     "靴子"
+    ],
+    "practices": [
+     "把东西砸得粉碎",
+     "劈开头颅",
+     "发号施令",
+     "强加己意",
+     "聆听敌人的哀嚎",
+     "把物件放上秤称量，不满意结果便砸烂那杆秤"
+    ],
+    "murdermethods": [
+     "用=^:materials.!random=制成的=^:nouns.!random|article=",
+     "将=spice:pronouns.object.!random=活活扼死",
+     "屠尽=spice:pronouns.possessive.!random=全族"
+    ],
+    "inspirationsVerbPhrase": [
+     "卷入了一场酒馆斗殴",
+     "跋涉穿过一片头骨与尸骨遍布的原野",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "将家家户户夷为平地",
+     "尤其乐于听那哀嚎之声"
+    ],
+    "ruinReason": "遍布粉碎的瓦砾",
+    "ruinDescription": "垃圾堆",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "赢得了一场大战",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "刚=^:murdermethods.!random=杀死一名敌人之后",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "气势=var=，巍然耸立"
+    ]
+   },
+   "chance": {
+    "@professions": [
+     "gambler"
+    ],
+    "materials": [
+     "机缘本身",
+     "铜",
+     "运气",
+     "命数",
+     "银",
+     "金",
+     "铂"
+    ],
+    "adjectives": [
+     "幸运",
+     "随机",
+     "随意",
+     "宿命",
+     "侥幸",
+     "受宠",
+     "灌铅",
+     "受诅",
+     "受祝"
+    ],
+    "nouns": [
+     "=spice:numbers.!random=面骰",
+     "硬币",
+     "吉兆",
+     "凶兆",
+     "信物",
+     "护符",
+     "命运诸神之器"
+    ],
+    "nounsPlural": [
+     "=spice:numbers.!random=面骰",
+     "硬币",
+     "吉兆",
+     "凶兆",
+     "信物",
+     "护符",
+     "命运诸神之器"
+    ],
+    "practices": [
+     "掷=spice:numbers.!random=面骰",
+     "抛掷硬币",
+     "凭机缘决定结果",
+     "抛掷骨头以占卜未来",
+     "观飞鸟之行迹以解读征兆"
+    ],
+    "murdermethods": [
+     "用=^:materials.!random=制成的=^:nouns.!random|article=",
+     "抛一枚硬币，约定依其结果杀死=spice:pronouns.object.!random=或杀死=spice.entity:objectPronoun=自己",
+     "用一把只装了一发子弹的左轮手枪"
+    ],
+    "inspirationsVerbPhrase": [
+     "跌入冰隙，却逆着常理活了下来",
+     "眼见一枚抛起的硬币连续十次正面落地",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "掷骰子决定毁掉哪几户人家"
+    ],
+    "ruinReason": "遍布凶兆",
+    "ruinDescription": "糟透的运气",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "家家户户都找到了一件=var=",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "在随机选定配偶之后",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "占得一则=var=之兆后"
+    ]
+   },
+   "circuitry": {
+    "@professions": [
+     "tinker",
+     "electrician"
+    ],
+    "materials": [
+     "电线",
+     "铜",
+     "硅",
+     "电路",
+     "电流",
+     "逻辑",
+     "二极管",
+     "晶体管",
+     "电容器",
+     "线圈",
+     "真空管"
+    ],
+    "adjectives": [
+     "模拟",
+     "数码",
+     "逻辑",
+     "伏打",
+     "电脑化",
+     "通电",
+     "布线",
+     "镀铜",
+     "盘绕"
+    ],
+    "nouns": [
+     "电路板",
+     "电路",
+     "逻辑门",
+     "灯泡",
+     "电池",
+     "真空管",
+     "示波器"
+    ],
+    "nounsPlural": [
+     "电路板",
+     "电路",
+     "逻辑门",
+     "灯泡",
+     "电池",
+     "真空管",
+     "示波器"
+    ],
+    "practices": [
+     "将=spice:elements.!random.nounsPlural.!random=接线连到=spice:elements.!random.nounsPlural.!random=上"
+    ],
+    "murdermethods": [
+     "用=^:materials.!random=制成的=^:nouns.!random|article=",
+     "以居心叵测的焊接",
+     "将=spice:pronouns.object.!random=接线连到数百个=^:nounsPlural.!random=上",
+     "以除以零"
+    ],
+    "inspirationsVerbPhrase": [
+     "遇见了=spice.entity:objectPronoun=自己的电脑化分身",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "将孩童焊接在一起"
+    ],
+    "ruinReason": "遍布电弧",
+    "ruinDescription": "伏打月牙形",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "家家户户的=var=都亮了起来",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "远程办公之时",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "身处一台=var=机器之内"
+    ]
+   },
+   "travel": {
+    "@professions": [
+     "explorer",
+     "nomad"
+    ],
+    "materials": [
+     "水域",
+     "道别之语",
+     "砖墙",
+     "皮革",
+     "木材",
+     "丝绸",
+     "纸",
+     "绳索",
+     "上发条",
+     "帆布墙",
+     "篝火灰烬"
+    ],
+    "adjectives": [
+     "异邦",
+     "陌生",
+     "奇异",
+     "饱经风霜",
+     "阅世",
+     "行旅",
+     "漂泊",
+     "超凡"
+    ],
+    "nouns": [
+     "罗盘",
+     "高度计",
+     "星盘",
+     "地图",
+     "六分仪",
+     "铺盖卷",
+     "日志",
+     "小船",
+     "一双凉鞋"
+    ],
+    "nounsPlural": [
+     "罗盘",
+     "高度计",
+     "星盘",
+     "地图",
+     "六分仪",
+     "铺盖卷",
+     "日志",
+     "小船",
+     "数双凉鞋"
+    ],
+    "practices": [
+     "漫无目的地游荡",
+     "朝圣",
+     "攀登高山",
+     "疾行于群星之间",
+     "永别=spice.entity:possessivePronoun=的家园",
+     "踏上冒险之途，去寻找一件著名的=spice:elements.!random.nouns.!random="
+    ],
+    "murdermethods": [
+     "用=^:materials.!random=制成的=^:nouns.!random|article=",
+     "将=spice:pronouns.object.!random=追至力竭而死",
+     "将=spice:pronouns.object.!random=烹煮以充口粮"
+    ],
+    "inspirationsVerbPhrase": [
+     "与一位朝圣者分食面包",
+     "远行至一处圣祠",
+     "梦见=spice.entity:subjectPronoun=正在=^:practices.!random="
+    ],
+    "quality": [
+     "=^:adjectives.!random=的双眼",
+     "曾=^:murdermethods.!random=杀害他人的名声",
+     "=^:adjectives.!random=的面容"
+    ],
+    "babeTrait": [
+     "口中塞满了=^:materials.!random=",
+     "双眼上覆着=^:nounsPlural.!random=",
+     "双手各持一件=^:adjectives.!random|article==^:nouns.!random="
+    ],
+    "ravaging": [
+     "强行迁走各个家庭"
+    ],
+    "ruinReason": "不见半点生命迹象",
+    "ruinDescription": "空无一物",
+    "thingsTheyDid": [
+     "=spice:history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random="
+    ],
+    "mythicalEvent": [
+     "发现了一颗新的行星",
+     "一位著名的=^.set:@professions.!random:$prof==spice:professions.$prof.singular=完成了=spice:pronouns.possessive.!random=关于一件传奇=var=的作品"
+    ],
+    "weddingConditions": [
+     "一场伟大的朝圣完成之际",
+     "于一座巨大的=^:nouns.!random=之内",
+     "于以=^:nounsPlural.!random=装饰的大教堂中",
+     "齐腰深立于一湖=^:materials.!random=之中"
+    ],
+    "mythicalBattleVista": [
+     "眼前是奇异而=var=的沙原"
+    ]
+   }
+  },
+  "professions=": {
+   "glassblower": {
+    "singular": "玻璃吹制工",
+    "plural": "玻璃吹制工",
+    "training": "学徒",
+    "actions": [
+     "建了一座玻璃凉亭"
+    ],
+    "guildhall": "工坊",
+    "forged": "吹制了",
+    "forge": "吹响",
+    "items": [
+     "匕首"
+    ],
+    "studying": "吹制玻璃",
+    "foundingVerbTombInscription": [
+     "吹制=var=玻璃，用于=activity="
+    ]
+   },
+   "window maker": {
+    "singular": "窗匠",
+    "plural": "窗匠",
+    "training": "学徒",
+    "actions": [
+     "彩绘了一扇玻璃窗"
+    ],
+    "guildhall": "工坊",
+    "forged": "吹制了",
+    "forge": "吹响",
+    "items": [
+     "盾牌"
+    ],
+    "studying": "吹制玻璃",
+    "foundingVerbTombInscription": [
+     "吹制=var=玻璃，用于=activity="
+    ]
+   },
+   "scholar": {
+    "singular": "学者",
+    "plural": "学者",
+    "training": "学徒",
+    "actions": [
+     "写成了一部论著"
+    ],
+    "guildhall": "学院",
+    "forged": "撰写了",
+    "forge": "撰写",
+    "items": [
+     "论著"
+    ],
+    "studying": "研习",
+    "foundingVerbTombInscription": [
+     "研究=var=可如何用于=activity="
+    ]
+   },
+   "scribe": {
+    "singular": "抄写员",
+    "plural": "书吏",
+    "training": "书吏学徒",
+    "actions": [
+     "记录了=spice.entity:possessivePronoun=生命最后一年的种种事件"
+    ],
+    "guildhall": "缮写室",
+    "forged": "记录了",
+    "forge": "记录",
+    "items": [
+     "编年史"
+    ],
+    "studying": "编撰编年史记述",
+    "foundingVerbTombInscription": [
+     "编撰编年史，记述=var=如何用于=activity="
+    ]
+   },
+   "philosopher": {
+    "singular": "哲人",
+    "plural": "哲人",
+    "training": "学徒",
+    "actions": [
+     "反思了这段经历的意义"
+    ],
+    "guildhall": "书院",
+    "forged": "阐发了",
+    "forge": "阐发",
+    "items": [
+     "哲学"
+    ],
+    "studying": "参悟",
+    "foundingVerbTombInscription": [
+     "解读=var=与=activity=之间的语义关联"
+    ]
+   },
+   "scientist": {
+    "singular": "科学家",
+    "plural": "科学家",
+    "training": "学徒",
+    "actions": [
+     "对此事件提出了假说"
+    ],
+    "guildhall": "实验室",
+    "forged": "阐发了",
+    "forge": "阐发",
+    "items": [
+     "假说"
+    ],
+    "studying": "测量",
+    "foundingVerbTombInscription": [
+     "试验如何将=var=用于=activity="
+    ]
+   },
+   "historian": {
+    "singular": "史官",
+    "plural": "史官",
+    "training": "学徒",
+    "actions": [
+     "撰写了一部史录"
+    ],
+    "guildhall": "书院",
+    "forged": "撰写",
+    "forge": "撰写",
+    "items": [
+     "记述"
+    ],
+    "studying": "诠释……的历史",
+    "foundingVerbTombInscription": [
+     "诠释=var=与=activity=的历史"
+    ]
+   },
+   "cook": {
+    "singular": "烹饪",
+    "plural": "厨子",
+    "training": "帮厨",
+    "actions": [
+     "烹制了一顿令人满意的饭食"
+    ],
+    "guildhall": "酒肆",
+    "forged": "烹制",
+    "forge": "烹饪",
+    "items": [
+     "盛宴",
+     "餐食"
+    ],
+    "studying": "烹制受其启发的菜肴：",
+    "foundingVerbTombInscription": [
+     "烹制受=var=与=activity=启发的菜肴"
+    ]
+   },
+   "geologist": {
+    "singular": "地质学家",
+    "plural": "地质学家",
+    "training": "学徒",
+    "actions": [
+     "深掘大地的地层"
+    ],
+    "guildhall": "发掘场",
+    "forged": "掘出",
+    "forge": "掘出",
+    "items": [
+     "古器"
+    ],
+    "studying": "发掘古老的",
+    "foundingVerbTombInscription": [
+     "发掘曾用于=activity=的古老=var="
+    ]
+   },
+   "jeweler": {
+    "singular": "珠宝商",
+    "plural": "珠宝匠",
+    "training": "学徒",
+    "actions": [
+     "将=spice:elements.jewels.adjectives.!random|article==spice:elements.jewels.nouns.!random=镶入新铸的=spice:jewelry.!random="
+    ],
+    "guildhall": "工坊",
+    "forged": "铸造",
+    "forge": "锻炉",
+    "items": [
+     "手镯"
+    ],
+    "studying": "制作受其启发的珠宝：",
+    "foundingVerbTombInscription": [
+     "制作受=var=与=activity=启发的珠宝"
+    ]
+   },
+   "astrologist": {
+    "singular": "占星师",
+    "plural": "占星师",
+    "training": "学徒",
+    "actions": [
+     "解读了一次星象运势"
+    ],
+    "guildhall": "观星台",
+    "forged": "捏造",
+    "forge": "制造",
+    "items": [
+     "星相解读"
+    ],
+    "studying": "将群星比附于……之形",
+    "foundingVerbTombInscription": [
+     "借=var=占卜我等当如何=activity="
+    ]
+   },
+   "astronomer": {
+    "singular": "天文学家",
+    "plural": "天文学家",
+    "training": "学徒",
+    "actions": [
+     "测算了与邻近恒星的距离"
+    ],
+    "guildhall": "观星台",
+    "forged": "发明",
+    "forge": "发明",
+    "items": [
+     "星辰工具"
+    ],
+    "studying": "将群星比附于……之形",
+    "foundingVerbTombInscription": [
+     "借=var=探明我等如何自太空=activity="
+    ]
+   },
+   "stargazer": {
+    "singular": "观星者",
+    "plural": "观星者",
+    "training": "初习者",
+    "actions": [
+     "以燃烧的太阳绘出巨兽与怪物之形"
+    ],
+    "guildhall": "祈祷毡帐",
+    "forged": "唤醒",
+    "forge": "唤醒",
+    "items": [
+     "寓言"
+    ],
+    "studying": "沉思外星生灵或将如何运用",
+    "foundingVerbTombInscription": [
+     "借=var=探明我等如何自太空=activity="
+    ]
+   },
+   "winter eremite": {
+    "singular": "冬隐士",
+    "plural": "冬隐士",
+    "training": "遁世者",
+    "actions": [
+     "以沉重的代价传授智慧"
+    ],
+    "guildhall": "隐修所",
+    "forged": "揭示",
+    "forge": "揭示",
+    "items": [
+     "凛冬真理"
+    ],
+    "studying": "虔诚吟诵以颂扬",
+    "foundingVerbTombInscription": [
+     "虔诚吟诵，颂扬以=var=行=activity=之法"
+    ]
+   },
+   "soldier": {
+    "singular": "士兵",
+    "plural": "士兵",
+    "training": "新兵",
+    "actions": [
+     "协助洗劫一座村庄，并将其房屋焚为平地"
+    ],
+    "guildhall": "哨所",
+    "forged": "劫掠",
+    "forge": "劫掠",
+    "items": [
+     "=spice:elements.might.nouns.!random="
+    ],
+    "studying": "囤积劫掠所得的",
+    "foundingVerbTombInscription": [
+     "储存为=activity=而收缴的=var="
+    ]
+   },
+   "gladiator": {
+    "singular": "角斗士",
+    "plural": "角斗士",
+    "training": "奴隶",
+    "actions": [
+     "为永世的荣耀而战"
+    ],
+    "guildhall": "斗兽场",
+    "forged": "蒙赐",
+    "forge": "窃取",
+    "items": [
+     "=spice:elements.might.nouns.!random="
+    ],
+    "studying": "为赢取……之赏而举行仪式性搏斗",
+    "foundingVerbTombInscription": [
+     "举行以=var=与=activity=为主题的仪式性搏斗"
+    ]
+   },
+   "gambler": {
+    "singular": "赌徒",
+    "plural": "赌徒",
+    "training": "冤大头",
+    "actions": [
+     "彻夜博戏，赌运气"
+    ],
+    "guildhall": "赌坊",
+    "forged": "赌赢",
+    "forge": "下注",
+    "items": [
+     "硬币",
+     "=spice:numbers.!random=面骰"
+    ],
+    "studying": "随手拈取……以作决断",
+    "foundingVerbTombInscription": [
+     "为=activity=而随机取用=var="
+    ]
+   },
+   "tinker": {
+    "singular": "修补匠",
+    "plural": "修补匠",
+    "training": "学徒",
+    "actions": [
+     "组装了一件新奇的装置"
+    ],
+    "guildhall": "工坊",
+    "forged": "修造",
+    "forge": "修补匠",
+    "items": [
+     "古器"
+    ],
+    "studying": "依据……组装装置",
+    "foundingVerbTombInscription": [
+     "将=var=组装成用于=activity=的装置"
+    ]
+   },
+   "electrician": {
+    "singular": "电工",
+    "plural": "电工",
+    "training": "学徒",
+    "actions": [
+     "将=spice:elements.circuitry.nounsPlural.!random=焊接在一起"
+    ],
+    "guildhall": "工坊",
+    "forged": "焊接",
+    "forge": "焊接",
+    "items": [
+     "古器"
+    ],
+    "studying": "焊接导线以驱动",
+    "foundingVerbTombInscription": [
+     "为=activity=将=var=焊接在一起"
+    ]
+   },
+   "explorer": {
+    "singular": "探险者",
+    "plural": "探险者",
+    "training": "漫游者",
+    "actions": [
+     "踏上冒险之途，寻找一件神圣的=spice:elements.!random.nouns.!random="
+    ],
+    "guildhall": "酒肆",
+    "forged": "发现",
+    "forge": "寻获",
+    "items": [
+     "古器"
+    ],
+    "studying": "漂泊以寻觅",
+    "foundingVerbTombInscription": [
+     "为=activity=漂泊以寻觅=var="
+    ]
+   },
+   "nomad": {
+    "singular": "游牧民",
+    "plural": "游牧民",
+    "training": "流浪汉",
+    "actions": [
+     "觅得了新家"
+    ],
+    "guildhall": "毡帐",
+    "forged": "发现",
+    "forge": "寻获",
+    "items": [
+     "古器"
+    ],
+    "studying": "寻找",
+    "foundingVerbTombInscription": [
+     "为=activity=漂泊以寻觅=var="
+    ]
+   }
+  },
+  "adjectives=": [
+   "=spice:commonPhrases.astral.!random=",
+   "=spice:commonPhrases.odious.!random=",
+   "=spice:commonPhrases.intrepid.!random=",
+   "=spice:anatomicalLocation.!random=",
+   "=spice:colors.!random=",
+   "=spice:metals.!random=",
+   "=spice:elements.!random.adjectives.!random=",
+   "=spice:elements.!random.adjectives.!random=",
+   "=spice:commonPhrases.strange.!random=",
+   "=spice:commonPhrases.liberated.!random=",
+   "=spice:commonPhrases.rescued.!random=",
+   "=spice:commonPhrases.wrapped.!random=",
+   "=spice:commonPhrases.crowned.!random=",
+   "=spice:commonPhrases.bygone.!random=",
+   "=spice:commonPhrases.stamped.!random=",
+   "=spice:commonPhrases.eminent.!random=",
+   "=spice:commonPhrases.reputable.!random=",
+   "=spice:commonPhrases.traveling.!random=",
+   "=spice:commonPhrases.despicable.!random=",
+   "=spice:commonPhrases.kind.!random=",
+   "=spice:commonPhrases.artful.!random=",
+   "=spice:commonPhrases.humble.!random=",
+   "=spice:commonPhrases.embraced.!random=",
+   "=spice:commonPhrases.abandoned.!random=",
+   "=spice:commonPhrases.noble.!random=",
+   "=spice:instancesOf.bodyPartMaimed.!random=",
+   "=spice:commonPhrases.blessed.!random=",
+   "=spice:commonPhrases.betrothed.!random=",
+   "=spice:history.gospels.EarlySultanate.adjective.!random=",
+   "=spice:history.gospels.LateSultanate.adjective.!random="
+  ],
+  "adjectivesJudgement=": [
+   "=spice:commonPhrases.strange.!random=",
+   "=spice:commonPhrases.despicable.!random=",
+   "=spice:elements.!random.adjectives.!random=",
+   "=spice:commonPhrases.artful.!random="
+  ],
+  "nouns=": [
+   "=spice:time.partsOfDay.!random=",
+   "=spice:geometricPatterns.!random=",
+   "=spice:itemTypes.!random.!random=",
+   "=spice:commonPhrases.scion.!random=",
+   "=spice:commonPhrases.pretender.!random=",
+   "=spice:commonPhrases.bane.!random=",
+   "=spice:commonPhrases.boon.!random=",
+   "=spice:commonPhrases.hearth.!random=",
+   "=spice:commonPhrases.cult.!random=",
+   "=spice:commonPhrases.band.!random=",
+   "=spice:commonPhrases.ghost.!random=",
+   "=spice:commonPhrases.shire.!random=",
+   "=spice:commonPhrases.wagon.!random=",
+   "=spice:commonPhrases.spouse.!random=",
+   "=spice:commonPhrases.occasion.!random=",
+   "=spice:commonPhrases.bodyOfWater.!random=",
+   "=spice:commonPhrases.adventurer.!random=",
+   "=spice:instancesOf.tinyBodyPart.!random=",
+   "=spice:instancesOf.divineFeeling.!random=",
+   "=spice:instancesOf.profaneFeeling.!random=",
+   "=spice:instancesOf.sandOrSalt.!random=",
+   "=spice:history.regions.government.city-states.name.!random=",
+   "=spice:elements.!random.nouns.!random=",
+   "=spice:elements.!random.nouns.!random=",
+   "=spice:professions.!random.singular=",
+   "=spice:history.regions.government.city-states.name.!random=",
+   "=spice:professions.!random.guildhall=",
+   "=spice:commonPhrases.farm.!random=",
+   "=spice:commonPhrases.kin.!random=",
+   "=spice:commonPhrases.shrine.!random=",
+   "=spice:commonPhrases.plan.!random=",
+   "=spice:commonPhrases.mug.!random=",
+   "=spice:commonPhrases.festival.!random=",
+   "=spice:commonPhrases.savior.!random=",
+   "=spice:commonPhrases.prayer.!random=",
+   "=spice:instancesOf.warrior.!random=",
+   "=spice:instancesOf.tutor.!random=",
+   "=spice:instancesOf.priest.!random=",
+   "=spice:history.gospels.EarlySultanate.vehicle.!random=",
+   "=spice:history.gospels.LateSultanate.vehicle.!random="
+  ],
+  "objectNouns=": [
+   "=spice:geometricPatterns.!random=",
+   "=spice:itemTypes.!random.!random=",
+   "=spice:commonPhrases.hearth.!random=",
+   "=spice:commonPhrases.ghost.!random=",
+   "=spice:commonPhrases.shire.!random=",
+   "=spice:commonPhrases.wagon.!random=",
+   "=spice:instancesOf.tinyBodyPart.!random=",
+   "=spice:instancesOf.sandOrSalt.!random=",
+   "=spice:elements.!random.nouns.!random=",
+   "=spice:elements.!random.nouns.!random=",
+   "=spice:professions.!random.singular=",
+   "=spice:professions.!random.guildhall=",
+   "=spice:commonPhrases.farm.!random=",
+   "=spice:commonPhrases.kin.!random=",
+   "=spice:commonPhrases.shrine.!random=",
+   "=spice:commonPhrases.mug.!random="
+  ],
+  "personNouns=": [
+   "=spice:commonPhrases.scion.!random=",
+   "=spice:commonPhrases.pretender.!random=",
+   "=spice:commonPhrases.ghost.!random=",
+   "=spice:commonPhrases.spouse.!random=",
+   "=spice:commonPhrases.adventurer.!random=",
+   "=spice:commonPhrases.savior.!random=",
+   "=spice:professions.!random.singular=",
+   "=spice:instancesOf.warrior.!random=",
+   "=spice:instancesOf.tutor.!random=",
+   "=spice:instancesOf.priest.!random="
+  ],
+  "placeNouns=": [
+   "=spice:commonPhrases.hearth.!random=",
+   "=spice:commonPhrases.shire.!random=",
+   "=spice:commonPhrases.bodyOfWater.!random=",
+   "=spice:history.regions.government.city-states.name.!random=",
+   "=spice:professions.!random.guildhall=",
+   "=spice:commonPhrases.farm.!random=",
+   "=spice:commonPhrases.shrine.!random="
+  ],
+  "jewelry=": [
+   "护身符",
+   "手镯",
+   "灵符",
+   "环",
+   "头冠",
+   "脚镯"
+  ],
+  "actornouns=": [
+   "舞者",
+   "纺者",
+   "掮客",
+   "跃行者",
+   "呼喊者",
+   "召唤者",
+   "唤醒者"
+  ],
+  "time=": {
+   "partsOfDay": [
+    "黄昏",
+    "黎明",
+    "正午",
+    "午夜",
+    "破晓",
+    "暮色"
+   ]
+  },
+  "@siteModifiers1=": [
+   "anatomicalLocation",
+   "2Dshapes",
+   "3Dshapes",
+   "typeOfVillage",
+   "geometricPatterns",
+   "ordinal"
+  ],
+  "@siteModifiers2=": [
+   "basicColors",
+   "ordinal",
+   "anatomicalLocation",
+   "2Dshapes",
+   "3Dshapes",
+   "metals"
+  ],
+  "basicColors=": [
+   "赤红",
+   "靛蓝",
+   "翠绿",
+   "象牙白",
+   "银",
+   "乌木黑",
+   "琥珀",
+   "青碧",
+   "金黄",
+   "紫",
+   "漆黑",
+   "雪白",
+   "褐"
+  ],
+  "colors=": [
+   "绯红",
+   "猩红",
+   "玉米须黄",
+   "木兰白",
+   "象牙白",
+   "银",
+   "铂",
+   "乌木黑",
+   "缟玛瑙黑",
+   "苋紫",
+   "洋红",
+   "远洋红",
+   "酒红",
+   "紫红",
+   "朱红",
+   "琥珀",
+   "柠黄",
+   "桃花心木红",
+   "栗红",
+   "珊瑚红",
+   "万寿菊黄",
+   "金辉黄",
+   "黄绿",
+   "青碧",
+   "苔绿",
+   "开心果绿",
+   "绿松色",
+   "铬绿",
+   "海蓝",
+   "天蓝",
+   "蔚蓝",
+   "钴蓝",
+   "靛青",
+   "群青"
+  ],
+  "ordinal=": [
+   "第-1",
+   "第0",
+   "第1",
+   "第2",
+   "第3",
+   "第4",
+   "第5",
+   "第6",
+   "第7",
+   "第8",
+   "第9",
+   "第10",
+   "第11",
+   "第12",
+   "第13",
+   "第14",
+   "第15",
+   "第16",
+   "第17",
+   "第18",
+   "第19",
+   "第20",
+   "第21",
+   "第22",
+   "第23",
+   "第24",
+   "第25",
+   "第26",
+   "第27",
+   "第28",
+   "第29",
+   "第30"
+  ],
+  "anatomicalLocation=": [
+   "矢状",
+   "正中",
+   "额状",
+   "冠状",
+   "横向",
+   "前侧",
+   "后侧",
+   "背侧",
+   "腹侧",
+   "内侧",
+   "外侧",
+   "近端",
+   "远端",
+   "上方",
+   "下方",
+   "对侧",
+   "同侧",
+   "双侧",
+   "单侧",
+   "吻侧",
+   "颅侧",
+   "前倾",
+   "后倾",
+   "轴向",
+   "顶侧",
+   "末端"
+  ],
+  "2Dshapes=": [
+   "圆",
+   "环",
+   "方形",
+   "多边形",
+   "巴尔比形",
+   "格",
+   "多联形",
+   "单边形",
+   "一边形",
+   "二边形",
+   "三角形",
+   "四边形",
+   "菱形",
+   "矩形",
+   "斜方形",
+   "四角形",
+   "不规则四边形",
+   "梯形",
+   "五边形",
+   "六边形",
+   "无限边形",
+   "七边形",
+   "八边形",
+   "十边形",
+   "九边形",
+   "二十边形",
+   "星形",
+   "六芒星",
+   "八芒星",
+   "圆环",
+   "皮匠刀形",
+   "新月形",
+   "月牙形",
+   "盐瓶形",
+   "三角纽结",
+   "半圆",
+   "螺旋",
+   "星形线",
+   "心脏线",
+   "椭圆",
+   "三尖内摆线",
+   "心形",
+   "卵圆",
+   "卵形"
+  ],
+  "3Dshapes=": [
+   "棱镜",
+   "环面体",
+   "椭球",
+   "球体",
+   "立方体",
+   "四面体",
+   "棱锥",
+   "圆柱",
+   "圆锥",
+   "多边形",
+   "八面体",
+   "二十面体",
+   "十二面体",
+   "球状体",
+   "双曲面体",
+   "抛物面体",
+   "簇面体",
+   "二面体"
+  ],
+  "typeOfVillage=": [
+   "藏身处",
+   "巢穴",
+   "庇所",
+   "圣所",
+   "避难所",
+   "市镇",
+   "区",
+   "辖区",
+   "镇",
+   "村",
+   "小村",
+   "居所",
+   "治所",
+   "地域",
+   "坊",
+   "角落",
+   "壁龛",
+   "泊位",
+   "田野",
+   "地带",
+   "要地",
+   "屋室",
+   "遗址",
+   "地点",
+   "边陲",
+   "近郊",
+   "中枢",
+   "市井",
+   "住所"
+  ],
+  "metals=": [
+   "铝",
+   "铋",
+   "黄铜",
+   "青铜",
+   "镉",
+   "铬",
+   "钴蓝",
+   "铜",
+   "金",
+   "铁",
+   "铅",
+   "镁",
+   "汞",
+   "镍",
+   "铂",
+   "钯",
+   "银",
+   "钢",
+   "钽",
+   "锡",
+   "钛",
+   "钨",
+   "锌"
+  ],
+  "geometricPatterns=": [
+   "十字",
+   "结",
+   "五点阵",
+   "星形",
+   "镰刀",
+   "树",
+   "杖",
+   "花",
+   "三元",
+   "密封",
+   "玫瑰",
+   "环",
+   "五芒星",
+   "眼",
+   "安卡",
+   "五芒符",
+   "轮",
+   "四元图",
+   "心",
+   "三叶",
+   "铲",
+   "金刚石",
+   "人字纹",
+   "新月形"
+  ],
+  "anatomicalPrefixes=": [
+   "亚",
+   "低",
+   "下",
+   "间",
+   "超",
+   "上",
+   "后",
+   "向前"
+  ],
+  "siteNameForms=": [
+   "=nameRoot==top1="
+  ],
+  "gossip=": {
+   "twoFaction": [
+    "=f1=偷了=f2=的=item.a==item.name|strip=。",
+    "=f1=把=item.a==item.name|strip=高价卖给了=f2=。",
+    "=f1=杀了=f2=的一位首领。",
+    "=f1=质疑=f2=的信仰。",
+    "=f1=侮辱了=f2=的女人。",
+    "=f1=哄骗=f2=分了些淡水给他们。",
+    "=f1=往=f2=的田里撒了盐。",
+    "=f1=驳倒了=f2=一条著名的定理。",
+    "=f1=掘出了=f2=的一些祖先。",
+    "=f1=烧了=f2=的一座村子。",
+    "=f1=掷骰子屡屡胜过=f2=。",
+    "=f1=把蛇放进了=f2=的营地。",
+    "=f1=诋毁了=f2=所敬重的一位名诗人。",
+    "=f1=在=f2=的淡水里下了毒。",
+    "=f1=冒充=f2=的一位首领。",
+    "=f1=率劫掠队袭击了=f2=的营地。",
+    "=f1=给=f2=做了一顿馊饭。",
+    "=f1=对=f2=讲荤段子。",
+    "=f1=点燃烽火，向=f2=的敌人示警。",
+    "=f1=不让=f2=进本地的藏书馆。",
+    "=f1=把一张通往=f2=所属宝库的藏宝图卖给了一位冒险者。",
+    "=f1=吃了=f2=的一大串果子。",
+    "=f1=重新编程了=f2=的一台机器人。",
+    "=f1=焚烧了=f2=一位首领的草人像。",
+    "=f1=给=f2=批了不吉的命盘。",
+    "=f1=质疑月亮的来历，冒犯了=f2=的信仰。",
+    "=f1=称颂一个高熵的存在，冒犯了=f2=。"
+   ],
+   "leadIns": [
+    "你听说了吗？",
+    "我听说",
+    "有人跟我说",
+    "传言说",
+    "鸟儿们叽叽喳喳地说"
+   ]
+  },
+  "pronouns=": {
+   "subject": [
+    "他",
+    "她"
+   ],
+   "object": [
+    "他",
+    "她"
+   ],
+   "possessive": [
+    "他的",
+    "她"
+   ]
+  },
+  "temperaments=": {
+   "Angry": {
+    "synonym": [
+     "愤怒",
+     "暴怒"
+    ],
+    "action": [
+     "=spice:instancesOf.disparaged.!random="
+    ]
+   }
+  },
+  "itemTypes=": {
+   "Axe": [
+    "利刃",
+    "手斧",
+    "伐斧",
+    "斫斧"
+   ],
+   "ShortBlade": [
+    "短匕",
+    "要地",
+    "暗刃",
+    "匕刃",
+    "克里斯刀"
+   ],
+   "LongBlade": [
+    "利刃",
+    "宝剑",
+    "戟刀"
+   ],
+   "Cudgel": [
+    "钉头锤",
+    "杖",
+    "杖",
+    "短棍"
+   ],
+   "Rifle": [
+    "步枪",
+    "火炮",
+    "火铳",
+    "长枪械"
+   ],
+   "Pistol": [
+    "手枪",
+    "枪械",
+    "佩枪"
+   ],
+   "Head": [
+    "头盔",
+    "帽子",
+    "头盖",
+    "兜帽"
+   ],
+   "Face": [
+    "面纱",
+    "面具",
+    "面具"
+   ],
+   "Body": [
+    "胸甲",
+    "背心",
+    "锁甲"
+   ],
+   "Arm": [
+    "臂链",
+    "臂扣",
+    "臂环"
+   ],
+   "Feet": [
+    "木屐",
+    "防滑钉",
+    "轻履"
+   ],
+   "Hands": [
+    "手套",
+    "手笼",
+    "手套"
+   ],
+   "Floating": [
+    "浮球",
+    "球体"
+   ],
+   "Artifact": [
+    "颈褶",
+    "玩物",
+    "奇玩"
+   ],
+   "Curio": [
+    "颈褶",
+    "玩物",
+    "奇玩"
+   ],
+   "Shield": [
+    "护盾",
+    "神盾",
+    "庇盾",
+    "盾牌"
+   ],
+   "Food": [
+    "面包",
+    "食粮",
+    "肉",
+    "吃食"
+   ],
+   "Book": [
+    "抄本",
+    "巨册",
+    "卷册",
+    "地图集",
+    "辞典",
+    "对开本",
+    "合集",
+    "巨作"
+   ],
+   "Implant": [
+    "器官",
+    "义体",
+    "义具",
+    "器件",
+    "电线",
+    "蜕变",
+    "增强"
+   ]
+  },
+  "commonPhrases=": {
+   "astral": [
+    "星界",
+    "幽影",
+    "虚灵",
+    "幻象",
+    "崇高",
+    "抽象",
+    "永恒",
+    "太初"
+   ],
+   "intrepid": [
+    "无畏",
+    "勇敢",
+    "英勇",
+    "豪侠",
+    "狮心",
+    "骁勇"
+   ],
+   "odious": [
+    "可憎",
+    "邪恶",
+    "凶恶",
+    "奸佞",
+    "可憎",
+    "堕落",
+    "穷凶极恶",
+    "污秽",
+    "罪恶昭彰"
+   ],
+   "lovers": [
+    "恋人",
+    "=^:betrothed.!random="
+   ],
+   "eternally": [
+    "永恒地",
+    "永远",
+    "始终"
+   ],
+   "entwined": [
+    "缠绕",
+    "交织",
+    "相拥"
+   ],
+   "blessed": [
+    "受祝",
+    "崇高",
+    "神圣"
+   ],
+   "betrothed": [
+    "订下婚约",
+    "许配",
+    "结合",
+    "配成对"
+   ],
+   "voice": [
+    "发声",
+    "吐露",
+    "言说",
+    "发出声响"
+   ],
+   "prayer": [
+    "祷词",
+    "祝福"
+   ],
+   "historic": [
+    "载入史册",
+    "著名",
+    "举足轻重",
+    "显赫",
+    "帝王般"
+   ],
+   "onlooker": [
+    "守望者",
+    "观瞻者",
+    "旁观者",
+    "见证者"
+   ],
+   "noble": [
+    "高尚",
+    "贤德",
+    "正直"
+   ],
+   "corrupt": [
+    "腐败",
+    "欺诈",
+    "贪赃",
+    "荒淫",
+    "卑劣",
+    "背信",
+    "奸猾",
+    "阴险"
+   ],
+   "despots": [
+    "暴君",
+    "领主",
+    "贵胄",
+    "首领",
+    "官长",
+    "牧者"
+   ],
+   "found": [
+    "发现",
+    "发现"
+   ],
+   "inspired": [
+    "受到启发",
+    "被唤醒",
+    "被触动"
+   ],
+   "prized": [
+    "珍视",
+    "珍贵",
+    "珍爱",
+    "珍藏"
+   ],
+   "demonstrate": [
+    "昭示",
+    "展现",
+    "证明",
+    "彰显",
+    "表明"
+   ],
+   "conquered": [
+    "征服",
+    "吞并",
+    "发现",
+    "奴役"
+   ],
+   "tamed": [
+    "驯服",
+    "安抚",
+    "制伏",
+    "驯化",
+    "使之俯首听命"
+   ],
+   "wild": [
+    "野性",
+    "未驯",
+    "凶蛮",
+    "残暴",
+    "蛮荒"
+   ],
+   "humble": [
+    "谦卑",
+    "沉静",
+    "谦逊",
+    "温和"
+   ],
+   "settled": [
+    "定居",
+    "栖身",
+    "寄居",
+    "居住",
+    "落户"
+   ],
+   "worship": [
+    "崇拜",
+    "偶像崇拜",
+    "仪式",
+    "爱慕"
+   ],
+   "morality": [
+    "道德",
+    "体面",
+    "美德",
+    "贞洁",
+    "虔敬",
+    "信条",
+    "礼法"
+   ],
+   "restore": [
+    "复兴",
+    "改造",
+    "拯救",
+    "复苏",
+    "救赎",
+    "焕新",
+    "夺回"
+   ],
+   "rife": [
+    "盛行",
+    "猖獗",
+    "流行",
+    "当道",
+    "四处蔓延"
+   ],
+   "depravity": [
+    "堕落",
+    "衰败",
+    "腐朽",
+    "邪恶",
+    "悖逆"
+   ],
+   "commandeered": [
+    "征用",
+    "劫夺",
+    "吞并",
+    "篡夺"
+   ],
+   "chastisement": [
+    "惩戒",
+    "责罚",
+    "斥责",
+    "=^:curse.!random="
+   ],
+   "remember": [
+    "铭记",
+    "追忆"
+   ],
+   "fromThenOn": [
+    "自此以后",
+    "自是日起",
+    "在=spice.entity:name=的余生中"
+   ],
+   "oneStarryNight": [
+    "某个星夜",
+    "在满月之夜",
+    "在=spice:myth.mythicDays.!random=的黎明",
+    "在甲虫之月下的某一夜",
+    "某个吉日",
+    "在一场大战的纪念日"
+   ],
+   "scion": [
+    "子嗣",
+    "羔羊",
+    "继承人",
+    "后裔",
+    "种子",
+    "亲族",
+    "婴孩",
+    "女继承人",
+    "子嗣",
+    "幼苗"
+   ],
+   "ascended": [
+    "登上王座",
+    "戴上王冠",
+    "登基加冕",
+    "=spice.entity:objectPronoun=自立为苏丹",
+    "执掌大权",
+    "夺取王冠",
+    "夺取镀金权杖"
+   ],
+   "killed": [
+    "被杀害",
+    "被谋杀",
+    "被五马分尸",
+    "被流放",
+    "被囚禁",
+    "被送入轨道",
+    "被深埋地下",
+    "被困于=spice:elements.entity@elements[random].nouns.!random|article=中",
+    "受审后获赦"
+   ],
+   "pretender": [
+    "觊觎者",
+    "争位者",
+    "有志者"
+   ],
+   "strange": [
+    "奇异",
+    "怪异",
+    "奇特",
+    "稀有",
+    "奇妙",
+    "诡异"
+   ],
+   "slaughtered": [
+    "惨遭屠戮",
+    "备受迫害"
+   ],
+   "liberated": [
+    "解放",
+    "释放",
+    "救出"
+   ],
+   "rescued": [
+    "救出",
+    "抢救",
+    "寻回",
+    "解救"
+   ],
+   "wrapped": [
+    "裹缠",
+    "包覆",
+    "缠裹",
+    "包以襁褓"
+   ],
+   "crowned": [
+    "加冕",
+    "宣告",
+    "昭告"
+   ],
+   "ravaged": [
+    "蹂躏",
+    "横行于",
+    "劫掠",
+    "洗劫",
+    "肆虐于",
+    "使之化为废墟"
+   ],
+   "allThroughout": [
+    "里",
+    "遍及",
+    "遍及整个"
+   ],
+   "scourge": [
+    "天谴",
+    "梦魇",
+    "祸根",
+    "害虫",
+    "灾厄",
+    "悲苦"
+   ],
+   "treating": [
+    "相商",
+    "立约",
+    "议事"
+   ],
+   "bane": [
+    "祸根",
+    "毁灭",
+    "枯萎病",
+    "灾厄"
+   ],
+   "boon": [
+    "恩惠",
+    "挚友",
+    "赠礼"
+   ],
+   "finesse": [
+    "精巧",
+    "敏捷",
+    "技能",
+    "巧思",
+    "匠艺",
+    "灵巧",
+    "勇武",
+    "娴熟"
+   ],
+   "lostInTavern": [
+    "在一场骰戏中",
+    "被本地的窃贼",
+    "被本地的扒手",
+    "在一次鲁莽的赌局中"
+   ],
+   "ruins": [
+    "荒原",
+    "毁灭",
+    "腐朽",
+    "浩劫",
+    "不毛之地",
+    "平野",
+    "恶地",
+    "沙丘",
+    "残骸",
+    "泥沼",
+    "沼泽",
+    "荒野",
+    "虚空",
+    "泥淖"
+   ],
+   "bygone": [
+    "往昔",
+    "旧时",
+    "曾经",
+    "古老"
+   ],
+   "hearth": [
+    "炉灶",
+    "家园",
+    "炉石",
+    "栖息地",
+    "治所",
+    "栖所"
+   ],
+   "shortHearth": [
+    "家园",
+    "河中小岛"
+   ],
+   "yard": [
+    "庭院",
+    "羊圈",
+    "方庭",
+    "方形",
+    "方院"
+   ],
+   "stretches": [
+    "漫漫"
+   ],
+   "lost": [
+    "失落",
+    "消失",
+    "腐朽",
+    "荒凉",
+    "绝迹"
+   ],
+   "stamped": [
+    "压印",
+    "彩绘",
+    "雕刻",
+    "浮雕",
+    "蚀刻",
+    "装饰",
+    "雕刻"
+   ],
+   "cult": [
+    "教团",
+    "修会",
+    "社团",
+    "教会",
+    "乡民",
+    "族裔",
+    "家族",
+    "亲族",
+    "族人",
+    "氏族",
+    "信众",
+    "教派",
+    "宗亲",
+    "密党",
+    "众徒"
+   ],
+   "family": [
+    "家族",
+    "亲族",
+    "氏族",
+    "族裔",
+    "宗亲",
+    "子孙",
+    "乡民",
+    "部族",
+    "子嗣"
+   ],
+   "familySingular": [
+    "家族",
+    "氏族",
+    "族裔",
+    "部族"
+   ],
+   "familyPlural": [
+    "亲族",
+    "宗亲",
+    "子孙",
+    "乡民",
+    "子嗣"
+   ],
+   "epic": [
+    "美丽",
+    "无与伦比",
+    "迷人心魄",
+    "崇高"
+   ],
+   "celebrated": [
+    "欢呼雀跃",
+    "酩酊大醉",
+    "叙说故事、重温旧谊"
+   ],
+   "eminent": [
+    "伟大",
+    "可畏",
+    "受命",
+    "命定",
+    "应验预言",
+    "显赫",
+    "荣耀",
+    "名震四方",
+    "受人尊崇",
+    "德高望重"
+   ],
+   "whileTraveling": [
+    "在旅途中",
+    "=spice.entity:subjectPronoun=策马而行之际",
+    "在一次跋涉中",
+    "在一次远征中",
+    "在远征途中",
+    "在跋涉途中"
+   ],
+   "luckily": [
+    "幸运地",
+    "蒙命运垂青",
+    "机缘巧合地",
+    "偶然间"
+   ],
+   "band": [
+    "一行人",
+    "臂环",
+    "同伴",
+    "一班人",
+    "小集团",
+    "帮伙"
+   ],
+   "rogue": [
+    "恶棍",
+    "罪恶昭彰",
+    "强盗",
+    "骗徒",
+    "罪犯"
+   ],
+   "in": [
+    "穿过",
+    "约在",
+    "里"
+   ],
+   "itWasDiscovered": [
+    "人们发现",
+    "众人得知",
+    "卡德之民得知"
+   ],
+   "sultanClone": [
+    "=spice.entity:name=的克隆体",
+    "=spice.entity:name=的拟像",
+    "=spice.entity:name|'s=孪生者"
+   ],
+   "ghost": [
+    "幽灵",
+    "幽影",
+    "魅影",
+    "魔鬼",
+    "亡魂"
+   ],
+   "calmly": [
+    "从容地",
+    "温和地",
+    "静静地"
+   ],
+   "someone": [
+    "某人",
+    "某位",
+    "一位神秘人",
+    "一个孩童",
+    "一名女子",
+    "一名男子",
+    "一个婴儿",
+    "某人",
+    "某人",
+    "某位",
+    "某人",
+    "某位",
+    "一位神秘人",
+    "一个孩童",
+    "一名女子",
+    "一名男子",
+    "某人",
+    "某人",
+    "某位"
+   ],
+   "group": [
+    "团体",
+    "教派",
+    "组织",
+    "一行人",
+    "密党",
+    "一伙朋友",
+    "一群恋人"
+   ],
+   "farm": [
+    "农场",
+    "农庄",
+    "家园田庄",
+    "田亩",
+    "田地",
+    "广袤之地"
+   ],
+   "starapplefarm": [
+    "=^:farm.!random=",
+    "果园",
+    "林丛"
+   ],
+   "pigfarm": [
+    "=^:farm.!random=",
+    "牧场",
+    "牧地"
+   ],
+   "shire": [
+    "郡",
+    "尽头",
+    "树篱",
+    "田垄",
+    "炉灶",
+    "领地",
+    "边陲"
+   ],
+   "secluded": [
+    "幽僻",
+    "沉静",
+    "小",
+    "偏远"
+   ],
+   "spouse": [
+    "配偶",
+    "伴侣",
+    "伴侣",
+    "眷侣"
+   ],
+   "spouseByGender": {
+    "male": [
+     "丈夫"
+    ],
+    "female": [
+     "妻子"
+    ],
+    "default": [
+     "=spice:commonPhrases.spouse.!random="
+    ],
+    "_failureredirect": "spice.commonPhrases.spouseByGender.default"
+   },
+   "marriage": [
+    "婚姻",
+    "结合",
+    "结合",
+    "成婚",
+    "姻缘",
+    "婚礼",
+    "婚配",
+    "订下婚约",
+    "爱慕",
+    "欢愉",
+    "挚爱"
+   ],
+   "gift": [
+    "赠礼",
+    "恩宠",
+    "赐予",
+    "嫁妆",
+    "恩惠"
+   ],
+   "inHonorOf": [
+    "为纪念=^:occasion.!random=",
+    "为尊崇=^:occasion.!random=",
+    "以表谢意",
+    "为庆贺=^:occasion.!random=",
+    "为庆祝=^:occasion.!random="
+   ],
+   "occasion": [
+    "盛会",
+    "典礼",
+    "大典",
+    "结合"
+   ],
+   "picks": [
+    "拣选",
+    "甄选",
+    "筛选",
+    "摘取"
+   ],
+   "bodyOfWater": [
+    "海",
+    "洋",
+    "湖",
+    "潟湖",
+    "池塘",
+    "蓄水池",
+    "饮用",
+    "卤水",
+    "浪涛"
+   ],
+   "larvae": [
+    "鱼苗",
+    "幼虫",
+    "蛴螬",
+    "蛆虫",
+    "蠕虫"
+   ],
+   "adventurer": [
+    "冒险者",
+    "漂泊者",
+    "旅人",
+    "流浪者",
+    "游牧民",
+    "挚友"
+   ],
+   "hunter": [
+    "潜行者",
+    "刺客"
+   ],
+   "entropist": [
+    "熵论者"
+   ],
+   "puff": [
+    "一缕",
+    "一丝",
+    "满鼻",
+    "一嗅"
+   ],
+   "cooking": [
+    "烹煮",
+    "烘焙",
+    "酿造",
+    "烘烤",
+    "炖煮",
+    "煎烤",
+    "焖烧",
+    "沸煮",
+    "腌渍",
+    "发酵",
+    "油炸",
+    "炙烤",
+    "蒸制",
+    "炭烤"
+   ],
+   "recipes": [
+    "食谱",
+    "菜肴",
+    "餐食",
+    "食物",
+    "口粮",
+    "小食",
+    "佳肴",
+    "烹煮",
+    "吃食",
+    "蛴螬",
+    "污渍",
+    "粮秣",
+    "吃食",
+    "菜品",
+    "吃食",
+    "份餐"
+   ],
+   "door": [
+    "门",
+    "门户",
+    "入口",
+    "出口",
+    "闸门",
+    "舱门"
+   ],
+   "object": [
+    "物件"
+   ],
+   "trekked": [
+    "跋涉",
+    "远行",
+    "游历",
+    "航行"
+   ],
+   "yearsAgo": [
+    "多年以前",
+    "在时间的鸿沟之外",
+    "当年蕉树终年结熟之时",
+    "在第一个=spice:personNouns.!random=行走于卡德之前",
+    "在利悉统治之后的早年",
+    "很久以前",
+    "当=^:larvae.!random=初次自=spice:placeNouns.!random=中爬出之时"
+   ],
+   "practice": [
+    "修行",
+    "技艺"
+   ],
+   "people": [
+    "族人",
+    "乡民",
+    "聚落",
+    "同族",
+    "家族",
+    "亲族"
+   ],
+   "grave": [
+    "深",
+    "庄重",
+    "欢欣",
+    "由衷"
+   ],
+   "reverence": [
+    "崇敬",
+    "敬畏",
+    "崇拜",
+    "爱戴",
+    "挚爱",
+    "虔诚",
+    "神化",
+    "爱慕",
+    "荣耀"
+   ],
+   "sacred": [
+    "神圣",
+    "神圣",
+    "神明般",
+    "尊圣",
+    "天使般",
+    "受圣",
+    "敬神",
+    "纯洁",
+    "成圣",
+    "德高望重"
+   ],
+   "wisdom": [
+    "智慧",
+    "学识",
+    "启蒙"
+   ],
+   "curse": [
+    "诅咒",
+    "困扰",
+    "痛击",
+    "折磨"
+   ],
+   "plague": [
+    "瘟疫",
+    "诅咒",
+    "困扰"
+   ],
+   "woe": [
+    "灾厄",
+    "苦难",
+    "阴郁",
+    "痛苦",
+    "剧痛",
+    "悲苦",
+    "耻辱",
+    "折磨"
+   ],
+   "supports": [
+    "扶持",
+    "庇护",
+    "推崇",
+    "拥护",
+    "欢呼"
+   ],
+   "profane": [
+    "亵渎",
+    "嘲弄",
+    "蔑视",
+    "冒犯",
+    "渎神"
+   ],
+   "misuse": [
+    "滥用",
+    "虐用",
+    "悖逆"
+   ],
+   "profanity": [
+    "秽语",
+    "淫秽",
+    "渎神",
+    "不敬",
+    "轻慢"
+   ],
+   "harm": [
+    "伤害",
+    "虐用",
+    "削弱",
+    "冤屈"
+   ],
+   "sanctity": [
+    "圣洁",
+    "神性",
+    "纯净",
+    "良善",
+    "=^:wisdom.!random=",
+    "美德"
+   ],
+   "greetingFriend": [
+    "挚友",
+    "=^:adventurer.!random="
+   ],
+   "listen": [
+    "静听",
+    "听啊",
+    "听我言",
+    "谨记我言"
+   ],
+   "learning": [
+    "习得",
+    "探知",
+    "闻知",
+    "结识"
+   ],
+   "kin": [
+    "亲族",
+    "族人",
+    "同类",
+    "乡民",
+    "亲族",
+    "部族",
+    "氏族"
+   ],
+   "clan": [
+    "族人",
+    "氏族",
+    "部族",
+    "社团"
+   ],
+   "ways": [
+    "行止",
+    "习俗",
+    "文化",
+    "习性",
+    "先务",
+    "风范"
+   ],
+   "composed": [
+    "创作",
+    "发明",
+    "造就",
+    "构想",
+    "受圣"
+   ],
+   "rituals": [
+    "仪式",
+    "礼仪",
+    "成年礼",
+    "习俗",
+    "仪轨",
+    "典礼"
+   ],
+   "services": [
+    "效劳",
+    "侍奉",
+    "援手",
+    "劳作",
+    "劳役"
+   ],
+   "helping": [
+    "帮助",
+    "协助",
+    "襄助"
+   ],
+   "task": [
+    "使命",
+    "差事",
+    "活计",
+    "事业",
+    "重托",
+    "一段差役"
+   ],
+   "learned": [
+    "博学",
+    "断定",
+    "查明",
+    "确知",
+    "得知"
+   ],
+   "learnedOf": [
+    "得知",
+    "听闻",
+    "发现",
+    "查知",
+    "偶遇"
+   ],
+   "visited": [
+    "造访",
+    "=^:trekked.!random=至"
+   ],
+   "saw": [
+    "目睹",
+    "发现",
+    "发现"
+   ],
+   "retrieve": [
+    "取回",
+    "寻获",
+    "寻回",
+    "取来",
+    "抢救",
+    "获取",
+    "拾取",
+    "求得",
+    "顺手牵来"
+   ],
+   "traveling": [
+    "行旅",
+    "造访",
+    "漫游"
+   ],
+   "interesting": [
+    "有趣",
+    "耐人寻味",
+    "令人欣喜",
+    "引人入胜"
+   ],
+   "shrine": [
+    "遗宝",
+    "神龛",
+    "祭坛"
+   ],
+   "blessing": [
+    "祝福",
+    "荣耀",
+    "恩宠",
+    "恩惠",
+    "慰藉",
+    "赠礼"
+   ],
+   "despicable": [
+    "可鄙",
+    "可耻",
+    "卑劣",
+    "可悲",
+    "可憎",
+    "污秽",
+    "受诅",
+    "骇人"
+   ],
+   "horror": [
+    "恐怖",
+    "可憎之物",
+    "耻辱",
+    "禁忌",
+    "暴行"
+   ],
+   "greatly": [
+    "极其",
+    "大为",
+    "甚",
+    "无比"
+   ],
+   "find": [
+    "寻获",
+    "寻得",
+    "查明所在"
+   ],
+   "treasures": [
+    "珍宝",
+    "秘密",
+    "财富",
+    "明珠",
+    "奥秘"
+   ],
+   "hold": [
+    "领地",
+    "藏匿",
+    "蕴藏"
+   ],
+   "suspiciously": [
+    "疑虑地",
+    "试探地",
+    "警惕地",
+    "谨慎地",
+    "惴惴地"
+   ],
+   "plan": [
+    "计划",
+    "图谋",
+    "主意",
+    "谋略",
+    "诡计",
+    "奇计"
+   ],
+   "enacting": [
+    "施行",
+    "付诸实施",
+    "布置落实"
+   ],
+   "trek": [
+    "跋涉",
+    "远行",
+    "旅行",
+    "行进",
+    "徒步",
+    "游荡"
+   ],
+   "gather": [
+    "聚集",
+    "汇聚",
+    "共居",
+    "簇群",
+    "集结",
+    "同住"
+   ],
+   "gathering": [
+    "采集",
+    "议会",
+    "会众",
+    "聚落",
+    "臂环",
+    "信众",
+    "社团"
+   ],
+   "love": [
+    "爱慕",
+    "敬重",
+    "荣耀",
+    "崇拜",
+    "珍爱",
+    "尊崇",
+    "推崇",
+    "珍视",
+    "致敬"
+   ],
+   "abhor": [
+    "憎恶",
+    "痛恨",
+    "谴责",
+    "蔑视",
+    "玷辱"
+   ],
+   "congregated": [
+    "聚会",
+    "得知",
+    "成群聚集",
+    "麇集"
+   ],
+   "forever": [
+    "永远",
+    "万世",
+    "自今而至永远",
+    "永世"
+   ],
+   "hark": [
+    "听啊",
+    "留意",
+    "注意",
+    "留心听着",
+    "=^:adventurer.!random="
+   ],
+   "kind": [
+    "同类",
+    "慷慨",
+    "仁厚",
+    "悲悯",
+    "温和",
+    "有礼",
+    "宽厚",
+    "亲切"
+   ],
+   "folks": [
+    "乡亲",
+    "族人",
+    "众生"
+   ],
+   "protect": [
+    "保护",
+    "捍卫",
+    "庇护",
+    "守护",
+    "保存"
+   ],
+   "society": [
+    "社团",
+    "文化",
+    "公民生活",
+    "社会秩序"
+   ],
+   "bequeathed": [
+    "遗赠",
+    "赐予",
+    "赠与",
+    "授予",
+    "托付",
+    "恩赐"
+   ],
+   "laws": [
+    "律法",
+    "教义",
+    "法规",
+    "敕令",
+    "条例",
+    "训诫"
+   ],
+   "protection": [
+    "庇护",
+    "扶持",
+    "鼓励",
+    "促进",
+    "赞助"
+   ],
+   "prohibited": [
+    "查禁",
+    "禁止",
+    "取缔"
+   ],
+   "honored": [
+    "受人尊崇",
+    "著名",
+    "称颂",
+    "赞美",
+    "受圣",
+    "颂扬",
+    "敬奉",
+    "推许"
+   ],
+   "mug": [
+    "杯",
+    "啤酒杯",
+    "皮肤",
+    "皮囊",
+    "长嘴壶",
+    "陶罐",
+    "水壶",
+    "玻璃",
+    "酒盅"
+   ],
+   "festival": [
+    "节庆",
+    "盛宴",
+    "狂欢节",
+    "大庆",
+    "假日"
+   ],
+   "merrily": [
+    "欢快地",
+    "兴高采烈地",
+    "愉快地",
+    "欣然地"
+   ],
+   "artful": [
+    "巧妙",
+    "精湛",
+    "狡黠",
+    "精明",
+    "富有创意",
+    "戏剧性",
+    "精美",
+    "优雅",
+    "富有诗意",
+    "雅致"
+   ],
+   "bludgeoned": [
+    "击碎",
+    "砸烂",
+    "棒杀",
+    "殴击",
+    "痛殴",
+    "殴打",
+    "砸破头颅"
+   ],
+   "stabbed": [
+    "刺伤",
+    "捅伤",
+    "刺穿",
+    "钉穿"
+   ],
+   "honoring": [
+    "尊崇",
+    "捍卫",
+    "爱戴"
+   ],
+   "sacked": [
+    "洗劫",
+    "毁灭",
+    "劫掠",
+    "蹂躏",
+    "焚毁"
+   ],
+   "importance": [
+    "要义",
+    "价值",
+    "意义",
+    "=^:sanctity.!random=",
+    "=^:sanctity.!random="
+   ],
+   "abandoned": [
+    "废弃",
+    "抛弃",
+    "腾空",
+    "废弃"
+   ],
+   "embraced": [
+    "拥护",
+    "接受",
+    "采纳",
+    "遗忘"
+   ],
+   "settle": [
+    "定居",
+    "造访",
+    "栖居",
+    "寓居",
+    "扎根",
+    "安家"
+   ],
+   "ship": [
+    "船",
+    "飞舟",
+    "方舟",
+    "货船",
+    "驳船",
+    "飞艇"
+   ],
+   "wagon": [
+    "马车",
+    "篷车",
+    "轻便马车",
+    "战车"
+   ],
+   "coalition": [
+    "联盟",
+    "同盟",
+    "邦联",
+    "盟会",
+    "密谋团",
+    "联邦",
+    "结合",
+    "一行人"
+   ],
+   "fate": [
+    "命数",
+    "命运"
+   ],
+   "foes": [
+    "仇敌",
+    "敌人"
+   ],
+   "thankful": [
+    "感恩",
+    "感激",
+    "不胜感激"
+   ],
+   "reputable": [
+    "声名卓著",
+    "显赫",
+    "受敬重的",
+    "著名",
+    "显赫",
+    "远近闻名",
+    "卓然"
+   ],
+   "savior": [
+    "救主",
+    "解放者",
+    "卫士"
+   ],
+   "celebration": [
+    "庆典",
+    "欢愉",
+    "大庆",
+    "欢腾",
+    "欢庆"
+   ],
+   "inauguration": [
+    "就职礼",
+    "开幕",
+    "奠基"
+   ],
+   "vanquished": [
+    "击败",
+    "征服",
+    "击溃",
+    "制伏",
+    "战胜"
+   ],
+   "might": [
+    "威力",
+    "技艺",
+    "勇武"
+   ],
+   "warning": [
+    "警示",
+    "教训",
+    "告诫",
+    "样品",
+    "预兆"
+   ],
+   "challenge": [
+    "挑战",
+    "挑衅",
+    "触怒"
+   ],
+   "observe": [
+    "察看",
+    "冤大头",
+    "注视",
+    "瞻仰",
+    "阅读"
+   ],
+   "wonder": [
+    "惊奇",
+    "惊诧",
+    "敬畏",
+    "崇敬"
+   ],
+   "marvel": [
+    "惊叹",
+    "凝视",
+    "震慑",
+    "肃立敬畏"
+   ],
+   "defied": [
+    "违抗",
+    "蔑视",
+    "嘲弄",
+    "唾弃",
+    "挫败",
+    "鄙弃",
+    "避开"
+   ],
+   "emerged": [
+    "现身",
+    "显现",
+    "涌现"
+   ],
+   "celebrate": [
+    "庆祝",
+    "铭记",
+    "察看",
+    "颂扬",
+    "欢庆"
+   ],
+   "whileExploringRegion": [
+    "=region=深处",
+    "游荡于=region=一带时",
+    "=region=荒野深处"
+   ]
+  },
+  "instancesOf=": {
+   "approach": [
+    "逼近",
+    "迎击",
+    "发难",
+    "匹敌",
+    "扑向",
+    "围困",
+    "威胁",
+    "拦住搭话"
+   ],
+   "build": [
+    "建造",
+    "迁移",
+    "显现"
+   ],
+   "observeInWonder": [
+    "怀着=spice:commonPhrases.wonder.!random=，=spice:commonPhrases.observe.!random=",
+    "=spice:commonPhrases.marvel.!random="
+   ],
+   "explosives": [
+    "炸药",
+    "内爆药",
+    "军火",
+    "中子通量"
+   ],
+   "justice": [
+    "公正",
+    "爱慕",
+    "真理",
+    "平等",
+    "均衡",
+    "信仰",
+    "恩典",
+    "美德",
+    "荣耀",
+    "仁善"
+   ],
+   "criedOut": [
+    "呼喊",
+    "咆哮",
+    "高喊"
+   ],
+   "dearOnes": [
+    "朋友",
+    "恋人",
+    "子孙",
+    "同伴",
+    "战友"
+   ],
+   "rejoicedAt": [
+    "著名",
+    "欢庆",
+    "狂欢",
+    "著名"
+   ],
+   "unseated": [
+    "逐出王座",
+    "驱逐",
+    "废黜",
+    "推翻",
+    "=^:murderedVerb.!random="
+   ],
+   "ofCourse": [
+    "当然",
+    "自然",
+    "无疑",
+    "显然",
+    "诚然"
+   ],
+   "careFor": [
+    "照料",
+    "看护",
+    "清洗",
+    "维护",
+    "照管",
+    "保护",
+    "清洁",
+    "擦洗",
+    "修缮",
+    "修理",
+    "复兴"
+   ],
+   "reemerged": [
+    "重现",
+    "重新现身",
+    "再度涌现",
+    "复又出现"
+   ],
+   "commonFolk": [
+    "平民",
+    "百姓",
+    "庶民",
+    "乌合之众",
+    "芸芸之群",
+    "大众"
+   ],
+   "dwellOrWork": [
+    "栖居",
+    "居住",
+    "劳作",
+    "劳作",
+    "劳役"
+   ],
+   "seceded": [
+    "脱离",
+    "分离",
+    "自行隔绝",
+    "与世隔绝",
+    "幽闭自守",
+    "离去"
+   ],
+   "specialPlace": [
+    "地窖",
+    "墓穴",
+    "神殿",
+    "神龛",
+    "圣所",
+    "反应堆",
+    "核心"
+   ],
+   "brokeFaithWith": [
+    "背弃",
+    "背叛",
+    "谋逆",
+    "背信于",
+    "欺瞒"
+   ],
+   "yeGodless": [
+    "汝等无神者",
+    "汝等异教徒",
+    "汝等怀疑者",
+    "汝等多疑者"
+   ],
+   "venerated": [
+    "被高举于座椅之上",
+    "被欢呼着抛向空中",
+    "被奉为偶像",
+    "被盛宴款待"
+   ],
+   "disparaged": [
+    "被推下悬崖",
+    "在宴席上蒙受羞辱",
+    "被送入轨道",
+    "被困于=spice:elements.!random.nounsPlural.!random=之中"
+   ],
+   "stamped_VAR": [
+    "=spice:commonPhrases.stamped.!random=着微小的=var=图像",
+    "=spice:commonPhrases.stamped.!random=着奇幻的=var=图绘",
+    "=spice:commonPhrases.stamped.!random=着美丽的=var="
+   ],
+   "backToLife": [
+    "=spice.entity:name=曾伪造=spice.entity:possessivePronoun=的死亡，=^:fakedDeath.!random=",
+    "=spice:commonPhrases.sultanClone.!random=才是真正死去的那一个",
+    "=spice.entity:name|'s=性命曾被秘密挽救，=^:lifeSaveReasons.!random="
+   ],
+   "fakedDeath": [
+    "强迫一名农夫冒充=spice.entity:objectPronoun=",
+    "与=spice.entity:possessivePronoun=的孪生兄弟互换身份",
+    "巧妙运用栩栩如生的全息影像"
+   ],
+   "lifeSaveReasons": [
+    "借助义体手术",
+    "借助星体投射",
+    "凭与高熵众生订立的契约"
+   ],
+   "inYear": [
+    "里",
+    "早在",
+    "晚至",
+    "约在"
+   ],
+   "afterTumultuousYears": [
+    "历经数载动荡之后",
+    "在一场=^:illness.!random=之后",
+    "在与一众=spice:professions.!random.plural=结仇之后",
+    "在=spice:elements.!random.murdermethods.!random=杀害一位深得人心的对手之后"
+   ],
+   "illness": [
+    "抑郁",
+    "痛风",
+    "痨病",
+    "脑锈",
+    "铁胫症",
+    "坏血病",
+    "脑螨",
+    "麻风",
+    "存在之绝望"
+   ],
+   "abdicated": [
+    "退位",
+    "死因成谜",
+    "下落不明",
+    "遇刺身亡"
+   ],
+   "abdicate": [
+    "退位",
+    "命摄政者代=spice.entity:possessivePronoun=执政",
+    "休一个长假",
+    "引退"
+   ],
+   "ascensionReasons_VAR": [
+    "出于=var==var2=",
+    "=spice.entity:name=要求如此",
+    "出于=var==var2="
+   ],
+   "sultanKnownFor": [
+    "=spice:elements.entity@elements[random].quality.!random=",
+    "素有=spice:elements.entity@elements[random].practices.!random=之名"
+   ],
+   "countered": [
+    "逐一=spice:elements.entity@elements[random].murdermethods.!random=杀害",
+    "终日=spice:elements.entity@elements[random].practices.!random=，而后继续=spice.entity:possessivePronoun=的统治，仿佛什么也没发生",
+    "安抚=spice.entity:possessivePronoun=的谋臣，=spice:commonPhrases.calmly.!random=解释=spice.entity:subjectPronoun=为何不同意"
+   ],
+   "forestPlaces": [
+    "幽谷",
+    "林间空地",
+    "谷地",
+    "山谷",
+    "山谷",
+    "峡谷",
+    "草甸",
+    "林丛",
+    "林丛",
+    "木材",
+    "泉眼",
+    "林野",
+    "根"
+   ],
+   "farmyPrefixes": [
+    "盐",
+    "远",
+    "下",
+    "窄"
+   ],
+   "starapplefarmyPrefixes": [
+    "果",
+    "苹",
+    "赤红",
+    "甜",
+    "=^:farmyPrefixes.!random=",
+    "=^:farmyPrefixes.!random=",
+    "=^:farmyPrefixes.!random="
+   ],
+   "pigfarmyPrefixes": [
+    "泥",
+    "猪",
+    "吻",
+    "=^:farmyPrefixes.!random=",
+    "=^:farmyPrefixes.!random=",
+    "=^:farmyPrefixes.!random="
+   ],
+   "twoToTen": [
+    "二",
+    "三",
+    "四",
+    "五",
+    "六",
+    "七",
+    "八",
+    "九",
+    "十"
+   ],
+   "tinyBodyPart": [
+    "毛发",
+    "指甲",
+    "手指",
+    "皮肤"
+   ],
+   "openingTime": [
+    "=^:inYear.!random= =year=",
+    "=spice:commonPhrases.oneStarryNight.!random="
+   ],
+   "divineFeeling": [
+    "智慧",
+    "审慎",
+    "明断",
+    "爱慕",
+    "圣洁",
+    "神性"
+   ],
+   "profaneFeeling": [
+    "秽语",
+    "残忍",
+    "渎神",
+    "污秽",
+    "龌龊",
+    "粗鄙"
+   ],
+   "aCurseUpon": [
+    "=spice:commonPhrases.curse.!random=降于",
+    "=spice:commonPhrases.curse.!random=",
+    "=spice:commonPhrases.woe.!random=临到",
+    "=spice:commonPhrases.woe.!random=临到"
+   ],
+   "comeClose": [
+    "来，近前来！",
+    "=spice:commonPhrases.greetingFriend.!random=！",
+    "且生且饮，=spice:commonPhrases.greetingFriend.!random=。",
+    "=spice:commonPhrases.listen.!random=，=spice:commonPhrases.greetingFriend.!random=。",
+    "以=spice:adjectives.!random==spice:nouns.!random=之名，=spice:commonPhrases.greetingFriend.!random=，=spice:commonPhrases.listen.!random=。"
+   ],
+   "unfortunately": [
+    "不幸的是",
+    "令我等倍感=spice:commonPhrases.woe.!random=",
+    "可叹",
+    "愿=^:illness.!random=降临于我等"
+   ],
+   "fate": [
+    "命数",
+    "机缘",
+    "如穆萨蕉剥皮般",
+    "厄运",
+    "=^:fate.!random=之=spice:commonPhrases.ghost.!random="
+   ],
+   "reward": [
+    "酬谢",
+    "付酬于你，以换取",
+    "补偿你，为了"
+   ],
+   "thank": [
+    "感谢",
+    "赐福于",
+    "颂扬",
+    "我感念",
+    "我向其叩拜",
+    "我含笑垂顾",
+    "亲吻"
+   ],
+   "recently": [
+    "近来",
+    "不久之前",
+    "方才不久",
+    "前些日子"
+   ],
+   "desire": [
+    "渴求",
+    "想要",
+    "需要",
+    "觊觎",
+    "须得",
+    "企盼",
+    "急需",
+    "用得着",
+    "非得到不可",
+    "务必弄到"
+   ],
+   "wouldLikeTo": [
+    "想要",
+    "极愿",
+    "需要",
+    "必须"
+   ],
+   "have": [
+    "拥有",
+    "获取",
+    "弄到手",
+    "获得",
+    "求得",
+    "顺手牵来"
+   ],
+   "villageActivityAdj": [
+    "交易",
+    "艺术的",
+    "钱财的",
+    "灵性的",
+    "祷词",
+    "节庆的",
+    "安防的",
+    "音乐的",
+    "营造的",
+    "技术的"
+   ],
+   "haveYouHeardOf": [
+    "你可听说过",
+    "你可知晓",
+    "你可曾结识",
+    "你可曾见过"
+   ],
+   "ifYouWouldDoTheSame": [
+    "倘若你也愿如此",
+    "倘若你也愿这么做",
+    "倘若你愿亲自去做"
+   ],
+   "willYou": [
+    "你可愿",
+    "你肯否",
+    "你意下如何"
+   ],
+   "holdDear": [
+    "珍视",
+    "珍爱",
+    "无比看重"
+   ],
+   "leansIn": [
+    "凑上前来",
+    "走近身旁",
+    "身子前倾",
+    "低声耳语"
+   ],
+   "bless": [
+    "赐福于",
+    "感谢",
+    "尊崇",
+    "感恩",
+    "颂扬",
+    "荣耀"
+   ],
+   "curse": [
+    "诅咒",
+    "愿瘟疫降于",
+    "愿诅咒降于"
+   ],
+   "speakTo": [
+    "对……说话",
+    "与……交谈",
+    "寻获"
+   ],
+   "aboveAllElse": [
+    "高于一切",
+    "无论如何",
+    "只要你恭敬有礼",
+    "依我们的规矩"
+   ],
+   "letItAlwaysBeSo": [
+    "愿永远如此",
+    "愿此事永不改变",
+    "愿如此=spice:commonPhrases.forever.!random="
+   ],
+   "flockedTo": [
+    "蜂拥至",
+    "成群结队聚于",
+    "云集于",
+    "如羊群般涌向"
+   ],
+   "stepDown": [
+    "引退",
+    "退位",
+    "交出权柄"
+   ],
+   "murderedVerb": [
+    "刺死",
+    "捅伤",
+    "枪杀",
+    "毒杀",
+    "推下悬崖",
+    "诱骗其跳入一池=^:deadlyLiquids.!random=",
+    "溺死于一湖=^:deadlyLiquids.!random=",
+    "掷入一池=^:deadlyLiquids.!random=",
+    "生吞活剥",
+    "刺杀",
+    "烹之以充饥",
+    "剁成碎块",
+    "以=^:deadlyLiquids.!random=淋覆"
+   ],
+   "murdered": [
+    "刺死",
+    "捅伤",
+    "枪杀",
+    "毒杀",
+    "推下悬崖",
+    "诱骗其跳入一池=^:deadlyLiquids.!random=",
+    "溺死于一湖=liquid=",
+    "被掷入一池=^:deadlyLiquids.!random=",
+    "死于离奇的变故",
+    "被活活吞食",
+    "因出言不逊而遭刺杀",
+    "烹之以充饥",
+    "剁成碎块",
+    "以=^:deadlyLiquids.!random=淋覆"
+   ],
+   "groupMurdered": [
+    "为……所=^:groupMurdered_By.!random=",
+    "为……所=^:groupMurdered_By.!random=",
+    "=^:groupMurdered_NotBy.!random="
+   ],
+   "groupMurdered_By": [
+    "献祭",
+    "焚于火刑柱",
+    "活埋",
+    "被五马分尸",
+    "制成干尸",
+    "斩首"
+   ],
+   "groupMurdered_NotBy": [
+    "因为……做了一餐馊饭而被杀",
+    "因偷窃……之物，遭=^:murderedSimple.!random=以报复"
+   ],
+   "deadlyLiquids": [
+    "熔岩",
+    "酸液",
+    "中子通量",
+    "熔岩",
+    "酸液",
+    "黑色淤浆",
+    "绿色黏液",
+    "褐色污泥",
+    "沥青",
+    "熔岩",
+    "酸液",
+    "熔蜡"
+   ],
+   "murderedSimple": [
+    "=spice:commonPhrases.bludgeoned.!random=",
+    "=spice:commonPhrases.stabbed.!random=",
+    "射杀"
+   ],
+   "overTime": [
+    "久而久之",
+    "经年累月",
+    "岁月流逝",
+    "终究",
+    "假以时日"
+   ],
+   "lostInterestIn": [
+    "失去了对……的兴趣",
+    "忘却了……的=spice:commonPhrases.importance.!random=",
+    "弃绝",
+    "摒弃"
+   ],
+   "lostFaithIn": [
+    "失去了对……的信念",
+    "开始=spice:commonPhrases.abhor.!random="
+   ],
+   "forAllTime": [
+    "万世",
+    "直至永恒",
+    "再度",
+    "永不再"
+   ],
+   "furnitureStuckPreposition": [
+    "里",
+    "下方",
+    "里面",
+    "后方"
+   ],
+   "bodyPartMaimed": [
+    "残损",
+    "肢解",
+    "压碎",
+    "压扁",
+    "切断",
+    "刺穿"
+   ],
+   "sandOrSalt": [
+    "沙",
+    "盐",
+    "草皮",
+    "壤土",
+    "大地",
+    "泥土"
+   ],
+   "chantedOrSang": [
+    "吟诵",
+    "歌唱",
+    "高喊",
+    "低吟",
+    "呦呦而唱",
+    "高吼"
+   ],
+   "marriageBlessing": [
+    "=spice:commonPhrases.blessed.!random=哉，=spice:commonPhrases.betrothed.!random=",
+    "为=spice:commonPhrases.lovers.!random=，=spice:commonPhrases.voice.!random==spice:commonPhrases.prayer.!random="
+   ],
+   "warrior": [
+    "武士",
+    "角斗士",
+    "勇士",
+    "佣兵",
+    "决斗者",
+    "剑客",
+    "斧手",
+    "匕首客",
+    "枪手",
+    "钉头锤手",
+    "=spice:personNouns.!random="
+   ],
+   "tutor": [
+    "导师",
+    "诡辩师",
+    "导师",
+    "讲师",
+    "学者",
+    "占卜师",
+    "科学家",
+    "哲人",
+    "贤者",
+    "破像者",
+    "史官",
+    "抄写员"
+   ],
+   "priest": [
+    "祭司",
+    "异端者",
+    "大祭司",
+    "僧侣",
+    "神职人员",
+    "异教徒",
+    "隐修士",
+    "女祭司",
+    "叛教者"
+   ],
+   "kindred": [
+    "同族",
+    "手足",
+    "堂亲",
+    "族中男子",
+    "族中女子",
+    "亲族",
+    "同胞",
+    "兄弟",
+    "姐妹"
+   ],
+   "warriorAdj": [
+    "高尚",
+    "正直",
+    "可怖",
+    "好战",
+    "骑士风",
+    "无情",
+    "凶悍",
+    "粗蛮"
+   ],
+   "tutorAdj": [
+    "睿智",
+    "精明",
+    "博学",
+    "博学",
+    "争议",
+    "深思",
+    "深邃",
+    "缜密"
+   ],
+   "priestAdj": [
+    "虔诚",
+    "笃信",
+    "异端",
+    "敬神",
+    "守德",
+    "圣洁",
+    "分裂",
+    "异见"
+   ],
+   "royalAdj": [
+    "神明般",
+    "帝王般",
+    "至尊",
+    "神圣",
+    "神明般",
+    "王者",
+    "女王般",
+    "采纳"
+   ],
+   "warriorIdeal": [
+    "英勇",
+    "凶猛",
+    "荣耀",
+    "胆气",
+    "武勇",
+    "暴力",
+    "守护",
+    "庇护",
+    "流血",
+    "战争",
+    "战斗",
+    "威力"
+   ],
+   "priestIdeal": [
+    "虔敬",
+    "神",
+    "神性",
+    "美德",
+    "虔诚",
+    "吉奥斯",
+    "信仰",
+    "神圣"
+   ],
+   "warriorFoe": [
+    "死亡",
+    "垂死",
+    "虚无",
+    "必死之命",
+    "厄运",
+    "战争",
+    "仇敌",
+    "敌手",
+    "敌人"
+   ],
+   "trembleBefore": [
+    "畏惧",
+    "战栗于",
+    "颤抖于……面前",
+    "惧怕",
+    "躲避",
+    "敬畏"
+   ],
+   "tar": [
+    "沥青",
+    "沥青",
+    "黏糊",
+    "树脂",
+    "胶",
+    "沥青",
+    "沥青"
+   ]
+  },
+  "proverbs=": [
+   "=spice:instancesOf.bless.!random= =sacredThing=",
+   "=spice:instancesOf.curse.!random= =profaneThing=",
+   "唯有=spice:personNouns.!random=方能知晓=sacredThing=",
+   "于=spice:placeNouns.!random=之中，藏着=spice:instancesOf.divineFeeling.!random=",
+   "于=spice:placeNouns.!random=之中，藏着=spice:instancesOf.profaneFeeling.!random=",
+   "=valuedOre=在=sacredThing=面前，一文不值",
+   "播种于=arableLand=，收获=sacredThing=",
+   "=spice:adjectives.!random==spice:personNouns.!random=深知=sacredThing=之=spice:commonPhrases.sanctity.!random=",
+   "=spice:adjectives.!random==spice:personNouns.!random=深知=profaneThing=之=spice:commonPhrases.profanity.!random=",
+   "=activity=通向=profaneThing=",
+   "=activity=，非=spice:instancesOf.bless.!random==sacredThing=之道",
+   "待陌生人以=villageActivity=，却要教他们知晓=sacredThing=之=spice:commonPhrases.sanctity.!random=",
+   "待陌生人以=villageActivity=，却要教他们知晓=profaneThing=之=spice:commonPhrases.profanity.!random=",
+   "莫要=spice:commonPhrases.trek.!random=至=spice:placeNouns.!random=",
+   "今日之=spice:nouns.!random=，胜过明日之=spice:nouns.!random=",
+   "知晓=sacredThing=，便知晓=spice:nouns.!random=",
+   "=sacredThing=不可与=sacredThing=相比",
+   "如=spice:nouns.!random=之于=spice:personNouns.!random=，=sacredThing=之于我们",
+   "=sacredThing=栖于=spice:commonPhrases.hearth.!random=",
+   "莫要求=spice:personNouns.!random=传授=spice:commonPhrases.sanctity.!random=",
+   "看好你的=spice:nouns.!random=",
+   "宁为=spice:adjectives.!random=，不为=spice:adjectives.!random=",
+   "于每一=spice:nouns.!random=中寻得=spice:commonPhrases.sanctity.!random="
+  ],
+  "proverbsCoda=": [
+   "=spice:instancesOf.bless.!random= =sacredThing=",
+   "=spice:instancesOf.curse.!random= =profaneThing=",
+   "唯有=spice:personNouns.!random=方能知晓=sacredThing=",
+   "=valuedOre=在=sacredThing=面前，一文不值",
+   "播种于=arableLand=，收获=sacredThing=",
+   "=spice:adjectives.!random==spice:personNouns.!random=深知=sacredThing=之=spice:commonPhrases.sanctity.!random=",
+   "=spice:adjectives.!random==spice:personNouns.!random=深知=profaneThing=之=spice:commonPhrases.profanity.!random=",
+   "=activity=通向=profaneThing=",
+   "=activity=，非=spice:instancesOf.bless.!random==sacredThing=之道",
+   "待陌生人以=villageActivity=，却要教他们知晓=sacredThing=之=spice:commonPhrases.sanctity.!random=",
+   "待陌生人以=villageActivity=，却要教他们知晓=profaneThing=之=spice:commonPhrases.profanity.!random=",
+   "知晓=sacredThing=，便知晓=spice:nouns.!random=",
+   "=sacredThing=不可与=sacredThing=相比",
+   "如=spice:nouns.!random=之于=spice:personNouns.!random=，=sacredThing=之于我们",
+   "=sacredThing=栖于=spice:commonPhrases.hearth.!random="
+  ],
+  "randomGerund=": [
+   "营建",
+   "兴建",
+   "礼拜",
+   "毁灭",
+   "敬奉",
+   "探知",
+   "修复",
+   "拆解"
+  ],
+  "lovesick=": [
+   "=text|removeLastPeriod=，可那又有何意义？",
+   "=text=可是=lover.refname:withDefiniteArticle:long:withTitles=并不爱你，那又有何要紧？",
+   "当你的心渐渐枯萎，=text|initLower=",
+   "=text=你这么做，是为了=lover.refname:withDefiniteArticle:long:withTitles=。你所做的一切，都是为了=lover.refname:withDefiniteArticle=。",
+   "=text.stutterize:{{emote|*sob*}}=",
+   "=text|removeLastPeriod=，而你自始至终都在哭泣。"
+  ],
+  "textFilters=": {
+   "angry": [
+    "不！",
+    "啊啊啊！"
+   ],
+   "corvid": [
+    "{{emote|*嘎*}}",
+    "{{emote|*嘎——*}}",
+    "{{emote|*嘎——*}}",
+    "{{emote|*嘎*}}",
+    "{{emote|*嘎————————*}}"
+   ],
+   "fish": [
+    "{{emote|*咕噜*}}",
+    "{{emote|*咕噜咕噜*}}",
+    "{{emote|*咕噜咕噜*}}",
+    "{{emote|*咕噜*}}",
+    "{{emote|*咕噜*}}",
+    "{{emote|*咕噜*}}"
+   ],
+   "frog": [
+    "{{emote|*呱*}}",
+    "{{emote|*呱呱*}}",
+    "{{emote|*呱呱*}}",
+    "{{emote|*呱呱呱呱呱*}}",
+    "{{emote|*呱呱呱呱呱呱呱呱*}}",
+    "{{emote|*呱！*}}",
+    "{{emote|*咕*}}",
+    "{{emote|*咕*}}",
+    "{{emote|*咕*}}",
+    "{{emote|*咕咕咕咕咕*}}",
+    "{{emote|*咕咕咕咕咕咕咕咕咕*}}",
+    "{{emote|*噗*}}",
+    "{{emote|*呼噜*}}"
+   ],
+   "lallated": [
+    "=noise= =text= =noise=",
+    "=noise= =noise= =text=",
+    "=text=",
+    "=text=",
+    "=text= =noise= =noise="
+   ],
+   "waterbird": [
+    "{{emote|*嘎*}}",
+    "{{emote|*嘎*}}",
+    "{{emote|*嘎*}}",
+    "{{emote|*嘎——*}}",
+    "{{emote|*嘎————*}}",
+    "{{emote|*嘎——————————*}}"
+   ]
+  },
+  "myth=": {
+   "mythicDays": [
+    "秋季第一日",
+    "春季第一日",
+    "夏季第一日",
+    "冬季第一日",
+    "夏至",
+    "冬至"
+   ],
+   "mythicPrepPlaces": [
+    "在一座神圣的石冢之上",
+    "在古老河流的岸边",
+    "在一头母狼的口中",
+    "在一片神圣的树丛之中",
+    "在一座磨光铬制的浮台之上"
+   ]
+  },
+  "items=": {
+   "suffixes": [
+    "之",
+    "伊卡",
+    "阿库斯",
+    "乌库斯",
+    "奥库斯",
+    "埃库斯",
+    "阿卡",
+    "埃卡",
+    "地",
+    "乌卡",
+    "依卡",
+    "依库斯"
+   ],
+   "types": [
+    "=^:weapons.!random=",
+    "=^:armor.!random=",
+    "=^:misc.!random="
+   ],
+   "weapons": [
+    "剑",
+    "斧",
+    "锤",
+    "匕首",
+    "步枪",
+    "手枪"
+   ],
+   "armor": [
+    "头盔",
+    "背心",
+    "胸甲",
+    "靴子",
+    "面具",
+    "手套"
+   ],
+   "misc": [
+    "手镯",
+    "浮空宝珠"
+   ],
+   "blessing": [
+    "祝福",
+    "赠礼",
+    "欢愉",
+    "胜利",
+    "狂喜",
+    "护符",
+    "极乐",
+    "骄傲",
+    "惊奇",
+    "忘我",
+    "宝石",
+    "奖赏",
+    "欢笑",
+    "慰藉",
+    "凯旋",
+    "美",
+    "恩典",
+    "魅惑",
+    "典范",
+    "梦境",
+    "诱饵",
+    "许诺",
+    "恩惠",
+    "乳儿",
+    "微物",
+    "幼苗",
+    "顽童",
+    "男孩",
+    "女孩",
+    "挚友",
+    "同伙",
+    "堂亲",
+    "兄弟",
+    "姐妹",
+    "母亲",
+    "父亲",
+    "同志",
+    "爱侣",
+    "旧情",
+    "求婚者",
+    "仇敌",
+    "对手",
+    "星形",
+    "日",
+    "月",
+    "儿子",
+    "女儿",
+    "亲爱之人",
+    "心上人",
+    "抚摸",
+    "花"
+   ]
+  },
+  "numbers=": [
+   "一",
+   "二",
+   "三",
+   "四",
+   "五",
+   "六",
+   "七",
+   "八",
+   "九",
+   "十",
+   "二十",
+   "十二"
+  ],
+  "digits=": [
+   "1",
+   "2",
+   "3",
+   "4",
+   "5",
+   "6",
+   "7",
+   "8",
+   "9",
+   "0",
+   "A",
+   "B",
+   "C",
+   "D",
+   "E",
+   "F"
+  ],
+  "bigNumbers=": [
+   "=^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random=",
+   "=^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random=",
+   "=^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random=",
+   "=^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random=",
+   "=^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random==^:digits.!random="
+  ],
+  "egregorePrefix=": [
+   "=spice:3Dshapes.!random=",
+   "=spice:2Dshapes.!random=",
+   "=spice:geometricPatterns.!random=",
+   "=spice:3Dshapes.!random=",
+   "=spice:2Dshapes.!random=",
+   "=spice:geometricPatterns.!random=",
+   "=spice:colors.!random=",
+   "=spice:history.gospels.EarlySultanate.adjective.!random=",
+   "=spice:history.gospels.LateSultanate.adjective.!random="
+  ],
+  "extradimensional=": {
+   "cultSymbols": [
+    "244",
+    "225",
+    "227",
+    "228",
+    "229",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "252",
+    "11",
+    "12",
+    "20",
+    "157",
+    "158",
+    "168"
+   ],
+   "cultForms": [
+    "=cultSymbol=之=spice:commonPhrases.cult.!random="
+   ],
+   "dimensionNames": [
+    "=spice:colors.!random=之=^:realm.!random=",
+    "=spice:metals.!random=之=^:realm.!random=",
+    "=spice:colors.!random=之=^:void.!random=",
+    "=spice:metals.!random=之=^:void.!random=",
+    "=dimensionSymbol=之=^:realm.!random=",
+    "=dimensionSymbol=之=^:void.!random=",
+    "=^:vacuous.!random= =spice:geometricPatterns.!random=",
+    "=^:immense.!random= =spice:geometricPatterns.!random=",
+    "=^:vacuous.!random= =spice:2Dshapes.!random=",
+    "=^:vacuous.!random= =spice:3Dshapes.!random=",
+    "=^:immense.!random= =spice:2Dshapes.!random=",
+    "=^:immense.!random= =spice:3Dshapes.!random=",
+    "=^:vacuous.!random= =spice:geometricPatterns.!random=",
+    "=spice:bigNumbers.!random=",
+    "=spice:bigNumbers.!random=",
+    "=spice:bigNumbers.!random="
+   ],
+   "realm": [
+    "境",
+    "球体",
+    "地带",
+    "疆域",
+    "统辖之地",
+    "轨道",
+    "界面",
+    "广袤",
+    "单元",
+    "数量",
+    "半径",
+    "格",
+    "度",
+    "层"
+   ],
+   "void": [
+    "虚空",
+    "幽冥",
+    "真空",
+    "虚无",
+    "空无",
+    "深渊",
+    "裂谷",
+    "罅隙",
+    "鸿沟",
+    "缺口",
+    "空隙",
+    "母胎",
+    "乌有",
+    "裂隙"
+   ],
+   "vacuous": [
+    "空洞",
+    "空缺",
+    "空洞",
+    "不毛之地",
+    "苍白",
+    "纤尘不染",
+    "空白",
+    "空寂",
+    "平庸",
+    "阴郁",
+    "死寂",
+    "平淡",
+    "惰性",
+    "荒弃"
+   ],
+   "immense": [
+    "巨硕",
+    "浩瀚",
+    "永恒",
+    "无垠",
+    "无垠"
+   ],
+   "Beguiling": [
+    "迷人之=cult=",
+    "=cult=与爱"
+   ],
+   "Burgeoning": [
+    "青翠之=cult=",
+    "=cult=，草木之相"
+   ],
+   "Clairvoyance": [
+    "全视之=cult=",
+    "=cult=与眼"
+   ],
+   "Confusion": [
+    "熵乱之=cult=",
+    "=cult=与熵"
+   ],
+   "Cryokinesis": [
+    "凛寒之=cult=",
+    "=cult=，寒冬之相"
+   ],
+   "Domination": [
+    "暴虐之=cult="
+   ],
+   "Disintegration": [
+    "=cult=，=^:void.!random=之相"
+   ],
+   "Ego Projection": [
+    "星灵之=cult=",
+    "=cult=与星灵出体"
+   ],
+   "Force Bubble": [
+    "隐匿之=cult=",
+    "迷失之=cult="
+   ],
+   "Force Wall": [
+    "离散之=cult=",
+    "=cult=，分割者"
+   ],
+   "Light Manipulation": [
+    "璀璨之=cult=",
+    "=cult=与光"
+   ],
+   "Mass Mind": [
+    "合一之=cult=",
+    "=cult=，合一之相"
+   ],
+   "Mental Mirror": [
+    "两面之=cult=",
+    "=cult=与平行者"
+   ],
+   "Precognition": [
+    "=cult=与往昔之前",
+    "神谕之=cult="
+   ],
+   "Psychometry": [
+    "=cult=，铬与黄铜",
+    "=cult=，电路迷宫"
+   ],
+   "Pyrokinesis": [
+    "狂热之=cult=",
+    "=cult=，烈火之相"
+   ],
+   "Spacetime Vortex": [
+    "游历之=cult=",
+    "宇宙之=cult=",
+    "=cult=，门"
+   ],
+   "Stunning Force": [
+    "暴烈之=cult=",
+    "=cult=，惯性之相"
+   ],
+   "Sunder Mind": [
+    "灵智之=cult=",
+    "=cult=与心智"
+   ],
+   "Syphon Vim": [
+    "噬血之=cult=",
+    "=cult=，魅魔"
+   ],
+   "Telekinesis": [
+    "=cult=，移物者",
+    "长臂之=cult="
+   ],
+   "Teleportation": [
+    "=cult=，此处与彼处",
+    "纠缠之=cult="
+   ],
+   "Teleport Other": [
+    "无常之=cult=",
+    "异想之=cult="
+   ],
+   "Time Dilation": [
+    "=cult=，此时与彼时",
+    "不朽之=cult="
+   ],
+   "Temporal Fugue": [
+    "=cult=，众多者",
+    "广受欢迎的=cult="
+   ],
+   "_failureredirect": "spice.extradimensional.cultForms"
+  },
+  "seekers=": {
+   "title": [
+    "=spice:colors.!random= =rank=",
+    "=rank=之=spice:colors.!random=",
+    "=spice:metals.!random= =rank=",
+    "=spice:ordinal.!random= =rank=",
+    "=spice:anatomicalLocation.!random= =rank=",
+    "心灵=spice:2Dshapes.!random=中的=rank=",
+    "心灵=spice:3Dshapes.!random=中的=rank=",
+    "=spice:geometricPatterns.!random=之=rank=",
+    "=rank=之裔：=spice:commonPhrases.scion.!random=",
+    "=rank=，=spice:metals.!random=中烙印着=spice:commonPhrases.stamped.!random=",
+    "=rank=之=spice:commonPhrases.ghost.!random=",
+    "=rank=与=spice:commonPhrases.spouse.!random=",
+    "=spice:commonPhrases.bodyOfWater.!random=之=rank=",
+    "=rank=，亦为=spice:instancesOf.illness.!random=的使者",
+    "=spice:instancesOf.forestPlaces.!random=之=rank="
+   ]
+  },
+  "advertisements=": {
+   "merchants": [
+    "来=mapnote.text|initLower|colorSafe=，购得上乘货品。\n\n所在之处：=mapnote.location=。",
+    "=mapnote.text|initLower|colorSafe=，尽是上等货品。\n\n请前往=mapnote.location=。",
+    "快来！\n\n=mapnote.location=。"
+   ]
+  },
+  "tombstones=": {
+   "intro": [
+    "此处长眠",
+    "安息于此",
+    "此处安息",
+    "此处长眠者",
+    "此处安息者",
+    "谨以此铭记",
+    "谨以爱铭记"
+   ],
+   "genericUrnIntro": [
+    "谨以此铭记",
+    "谨以爱铭记",
+    "安然入梦",
+    "此处安葬着遗骸"
+   ],
+   "barathrumiteUrnIntro": [
+    "谨以此铭记",
+    "谨以爱铭记",
+    "安然入梦",
+    "此处安葬着遗骸"
+   ],
+   "ydFreeholderUrnIntro": [
+    "友人之光照耀，此处安息",
+    "与友人同眠",
+    "此礁之下长眠着",
+    "于我等自由领的光中安眠",
+    "=^:genericUrnIntro.!random=",
+    "=^:genericUrnIntro.!random=",
+    "=^:genericUrnIntro.!random=",
+    "=^:genericUrnIntro.!random="
+   ],
+   "eaterUrnIntro": [
+    "在吉奥斯的光中安息于此",
+    "此处受吉奥斯庇护者乃",
+    "谨以此铭记",
+    "安息于吉奥斯之光中",
+    "谨以爱铭记",
+    "安然入梦",
+    "梦入吉奥斯之光"
+   ],
+   "urnIntroByFaction": {
+    "Eater": "=spice:tombstones.eaterUrnIntro.!random=",
+    "YdFreehold": "=spice:tombstones.ydFreeholderUrnIntro.!random=",
+    "Barathrumites": "=spice:tombstones.barathrumiteUrnIntro.!random=",
+    "generic": "=spice:tombstones.genericUrnIntro.!random=",
+    "_failureredirect": "spice.tombstones.urnIntroByFaction.generic"
+   },
+   "cryptIntroSingular": [
+    "此处安息着=maybeFamilyCognomen=",
+    "此处长眠着=maybeFamilyCognomen=",
+    "此中长眠着=maybeFamilyCognomen=",
+    "此中安息着=maybeFamilyCognomen=",
+    "此处受吉奥斯庇护者乃=maybeFamilyCognomen="
+   ],
+   "cryptIntroPlural": [
+    "此处安息者=maybeFamilyCognomen=",
+    "此处长眠者=maybeFamilyCognomen=",
+    "此中长眠者=maybeFamilyCognomen=",
+    "此中安息者=maybeFamilyCognomen=",
+    "此处受吉奥斯庇护者乃=maybeFamilyCognomen="
+   ],
+   "cryptPlaque": {
+    "familyTitleSingular": [
+     "=familyName=",
+     "=familyName=家族的=spice:commonPhrases.familySingular.!random=",
+     "=familyName==spice:commonPhrases.familySingular.!random=",
+     "=familyName=家族",
+     "=familyName=家族"
+    ],
+    "familyTitlePlural": [
+     "=familyName=家族的=spice:commonPhrases.familyPlural.!random=",
+     "=familyName==spice:commonPhrases.familyPlural.!random="
+    ],
+    "tutor": {
+     "cognomenNoun": "=spice:instancesOf.tutor.!random=",
+     "familyCognomen": [
+      "=^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.tutorAdj.!random==^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.tutorAdj.!random==spice:personNouns.!random|pluralize=的",
+      "=spice:adjectives.!random==^:cognomenNoun|pluralize=的"
+     ],
+     "familyWords": [
+      "=spice:commonPhrases.wisdom.!random= =markovSeed:is=",
+      "唯有=spice:instancesOf.tutorAdj.!random=者知晓=markovSeed:what=",
+      "=spice:commonPhrases.wisdom.!random=、=spice:elements.scholarship.nounsPlural.!random=，以及=markovSeed:a=",
+      "疑问：=markovSeed:the="
+     ]
+    },
+    "warrior": {
+     "cognomenNoun": "=spice:instancesOf.warrior.!random=",
+     "familyCognomen": [
+      "=^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.warriorAdj.!random==^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.warriorAdj.!random==spice:personNouns.!random|pluralize=的",
+      "=spice:adjectives.!random==^:cognomenNoun|pluralize=的"
+     ],
+     "familyWords": [
+      "=spice:instancesOf.warriorIdeal.!random= =markovSeed:is=",
+      "=spice:instancesOf.approach.!random= =spice:instancesOf.warriorFoe.!random= =markovSeed:with=",
+      "=spice:instancesOf.trembleBefore.!random= =markovSeed:the=",
+      "=spice:instancesOf.warriorIdeal.!random=、=spice:elements.might.nounsPlural.!random=，以及=markovSeed:a="
+     ]
+    },
+    "priest": {
+     "cognomenNoun": "=spice:instancesOf.priest.!random=",
+     "familyCognomen": [
+      "=^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.priestAdj.!random==^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.priestAdj.!random==spice:personNouns.!random|pluralize=的",
+      "=spice:adjectives.!random==^:cognomenNoun|pluralize=的"
+     ],
+     "familyWords": [
+      "=spice:instancesOf.priestIdeal.!random= =markovSeed:is=",
+      "=spice:instancesOf.bless.!random= =markovSeed:the=",
+      "=spice:commonPhrases.love.!random==spice:nouns.!random=，=markovSeed:for,so,because=",
+      "=spice:commonPhrases.voice.!random==spice:commonPhrases.prayer.!random==markovSeed:for="
+     ]
+    },
+    "royal": {
+     "cognomenNoun": "=spice:instancesOf.kindred.!random=",
+     "familyCognomen": [
+      "=^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.royalAdj.!random==^:cognomenNoun|pluralize=的",
+      "=spice:instancesOf.royalAdj.!random==spice:personNouns.!random|pluralize=的",
+      "=spice:adjectives.!random==^:cognomenNoun|pluralize=的"
+     ],
+     "familyWords": [
+      "我等的=spice:nouns.!random==markovSeed:is=",
+      "我等=markovSeed:are,do,see,feel,know,have,say,go,take=",
+      "=spice:commonPhrases.hark.!random=! =shortMarkov="
+     ]
+    }
+   },
+   "aCreature": [
+    "=aCreatureName=",
+    "=aCreatureName=",
+    "=aLegendaryCreatureName="
+   ],
+   "specialCausesDeath": [
+    "死于自然原因",
+    "寿终正寝",
+    "死于=spice:adjectives.!random=之因",
+    "死于=spice:adjectives.!random=之因"
+   ],
+   "furnitureDeath": [
+    "被=furnitureName-an=压死",
+    "困死于=furnitureName-an=",
+    "=their==bodyPartName=卡在=spice:instancesOf.furnitureStuckPreposition.!random==furnitureName-an=上而亡"
+   ],
+   "martyrDeath": [
+    "=spice:instancesOf.murdered.!random=，因=spice:commonPhrases.honoring.!random==sacredThing=而遭杀害",
+    "=spice:instancesOf.murdered.!random=，为=sacredThing=而遭杀害",
+    "=spice:instancesOf.groupMurdered_By.!random=，因=spice:commonPhrases.honoring.!random==sacredThing=而遭群杀",
+    "=spice:instancesOf.groupMurdered_By.!random=，为=sacredThing=而遭群杀"
+   ],
+   "generallyMurdered": [
+    "被=dude.a.name:withTitles|strip=刺死",
+    "被=dude.a.name:withTitles|strip=捅死",
+    "被=dude.a.name:withTitles|strip=枪杀",
+    "被=dude.a.name:withTitles|strip=毒杀",
+    "被=dude.a.name:withTitles|strip=推下悬崖",
+    "被=dude.a.name:withTitles|strip=骗去跳入熔岩池而死",
+    "被=dude.a.name:withTitles|strip=溺死于湖中",
+    "被=dude.a.name:withTitles|strip=扔进酸液池"
+   ],
+   "itemDeath1": [
+    "为争夺=item.a.name|strip=而决斗身亡",
+    "[x3]为争夺=item.a.name:asIfKnown|strip=而决斗身亡",
+    "失去=item.a.name|strip=后悲恸而死",
+    "[x3]失去=item.a.name:asIfKnown|strip=后悲恸而死"
+   ],
+   "itemDeath2": [
+    "被坠落的=item.name:includeAdjunctNoun|strip=砸死",
+    "[x3]被坠落的=item.name:asIfKnown:includeAdjunctNoun|strip=砸死",
+    "为寻回遗失的=item.name:includeAdjunctNoun|strip=而坠崖身亡",
+    "[x3]为寻回遗失的=item.name:asIfKnown:includeAdjunctNoun|strip=而坠崖身亡"
+   ],
+   "factionDeath": [
+    "在离奇情形下被=faction.the.name=谋杀",
+    "被=faction.the.name=生吞活吃",
+    "被=faction.the.name=献祭",
+    "因诋毁=faction.the.name=而遭刺杀",
+    "为=faction.the.name=烹制腐败膳食后被杀",
+    "被=faction.the.name=绑上火刑柱焚死",
+    "被=faction.the.name=推下悬崖",
+    "被=faction.the.name=活埋",
+    "因偷窃=faction.the.name=之物而遭碎颅",
+    "因偷窃=faction.the.name=之物而遭捅杀",
+    "因偷窃=faction.the.name=之物而遭枪杀",
+    "被=faction.the.name=烹食以充饥",
+    "被=faction.the.name=制成木乃伊",
+    "被=faction.the.name=剁成碎块",
+    "被=faction.the.name=浇覆熔蜡",
+    "被=faction.the.name=车裂"
+   ],
+   "foodDeath": [
+    "被=food.a.name|strip=噎死",
+    "因=food.shortname|strip=吃得过多而亡",
+    "只吃=food.shortname|strip=，终因营养不良而死"
+   ],
+   "tonicDeath1": [
+    "吞下=tonic.a.name|strip=",
+    "[x3]吞下=tonic.a.name:asIfKnown|strip=",
+    "因=tonic.a.name|strip=服用过量而死",
+    "[x3]因=tonic.a.name:asIfKnown|strip=服用过量而死",
+    "误服=tonic.a.name|strip=",
+    "[x3]误服=tonic.a.name:asIfKnown|strip="
+   ],
+   "tonicDeath2": [
+    "多注射了一剂=tonic.name|strip=",
+    "[x3]多注射了一剂=tonic.name:asIfKnown|strip="
+   ],
+   "gasDeath": [
+    "被=gas.a.name|strip=呛死",
+    "[x3]被=gas.a.name:asIfKnown|strip=呛死",
+    "窒息于=gas.name:includeAdjunctNoun|strip=",
+    "[x3]窒息于=gas.name:includeAdjunctNoun:asIfKnown|strip=",
+    "=gas.name:includeAdjunctNoun|strip=吸入过量而死",
+    "[x3]=gas.name:includeAdjunctNoun:asIfKnown|strip=吸入过量而死",
+    "释放了一罐=gas.name:includeAdjunctNoun|strip=",
+    "[x3]释放了一罐=gas.name:includeAdjunctNoun:asIfKnown|strip="
+   ],
+   "grenadeDeath": [
+    "坐在=grenade.a.name|strip=上",
+    "[x3]坐在=grenade.a.name:asIfKnown|strip=上",
+    "吞下=grenade.a.name|strip=",
+    "[x3]吞下=grenade.a.name:asIfKnown|strip=",
+    "忘了=grenade.a.name|strip=的存在",
+    "[x3]忘了=grenade.a.name:asIfKnown|strip=",
+    "被=grenade.a.name|strip=绊倒",
+    "[x3]被=grenade.a.name:asIfKnown|strip=绊倒"
+   ],
+   "bookDeath1": [
+    "遭=book.name:asIfKnown|strip=击中头部",
+    "因传播=book.name:asIfKnown|strip=而被处以火刑"
+   ],
+   "bookDeath2": [
+    "沉迷于=book.name:asIfKnown|strip=，竟忘了进食"
+   ],
+   "lightDeath": [
+    "被=light.a.name|strip=烧死",
+    "[x3]被=light.a.name:asIfKnown|strip=烧死",
+    "葬身于=light.a.name|strip=",
+    "[x3]葬身于=light.a.name:asIfKnown|strip=",
+    "被=light.a.name|strip=的火焰吞噬",
+    "[x3]被=light.a.name:asIfKnown|strip=的火焰吞噬",
+    "在=light.a.name|strip=上睡去",
+    "[x3]在=light.a.name:asIfKnown|strip=上睡去"
+   ],
+   "liquidDeath": [
+    "饮下有毒的=liquid.name:includeAdjunctNoun|strip=",
+    "[x3]饮下有毒的=liquid.name:asIfKnown:includeAdjunctNoun|strip="
+   ],
+   "apeDeath": [
+    "对着=ape.a.name:withTitles|strip=嘲弄过度",
+    "[x3]对着=ape.a.name:withTitles:asIfKnown|strip=嘲弄过度"
+   ],
+   "naturalDeath": [
+    "寿终正寝",
+    "死于自然原因"
+   ],
+   "genericDeath": [
+    "死于自然原因",
+    "死于非常之因",
+    "死因神秘",
+    "死于形而上之因",
+    "死于数学之因",
+    "死于化学之因",
+    "死于仪式之因",
+    "死因不明",
+    "死于岩浆之因"
+   ]
+  },
+  "villages=": {
+   "description": [
+    "=terrainFragment=，=spice:commonPhrases.people.!random==spice:commonPhrases.gather.!random=，以=spice:commonPhrases.reverence.!random==spice.entity:sacredThing=",
+    "=spice:commonPhrases.people.!random==spice:commonPhrases.gather.!random==terrainFragment=，以=spice:commonPhrases.reverence.!random==spice.entity:sacredThing=",
+    "=terrainFragment=，=spice:commonPhrases.people.!random==spice:commonPhrases.gather.!random=，为=spice:commonPhrases.profane.!random==spice.entity:profaneThing=",
+    "=spice:commonPhrases.people.!random==spice:commonPhrases.gather.!random==terrainFragment=，为=spice:commonPhrases.profane.!random==spice.entity:profaneThing=",
+    "=terrainFragment=，=faction.the.name=及其=spice:commonPhrases.kin.!random=在此=spice:commonPhrases.gathering.!random=",
+    "=faction.the.name=及其=spice:commonPhrases.kin.!random=在此=spice:commonPhrases.gathering.!random==terrainFragment="
+   ],
+   "reasonForFounding": {
+    "farming": {
+     "defaultFoundingText": [
+      "因附近有=arableLand="
+     ],
+     "sacredThing": [
+      "为爱=sacredThing=之人寻得=arableLand="
+     ],
+     "profaneThing": [
+      "反对=arableLand=与=sacredThing=之人"
+     ]
+    },
+    "escapePersecution": {
+     "defaultFoundingText": [
+      "为逃离那些鄙弃=sacredThing=之人的迫害"
+     ],
+     "sacredThing": [
+      "因热爱=sacredThing=而逃避迫害"
+     ],
+     "profaneThing": [
+      "迫害那些热爱=sacredThing=之人者"
+     ]
+    },
+    "monastery": {
+     "defaultFoundingText": [
+      "为静思=sacredThing="
+     ],
+     "sacredThing": [
+      "静思=sacredThing="
+     ],
+     "profaneThing": [
+      "亵渎=sacredThing="
+     ]
+    },
+    "outpost": {
+     "defaultFoundingText": [
+      "为守护=sacredThing=并践行=activity="
+     ],
+     "sacredThing": [
+      "守护=sacredThing="
+     ],
+     "profaneThing": [
+      "攻击=sacredThing="
+     ]
+    },
+    "prospecting": {
+     "defaultFoundingText": [
+      "为寻找=valuedOre="
+     ],
+     "sacredThing": [
+      "为=activity=寻得理想之地"
+     ],
+     "profaneThing": [
+      "厌恶=activity="
+     ]
+    },
+    "proselytization": {
+     "defaultFoundingText": [
+      "为传扬=sacredThing=的福音"
+     ],
+     "sacredThing": [
+      "传扬=sacredThing=的福音"
+     ],
+     "profaneThing": [
+      "亵渎=sacredThing=之人"
+     ]
+    }
+   },
+   "SignatureHistoricObject": [
+    "最古老的=var=",
+    "最纯粹的=var=",
+    "=legendaryFigure=的=var="
+   ],
+   "grewTiredOf": [
+    "我厌倦了=activity=",
+    "我多年来一直=activity="
+   ],
+   "immigrants": {
+    "immigrantPopReason": [
+     "多年=activity=之后，我们来到这座村庄，融入了当地村民之中。"
+    ]
+   },
+   "government": {
+    "representativeDemocracy": {
+     "council": {
+      "name": "议会",
+      "@mayorTemplate": [
+       "Councilor"
+      ],
+      "governor": [
+       "议会"
+      ]
+     },
+     "senate": {
+      "name": "参议院",
+      "@mayorTemplate": [
+       "Senator"
+      ],
+      "governor": [
+       "参议院"
+      ]
+     },
+     "parliament": {
+      "name": "议会",
+      "@mayorTemplate": [
+       "Parliamentarian"
+      ],
+      "governor": [
+       "议会"
+      ]
+     }
+    }
+   },
+   "mayorTemplate": {
+    "Councilor": {
+     "name": "议员"
+    },
+    "Senator": {
+     "name": "参议员"
+    },
+    "Parliamentarian": {
+     "name": "议会成员"
+    }
+   },
+   "food": {
+    "specialDishNames": [
+     "=descriptor= =spice:cooking.recipeNames.categorizedFoods.$dishName.!random=",
+     "=descriptor|'s= =spice:cooking.recipeNames.categorizedFoods.$dishName.!random=",
+     "=descriptor=风味的=spice:cooking.recipeNames.categorizedFoods.$dishName.!random=",
+     "=spice:cooking.recipeNames.categorizedFoods.$dishName.!random= =descriptor="
+    ]
+   },
+   "festivalName": [
+    "=spice:adjectives.!random==spice:nouns.!random==spice:commonPhrases.festival.!random=",
+    "=spice:adjectives.!random= =spice:nouns.!random= =spice:commonPhrases.festival.!random="
+   ],
+   "mayor": {
+    "reasonIBecame": [
+     "=spice:villages.grewTiredOf.!random|capitalize=。=^:settledHere.!random|capitalize="
+    ],
+    "settledHere": [
+     "我来到这座村庄，遇见了这里的居民。他们请我=^:villageTask.!random=。"
+    ],
+    "villageTask": [
+     "施展我治理政务的本领，带领村庄"
+    ],
+    "introDialog": [
+     "=^:welcome.!random|capitalize=。=^:hereYoullFind.!random|capitalize=。=^:youMayDrink.!random|capitalize=。"
+    ],
+    "welcome": [
+     "欢迎来到=spice.entity:name=村，=spice:commonPhrases.adventurer.!random=",
+     "=spice:commonPhrases.adventurer.!random=，欢迎来到=spice.entity:name=村"
+    ],
+    "hereYoullFind": [
+     "此处有荫凉与口粮，还有别的补给，助你深入锈洞搜寻宝藏",
+     "我们是=spice:commonPhrases.clan.!random=，=spice:commonPhrases.love.!random==spice.entity:sacredThing=，也=spice:commonPhrases.abhor.!random==spice.entity:profaneThing="
+    ],
+    "youMayDrink": [
+     "=spice:instancesOf.aboveAllElse.!random=，请饮用我们的淡水，解一解渴"
+    ]
+   },
+   "warden": {
+    "reasonIBecame": [
+     "=spice:villages.grewTiredOf.!random|capitalize=。=^:settledHere.!random|capitalize="
+    ],
+    "settledHere": [
+     "我来到这座村庄，遇见了这里的居民。他们请我=^:villageTask.!random=。"
+    ],
+    "villageTask": [
+     "施展我的武艺，守护村庄"
+    ],
+    "introDialog": [
+     "当心些，=spice:commonPhrases.adventurer.!random=。",
+     "且生且饮，=spice:commonPhrases.adventurer.!random=。",
+     "莫要惹是生非，=spice:commonPhrases.adventurer.!random=。",
+     "我盯着你呢，=spice:commonPhrases.adventurer.!random=。"
+    ]
+   },
+   "merchant": {
+    "reasonIBecame": [
+     "=spice:villages.grewTiredOf.!random|capitalize=。=^:settledHere.!random|capitalize="
+    ],
+    "settledHere": [
+     "我来到这座村庄，遇见了这里的居民，于是我=^:villageTask.!random=。"
+    ],
+    "villageTask": [
+     "开了间铺子，经营我的买卖"
+    ]
+   },
+   "tinker": {
+    "reasonIBecame": [
+     "=spice:villages.grewTiredOf.!random|capitalize=。=^:settledHere.!random|capitalize="
+    ],
+    "settledHere": [
+     "我来到这座村庄，遇见了这里的居民，于是我=^:villageTask.!random=。"
+    ],
+    "villageTask": [
+     "开设工坊，修理村里的小玩意儿"
+    ]
+   },
+   "apothecary": {
+    "reasonIBecame": [
+     "=spice:villages.grewTiredOf.!random|capitalize=。=^:settledHere.!random|capitalize="
+    ],
+    "settledHere": [
+     "我来到这座村庄，遇见了这里的居民，于是我=^:villageTask.!random=。"
+    ],
+    "villageTask": [
+     "开了间铺子，调制灵药"
+    ]
+   },
+   "villager": {
+    "reasonIBecame": [
+     "=spice:villages.grewTiredOf.!random|capitalize=。=^:settledHere.!random|capitalize="
+    ],
+    "settledHere": [
+     "我来到这座村庄，遇见了这里的居民，于是我=^:villageTask.!random=。"
+    ],
+    "villageTask": [
+     "定居下来"
+    ]
+   },
+   "pet": {
+    "originStorySingle": [
+     "=petName|capitalize=有一天突然现身，开始=villageActivity=。",
+     "=sample.They=有一天突然现身，开始=villageActivity=。",
+     "=sample.They've=一直待在这里，至少我记事以来便是如此；=villageActivity=。",
+     "=petName|capitalize=一直待在这里，至少我记事以来便是如此；=villageActivity=。",
+     "=petName|capitalize=？谁知道呢。",
+     "你亲自去问问=sample.them=吧。",
+     "也许=sample.they=以为=sample.they=能在这里找到=valuedOre=。",
+     "哦，=petName|capitalize=？我想大概是因为=sample.their=热爱=spice.entity:sacredThing=吧。"
+    ],
+    "originStoryMultiple": [
+     "=petNames.andList|capitalize=有一天突然现身，开始=villageActivity=。",
+     "他们有一天突然现身，开始=villageActivity=。",
+     "他们一直待在这里，至少我记事以来便是如此；=villageActivity=。",
+     "=petNames.andList|capitalize=一直待在这里，至少我记事以来便是如此；=villageActivity=。",
+     "=petNames.andList|capitalize=？谁知道呢。",
+     "你亲自去问问他们吧。",
+     "也许他们以为能在这里找到=valuedOre=。",
+     "哦，=petNames.andList=？我想大概是因为他们热爱=spice.entity:sacredThing=吧。"
+    ]
+   }
+  },
+  "quests=": {
+   "questContext": {
+    "itemNameMutation": [
+     "=adj= =itemName=",
+     "=adj= =itemName=",
+     "=adj= =itemName=",
+     "=adj|title==spice:nouns.!random|title=之=itemName|title="
+    ]
+   },
+   "intro": [
+    "我在找活干。",
+    "你这里有需要人做的活吗？",
+    "若你有活可做，我愿效劳。",
+    "这附近有活干吗？"
+   ],
+   "thanks": [
+    "我们谢过你，=spice:commonPhrases.adventurer.!random=",
+    "多谢你的相助，=spice:commonPhrases.adventurer.!random=",
+    "=spice:commonPhrases.adventurer.!random=，我们感激不尽"
+   ],
+   "FindaSpecificItem": {
+    "sacred": {
+     "intro": [
+      "=spice:instancesOf.comeClose.!random= =^:weUsedTo.!random|capitalize=",
+      "=^:heyWeUsedTo.!random="
+     ],
+     "afterLearning": [
+      "但在=spice:commonPhrases.learning.!random==sanctityOfSacredThing=之后，我们=^:changedAndComposed.!random="
+     ],
+     "weUsedTo": [
+      "我的=spice:commonPhrases.kin.!random==^:spentOurDays.!random=",
+      "你知道，从前我的=spice:commonPhrases.kin.!random==^:spentOurDays.!random=",
+      "曾有一段日子，我的=spice:commonPhrases.kin.!random==^:spentOurDays.!random="
+     ],
+     "heyWeUsedTo": [
+      "=spice:commonPhrases.greetingFriend.!random=，=^:weUsedTo.!random="
+     ],
+     "spentOurDays": [
+      "往日我们常常=sample.fragment:Activity:activity=",
+      "我们曾把所有光阴都用来=sample.fragment:Activity:activity=",
+      "我们曾整日=sample.fragment:Activity:activity=",
+      "往日我们常常=sample.fragment:Activity:activity="
+     ],
+     "changedAndComposed": [
+      "=^:changedWays.!random=，又=^:composedRituals.!random="
+     ],
+     "changedWays": [
+      "改变了我们=spice:commonPhrases.ways.!random="
+     ],
+     "composedRituals": [
+      "=spice:commonPhrases.composed.!random=新的=spice:commonPhrases.rituals.!random="
+     ],
+     "lostOur": [
+      "=villager.basename|strip=弄丢了我们的=item.name=",
+      "我们的=item.name==item.verb:被窃=了",
+      "=spice:instancesOf.fate.!random=使我们与=item.name=分离"
+     ],
+     "willingToRecover": [
+      "你愿意替我们找回=item.them=吗？",
+      "你愿意去找回=item.them=，再把=item.them=交还给我们吗？",
+      "我们需要有人替我们找回=item.them=，=spice:commonPhrases.greetingFriend.!random=。你肯帮忙吗？"
+     ],
+     "takenTo": [
+      "我的=spice:commonPhrases.kin.!random=告诉我，=item.them==item.verb:已被送往==deliveryTarget=。",
+      "我们听说，=item.them==item.verb:已被送往==deliveryTarget=。",
+      "我听说，=item.them==item.verb:已被送往==deliveryTarget=。"
+     ],
+     "rewardYou": [
+      "我们将=spice:instancesOf.reward.!random==spice:commonPhrases.services.!random=。"
+     ]
+    },
+    "personal": {
+     "intro": [
+      "=spice:instancesOf.comeClose.!random=",
+      "=spice:instancesOf.thank.!random==spice:adjectives.!random==spice:nouns.!random=前来，=spice:commonPhrases.greetingFriend.!random=。"
+     ],
+     "iHaveATask": [
+      "我有件=spice:commonPhrases.task.!random=要托付给你。",
+      "我有件=spice:commonPhrases.task.!random=需要有人去办。",
+      "有件=spice:commonPhrases.task.!random=，我想请你帮忙。",
+      "有件=spice:commonPhrases.task.!random=，你可以替我办。"
+     ],
+     "rumor": [
+      "=spice:instancesOf.recently.!random= =^:someoneLearned.!random=",
+      "=spice:instancesOf.recently.!random= =^:iVisited.!random=",
+      "=spice:instancesOf.recently.!random= =^:iLost.!random="
+     ],
+     "someoneLearned": [
+      "我=spice:commonPhrases.learned.!random=，=^:itemAtPlace.!random=",
+      "=villager.basename|strip==spice:commonPhrases.learned.!random=得知，=^:itemAtPlace.!random=",
+      "有人告诉我，=^:itemAtPlace.!random="
+     ],
+     "itemAtPlace": [
+      "=deliveryTarget|colorSafe=附近有=item.a.name=。",
+      "=deliveryTarget|colorSafe=是=item.a.name=的所在之处。",
+      "=item.a.name==item.verb:已抵达==deliveryTarget|colorSafe=。"
+     ],
+     "iVisited": [
+      "我=spice:commonPhrases.visited.!random==deliveryTarget|colorSafe=，并=spice:commonPhrases.saw.!random==item.a.name=。"
+     ],
+     "iLost": [
+      "我=spice:commonPhrases.visited.!random==deliveryTarget|colorSafe=，却把=item.a.name=弄丢了。",
+      "我在=deliveryTarget|colorSafe=丢了我的=item.name=。"
+     ],
+     "loveToHave": [
+      "=subject.fragment:NeedsItemFor=，我=spice:instancesOf.desire.!random==item.them=。",
+      "=subject.fragment:NeedsItemFor=，我=spice:instancesOf.wouldLikeTo.!random==spice:instancesOf.have.!random==item.them=。"
+     ],
+     "ifYouRetrieveIt": [
+      "若你替我=spice:commonPhrases.retrieve.!random==item.them=，我便=spice:instancesOf.reward.!random==spice:commonPhrases.services.!random=。",
+      "=spice:commonPhrases.retrieve.!random==item.them=，我便=spice:instancesOf.reward.!random==spice:commonPhrases.services.!random=。",
+      "我愿=spice:instancesOf.reward.!random==spice:commonPhrases.services.!random=，条件是你替我=spice:commonPhrases.retrieve.!random==item.them=。"
+     ],
+     "willYouDoIt": [
+      "你愿意办这件事吗？",
+      "你愿意吗？",
+      "你意下如何？",
+      "你觉得呢？"
+     ]
+    }
+   },
+   "FindaSite": {
+    "travelers": {
+     "intro": [
+      "=spice:quests.FindaSpecificItem.personal.intro.!random="
+     ],
+     "cameToOurVillage": [
+      "=spice:commonPhrases.traveling.!random==spice:personNouns.!random|pluralize=前几日来过我们村子。"
+     ],
+     "spokeOfPlace": [
+      "=sample.fragment:GuestActivity:breaking bread=时，他们谈起一处=spice:commonPhrases.interesting.!random=地方：=siteName=。"
+     ],
+     "wouldYouFindIt": [
+      "你愿替我们找到它吗？",
+      "你可愿意去寻访它？"
+     ],
+     "greatBoon": [
+      "这会为我们村子的=spice:instancesOf.villageActivityAdj.!random=前景带来一份大=spice:commonPhrases.gift.!random=。"
+     ],
+     "rewardYou": [
+      "我们将=spice:instancesOf.reward.!random==spice:commonPhrases.services.!random=。"
+     ]
+    },
+    "records": {
+     "intro": [
+      "=spice:commonPhrases.adventurer.!random=，我们近日=^:poringOver.!random=，又=^:weHaveLearned.!random=一处族人早已遗忘的近地：=siteName|initLowerIfArticle=。"
+     ],
+     "whatTreasures": [
+      "此地或藏有何等=spice:commonPhrases.treasures.!random==spice:commonPhrases.hold.!random=？"
+     ],
+     "ifYouFindIt": [
+      "若你替我们=spice:commonPhrases.find.!random=它，=spice:quests.FindaSpecificItem.sacred.rewardYou.!random="
+     ],
+     "poringOver": [
+      "翻阅我们的记录",
+      "彼此分享见闻",
+      "读村中的编年史",
+      "与=spice:personNouns.!random|pluralize=交谈"
+     ],
+     "weHaveLearned": [
+      "我们=spice:commonPhrases.learnedOf.!random="
+     ]
+    },
+    "typeOfDirections": {
+     "radius": {
+      "intro": [
+       "我们听说它就在=landmark.text=旁边。"
+      ]
+     },
+     "direction": {
+      "intro": [
+       "我们听说它位于距=landmark.text==min=至=max=帕兰桑、=direction.expandedDirection=方向的某处。"
+      ]
+     },
+     "path": {
+      "intro": [
+       "我们听说，沿着经过=landmark.text=的=path=向=direction.expandedDirection=走便能找到它。"
+      ]
+     }
+    }
+   },
+   "InteractWithAnObject": {
+    "holyitem": {
+     "intro": [
+      "=spice:commonPhrases.adventurer.!random=，=spice:instancesOf.haveYouHeardOf.!random==item.the.name|strip=位于=deliveryTarget|strip=吗？"
+     ],
+     "itIsHoly": [
+      "=item.they==spice:commonPhrases.sacred.!random==spice:commonPhrases.shrine.!random=，于我们意义非凡。"
+     ],
+     "itIsDespicable": [
+      "=item.they==spice:commonPhrases.despicable.!random==spice:commonPhrases.horror.!random=，是=sacredThing=与我们=spice:instancesOf.holdDear.!random=的一切之大敌。"
+     ],
+     "willInteract": [
+      "我们常=verb==item.them=朝圣，并沉思=sacredThing=。"
+     ],
+     "honorUs": [
+      "=spice:instancesOf.ifYouWouldDoTheSame.!random=，便是我们的荣幸。",
+      "=spice:instancesOf.ifYouWouldDoTheSame.!random=，便是=spice:commonPhrases.blessing.!random=。"
+     ],
+     "honorUsDesecrate": [
+      "若你=spice:commonPhrases.greatly.!random==verb==item.them=，我们将深感荣幸。",
+      "若你=verb==item.them=，便是=spice:commonPhrases.blessing.!random=。"
+     ],
+     "willYou": [
+      "=spice:instancesOf.willYou.!random="
+     ],
+     "rewardYou": [
+      "我们将=spice:instancesOf.reward.!random==spice:commonPhrases.services.!random=。"
+     ]
+    },
+    "strangeplan": {
+     "intro": [
+      "*=spice:commonPhrases.suspiciously.!random=地环顾四周*",
+      "*=spice:commonPhrases.suspiciously.!random=地环顾四周，并=spice:instancesOf.leansIn.!random=*"
+     ],
+     "comeClose": [
+      "=spice:instancesOf.comeClose.!random="
+     ],
+     "myPlan": [
+      "我的=plan=即将成真。=^:oneMoreStep.!random|capitalize=",
+      "我的=plan=就快完成了。=^:oneMoreStep.!random|capitalize=",
+      "我正=spice:commonPhrases.enacting.!random=一个秘密=plan=。"
+     ],
+     "oneMoreStep": [
+      "只差最后一步",
+      "仅剩一步",
+      "只待办成一事"
+     ],
+     "goTo": [
+      "我需要有人前往=deliveryTarget=，并在那里=verb==item.the.name|strip=。"
+     ],
+     "IRewardYou": [
+      "我将=spice:instancesOf.reward.!random==spice:commonPhrases.services.!random=。"
+     ],
+     "byThe_TellNoOne": [
+      "以=sacredThing=起誓，=^:tellNoOne.!random=",
+      "=^:tellNoOne.!random="
+     ],
+     "tellNoOne": [
+      "此事不可告诉任何人",
+      "此事莫对任何人提起",
+      "这场谈话从未发生"
+     ]
+    }
+   }
+  },
+  "construction=": {
+   "adjectives": [
+    "强健",
+    "坚固",
+    "紧密",
+    "脆弱",
+    "优质",
+    "巨硕"
+   ]
+  },
+  "cooking=": {
+   "ate": [
+    "你吃下这顿饭。"
+   ],
+   "cookTemplate": [
+    "你把=ingredients.andList=丢进锅里搅拌。",
+    "你搜罗能找到的食材来做饭：=ingredients.andList=。\n\n你把它们丢进锅里搅拌。",
+    "你搜寻四周，找到了这些食材：=ingredients.andList=。\n\n你把它们丢进锅里搅拌。",
+    "你收集了一些食材：=ingredients.andList=。\n\n你把它们丢进锅里搅拌。"
+   ],
+   "ingredient": [
+    "=^:pinchOf.!random= =^:terrain.$terrain.someIngredients.!random=",
+    "=^:pinchOf.!random= =spice:adjectives.!random= =^:terrain.$terrain.someIngredients.!random=",
+    "=^:terrain.$terrain.aIngredients.!random|article=",
+    "=spice:adjectives.!random|article= =^:terrain.$terrain.aIngredients.!random=",
+    "=^:pinchOf.!random= =^:terrain.$terrain.someIngredients.!random=",
+    "=^:pinchOf.!random= =spice:adjectives.!random= =^:terrain.$terrain.someIngredients.!random=",
+    "=^:terrain.$terrain.aIngredients.!random|article=",
+    "=spice:adjectives.!random|article= =^:terrain.$terrain.aIngredients.!random=",
+    "=^:pinchOf.!random= =^:terrain.General.someIngredients.!random=",
+    "=^:pinchOf.!random= =spice:adjectives.!random= =^:terrain.General.someIngredients.!random=",
+    "=^:terrain.General.aIngredients.!random|article=",
+    "=spice:adjectives.!random|article= =^:terrain.General.aIngredients.!random="
+   ],
+   "pinchOf": [
+    "一撮",
+    "一些",
+    "一些",
+    "少许",
+    "一点点",
+    "一洒",
+    "一小口",
+    "一打兰"
+   ],
+   "cookbooks": {
+    "genericName": [
+     "=spice:nouns.!random=之=spice:commonPhrases.cooking.!random=",
+     "=spice:commonPhrases.cooking.!random=之=spice:nouns.!random=",
+     "=MARKOVTITLE=",
+     "=^:cookingPrefix.!random= =MARKOVTITLE=",
+     "=MARKOVTITLE=",
+     "=^:cookingPrefix.!random= =MARKOVTITLE=",
+     "=spice:adjectives.!random= =spice:commonPhrases.recipes.!random=",
+     "=spice:commonPhrases.cooking.!random= =spice:adjectives.!random= =spice:commonPhrases.recipes.!random="
+    ],
+    "focalName": [
+     "=focus=：=spice:nouns.!random=之=spice:commonPhrases.cooking.!random=",
+     "=spice:nouns.!random=之=focus=",
+     "=focus=佐以=spice:commonPhrases.cooking.!random=",
+     "=focus=：=MARKOVTITLE=",
+     "=focus=：=MARKOVTITLE=",
+     "=focus=：=MARKOVTITLE=",
+     "=spice:adjectives.!random==spice:commonPhrases.recipes.!random=佐以=focus=",
+     "=spice:commonPhrases.cooking.!random==spice:adjectives.!random==spice:commonPhrases.recipes.!random=佐以=focus="
+    ],
+    "cookingPrefix": [
+     "=spice:commonPhrases.cooking.!random=："
+    ]
+   },
+   "recipeNames": {
+    "foods": [
+     "面包",
+     "面包",
+     "凉拌菜",
+     "炖菜",
+     "汤",
+     "胸肉",
+     "罗宋汤",
+     "蘸酱",
+     "果仁蜜饼",
+     "蜜饯",
+     "杂烩",
+     "粥",
+     "无酵饼",
+     "饼干",
+     "酸奶",
+     "炖牛肉",
+     "米饭",
+     "鹰嘴豆泥",
+     "克尼什馅饼",
+     "肉汤",
+     "库格尔焗菜",
+     "土豆饼",
+     "炸肉排",
+     "薄煎饼",
+     "烤肉",
+     "沙威玛",
+     "薄饼",
+     "肉丸",
+     "酥点",
+     "焗烤菜",
+     "蛋糕",
+     "饺子",
+     "甜甜圈",
+     "塔吉锅",
+     "库斯库斯",
+     "葡萄叶包饭",
+     "烤肉串",
+     "鱼柳"
+    ],
+    "foodAdj": [
+     "油炸的",
+     "裹面包屑的",
+     "烤肉",
+     "填馅的",
+     "香草调味的",
+     "捣碎的",
+     "香草",
+     "以萨迦式",
+     "拿弗他利",
+     "烘烤的",
+     "切丝的",
+     "切片的",
+     "切碎的",
+     "剁碎的",
+     "碾碎的",
+     "切丁的",
+     "风干的",
+     "腌制的",
+     "陈年的",
+     "水煮的",
+     "酥皮的",
+     "釉亮",
+     "炙烤的",
+     "清淡的",
+     "浓郁的",
+     "煸炒的",
+     "鲜美的",
+     "滋滋作响的",
+     "浓汁浇淋的",
+     "浓稠的",
+     "拌炒的",
+     "丝绒般柔滑的"
+    ],
+    "categorizedFoods": {
+     "generic": [
+      "=spice:cooking.recipeNames.foods.!random="
+     ],
+     "grazed": [
+      "凉拌菜",
+      "叶片",
+      "灌木",
+      "灌木",
+      "草",
+      "根",
+      "种子",
+      "棘刺",
+      "干草"
+     ],
+     "picked": [
+      "浆果",
+      "叶片",
+      "无花果",
+      "茎",
+      "嫩芽",
+      "根",
+      "虫子",
+      "幼虫",
+      "种子",
+      "树皮"
+     ],
+     "insects": [
+      "虫子",
+      "幼虫"
+     ],
+     "smallmeat": [
+      "炖菜",
+      "杂烩",
+      "炖牛肉",
+      "肉丸"
+     ],
+     "metal": [
+      "废料",
+      "合金",
+      "电线",
+      "二极管",
+      "电路"
+     ],
+     "sweet": [
+      "蜜饯",
+      "酥点",
+      "甜甜圈"
+     ],
+     "fish": [
+      "鱼柳"
+     ],
+     "meat": [
+      "面包",
+      "胸肉",
+      "杂烩",
+      "炖牛肉",
+      "炸肉排",
+      "烤肉",
+      "沙威玛",
+      "肉丸",
+      "炖菜",
+      "塔吉锅",
+      "烤肉串"
+     ],
+     "bones": [
+      "骨髓",
+      "骨骸"
+     ],
+     "smallsea": [
+      "蛤蜊",
+      "贻贝",
+      "蜗牛",
+      "藻类",
+      "蠕虫"
+     ],
+     "rocks": [
+      "岩石",
+      "碎石",
+      "卵石",
+      "巨石"
+     ],
+     "rotted": [
+      "腐殖土",
+      "腐烂物",
+      "尸体"
+     ]
+    },
+    "ingredient1NounPhrase": [
+     "=^:ingredients.$ingredient1.nounPlural.!random=",
+     "=^:foodAdj.!random= =^:ingredients.$ingredient1.nounPlural.!random=",
+     "=^:ingredients.$ingredient1.adj.!random= =dishName="
+    ],
+    "ingredient2NounPhrase": [
+     "=^:ingredients.$ingredient2.nounPlural.!random=",
+     "=^:foodAdj.!random= =^:ingredients.$ingredient2.nounPlural.!random=",
+     "=^:ingredients.$ingredient2.adj.!random= =dishName="
+    ],
+    "ingredient3NounPhrase": [
+     "=^:ingredients.$ingredient3.nounPlural.!random=",
+     "=^:foodAdj.!random= =^:ingredients.$ingredient3.nounPlural.!random=",
+     "=^:ingredients.$ingredient3.adj.!random= =dishName="
+    ],
+    "preposition": [
+     "佐以",
+     "藏于",
+     "覆于",
+     "佐以",
+     "佐以",
+     "里",
+     "淋在"
+    ],
+    "suffix": [
+     "填馅的",
+     "腌制的",
+     "揉香的"
+    ],
+    "oneIngredientMeal": [
+     "=^:foodAdj.!random= =^:ingredients.$ingredient1.nounPlural.!random=",
+     "=^:ingredients.$ingredient1.adj.!random= =dishName=",
+     "=dishName= =^:preposition.!random= =^:ingredient1NounPhrase.!random="
+    ],
+    "twoIngredientMeal": [
+     "=^:ingredients.$ingredient1.adj2.!random= =^:ingredients.$ingredient2.adj1.!random= =dishName=",
+     "=^:ingredients.$ingredient1.adj2.!random=-=^:ingredients.$ingredient2.adj1.!random= =dishName=",
+     "=^:ingredient1NounPhrase.!random= =^:preposition.!random= =^:ingredient2NounPhrase.!random=",
+     "=^:ingredient1NounPhrase.!random=与=^:ingredient2NounPhrase.!random=",
+     "=^:ingredients.$ingredient1.noun.!random=-=^:ingredients.$ingredient2.noun.!random= =dishName=",
+     "=dishName= =^:preposition.!random= =^:ingredient1NounPhrase.!random=与=^:ingredient2NounPhrase.!random=",
+     "=^:ingredient1NounPhrase.!random=与=^:ingredient2NounPhrase.!random= =^:preposition.!random= =dishName="
+    ],
+    "threeIngredientMeal": [
+     "=^:ingredients.$ingredient1.adj2.!random= =^:ingredients.$ingredient2.adj2.!random= =^:ingredients.$ingredient3.adj1.!random= =dishName=",
+     "=^:ingredient3NounPhrase.!random= =^:preposition.!random= =^:ingredient1NounPhrase.!random=与=^:ingredient2NounPhrase.!random=",
+     "=^:ingredient1NounPhrase.!random=与=^:ingredient2NounPhrase.!random= =^:preposition.!random= =^:ingredient3NounPhrase.!random=",
+     "=dishName= =^:preposition.!random= =^:ingredient1NounPhrase.!random=、=^:ingredient2NounPhrase.!random=与=^:ingredient3NounPhrase.!random=",
+     "=^:ingredients.$ingredient1.noun.!random=-=^:ingredients.$ingredient2.noun.!random= =^:ingredient3NounPhrase.!random=",
+     "=^:ingredient3NounPhrase.!random= =^:preposition.!random= =^:ingredient1NounPhrase.!random=、=^:ingredient2NounPhrase.!random=与=dishName="
+    ],
+    "ingredients": {
+     "Limb": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "血",
+       "肉",
+       "肢体"
+      ],
+      "adj2": [
+       "血淋淋的",
+       "切断",
+       "肢解"
+      ],
+      "nounPlural": [
+       "$LimbDisplayName",
+       "肉",
+       "肢端",
+       "肢体",
+       "附肢"
+      ],
+      "noun": [
+       "肢体",
+       "附肢",
+       "肉"
+      ]
+     },
+     "Face": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "血",
+       "肉",
+       "面容"
+      ],
+      "adj2": [
+       "血淋淋的",
+       "切断",
+       "肢解",
+       "面部的"
+      ],
+      "nounPlural": [
+       "$LimbDisplayName",
+       "肉",
+       "面容",
+       "面容"
+      ],
+      "noun": [
+       "面容",
+       "面容",
+       "肉"
+      ]
+     },
+     "Head": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "血",
+       "肉",
+       "头部",
+       "脑髓"
+      ],
+      "adj2": [
+       "血淋淋的",
+       "切断",
+       "肢解",
+       "脑质丰盈的"
+      ],
+      "nounPlural": [
+       "$LimbDisplayName",
+       "肉",
+       "头部",
+       "脑髓"
+      ],
+      "noun": [
+       "头部",
+       "脑髓",
+       "肉"
+      ]
+     },
+     "Jerky": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "肉"
+      ],
+      "adj2": [
+       "风干的",
+       "剥皮的",
+       "丰盛的",
+       "肉厚的"
+      ],
+      "nounPlural": [
+       "$JerkyDisplayName",
+       "肉"
+      ],
+      "noun": [
+       "肉干",
+       "肉",
+       "肉"
+      ]
+     },
+     "Vinewafer Sheaf": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "薄饼",
+       "藤饼",
+       "水藤",
+       "水域"
+      ],
+      "adj2": [
+       "水汪汪的",
+       "湿润的",
+       "湿软的"
+      ],
+      "nounPlural": [
+       "薄饼",
+       "藤饼",
+       "淡水",
+       "无酵饼"
+      ],
+      "noun": [
+       "薄饼",
+       "藤饼",
+       "水域",
+       "无酵饼"
+      ]
+     },
+     "Phase Silk": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "相位",
+       "丝绸"
+      ],
+      "adj2": [
+       "丝绸",
+       "闪烁的",
+       "虚幻的",
+       "丝滑的",
+       "虚灵",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "adj_Special": [
+       "闪烁的",
+       "虚幻的",
+       "虚灵"
+      ],
+      "nounPlural": [
+       "=^:adj_Special.!random=丝",
+       "=^:adj_Special.!random=纤维"
+      ],
+      "noun": [
+       "丝绸",
+       "纤维"
+      ]
+     },
+     "Congealed Shade Oil": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "相位",
+       "幽影",
+       "油",
+       "幽影"
+      ],
+      "adj2": [
+       "闪烁的",
+       "虚幻的",
+       "油腻的",
+       "幽影般的",
+       "闪烁的",
+       "虚灵",
+       "暗影般的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "影油",
+       "幽影",
+       "影油补剂",
+       "补剂",
+       "幽影"
+      ],
+      "noun": [
+       "油",
+       "幽影",
+       "补剂",
+       "幽影"
+      ]
+     },
+     "Congealed Blaze": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "滚烫的",
+       "烈焰般的"
+      ],
+      "adj2": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "烈焰般的",
+       "烘烤的",
+       "辛辣的",
+       "滚烫的"
+      ],
+      "nounPlural": [
+       "烈焰",
+       "明火",
+       "焦痕",
+       "吸食"
+      ],
+      "noun": [
+       "焦痕",
+       "吸食",
+       "烈焰"
+      ]
+     },
+     "Congealed Salve": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "香草",
+       "药膏",
+       "香膏",
+       "舒缓的"
+      ],
+      "adj2": [
+       "治疗",
+       "疗愈的",
+       "草本的",
+       "安抚的"
+      ],
+      "nounPlural": [
+       "香膏",
+       "药膏",
+       "敷剂",
+       "止痛剂"
+      ],
+      "noun": [
+       "香膏",
+       "药膏",
+       "敷剂",
+       "止痛剂"
+      ]
+     },
+     "Soul Curd": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "生命",
+       "灵魂"
+      ],
+      "adj2": [
+       "生命",
+       "灵魂"
+      ],
+      "nounPlural": [
+       "灵魂凝乳"
+      ],
+      "noun": [
+       "灵魂凝乳"
+      ]
+     },
+     "Drop of Nectar": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "神"
+      ],
+      "adj2": [
+       "神",
+       "神明般",
+       "敬神"
+      ],
+      "nounPlural": [
+       "花蜜"
+      ],
+      "noun": [
+       "花蜜"
+      ]
+     },
+     "Congealed Love": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "爱慕",
+       "欲念"
+      ],
+      "adj2": [
+       "情色的",
+       "纵欲的"
+      ],
+      "nounPlural": [
+       "爱慕",
+       "欲念"
+      ],
+      "noun": [
+       "爱慕",
+       "欲念"
+      ]
+     },
+     "Congealed Hulk Honey": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "强壮的",
+       "巨大的",
+       "生长的"
+      ],
+      "adj2": [
+       "魁伟",
+       "强壮的",
+       "巨大的",
+       "生长的"
+      ],
+      "nounPlural": [
+       "巨人蜜",
+       "蜜"
+      ],
+      "noun": [
+       "巨人蜜",
+       "蜜"
+      ]
+     },
+     "Congealed Skulk": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "潜行",
+       "悄行"
+      ],
+      "adj2": [
+       "潜伏的",
+       "潜行",
+       "悄行"
+      ],
+      "nounPlural": [
+       "潜行"
+      ],
+      "noun": [
+       "潜行"
+      ]
+     },
+     "Congealed Rubbergum": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "橡胶",
+       "弹跳",
+       "跳",
+       "蹦跳",
+       "弹韧的"
+      ],
+      "adj2": [
+       "橡胶",
+       "弹跳的",
+       "有弹性的"
+      ],
+      "nounPlural": [
+       "橡胶糖胶",
+       "树胶"
+      ],
+      "noun": [
+       "橡胶糖胶",
+       "树胶"
+      ]
+     },
+     "Crusty Loaf": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "面包",
+       "吐司"
+      ],
+      "adj2": [
+       "酥脆的",
+       "裹面包屑的",
+       "烘烤的"
+      ],
+      "nounPlural": [
+       "面包",
+       "吐司",
+       "面包"
+      ],
+      "noun": [
+       "面包",
+       "吐司",
+       "面包",
+       "薄脆饼"
+      ]
+     },
+     "Salthopper Chip": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "盐",
+       "薯片"
+      ],
+      "adj2": [
+       "酥脆的",
+       "烘烤的",
+       "盐渍的",
+       "咸香的"
+      ],
+      "nounPlural": [
+       "薯片",
+       "盐"
+      ],
+      "noun": [
+       "薯片",
+       "盐"
+      ]
+     },
+     "Ekuemekiyyen Greens": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "叶片"
+      ],
+      "adj2": [
+       "叶茂的",
+       "繁茂的"
+      ],
+      "nounPlural": [
+       "叶片",
+       "绿叶菜"
+      ],
+      "noun": [
+       "叶片"
+      ]
+     },
+     "Food Cube": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "立方体"
+      ],
+      "adj2": [
+       "立方的",
+       "谜样的"
+      ],
+      "nounPlural": [
+       "立方体",
+       "立方体",
+       "立方体",
+       "谜样的"
+      ],
+      "noun": [
+       "立方体",
+       "立方体",
+       "立方体",
+       "谜样的"
+      ]
+     },
+     "Starapple Preserves": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "苹",
+       "苹果汁",
+       "星苹果",
+       "香醋",
+       "果",
+       "酸涩的"
+      ],
+      "adj2": [
+       "爽脆的",
+       "香醋",
+       "新鲜的",
+       "果",
+       "酸涩的",
+       "甜"
+      ],
+      "nounPlural": [
+       "苹果",
+       "星苹果",
+       "果酱",
+       "苹果酱",
+       "星苹果酱"
+      ],
+      "noun": [
+       "苹",
+       "星苹果"
+      ]
+     },
+     "Spine Fruit Jam": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "刺果",
+       "刺果",
+       "果"
+      ],
+      "adj2": [
+       "多刺的",
+       "带刺的",
+       "果",
+       "甜",
+       "扎人的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "刺果",
+       "荨麻",
+       "棘刺",
+       "果酱",
+       "刺果酱",
+       "棘刺"
+      ],
+      "noun": [
+       "刺果",
+       "荨麻",
+       "刺果",
+       "荆棘"
+      ]
+     },
+     "Cured Dawnglider Tail": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "覆鳞",
+       "滚烫的"
+      ],
+      "adj2": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "覆鳞",
+       "烘烤的",
+       "辛辣的",
+       "滚烫的"
+      ],
+      "nounPlural": [
+       "曙光滑翔兽尾",
+       "鳞片",
+       "明火",
+       "焦痕",
+       "吸食"
+      ],
+      "noun": [
+       "曙光滑翔兽尾",
+       "鳞",
+       "焦痕",
+       "吸食"
+      ]
+     },
+     "Fire Ant Gaster Paste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "糊状的",
+       "滚烫的"
+      ],
+      "adj2": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "糊状的",
+       "烘烤的",
+       "辛辣的",
+       "滚烫的"
+      ],
+      "nounPlural": [
+       "火蚁腹部酱",
+       "腹部酱",
+       "明火",
+       "焦痕",
+       "吸食",
+       "火蚁"
+      ],
+      "noun": [
+       "腹部",
+       "蚁",
+       "焦痕",
+       "吸食"
+      ]
+     },
+     "Freeze-Dried Hoarshrooms": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "蘑菇",
+       "寒霜菇",
+       "真菌",
+       "霜菇"
+      ],
+      "adj2": [
+       "明亮",
+       "发光的",
+       "璀璨",
+       "磷光的",
+       "冻干的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "霜菇",
+       "蘑菇",
+       "光点",
+       "真菌"
+      ],
+      "noun": [
+       "霜菇",
+       "蘑菇",
+       "真菌"
+      ]
+     },
+     "Pickled Mushrooms": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "蘑菇",
+       "咸渍蘑菇",
+       "真菌"
+      ],
+      "adj2": [
+       "腌制的",
+       "咸涩",
+       "咸香的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "腌蘑菇",
+       "蘑菇",
+       "腌蘑菇汁",
+       "真菌"
+      ],
+      "noun": [
+       "盐水菇",
+       "蘑菇",
+       "真菌"
+      ]
+     },
+     "Pickles": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "腌制的",
+       "水域",
+       "卤水"
+      ],
+      "adj2": [
+       "腌制的",
+       "咸涩",
+       "咸香的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "腌菜",
+       "腌菜水",
+       "卤水",
+       "水域"
+      ],
+      "noun": [
+       "黄瓜",
+       "酸黄瓜",
+       "水域"
+      ]
+     },
+     "Fermented Yondercane": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "闪现",
+       "传送",
+       "远方",
+       "彼处"
+      ],
+      "adj2": [
+       "闪现",
+       "闪烁",
+       "传送的",
+       "发酵的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "彼方甘蔗",
+       "发酵的彼方甘蔗",
+       "彼方甘蔗",
+       "发酵的彼方甘蔗",
+       "空气"
+      ],
+      "noun": [
+       "彼方甘蔗",
+       "甘蔗",
+       "彼方甘蔗",
+       "甘蔗",
+       "空气"
+      ]
+     },
+     "Voider Gland Paste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "闪现",
+       "传送",
+       "远方",
+       "彼处",
+       "糊状的"
+      ],
+      "adj2": [
+       "闪现",
+       "闪烁",
+       "传送的",
+       "糊状的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "虚空者腺体酱",
+       "虚空者腺体",
+       "虚空者",
+       "空气"
+      ],
+      "noun": [
+       "虚空者",
+       "酱",
+       "空气"
+      ]
+     },
+     "Spark Tick Plasma": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "电光",
+       "伏打",
+       "震击",
+       "通电"
+      ],
+      "adj2": [
+       "通电",
+       "噼啪作响的",
+       "带电的",
+       "伏打",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "电光蜱血浆",
+       "火花",
+       "电流",
+       "等离子体",
+       "电流",
+       "闪电"
+      ],
+      "noun": [
+       "等离子体",
+       "电光",
+       "电子",
+       "伏特",
+       "震击"
+      ]
+     },
+     "Canned Have-It-All": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "万物"
+      ],
+      "adj2": [
+       "万物",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "万物"
+      ],
+      "noun": [
+       "万物"
+      ]
+     },
+     "Wild Rice": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "野性"
+      ],
+      "adj2": [
+       "野性",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "野生稻"
+      ],
+      "noun": [
+       "米饭"
+      ]
+     },
+     "Dream Smoke": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "梦境",
+       "梦幻的"
+      ],
+      "adj2": [
+       "梦境",
+       "梦幻的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "梦烟",
+       "梦境",
+       "白日梦"
+      ],
+      "noun": [
+       "梦境",
+       "白日梦"
+      ]
+     },
+     "Fermented Yuckwheat Stem": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "苦涩的",
+       "苦麦",
+       "苦涩的"
+      ],
+      "adj2": [
+       "草本的",
+       "难吃的",
+       "苦麦",
+       "药用的",
+       "苦涩的",
+       "辛辣刺鼻的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "发酵苦麦",
+       "苦麦",
+       "药物",
+       "苦麦"
+      ],
+      "noun": [
+       "苦麦",
+       "茎"
+      ]
+     },
+     "Mashed Lag": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "拉格"
+      ],
+      "adj2": [
+       "富含淀粉的",
+       "拉格",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "迟根",
+       "拉格"
+      ],
+      "noun": [
+       "迟根",
+       "捣碎拉格"
+      ]
+     },
+     "Dried Lah Petals": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "恐惧的",
+       "拉花",
+       "阴森的"
+      ],
+      "adj2": [
+       "恐惧的",
+       "拉花",
+       "拉花擦拭的",
+       "阴森的",
+       "花香的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "拉花",
+       "花瓣",
+       "花"
+      ],
+      "noun": [
+       "拉花",
+       "花瓣",
+       "花"
+      ]
+     },
+     "Dried Vanta Petals": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "虚空",
+       "黄昏",
+       "漆黑"
+      ],
+      "adj2": [
+       "幽影般的",
+       "昏暗的",
+       "深渊般的",
+       "幽暗的",
+       "冥府般的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "凡塔",
+       "花瓣",
+       "花"
+      ],
+      "noun": [
+       "凡塔",
+       "花瓣",
+       "花"
+      ]
+     },
+     "Compacted Bone Meal": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "骨"
+      ],
+      "adj2": [
+       "骨质的",
+       "钙化的",
+       "骨化的",
+       "骷髅般的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "骨骸",
+       "骨粉"
+      ],
+      "noun": [
+       "骨",
+       "骨粉"
+      ]
+     },
+     "Crushed Grave Moss": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "苔藓状的"
+      ],
+      "adj2": [
+       "苔藓覆生的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "墓苔",
+       "苔藓状的"
+      ],
+      "noun": [
+       "墓苔",
+       "苔藓状的"
+      ]
+     },
+     "Sun-Dried Banana": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "果",
+       "甜"
+      ],
+      "adj2": [
+       "果香的",
+       "甜",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "香蕉"
+      ],
+      "noun": [
+       "香蕉"
+      ]
+     },
+     "Psychal Gland Paste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "思绪",
+       "心智"
+      ],
+      "adj2": [
+       "记忆的",
+       "怀旧的",
+       "灵念的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "灵念腺膏",
+       "灵念腺",
+       "记忆"
+      ],
+      "noun": [
+       "心灵",
+       "酱",
+       "记忆"
+      ]
+     },
+     "Mirror Dust": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "明镜",
+       "尘粉",
+       "拟态怪"
+      ],
+      "adj2": [
+       "映照的",
+       "反光的",
+       "玻璃般的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "镜尘",
+       "尘粉"
+      ],
+      "noun": [
+       "尘粉",
+       "镜尘"
+      ]
+     },
+     "Sliced Bop Cheek": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "橡胶",
+       "弹跳",
+       "跳",
+       "蹦跳",
+       "弹韧的",
+       "海绵"
+      ],
+      "adj2": [
+       "橡胶",
+       "弹跳的",
+       "有弹性的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "海绵",
+       "博普海绵",
+       "博普颊肉"
+      ],
+      "noun": [
+       "海绵",
+       "博普",
+       "面颊"
+      ]
+     },
+     "Fermented Tongue": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "舌",
+       "言语",
+       "交谈"
+      ],
+      "adj2": [
+       "谈话的",
+       "舌",
+       "言语",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "舌",
+       "言语"
+      ],
+      "noun": [
+       "舌",
+       "言语"
+      ]
+     },
+     "FireBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "糊状的",
+       "滚烫的"
+      ],
+      "adj2": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "糊状的",
+       "烘烤的",
+       "辛辣的",
+       "滚烫的"
+      ],
+      "nounPlural": [
+       "焰须人腺膏",
+       "明火",
+       "焦痕",
+       "吸食",
+       "焰须人"
+      ],
+      "noun": [
+       "焰须人",
+       "焦痕",
+       "吸食"
+      ]
+     },
+     "ElderFireBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "糊状的",
+       "滚烫的"
+      ],
+      "adj2": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "糊状的",
+       "烘烤的",
+       "辛辣的",
+       "滚烫的"
+      ],
+      "nounPlural": [
+       "浓缩焰须人腺膏",
+       "明火",
+       "焦痕",
+       "吸食",
+       "长老焰须人"
+      ],
+      "noun": [
+       "长老焰须人",
+       "焦痕",
+       "吸食"
+      ]
+     },
+     "IceBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "冰冷",
+       "冰",
+       "霰"
+      ],
+      "adj2": [
+       "冰冷",
+       "冰",
+       "霰",
+       "冰冻",
+       "冰封的"
+      ],
+      "nounPlural": [
+       "霰须人腺膏",
+       "冰",
+       "霰",
+       "霰须人"
+      ],
+      "noun": [
+       "霰须人",
+       "冰",
+       "霰"
+      ]
+     },
+     "ElderIceBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "冰冷",
+       "冰",
+       "霰"
+      ],
+      "adj2": [
+       "冰冷",
+       "冰",
+       "霰",
+       "冰冻",
+       "冰封的"
+      ],
+      "nounPlural": [
+       "浓缩霰须人腺膏",
+       "冰",
+       "霰",
+       "长老霰须人"
+      ],
+      "noun": [
+       "长老霰须人",
+       "冰",
+       "霰"
+      ]
+     },
+     "CorrosiveBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "酸液"
+      ],
+      "adj2": [
+       "酸性的",
+       "溶解的",
+       "腐蚀性的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "酸液",
+       "酸须人腺膏",
+       "酸须人"
+      ],
+      "noun": [
+       "酸液",
+       "酸须人"
+      ]
+     },
+     "ElderCorrosiveBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "酸液"
+      ],
+      "adj2": [
+       "酸性的",
+       "溶解的",
+       "腐蚀性的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "酸液",
+       "浓缩酸须人腺膏",
+       "长老酸须人"
+      ],
+      "noun": [
+       "酸液",
+       "长老酸须人"
+      ]
+     },
+     "NormalityBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "虚无"
+      ],
+      "adj2": [
+       "虚无",
+       "无",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "空无",
+       "无",
+       "虚无须人腺膏",
+       "虚无须人"
+      ],
+      "noun": [
+       "空无",
+       "无",
+       "虚无须人"
+      ]
+     },
+     "ElderNormalityBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "虚无"
+      ],
+      "adj2": [
+       "虚无",
+       "无",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "空无",
+       "无",
+       "浓缩虚无须人腺膏",
+       "长老虚无须人"
+      ],
+      "noun": [
+       "空无",
+       "无",
+       "长老虚无须人"
+      ]
+     },
+     "PoisonBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "毒",
+       "毒素"
+      ],
+      "adj2": [
+       "有毒的",
+       "有毒的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "毒",
+       "胆汁须人腺膏",
+       "胆汁须人"
+      ],
+      "noun": [
+       "毒",
+       "毒素",
+       "胆汁须人"
+      ]
+     },
+     "ElderPoisonBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "毒",
+       "毒素"
+      ],
+      "adj2": [
+       "有毒的",
+       "有毒的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "毒",
+       "浓缩胆汁须人腺膏",
+       "长老胆汁须人"
+      ],
+      "noun": [
+       "毒",
+       "毒素",
+       "长老胆汁须人"
+      ]
+     },
+     "SleepBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "睡眠"
+      ],
+      "adj2": [
+       "困倦的",
+       "懒怠的",
+       "昏昏欲睡的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "梦须人腺膏",
+       "梦须人"
+      ],
+      "noun": [
+       "睡眠",
+       "梦须人"
+      ]
+     },
+     "ElderSleepBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "睡眠"
+      ],
+      "adj2": [
+       "困倦的",
+       "懒怠的",
+       "昏昏欲睡的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "浓缩梦须人腺膏",
+       "长老梦须人"
+      ],
+      "noun": [
+       "睡眠",
+       "长老梦须人"
+      ]
+     },
+     "StunBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "震慑",
+       "静止"
+      ],
+      "adj2": [
+       "震慑",
+       "静止",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "静须人腺膏",
+       "静须人"
+      ],
+      "noun": [
+       "静须人"
+      ]
+     },
+     "ElderStunBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "震慑",
+       "静止"
+      ],
+      "adj2": [
+       "震慑",
+       "静止",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "浓缩静须人腺膏",
+       "长老静须人"
+      ],
+      "noun": [
+       "长老静须人"
+      ]
+     },
+     "ConfusionBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "迷宫",
+       "谜题"
+      ],
+      "adj2": [
+       "迷乱的",
+       "令人困惑的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "迷宫须人腺膏",
+       "迷宫须人"
+      ],
+      "noun": [
+       "迷宫须人"
+      ]
+     },
+     "ElderConfusionBreatherGlandPaste": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "迷宫",
+       "谜题"
+      ],
+      "adj2": [
+       "迷乱的",
+       "令人困惑的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "浓缩迷宫须人腺膏",
+       "长老迷宫须人"
+      ],
+      "noun": [
+       "长老迷宫须人"
+      ]
+     },
+     "cider": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "苹果酒",
+       "香料"
+      ],
+      "adj2": [
+       "发酵的",
+       "加香的",
+       "芬芳的",
+       "香料热饮的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "苹果酒",
+       "香料"
+      ],
+      "noun": [
+       "苹果酒",
+       "香料"
+      ]
+     },
+     "convalessence": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "清凉的",
+       "寒冷的",
+       "愈元液",
+       "香膏"
+      ],
+      "adj2": [
+       "清凉的",
+       "寒冷的",
+       "返春的",
+       "疗养的"
+      ],
+      "nounPlural": [
+       "愈元液",
+       "香膏",
+       "灵药"
+      ],
+      "noun": [
+       "愈元液",
+       "香膏",
+       "灵药"
+      ]
+     },
+     "honey": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "甜",
+       "蜜"
+      ],
+      "adj2": [
+       "甜",
+       "蜜糖般的",
+       "加糖的",
+       "黏稠的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "蜜"
+      ],
+      "noun": [
+       "蜜"
+      ]
+     },
+     "salt": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "盐",
+       "卤水"
+      ],
+      "adj2": [
+       "咸香的",
+       "咸涩",
+       "盐渍的",
+       "美味的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "盐"
+      ],
+      "noun": [
+       "盐"
+      ]
+     },
+     "asphalt": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "沥青",
+       "沥青"
+      ],
+      "adj2": [
+       "焦油般的",
+       "黏稠的",
+       "稠厚的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "沥青",
+       "沥青",
+       "胶"
+      ],
+      "noun": [
+       "沥青",
+       "沥青",
+       "胶"
+      ]
+     },
+     "lava": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "熔岩",
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "滚烫的"
+      ],
+      "adj2": [
+       "火烤的",
+       "燃烧",
+       "炙灼的",
+       "烤制的",
+       "岩浆般的",
+       "熔融的",
+       "滚烫的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "熔岩",
+       "岩浆",
+       "吸食"
+      ],
+      "noun": [
+       "熔岩",
+       "岩浆",
+       "吸食"
+      ]
+     },
+     "slime": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "黏液"
+      ],
+      "adj2": [
+       "黏滑的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "黏液"
+      ],
+      "noun": [
+       "黏液"
+      ]
+     },
+     "goo": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "黏稠物"
+      ],
+      "adj2": [
+       "黏糊糊的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "黏稠物"
+      ],
+      "noun": [
+       "黏稠物"
+      ]
+     },
+     "sludge": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "淤泥"
+      ],
+      "adj2": [
+       "泥浆般的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "淤泥"
+      ],
+      "noun": [
+       "淤泥"
+      ]
+     },
+     "ooze": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "渗出"
+      ],
+      "adj2": [
+       "渗出中",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "渗出"
+      ],
+      "noun": [
+       "渗出"
+      ]
+     },
+     "acid": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "酸液"
+      ],
+      "adj2": [
+       "酸性的",
+       "溶解的",
+       "腐蚀性的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "酸液"
+      ],
+      "noun": [
+       "酸液"
+      ]
+     },
+     "algae": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "藻类",
+       "浮渣",
+       "海带",
+       "海藻"
+      ],
+      "adj2": [
+       "藻类的",
+       "浮沫般的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "藻类",
+       "浮渣",
+       "海带",
+       "海藻"
+      ],
+      "noun": [
+       "藻类",
+       "浮渣",
+       "海带",
+       "海藻"
+      ]
+     },
+     "neutronflux": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "中子",
+       "通量"
+      ],
+      "adj2": [
+       "致密的",
+       "不稳定的",
+       "紧实的",
+       "沉重的",
+       "堕落",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "通量",
+       "中子"
+      ],
+      "noun": [
+       "通量",
+       "中子"
+      ]
+     },
+     "cloning": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "两倍",
+       "三倍",
+       "克隆的"
+      ],
+      "adj2": [
+       "克隆的",
+       "均质化的",
+       "烹制两遍的",
+       "烹制三遍的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "克隆药剂"
+      ],
+      "noun": [
+       "克隆药剂"
+      ]
+     },
+     "Starch": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "淀粉"
+      ],
+      "adj2": [
+       "富含淀粉的",
+       "爽利的",
+       "=^:noun.!random=-=spice:cooking.recipeNames.suffix.!random="
+      ],
+      "nounPlural": [
+       "淀粉"
+      ],
+      "noun": [
+       "淀粉"
+      ]
+     },
+     "Lignin": {
+      "adj": [
+       "=^:adj1.!random=",
+       "=^:adj2.!random="
+      ],
+      "adj1": [
+       "木质素"
+      ],
+      "adj2": [
+       "木质素",
+       "新鲜的",
+       "滋养元气的"
+      ],
+      "nounPlural": [
+       "木质素"
+      ],
+      "noun": [
+       "木质素"
+      ]
+     }
+    }
+   },
+   "terrain": {
+    "General": {
+     "someIngredients": [
+      "=^:someEdible.!random=",
+      "=^:someEdible.!random=",
+      "=^:someInedible.!random="
+     ],
+     "someEdible": [
+      "盐",
+      "骨骸",
+      "水域",
+      "薄荷",
+      "藏红花",
+      "芝麻",
+      "碎麦粒",
+      "豆蔻",
+      "茴香",
+      "浆果",
+      "肉桂",
+      "孜然",
+      "葫芦巴",
+      "乌伊尔",
+      "伊拉布拉",
+      "红椒粉",
+      "香草"
+     ],
+     "someInedible": [
+      "泡沫混凝土碎片",
+      "锈",
+      "富混凝土碎片",
+      "义体",
+      "灰烬",
+      "垃圾",
+      "凝结的=tonicName="
+     ],
+     "aIngredients": [
+      "=^:aEdible.!random=",
+      "=^:aEdible.!random=",
+      "=^:aInedible.!random="
+     ],
+     "aEdible": [
+      "一块奶酪",
+      "一片面包皮",
+      "绿豆",
+      "大豆",
+      "鹰嘴豆",
+      "芝麻籽",
+      "茴香籽",
+      "浆果",
+      "杏",
+      "乌伊尔籽",
+      "伊拉布拉根"
+     ],
+     "aInedible": [
+      "小石子",
+      "裂纹透镜",
+      "碎裂微芯片",
+      "烧毁的电容器",
+      "腐蚀电路板",
+      "从=bookName=上撕下的一页",
+      "=gasName=的=spice:commonPhrases.puff.!random="
+     ]
+    },
+    "Saltdunes": {
+     "someIngredients": [
+      "盐",
+      "盐茎",
+      "犬棘",
+      "盐海怪幼虫",
+      "单峰驼商的毛发",
+      "单峰驼商的皮屑",
+      "灰烬",
+      "以萨迦游牧民的毛发"
+     ],
+     "aIngredients": [
+      "曙光滑翔兽的羽毛",
+      "曙光滑翔兽的卵",
+      "犬棘叶",
+      "以萨迦旗帜上的一缕线",
+      "断裂体荆棘",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Saltmarsh": {
+     "someIngredients": [
+      "=^:someEdible.!random=",
+      "=^:someEdible.!random=",
+      "=^:someInedible.!random="
+     ],
+     "aIngredients": [
+      "=^:aEdible.!random=",
+      "=^:aEdible.!random=",
+      "=^:aInedible.!random="
+     ],
+     "someEdible": [
+      "盐渍海草",
+      "卤水",
+      "巫木",
+      "盐",
+      "荧光鱼颊肉",
+      "蜻蜓胸节",
+      "盐茎",
+      "犬棘",
+      "鳄肉",
+      "鱼肉"
+     ],
+     "someInedible": [
+      "盐渍海草",
+      "卤水",
+      "巫木",
+      "盐",
+      "荧光鱼颊肉",
+      "蜻蜓胸节",
+      "盐茎",
+      "犬棘",
+      "鳄肉",
+      "鱼肉"
+     ],
+     "aEdible": [
+      "一片辉垫叶",
+      "一片草叶",
+      "一片轻纱般的翅膀",
+      "一打兰水",
+      "犬棘叶",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ],
+     "aInedible": [
+      "一片辉垫叶",
+      "一片草叶",
+      "一片轻纱般的翅膀",
+      "一打兰水",
+      "犬棘叶",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "DesertCanyon": {
+     "someIngredients": [
+      "锈",
+      "种子唾液",
+      "狗毛",
+      "龟壳刮屑",
+      "厄奎马克斯毛发",
+      "犬棘",
+      "页岩"
+     ],
+     "aIngredients": [
+      "一片页岩",
+      "被情人抛弃者的荆棘",
+      "野猪牙",
+      "变色龙角",
+      "盐蜢翅膀",
+      "辉鸦羽毛",
+      "一片轻纱般的翅膀",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Hills": {
+     "someIngredients": [
+      "页岩",
+      "石灰岩",
+      "尘粉",
+      "黏土",
+      "碎石",
+      "厄奎马克斯毛发",
+      "淤泥",
+      "龟壳",
+      "隐士皮屑",
+      "山羊毛"
+     ],
+     "aIngredients": [
+      "一片草叶",
+      "一片页岩",
+      "变色龙角",
+      "小石子",
+      "一颗卵石",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart=",
+      "豺颚人獠牙"
+     ]
+    },
+    "Flowerfields": {
+     "someIngredients": [
+      "锈",
+      "种子唾液",
+      "狗毛",
+      "龟壳刮屑",
+      "厄奎马克斯毛发",
+      "犬棘",
+      "页岩",
+      "花瓣",
+      "花"
+     ],
+     "aIngredients": [
+      "一片花瓣",
+      "被情人抛弃者的荆棘",
+      "野猪牙",
+      "变色龙角",
+      "盐蜢翅膀",
+      "辉鸦羽毛",
+      "一片轻纱般的翅膀",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Jungle": {
+     "someIngredients": [
+      "锈",
+      "野猪毛",
+      "冰蛙唾液",
+      "白化猿毛",
+      "水蛭血",
+      "甲虫臀兽甲壳",
+      "臭鼬毛",
+      "隐士皮屑",
+      "蛞蝓唾液",
+      "甲虫甲壳"
+     ],
+     "aIngredients": [
+      "一片轻纱般的翅膀",
+      "变色龙角",
+      "一片羊人角屑",
+      "群影叶",
+      "群影根",
+      "齐夫叶",
+      "齐夫根",
+      "希姆鳞叶",
+      "星棕榈叶簇",
+      "希姆鳞根",
+      "刺足虫刺",
+      "蘑菇伞盖",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "DeepJungle": {
+     "someIngredients": [
+      "锈",
+      "食人猿毛发",
+      "晶钢碎片",
+      "花瓣",
+      "丰润酸液",
+      "紫色薄膜",
+      "涂抹的乌莓",
+      "雨云树皮",
+      "星兰粉尘",
+      "移位之气",
+      "泥根"
+     ],
+     "aIngredients": [
+      "一片向日葵花瓣",
+      "那哈什卷须",
+      "那哈什根",
+      "一片羊人角屑",
+      "云冠叶",
+      "棱镜碎片",
+      "一片轻纱般的翅膀",
+      "齐夫叶",
+      "齐夫根",
+      "星棕榈叶簇",
+      "希姆鳞叶",
+      "希姆鳞根",
+      "富混凝土砖",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Ruins": {
+     "someIngredients": [
+      "锈",
+      "废料",
+      "义体",
+      "废弃晶体",
+      "废金属",
+      "废弃电子元件",
+      "纯合金",
+      "野猪毛",
+      "冰蛙唾液",
+      "白化猿毛",
+      "火药",
+      "水蛭血",
+      "甲虫臀兽甲壳",
+      "臭鼬毛",
+      "隐士皮屑",
+      "蛞蝓唾液",
+      "甲虫甲壳"
+     ],
+     "aIngredients": [
+      "烤过的触角",
+      "火枪枪口",
+      "步枪炮塔的枪栓",
+      "光衰减器",
+      "一片轻纱般的翅膀",
+      "变色龙角",
+      "一片羊人角屑",
+      "希姆鳞叶",
+      "希姆鳞根",
+      "刺足虫刺",
+      "蘑菇伞盖",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "BaroqueRuins": {
+     "someIngredients": [
+      "锈",
+      "废料",
+      "义体",
+      "废弃晶体",
+      "废金属",
+      "废弃电子元件",
+      "纯合金",
+      "斯瓦迪姆唾液",
+      "食人猿毛发",
+      "火药",
+      "隐士皮屑",
+      "蛞蝓唾液",
+      "星界皮屑",
+      "紫色薄膜",
+      "涂抹的乌莓",
+      "雨云树皮",
+      "星兰粉尘",
+      "移位之气",
+      "泥根",
+      "晶钢碎片",
+      "冷却液",
+      "防冻剂",
+      "玻璃微管",
+      "四氙玻璃",
+      "灵能残渣",
+      "等离子体",
+      "纳米材料",
+      "光子物质",
+      "矢量化卵石"
+     ],
+     "aIngredients": [
+      "光衰减器",
+      "一片向日葵花瓣",
+      "那哈什卷须",
+      "那哈什根",
+      "一片羊人角屑",
+      "云冠叶",
+      "棱镜碎片",
+      "一片轻纱般的翅膀",
+      "齐夫叶",
+      "齐夫根",
+      "星棕榈叶簇",
+      "希姆鳞叶",
+      "希姆鳞根",
+      "富混凝土砖",
+      "一块磁铁",
+      "一枚微控制器",
+      "完好的电路",
+      "矢量化化石",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "TheSpindle": {
+     "someIngredients": [
+      "锈",
+      "废料",
+      "义体",
+      "废弃晶体",
+      "废金属",
+      "废弃电子元件",
+      "食者皮屑",
+      "纺锤微光",
+      "灰烬",
+      "墓苔碎片",
+      "骨尘",
+      "石化毛发",
+      "随葬品",
+      "消化胶冻",
+      "大理石粉笔",
+      "石棺汁",
+      "骨卤"
+     ],
+     "aIngredients": [
+      "骨",
+      "头骨",
+      "一绺毛发",
+      "一块大理石",
+      "静藤叶",
+      "合成翼",
+      "骨",
+      "焦骨",
+      "莫潘戈鳞片",
+      "电路板",
+      "明胶方块",
+      "指甲",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Water": {
+     "someIngredients": [
+      "鳄肉",
+      "荧光鱼颊肉",
+      "鱼肉",
+      "卤水",
+      "盐渍海草",
+      "狂蝌蚪颊肉"
+     ],
+     "aIngredients": [
+      "群影叶",
+      "群影根",
+      "齐夫叶",
+      "齐夫根",
+      "星棕榈叶簇",
+      "希姆鳞叶",
+      "希姆鳞根",
+      "一片轻纱般的翅膀",
+      "一片辉垫叶",
+      "狂蝌蚪牙",
+      "蜻蜓胸节",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Mountains": {
+     "someIngredients": [
+      "页岩",
+      "石灰岩",
+      "尘粉",
+      "黏土",
+      "碎石",
+      "狗毛",
+      "山羊毛",
+      "淤泥"
+     ],
+     "aIngredients": [
+      "一片页岩",
+      "食人者之骨",
+      "小石子",
+      "一颗卵石",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Fungal": {
+     "someIngredients": [
+      "地衣",
+      "霉菌",
+      "真菌",
+      "黏糊",
+      "黑粉菌",
+      "锈",
+      "淤泥"
+     ],
+     "aIngredients": [
+      "蘑菇茎",
+      "毒伞菌",
+      "蘑菇伞盖",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "BananaGrove": {
+     "someIngredients": [
+      "义体",
+      "锈",
+      "穆萨蕉",
+      "食者皮屑",
+      "纺锤微光",
+      "山羊毛",
+      "大理石粉笔",
+      "植物质",
+      "长臂猿毛发",
+      "阿斯福德石花瓣",
+      "废料",
+      "废弃晶体",
+      "废金属",
+      "废弃电子元件",
+      "磨蚀石"
+     ],
+     "aIngredients": [
+      "香蕉叶",
+      "香蕉皮",
+      "一片草叶",
+      "纺锤碎屑",
+      "一颗卵石",
+      "一片轻纱般的翅膀",
+      "棕榈叶簇",
+      "达卡根",
+      "迪阿卡利普图斯叶",
+      "长臂猿眼",
+      "壁画刮屑",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "LakeHinnom": {
+     "someIngredients": [
+      "藻类",
+      "斯瓦迪姆蛋壳",
+      "海带",
+      "晶钢碎片",
+      "鲈鱼颊肉",
+      "鱼肉",
+      "卤水",
+      "鳗须",
+      "隧道海绵",
+      "斯瓦迪姆口涎",
+      "藻水"
+     ],
+     "aIngredients": [
+      "棱镜鲈",
+      "鲈鱼鳞片",
+      "白色埃什羽毛",
+      "废品元",
+      "废品元脊刺",
+      "海绵",
+      "海绵质团块",
+      "珊瑚指",
+      "晶钢碎片",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "PalladiumReef": {
+     "someIngredients": [
+      "红珊瑚",
+      "蓝珊瑚",
+      "金珊瑚",
+      "钯",
+      "藻类",
+      "斯瓦迪姆蛋壳",
+      "废弃晶体",
+      "废金属",
+      "废弃电子元件",
+      "海带",
+      "晶钢碎片",
+      "鲈鱼颊肉",
+      "鱼肉",
+      "卤水",
+      "鳗须",
+      "隧道海绵",
+      "斯瓦迪姆口涎",
+      "藻水"
+     ],
+     "aIngredients": [
+      "珊瑚虫",
+      "钯支柱",
+      "棱镜鲈",
+      "鲈鱼鳞片",
+      "白色埃什羽毛",
+      "废品元",
+      "废品元脊刺",
+      "海绵",
+      "海绵质团块",
+      "珊瑚指",
+      "晶钢碎片",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "MoonStair": {
+     "someIngredients": [
+      "清凉静电",
+      "晶质花蜜",
+      "稀薄静电",
+      "心灵韵律",
+      "烛石英",
+      "量子绒尘",
+      "代数盐",
+      "石英粉",
+      "六边形",
+      "压缩的思想质料",
+      "熵菌",
+      "故障树叶",
+      "尤尼马克斯尾毛",
+      "梦噬兽姆",
+      "光子",
+      "思想形体",
+      "水晶花"
+     ],
+     "aIngredients": [
+      "水晶花瓣",
+      "心灵韵律卵石",
+      "六边形",
+      "故障树叶",
+      "二十面体",
+      "光子",
+      "变晶",
+      "负数",
+      "虚数",
+      "梦鹪鹩羽毛",
+      "生命之树查娃之叶",
+      "柏拉图立体",
+      "星壳甲片",
+      "噪声草叶片",
+      "=creaturePossessive= =creatureBodyPart=",
+      "=creaturePossessive= =creatureBodyPart="
+     ]
+    },
+    "Brightsheol": {
+     "someIngredients": [
+      "不可判定的感质",
+      "梦尘",
+      "幽暗微光",
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random|pluralize=",
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random|pluralize=",
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random|pluralize="
+     ],
+     "aIngredients": [
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random=",
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random=",
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random=",
+      "抽象形态",
+      "黯淡记忆",
+      "光子",
+      "零件",
+      "字节"
+     ]
+    },
+    "Tzimtzlum": {
+     "someIngredients": [
+      "=spice:adjectives.!random=蛤蜊"
+     ],
+     "aIngredients": [
+      "=spice:adjectives.!random=蛤蜊"
+     ]
+    },
+    "NorthSheva": {
+     "someIngredients": [
+      "闪耀孢子",
+      "闪耀孢子",
+      "星尘",
+      "风蚀的=spice:history.gospels.EarlySultanate.vehicle.!random=残骸",
+      "风蚀的=spice:history.gospels.EarlySultanate.vehicle.!random=残骸",
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random|pluralize=",
+      "观测液",
+      "林间微尘",
+      "大机神之尘",
+      "紫外光",
+      "黑色页岩碎屑",
+      "三角座尘埃",
+      "暗物质",
+      "星舰尾气",
+      "破碎地层",
+      "编织晶钢纸",
+      "迷宫石碎屑",
+      "香炉烟",
+      "蓝移铬尘",
+      "星兰粉尘"
+     ],
+     "aIngredients": [
+      "=spice:commonPhrases.astral.!random= =spice:objectNouns.!random=",
+      "下层岩带刮屑",
+      "=spice:adjectives.!random=种子",
+      "盘形角的刺",
+      "日带面板",
+      "下角刺",
+      "小螃蟹",
+      "玻璃穹顶碎片",
+      "力耦合器",
+      "移位磁体",
+      "占卜角之刺",
+      "全息耦合器",
+      "黄道符号",
+      "闪耀孢子",
+      "闪耀孢子"
+     ]
+    }
+   }
+  },
+  "history=": {
+   "gospels": {
+    "EarlySultanate": {
+     "adjective": [
+      "星形",
+      "格",
+      "时间",
+      "时序",
+      "空间",
+      "宇宙",
+      "至高天",
+      "以太",
+      "代数",
+      "星界",
+      "明亮",
+      "星辰",
+      "高峻的"
+     ],
+     "location": [
+      "=spice:3Dshapes.!random=",
+      "=spice:2Dshapes.!random=",
+      "=spice:instancesOf.specialPlace.!random="
+     ],
+     "vehicle": [
+      "星空飞艇",
+      "星辰=spice:3Dshapes.!random=",
+      "=spice:geometricPatterns.!random= =spice:commonPhrases.ship.!random="
+     ],
+     "worshipObject": [
+      "=^:location.!random=",
+      "=spice:nouns.!random="
+     ],
+     "objectNoun": [
+      "=spice:objectNouns.!random=",
+      "=^:location.!random="
+     ]
+    },
+    "LateSultanate": {
+     "adjective": [
+      "沙",
+      "盐",
+      "尘粉",
+      "大地",
+      "鱼类",
+      "玻璃",
+      "低微",
+      "炉渣",
+      "海",
+      "灰烬"
+     ],
+     "location": [
+      "=spice:placeNouns.!random="
+     ],
+     "vehicle": [
+      "=spice:instancesOf.sandOrSalt.!random= =spice:3Dshapes.!random=",
+      "=spice:geometricPatterns.!random= =spice:commonPhrases.wagon.!random="
+     ],
+     "worshipObject": [
+      "=spice:nouns.!random="
+     ],
+     "objectNoun": [
+      "=spice:objectNouns.!random="
+     ]
+    },
+    "VehicularSabotage": {
+     "EarlySultanate": [
+      "暗中破坏了=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random=",
+      "埋下=spice:instancesOf.explosives.!random=",
+      "改接了=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random="
+     ],
+     "LateSultanate": [
+      "暗中破坏了=spice:history.gospels.LateSultanate.adjective.!random=的=spice:history.gospels.LateSultanate.location.!random=",
+      "埋下=spice:instancesOf.explosives.!random=",
+      "改接了=spice:history.gospels.LateSultanate.adjective.!random=的=spice:history.gospels.LateSultanate.location.!random="
+     ]
+    },
+    "VehicularSabotageResult": {
+     "EarlySultanate": [
+      "内爆",
+      "爆炸",
+      "相位消隐",
+      "撞上=spice:history.gospels.EarlySultanate.location.!random|article=",
+      "汽化",
+      "解体"
+     ],
+     "LateSultanate": [
+      "内爆",
+      "爆炸",
+      "相位消隐",
+      "撞上=spice:history.gospels.LateSultanate.location.!random|article=",
+      "汽化",
+      "解体"
+     ]
+    },
+    "CrashedVehicle": {
+     "EarlySultanate": [
+      "将其撞进=spice:history.gospels.EarlySultanate.location.!random|article="
+     ],
+     "LateSultanate": [
+      "将其撞进=spice:history.gospels.LateSultanate.location.!random|article="
+     ]
+    },
+    "MarriageAllianceResult": {
+     "EarlySultanate": [
+      "准许=group==spice:instancesOf.build.!random==hall=在=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random=内",
+      "废除了=spice:history.gospels.EnemyHostName.EarlySultanate.!random=及其以=spice:commonPhrases.despicable.!random=之俗行=spice:history.gospels.ImmoralPractice.EarlySultanate.!random=的陋习",
+      "使=group=得以开始=spice:history.gospels.CivilizationActivity.EarlySultanate.!random="
+     ],
+     "LateSultanate": [
+      "准许=group==spice:instancesOf.build.!random==hall=在=spice:history.gospels.LateSultanate.adjective.!random=的=spice:history.gospels.LateSultanate.location.!random=内",
+      "废除了=spice:history.gospels.EnemyHostName.LateSultanate.!random=及其以=spice:commonPhrases.despicable.!random=之俗行=spice:history.gospels.ImmoralPractice.LateSultanate.!random=的陋习",
+      "使=group=得以开始=spice:history.gospels.CivilizationActivity.LateSultanate.!random="
+     ]
+    },
+    "CommittedWrongAgainstSultan": {
+     "EarlySultanate": [
+      "=spice:commonPhrases.commandeered.!random= =spice.entity:possessivePronoun= =spice:history.gospels.EarlySultanate.vehicle.!random=",
+      "从=spice.entity:possessivePronoun=的=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random=窃取了=spice:elements.entity@elements[random].materials.!random=",
+      "=spice:instancesOf.seceded.!random=，建立了=spice:placeNouns.!random|capitalize==spice:history.gospels.EarlySultanate.location.!random|capitalize="
+     ],
+     "LateSultanate": [
+      "=spice:commonPhrases.commandeered.!random= =spice.entity:possessivePronoun= =spice:history.gospels.LateSultanate.vehicle.!random=",
+      "从=spice.entity:possessivePronoun=的=spice:history.gospels.LateSultanate.adjective.!random=的=spice:history.gospels.LateSultanate.location.!random=窃取了=spice:elements.entity@elements[random].materials.!random=",
+      "=spice:instancesOf.seceded.!random=，建立了以=spice:placeNouns.!random|capitalize=命名的=spice:history.regions.government.city-states.name.!random="
+     ]
+    },
+    "EnemyHostName": {
+     "EarlySultanate": [
+      "=spice:history.gospels.EarlySultanate.adjective.!random|capitalize= =spice:commonPhrases.cult.!random|capitalize=",
+      "=spice:history.gospels.EarlySultanate.adjective.!random|capitalize=之=spice:history.gospels.EarlySultanate.worshipObject.!random|capitalize==spice:commonPhrases.cult.!random|capitalize="
+     ],
+     "LateSultanate": [
+      "=spice:history.gospels.LateSultanate.adjective.!random|capitalize= =spice:commonPhrases.cult.!random|capitalize=",
+      "=spice:history.gospels.LateSultanate.adjective.!random|capitalize=之=spice:history.gospels.LateSultanate.worshipObject.!random|capitalize==spice:commonPhrases.cult.!random|capitalize="
+     ]
+    },
+    "LostItem": {
+     "EarlySultanate": [
+      "=spice.entity:possessivePronoun=珍爱的=item=被盗贼=spice:history.gospels.EnemyHostName.EarlySultanate.!random=窃走",
+      "=spice.entity:possessivePronoun=珍爱的=item=于盗贼=spice:history.gospels.CommittedWrongAgainstSultan.EarlySultanate.!random=时遗失",
+      "=spice.entity:possessivePronoun=珍爱的=item=在=spice:history.gospels.RitualName.EarlySultanate.!random=仪式期间遗失",
+      "城民忙于=spice:history.gospels.CivilizationActivity.EarlySultanate.!random=之际，=spice.entity:possessivePronoun=珍爱的=item=遗失",
+      "=spice.entity:possessivePronoun=珍爱的=item=在=spice.entity:subjectPronoun==spice:history.gospels.Celebration.EarlySultanate.!random=后遗失"
+     ],
+     "LateSultanate": [
+      "=spice.entity:possessivePronoun=珍爱的=item=被盗贼=spice:history.gospels.EnemyHostName.LateSultanate.!random=窃走",
+      "=spice.entity:possessivePronoun=珍爱的=item=于盗贼=spice:history.gospels.CommittedWrongAgainstSultan.LateSultanate.!random=时遗失",
+      "于=spice:history.gospels.RitualName.LateSultanate.!random=之仪式中，失落了=spice.entity:possessivePronoun=珍爱的=item=",
+      "城中百姓正忙于=spice:history.gospels.CivilizationActivity.LateSultanate.!random=时，失落了=spice.entity:possessivePronoun=珍爱的=item=",
+      "=spice.entity:subjectPronoun= =spice:history.gospels.Celebration.LateSultanate.!random=之后，失落了=spice.entity:possessivePronoun=珍爱的=item="
+     ]
+    },
+    "ImmoralPractice": {
+     "EarlySultanate": [
+      "=spice:history.gospels.EarlySultanate.worshipObject.!random= =spice:commonPhrases.worship.!random="
+     ],
+     "LateSultanate": [
+      "=spice:history.gospels.LateSultanate.worshipObject.!random= =spice:commonPhrases.worship.!random="
+     ]
+    },
+    "HumblePractice": {
+     "EarlySultanate": [
+      "=spice:instancesOf.careFor.!random= =spice:history.gospels.EarlySultanate.objectNoun.!random|pluralize="
+     ],
+     "LateSultanate": [
+      "=spice:instancesOf.careFor.!random= =spice:history.gospels.LateSultanate.objectNoun.!random|pluralize="
+     ]
+    },
+    "RitualName": {
+     "EarlySultanate": [
+      "=spice:history.gospels.EarlySultanate.adjective.!random|capitalize= =spice:history.gospels.EarlySultanate.worshipObject.!random|capitalize="
+     ],
+     "LateSultanate": [
+      "=spice:history.gospels.LateSultanate.adjective.!random|capitalize= =spice:history.gospels.LateSultanate.worshipObject.!random|capitalize="
+     ]
+    },
+    "ObjectFoundBy": {
+     "EarlySultanate": [
+      "=spice:commonPhrases.rescued.!random=自晶钢高炉",
+      "由翡翠钳撬出",
+      "=spice:commonPhrases.found.!random=于=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random=之中",
+      "=spice:commonPhrases.found.!random=于=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random=之中",
+      "自滑流中捞出",
+      "在早期宇宙的虚空之巅冷却成形"
+     ],
+     "LateSultanate": [
+      "由拾海者自垃圾海中=spice:commonPhrases.rescued.!random=",
+      "=spice:commonPhrases.wrapped.!random=于乌纤之中",
+      "自页岩倾覆尖塔的阈限层中夺得",
+      "自鲈鱼水族箱中=spice:commonPhrases.rescued.!random=",
+      "于市政车床上打磨",
+      "=spice:commonPhrases.wrapped.!random=于原初丝之中",
+      "自尖塔火海中=spice:commonPhrases.rescued.!random="
+     ]
+    },
+    "Celebration": {
+     "EarlySultanate": [
+      "攀上晶钢高炉",
+      "触及=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random=",
+      "攀上=spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.location.!random=",
+      "横渡滑流"
+     ],
+     "LateSultanate": [
+      "攀上燃烧的钟楼",
+      "将=spice:objectNouns.!random=投入垃圾海",
+      "自页岩倾覆尖塔的阈限层中夺得",
+      "砸毁鲈鱼水族箱",
+      "以原初丝缠身",
+      "点燃尖塔之火"
+     ]
+    },
+    "CivilizationActivity": {
+     "EarlySultanate": [
+      "证明晦奥定理",
+      "=spice:randomGerund.!random==spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.worshipObject.!random=",
+      "=spice:randomGerund.!random==spice:history.gospels.EarlySultanate.adjective.!random=的=spice:history.gospels.EarlySultanate.worshipObject.!random=",
+      "逆转滑流之势"
+     ],
+     "LateSultanate": [
+      "在垃圾海中打捞",
+      "从页岩倾覆的尖塔中夺取珍宝",
+      "点燃尖塔之火",
+      "=spice:randomGerund.!random==spice:history.gospels.LateSultanate.adjective.!random=的=spice:history.gospels.LateSultanate.worshipObject.!random=",
+      "=spice:randomGerund.!random==spice:history.gospels.LateSultanate.adjective.!random=的=spice:history.gospels.LateSultanate.worshipObject.!random=",
+      "=spice:randomGerund.!random==spice:history.gospels.LateSultanate.adjective.!random=的=spice:history.gospels.LateSultanate.worshipObject.!random="
+     ]
+    }
+   },
+   "relics": {
+    "names": [
+     "=spice:itemTypes.$itemType.!random=之=spice:adjectives.!random==spice:elements.$element.nouns.!random=",
+     "=spice:itemTypes.$itemType.!random=之=spice:elements.$element.adjectives.!random==spice:nouns.!random=",
+     "=spice:itemTypes.$itemType.!random=之=spice:adjectives.!random==spice:elements.$element.@professions.!random=",
+     "=creature.a.name's= =spice:elements.$element.adjectives.!random= =spice:itemTypes.$itemType.!random=",
+     "=creature.a.name's|strip= =spice:elements.$element.adjectives.!random= =spice:itemTypes.$itemType.!random=",
+     "=creature.a.name's|strip= =spice:itemTypes.$itemType.!random=",
+     "=spice:nouns.!random=-=spice:nouns.!random=",
+     "=spice:adjectives.!random= =spice:nouns.!random="
+    ]
+   },
+   "regions": {
+    "names": [
+     "=name=",
+     "=^:namesWithFlair.!random="
+    ],
+    "namesWithFlair": [
+     "=basename=尖塔",
+     "=basename=村庄",
+     "=basename=圣龛",
+     "=basename=钟楼",
+     "=basename=网城",
+     "新=basename=",
+     "旧=basename=",
+     "=basename=石窟",
+     "=basename=洞窟",
+     "=basename=巢穴",
+     "=basename=洼地",
+     "=basename=沙丘",
+     "=basename=纠结地",
+     "=basename=沼泽",
+     "=basename=结"
+    ],
+    "terrain": {
+     "Saltdunes": {
+      "over": [
+       "横亘于平原之上",
+       "隐于毒盐狂风之下",
+       "埋于新月沙丘之下"
+      ]
+     },
+     "Tremblezone": {
+      "over": [
+       "横亘于平原之上",
+       "隐于毒盐狂风之下",
+       "埋于新月沙丘之下"
+      ]
+     },
+     "Saltmarsh": {
+      "over": [
+       "笼罩在点点萤火之中",
+       "缠绕着盐沼草",
+       "在静谧的沼泽水中"
+      ],
+      "creatureRegionAdjective": [
+       "沼泽",
+       "卤水",
+       "百合",
+       "林间空地",
+       "泥",
+       "咸水",
+       "莎草"
+      ],
+      "creatureRegionNoun": [
+       "沼泽居民",
+       "盐沼潜行者",
+       "食百合者",
+       "沼泽食者",
+       "食泥者"
+      ],
+      "creatureAlteredLocale": [
+       "沼泽"
+      ],
+      "creatureAlteredCast": [
+       "一身盐卤之色"
+      ],
+      "baseColor": [
+       "黄色",
+       "w",
+       "绿色"
+      ],
+      "pluralRegionName": [
+       "沼泽地"
+      ],
+      "regionCrop": [
+       "水藤"
+      ]
+     },
+     "Watervine": {
+      "over": [
+       "笼罩在点点萤火之中",
+       "缠绕着盐沼草",
+       "在静谧的沼泽水中"
+      ]
+     },
+     "DesertCanyon": {
+      "over": [
+       "深藏于大地裂隙之中",
+       "隐于迷宫般的阴影下",
+       "栖于崩塌的页岩之中"
+      ],
+      "creatureRegionAdjective": [
+       "峡谷",
+       "壕沟",
+       "山谷",
+       "峭壁",
+       "峡谷"
+      ],
+      "creatureRegionNoun": [
+       "峡谷居民",
+       "食页岩者",
+       "崖生者",
+       "坡地居民",
+       "侵蚀者"
+      ],
+      "creatureAlteredLocale": [
+       "峡谷"
+      ],
+      "creatureAlteredCast": [
+       "一身页岩之色"
+      ],
+      "baseColor": [
+       "黄色",
+       "黄色",
+       "w",
+       "w",
+       "红色"
+      ],
+      "pluralRegionName": [
+       "沙漠峡谷"
+      ],
+      "regionCrop": [
+       "星苹果树"
+      ]
+     },
+     "Hills": {
+      "over": [
+       "栖于盐粒闪烁的山丘之间",
+       "身处一道裂谷",
+       "沐浴于高悬的盐日之下"
+      ],
+      "creatureRegionAdjective": [
+       "丘陵",
+       "土丘",
+       "日",
+       "石块",
+       "岩石的",
+       "小山岗"
+      ],
+      "creatureRegionNoun": [
+       "食石灰者",
+       "山丘居民",
+       "日晒者",
+       "食石者",
+       "山丘之子"
+      ],
+      "creatureAlteredLocale": [
+       "山丘"
+      ],
+      "creatureAlteredCast": [
+       "一身岩石之色"
+      ],
+      "baseColor": [
+       "黄色",
+       "w",
+       "Y"
+      ],
+      "pluralRegionName": [
+       "丘陵"
+      ],
+      "regionCrop": [
+       "星苹果树"
+      ]
+     },
+     "Flowerfields": {
+      "over": [
+       "横亘于虹彩沃土之上",
+       "坐落在忍冬花甸上",
+       "穿过落英遍地的草原"
+      ]
+     },
+     "Jungle": {
+      "over": [
+       "隐于令人窒息的冠层之下",
+       "根须缠绕，直陷大地",
+       "猿啼于铬墙间回荡"
+      ]
+     },
+     "DeepJungle": {
+      "over": [
+       "隐于令人窒息的冠层之下",
+       "环绕着根须迷宫",
+       "藏身于中空的天穹梁中"
+      ]
+     },
+     "RiverSvy": {
+      "over": [
+       "为斯维河奔流所淹没",
+       "被盐水侵蚀腐朽",
+       "位于巨人铬骸之下"
+      ]
+     },
+     "Water": {
+      "over": [
+       "为河水奔流所淹没",
+       "被盐水侵蚀腐朽",
+       "位于巨人铬骸之下"
+      ]
+     },
+     "Fungal": {
+      "over": [
+       "藏身于孢子星云之中",
+       "穿行于原始汤液的小溪间",
+       "隐于万花筒般的蘑菇之下"
+      ]
+     },
+     "BananaGrove": {
+      "over": [
+       "为河水奔流所淹没",
+       "被盐水侵蚀腐朽",
+       "位于巨人铬骸之下"
+      ]
+     },
+     "LakeHinnom": {
+      "over": [
+       "藻类繁茂",
+       "珊瑚如指般穿插其间",
+       "穿过多孔的海绵床"
+      ]
+     },
+     "PalladiumReef": {
+      "over": [
+       "藏于珊瑚虫遍布的藤架下",
+       "珊瑚如指般穿插其间",
+       "如褶皱般汇入珊瑚迷宫"
+      ]
+     },
+     "MoonStair": {
+      "over": [
+       "穿过水晶迷宫",
+       "被温热的静电池环绕",
+       "坐落于黑色大理石林间",
+       "四周回荡着嗡鸣"
+      ]
+     },
+     "Ruins": {
+      "over": [
+       "藏于铬拱门下",
+       "穿过交织成结的锈痕",
+       "封于电路构成的石棺之中"
+      ]
+     },
+     "BaroqueRuins": {
+      "over": [
+       "藏于晶钢栏杆下",
+       "位于星兰檐饰之上",
+       "藏于隐秘的浮雕之后",
+       "封于电路构成的石棺之中"
+      ]
+     },
+     "Mountains": {
+      "over": [
+       "高踞于险峻堡垒之巅",
+       "俯瞰毒林",
+       "凿刻于石灰岩中"
+      ]
+     },
+     "OpalDuskwaters": {
+      "over": [
+       "为欧珀河奔流所淹没",
+       "被盐水侵蚀腐朽",
+       "位于巨人铬骸之下"
+      ]
+     },
+     "RiverOpal": {
+      "over": [
+       "为欧珀河奔流所淹没",
+       "被盐水侵蚀腐朽",
+       "位于巨人铬骸之下"
+      ]
+     },
+     "RiverYonth": {
+      "over": [
+       "为扬特河奔流所淹没",
+       "被盐水侵蚀腐朽",
+       "位于巨人铬骸之下"
+      ]
+     },
+     "MountainStream": {
+      "over": [
+       "为冲积洪流所淹没",
+       "被盐水侵蚀腐朽",
+       "位于巨人铬骸之下"
+      ]
+     },
+     "RustWell": {
+      "over": [
+       "藏于铬拱门下",
+       "穿过交织成结的锈痕",
+       "封于电路构成的石棺之中"
+      ]
+     }
+    },
+    "government": {
+     "@types": [
+      "city-states",
+      "precincts",
+      "districts",
+      "quarters",
+      "provinces",
+      "city-states",
+      "city-states"
+     ],
+     "city-states": {
+      "name": [
+       "专制政体",
+       "共和国",
+       "城邦",
+       "君主制",
+       "贵族政体",
+       "寡头政体",
+       "民主",
+       "神权政体"
+      ],
+      "nameArticle": "此",
+      "of": "的"
+     },
+     "precincts": {
+      "name": [
+       "辖区"
+      ],
+      "nameArticle": "",
+      "of": ""
+     },
+     "districts": {
+      "name": [
+       "区"
+      ],
+      "nameArticle": "",
+      "of": ""
+     },
+     "quarters": {
+      "name": [
+       "坊"
+      ],
+      "nameArticle": "",
+      "of": ""
+     },
+     "provinces": {
+      "name": [
+       "行省"
+      ],
+      "nameArticle": "",
+      "of": ""
+     }
+    },
+    "topology": {
+     "@types": [
+      "random"
+     ],
+     "random": {}
+    },
+    "organizingPrinciple": {
+     "@types": [
+      "function",
+      "wealth",
+      "profession",
+      "function",
+      "religion"
+     ],
+     "profession": {
+      "name": "职业",
+      "@types": [
+       "=spice:professions.@random="
+      ],
+      "generic": {
+       "thingsTheyDid": [
+        "=spice:professions.entity@organizingPrincipleType.plural=各自闭门钻研技艺",
+        "=spice:professions.entity@organizingPrincipleType.plural=聚集一堂切磋技艺"
+       ]
+      },
+      "_staticfailureredirect": "spice.history.regions.organizingPrinciple.profession.generic.thingsTheyDid.!random"
+     },
+     "function": {
+      "@types": [
+       "gardens",
+       "pools",
+       "museums",
+       "college",
+       "waste",
+       "consulate",
+       "market",
+       "forums",
+       "residential",
+       "theaters",
+       "food storage",
+       "pipe hub",
+       "prison",
+       "barracks",
+       "temple",
+       "tavern"
+      ],
+      "gardens": {
+       "titles": [
+        "花园",
+        "植物园",
+        "果园"
+       ],
+       "thingsTheyDid": [
+        "食者赏玩奇异花木"
+       ]
+      },
+      "pools": {
+       "titles": [
+        "湖",
+        "弹韧的",
+        "池塘"
+       ],
+       "thingsTheyDid": [
+        "静谧池塘抚慰了食者的心灵"
+       ]
+      },
+      "museums": {
+       "titles": [
+        "博物馆",
+        "图书馆"
+       ],
+       "thingsTheyDid": [
+        "艺术品被搜集珍藏"
+       ]
+      },
+      "college": {
+       "titles": [
+        "书院",
+        "学园",
+        "神学院"
+       ],
+       "thingsTheyDid": [
+        "食者在此开展玄奥研究"
+       ]
+      },
+      "waste": {
+       "titles": [
+        "废物场",
+        "垃圾",
+        "浮渣"
+       ],
+       "thingsTheyDid": [
+        "垃圾经储存、压实，再予以原子化"
+       ]
+      },
+      "consulate": {
+       "titles": [
+        "领事馆",
+        "大使馆"
+       ],
+       "thingsTheyDid": [
+        "食者与异于己身的文化交流往来"
+       ]
+      },
+      "market": {
+       "titles": [
+        "市场"
+       ],
+       "thingsTheyDid": [
+        "奇珍异物在戴着手套的双手间易手"
+       ]
+      },
+      "forums": {
+       "titles": [
+        "论坛"
+       ],
+       "thingsTheyDid": [
+        "众人以争辩和唇舌较量相搏"
+       ]
+      },
+      "residential": {
+       "titles": [
+        "居所",
+        "住所"
+       ],
+       "thingsTheyDid": [
+        "食者在此栖居与梦想"
+       ]
+      },
+      "theaters": {
+       "titles": [
+        "剧院",
+        "竞技场",
+        "音乐厅",
+        "圆形剧场",
+        "体育馆"
+       ],
+       "thingsTheyDid": [
+        "众人演绎着各自的宇宙剧本"
+       ]
+      },
+      "food storage": {
+       "titles": [
+        "谷仓",
+        "粮仓"
+       ],
+       "thingsTheyDid": [
+        "麦子渐渐枯萎"
+       ]
+      },
+      "pipe hub": {
+       "titles": [
+        "管道",
+        "水利设施",
+        "水渠"
+       ],
+       "thingsTheyDid": [
+        "迷宫般的管道运送着食者的奴隶"
+       ]
+      },
+      "prison": {
+       "titles": [
+        "监狱"
+       ],
+       "thingsTheyDid": [
+        "有些不幸者遭到边缘化，终被遗忘"
+       ]
+      },
+      "barracks": {
+       "titles": [
+        "兵营",
+        "驻军营地"
+       ],
+       "thingsTheyDid": [
+        "士兵踏着哀歌，行军至阵亡者的墓前"
+       ]
+      },
+      "temple": {
+       "titles": [
+        "神殿",
+        "神龛",
+        "会幕"
+       ],
+       "thingsTheyDid": [
+        "食者向陌生诸神献祭"
+       ]
+      },
+      "tavern": {
+       "titles": [
+        "酒馆",
+        "酒肆",
+        "棍棒"
+       ],
+       "thingsTheyDid": [
+        "骰子掷出，众人相互嗤笑"
+       ]
+      }
+     },
+     "wealth": {
+      "@types": [
+       "poor",
+       "middle-class",
+       "rich"
+      ],
+      "poor": {
+       "titles": [
+        "贫民窟",
+        "隔都",
+        "街区"
+       ],
+       "titleArticle": "此",
+       "thingsTheyDid": [
+        "穷人挤作一团，做着梦",
+        "铁皮搭在木杆上，为穷人遮风避雨"
+       ]
+      },
+      "middle-class": {
+       "titles": [
+        "家园田庄",
+        "栖所",
+        "街坊"
+       ],
+       "titleArticle": "此",
+       "thingsTheyDid": [
+        "中产阶级闲逛而过，嗤笑不已",
+        "街道纵横交错，皆成直角"
+       ]
+      },
+      "rich": {
+       "titles": [
+        "庄园宅邸",
+        "大厅",
+        "宫殿",
+        "庄园",
+        "城堡"
+       ],
+       "titleArticle": " ",
+       "thingsTheyDid": [
+        "富人将自己锁在高塔之中",
+        "富人建起华美的纪念碑颂扬自己"
+       ]
+      }
+     },
+     "religion": {
+      "@types": [
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "=spice:elements.@random=",
+       "sultans",
+       "godless",
+       "godless",
+       "godless"
+      ],
+      "sultans": {
+       "nouns": [
+        "苏丹"
+       ],
+       "thingsTheyDid": [
+        "食者将昔日苏丹封为圣者，歌颂其功德"
+       ]
+      },
+      "godless": {
+       "thingsTheyDid": [
+        "食者向诸神的神龛吐唾沫"
+       ]
+      },
+      "generic": {
+       "thingsTheyDid": [
+        "食者使=spice.entity:orgPrincipleStash=成为圣物",
+        "食者颂扬=spice.entity:orgPrincipleStash=的神性"
+       ]
+      },
+      "_staticfailureredirect": "spice.history.regions.organizingPrinciple.religion.generic.thingsTheyDid.!random"
+     }
+    }
+   }
+  },
+  "satellitePower=": {
+   "occlusionReasons": [
+    "轨道碎屑",
+    "玻璃风暴",
+    "一群飞鸟",
+    "酸雨",
+    "漂移薄膜",
+    "不明的异常现象"
+   ]
+  },
+  "friendOrFoe=": {
+   "default": {
+    "hateReasons": [
+     "侮辱他们的=spice:nouns.!random|pluralize=",
+     "偷走他们珍视的传家宝",
+     "杀害他们的一位首领",
+     "吃掉了他们的一个幼崽",
+     "质疑他们的信仰",
+     "骗他们分享淡水",
+     "某个谁也记不起的缘故",
+     "在他们的田地里播撒盐粒",
+     "驳倒一条著名定理",
+     "掘开他们祖先的遗骸",
+     "焚毁他们的一座村庄",
+     "在骰戏中屡屡胜过他们",
+     "把蛇放进他们的一处营地",
+     "贬损一位著名诗人",
+     "毒害他们的淡水",
+     "冒充他们的一位首领",
+     "率领一支劫掠队袭击他们的一处营地",
+     "给他们做一顿腐臭的饭菜",
+     "讲下流笑话",
+     "点燃烽火，向他们的敌人示警",
+     "拒绝让他们进入当地的图书馆",
+     "把一幅标有他们秘库位置的地图卖给冒险者",
+     "吃光他们所有的果子",
+     "偷听他们的秘密仪式",
+     "重写他们最喜爱的机器人的程序",
+     "搅毁乌特·雅拉·乌克斯的节庆",
+     "焚烧他们一位首领的肖像草人",
+     "给他们同族中的一人算出不吉的命盘",
+     "质疑月亮的起源",
+     "崇拜一位熵增极盛的存在"
+    ],
+    "likeReasons": [
+     "赞美他们的=spice:nouns.!random|pluralize=",
+     "与他们分享淡水",
+     "在晚宴上让他们宾至如归",
+     "救起一名溺水的幼者",
+     "长得像他们崇拜的偶像",
+     "尊重墓地的神圣",
+     "崇拜相同的神祇",
+     "出席他们首领的葬礼",
+     "揭穿一场针对他们的阴谋",
+     "写下一首动人的诗",
+     "讲下流笑话",
+     "为他们烹一席美馔",
+     "给他们同族中的一人算出吉利的命盘",
+     "忠实改编他们的一出戏",
+     "将沥青倾泻在他们的一名仇敌身上",
+     "阐明《色彩圣歌》的含义",
+     "重写他们最厌恶的机器人的程序",
+     "热切庆祝至日",
+     "在玻璃风暴中为他们提供庇护"
+    ]
+   },
+   "HEB": {
+    "hateReasons": [
+     "发明无理数",
+     "摧毁那些=spice:adjectives.!random=的数字",
+     "将=dimension=梦化为现实",
+     "发明=spice:nouns.!random=这一概念",
+     "调换人们对=spice:objectNouns.!random=与=spice:objectNouns.!random=的认知",
+     "将一隅时空扭曲成=spice:history.gospels.EarlySultanate.location.!random="
+    ],
+    "likeReasons": [
+     "发明无理数",
+     "摧毁那些=spice:adjectives.!random=的数字",
+     "将=dimension=梦化为现实",
+     "发明=spice:nouns.!random=这一概念",
+     "调换人们对=spice:objectNouns.!random=与=spice:objectNouns.!random=的认知",
+     "将一隅时空扭曲成=spice:history.gospels.EarlySultanate.location.!random="
+    ]
+   },
+   "_failureredirect": "spice.friendOrFoe.default"
+  }
+ }
+}

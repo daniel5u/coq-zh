@@ -1,0 +1,22 @@
+Task: localize English text that Caves of Qud builds in C# code (not in the XML string tables) into Simplified Chinese, as runtime templates.
+Work from the repository root. Read docs/STYLE_GUIDE.md and docs/glossary.tsv first (terminology must match; mutation/skill/stat names: run `python3 tools/lookup.py "<term>"` to reuse existing translations, e.g. Stinger→毒刺, Quickness→迅捷, AV→护甲值, DV→闪避值).
+
+Input: the file list work/runtime_lists/{LIST} — paths relative to research/decompiled/. For each C# file, read the methods that produce player-visible text: GetDescription(), GetLevelText(int Level), GetBearerDescription, GetDetails(), and helper methods/fields they call (follow calls into the same file or obvious helpers). SKIP strings that are already passed through _S(...), _T(...), .InlineLocalizationMatch(...), or come from XML (DisplayName, GetDisplayName()); those are translated elsewhere.
+
+For every distinct LINE of text the method can output (text is split on "\n"), write one template line to work/runtime/{LIST}.tsv:
+  ENGLISH<TAB>CHINESE
+Template rules (critical — matching is exact after normalisation):
+- Reconstruct the exact runtime English line, including punctuation, spaces and markup like {{rules|...}}, {{c|→}}, {{r|♥}}.
+- Replace EVERY number that is computed or may vary — including its leading +/- sign, decimals, and dice expressions like 1d6, 2d3+2 — with a single '#'. E.g. "+20% chance" → "#% chance"; "{{rules|1d6}}" → "{{rules|#}}". Fixed literal numbers that never vary may also be '#' (safer).
+- Replace any non-numeric variable text (an adjective from GetAdjective(), a creature/item name, a stat name chosen at runtime, a pluralized word) with {0}, {1}, ... in order of appearance.
+- The Chinese side must contain exactly the same number of '#' (you may use '#1', '#2' to reorder numbers) and the same {n} markers, and the same markup tags.
+- If a line has several variants (if/else branches, singular/plural like "1 turn"/"# turns"), write each variant as its own line.
+- Lines that are pure numbers/markup: skip.
+- One template per line; no header. Use \n inside a field only if the runtime string has no line break there (normally not needed).
+Example (Stinger):
+You bear a tail with a stinger that delivers {0} venom to your enemies.	你生有一条带毒刺的尾巴，能向敌人注入{0}毒液。
+#% chance on melee attack to sting your opponent ({{c|→}}{{rules|#}} {{r|♥}}{{rules|#}})	近战攻击时有#%几率蛰刺对手（{{c|→}}{{rules|#}} {{r|♥}}{{rules|#}}）
+Stinger is a long blade and can only penetrate once.	毒刺视为长刃，且只能穿透一次。
+Venom confuses opponents for {{rules|#}} rounds	毒液使对手陷入混乱，持续{{rules|#}}回合
+Style: concise, precise game-rules Chinese (数值说明用规范术语), but flavour sentences ("You bear a tail...") in the project's elegant register.
+Your first response must be a tool call. Do not reply until every file in your list is processed and the .tsv is written. Final reply: number of files and templates.

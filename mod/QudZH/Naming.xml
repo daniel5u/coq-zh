@@ -1,0 +1,4409 @@
+<?xml version='1.0' encoding='utf-8'?>
+<naming Lang="zh" Encoding="utf-8">
+  <namestyles HyphenSeparator="-" NameSeparator="·">
+    <namestyle Name="Qudish" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="法" />
+        <prefix Name="哈" />
+        <prefix Name="伊" Weight="2" />
+        <prefix Name="卡" />
+        <prefix Name="基" />
+        <prefix Name="库" />
+        <prefix Name="马" />
+        <prefix Name="梅" />
+        <prefix Name="莫" />
+        <prefix Name="穆" />
+        <prefix Name="纳" />
+        <prefix Name="尼" />
+        <prefix Name="努" />
+        <prefix Name="尼" />
+        <prefix Name="奥" />
+        <prefix Name="克" />
+        <prefix Name="舒" />
+        <prefix Name="希" />
+        <prefix Name="西" />
+        <prefix Name="西" />
+        <prefix Name="塔" />
+        <prefix Name="蒂" />
+        <prefix Name="蒂" />
+        <prefix Name="乌" />
+        <prefix Name="乌乌" />
+        <prefix Name="伊" />
+        <prefix Name="亚" />
+        <prefix Name="伊" />
+        <prefix Name="伊伊" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-2">
+        <infix Name="加" />
+        <infix Name="梅" />
+        <infix Name="莫" />
+        <infix Name="穆" />
+        <infix Name="穆" />
+        <infix Name="穆乌" />
+        <infix Name="拉" />
+        <infix Name="罗" />
+        <infix Name="鲁" />
+        <infix Name="鲁" />
+        <infix Name="鲁乌" />
+        <infix Name="希" />
+        <infix Name="什拉" />
+        <infix Name="什里" />
+        <infix Name="什罗" />
+        <infix Name="什鲁" />
+        <infix Name="沙" />
+        <infix Name="肖" />
+        <infix Name="舒" />
+        <infix Name="尤" Weight="2" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="巴斯" />
+        <postfix Name="德" />
+        <postfix Name="吉尔" />
+        <postfix Name="卡斯" />
+        <postfix Name="卡特" />
+        <postfix Name="拉" />
+        <postfix Name="姆" />
+        <postfix Name="梅特" />
+        <postfix Name="米尔" />
+        <postfix Name="穆特" />
+        <postfix Name="克" />
+        <postfix Name="卡特" />
+        <postfix Name="拉克" />
+        <postfix Name="雷姆" />
+        <postfix Name="罗克" />
+        <postfix Name="舒姆" />
+        <postfix Name="舒尔" />
+        <postfix Name="特普" />
+        <postfix Name="温" />
+        <postfix Name="乌尔" />
+        <postfix Name="温乌" />
+        <postfix Name="瓦尔" />
+        <postfix Name="韦尔" />
+        <postfix Name="乌尔" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Qudish Site" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="阿拉" />
+        <prefix Name="比" />
+        <prefix Name="达" />
+        <prefix Name="杜" />
+        <prefix Name="埃卡" />
+        <prefix Name="哈" />
+        <prefix Name="伊" />
+        <prefix Name="卡" />
+        <prefix Name="基" />
+        <prefix Name="马" />
+        <prefix Name="米" />
+        <prefix Name="纳" />
+        <prefix Name="卡" />
+        <prefix Name="萨" />
+        <prefix Name="沙" />
+        <prefix Name="谢" />
+        <prefix Name="舒" />
+        <prefix Name="苏" />
+        <prefix Name="塔" />
+        <prefix Name="特" />
+        <prefix Name="图" />
+        <prefix Name="乌" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="阿拉" />
+        <infix Name="阿佐" />
+        <infix Name="巴" />
+        <infix Name="比" />
+        <infix Name="加" />
+        <infix Name="加" />
+        <infix Name="伊利" />
+        <infix Name="姆里" />
+        <infix Name="内" />
+        <infix Name="拉" />
+        <infix Name="尔切" />
+        <infix Name="尔卡" />
+        <infix Name="尔克" />
+        <infix Name="尔西" />
+        <infix Name="尔瓦" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="巴勒" />
+        <postfix Name="德" />
+        <postfix Name="凯什" />
+        <postfix Name="克" />
+        <postfix Name="基什" />
+        <postfix Name="莱普" />
+        <postfix Name="利勒" />
+        <postfix Name="马斯" />
+        <postfix Name="米什" />
+        <postfix Name="穆" />
+        <postfix Name="莫尔" />
+        <postfix Name="姆罗德" />
+        <postfix Name="穆尔" />
+        <postfix Name="尼普" />
+        <postfix Name="纳" />
+        <postfix Name="帕德" />
+        <postfix Name="帕" />
+        <postfix Name="帕尔" />
+        <postfix Name="皮尔" />
+        <postfix Name="普尔" />
+        <postfix Name="尔" />
+        <postfix Name="鲁克" />
+        <postfix Name="什" />
+        <postfix Name="尚" />
+        <postfix Name="舒尔" />
+        <postfix Name="塔拉" />
+        <postfix Name="图姆" />
+        <postfix Name="瓦" />
+        <postfix Name="武" />
+        <postfix Name="万" />
+        <postfix Name="瓦尔" />
+        <postfix Name="佐尔" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Qudish Banana Grove Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=香蕉林" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Baroque Ruins Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=巴洛克遗迹" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Deep Jungle Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=深密丛林" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Desert Canyon Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=荒漠峡谷" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Flower Fields Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=花野" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Fungal Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=真菌之地" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Hills Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=丘陵" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Jungle Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=丛林" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Lake Hinnom Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=水泽" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Moon Stair Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=月阶" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Mountains Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=群山" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Palladium Reef Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=钯礁" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Ruins Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=遗迹" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Salt Dunes Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=盐丘" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Salt Marsh Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=盐沼" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Spindle Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=纺锤" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qudish Water Site" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=水泽" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Eater" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="安蒂" />
+        <prefix Name="阿尔塔" />
+        <prefix Name="巴" />
+        <prefix Name="达" />
+        <prefix Name="达里" />
+        <prefix Name="德贾" />
+        <prefix Name="吉" />
+        <prefix Name="伊" />
+        <prefix Name="科" />
+        <prefix Name="库" />
+        <prefix Name="梅" />
+        <prefix Name="米" />
+        <prefix Name="穆" />
+        <prefix Name="纳" />
+        <prefix Name="奥" />
+        <prefix Name="奥罗" />
+        <prefix Name="波利" />
+        <prefix Name="克" />
+        <prefix Name="沙" />
+        <prefix Name="苏" />
+        <prefix Name="乌" />
+        <prefix Name="乌乌" />
+        <prefix Name="凯尔" />
+        <prefix Name="伊" />
+        <prefix Name="亚" />
+        <prefix Name="尤" />
+        <prefix Name="伊伊" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="莱" />
+        <infix Name="拉" />
+        <infix Name="斯里" />
+        <infix Name="凯尔" />
+        <infix Name="尤" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="达特斯" />
+        <postfix Name="多克特" />
+        <postfix Name="杜克特" />
+        <postfix Name="希姆" />
+        <postfix Name="马斯普" />
+        <postfix Name="梅德" />
+        <postfix Name="帕特尔" />
+        <postfix Name="普尔" />
+        <postfix Name="拉德" />
+        <postfix Name="拉姆" />
+        <postfix Name="塞" />
+        <postfix Name="希德" />
+        <postfix Name="希尔" />
+        <postfix Name="塔法" />
+        <postfix Name="凯斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Ekuemekiyyen" Format="TitleCase" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name==suffix=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="suffix">
+          <value Name="卡" />
+          <value Name="基" />
+          <value Name="库" />
+          <value Name="科" />
+          <value Name="" Weight="5" />
+        </templatevar>
+      </templatevars>
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿布" />
+        <prefix Name="阿德" />
+        <prefix Name="阿菲" />
+        <prefix Name="阿富" />
+        <prefix Name="阿卡" />
+        <prefix Name="阿基" />
+        <prefix Name="阿库" />
+        <prefix Name="阿马" />
+        <prefix Name="阿约" />
+        <prefix Name="巴" />
+        <prefix Name="奇" />
+        <prefix Name="丘" />
+        <prefix Name="迪" />
+        <prefix Name="杜" />
+        <prefix Name="埃贝" />
+        <prefix Name="埃富" />
+        <prefix Name="埃凯" />
+        <prefix Name="埃库" />
+        <prefix Name="埃梅" />
+        <prefix Name="伊费" />
+        <prefix Name="伊马" />
+        <prefix Name="科" />
+        <prefix Name="卡" />
+        <prefix Name="马" />
+        <prefix Name="莫" />
+        <prefix Name="纳" />
+        <prefix Name="恩凯" />
+        <prefix Name="恩基" />
+        <prefix Name="内" />
+        <prefix Name="诺" />
+        <prefix Name="努" />
+        <prefix Name="恩亚" />
+        <prefix Name="奥巴" />
+        <prefix Name="奥盖" />
+        <prefix Name="奥拉" />
+        <prefix Name="奥卢" />
+        <prefix Name="塔" />
+        <prefix Name="扎" />
+        <prefix Name="祖" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-2">
+        <infix Name="阿马" />
+        <infix Name="巴" />
+        <infix Name="巴吉" />
+        <infix Name="巴图" />
+        <infix Name="博" />
+        <infix Name="奇" />
+        <infix Name="丘" />
+        <infix Name="迪" />
+        <infix Name="法" />
+        <infix Name="费" />
+        <infix Name="富" />
+        <infix Name="吉" />
+        <infix Name="凯" />
+        <infix Name="库" />
+        <infix Name="拉" />
+        <infix Name="姆巴" />
+        <infix Name="姆贝" />
+        <infix Name="姆博" />
+        <infix Name="恩加" />
+        <infix Name="恩戈" />
+        <infix Name="恩古" />
+        <infix Name="恩扎" />
+        <infix Name="皮" />
+        <infix Name="拉" />
+        <infix Name="塞" />
+        <infix Name="图" />
+        <infix Name="耶" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="贝姆" />
+        <postfix Name="比" />
+        <postfix Name="博拉" />
+        <postfix Name="奇" />
+        <postfix Name="达" />
+        <postfix Name="德" />
+        <postfix Name="迪" />
+        <postfix Name="费" />
+        <postfix Name="菲" />
+        <postfix Name="戈" />
+        <postfix Name="吉" />
+        <postfix Name="乔" />
+        <postfix Name="卡" />
+        <postfix Name="坎" />
+        <postfix Name="凯" />
+        <postfix Name="科" />
+        <postfix Name="库" />
+        <postfix Name="拉" />
+        <postfix Name="莱" />
+        <postfix Name="姆贝" />
+        <postfix Name="梅" />
+        <postfix Name="米" />
+        <postfix Name="穆" />
+        <postfix Name="恩德" />
+        <postfix Name="恩蒂" />
+        <postfix Name="恩伊" />
+        <postfix Name="奥耶" />
+        <postfix Name="波" />
+        <postfix Name="拉" />
+        <postfix Name="雷" />
+        <postfix Name="里" />
+        <postfix Name="萨" />
+        <postfix Name="托" />
+        <postfix Name="瓦莱" />
+        <postfix Name="亚" Weight="2" />
+        <postfix Name="约" />
+        <postfix Name="扎" />
+        <postfix Name="佐" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Ibulian" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" Weight="2" />
+        <prefix Name="阿埃" />
+        <prefix Name="安" />
+        <prefix Name="奥" />
+        <prefix Name="巴" />
+        <prefix Name="布拉" />
+        <prefix Name="布鲁" />
+        <prefix Name="卡埃" />
+        <prefix Name="凯" />
+        <prefix Name="卡米" />
+        <prefix Name="卡西" />
+        <prefix Name="西" />
+        <prefix Name="克劳" />
+        <prefix Name="克纳埃" />
+        <prefix Name="科" />
+        <prefix Name="克里" />
+        <prefix Name="德" />
+        <prefix Name="多" />
+        <prefix Name="多" />
+        <prefix Name="德鲁" />
+        <prefix Name="埃格纳" />
+        <prefix Name="法" />
+        <prefix Name="福" />
+        <prefix Name="费" />
+        <prefix Name="夫拉" />
+        <prefix Name="夫洛" />
+        <prefix Name="加" />
+        <prefix Name="盖" />
+        <prefix Name="格纳埃" />
+        <prefix Name="哈" />
+        <prefix Name="赫" />
+        <prefix Name="霍" />
+        <prefix Name="奥" />
+        <prefix Name="伊乌" />
+        <prefix Name="贾" />
+        <prefix Name="朱" />
+        <prefix Name="拉" />
+        <prefix Name="劳" />
+        <prefix Name="利" />
+        <prefix Name="卢" />
+        <prefix Name="马" />
+        <prefix Name="内" />
+        <prefix Name="诺" />
+        <prefix Name="奥克塔" />
+        <prefix Name="奥维" />
+        <prefix Name="普利" />
+        <prefix Name="波" />
+        <prefix Name="普里" />
+        <prefix Name="普" />
+        <prefix Name="基" />
+        <prefix Name="鲁" />
+        <prefix Name="萨" />
+        <prefix Name="塞" />
+        <prefix Name="斯普" />
+        <prefix Name="塔" />
+        <prefix Name="蒂" />
+        <prefix Name="图" />
+        <prefix Name="瓦" />
+        <prefix Name="维" />
+        <prefix Name="维" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="比" Weight="2" />
+        <infix Name="布里" />
+        <infix Name="塞" />
+        <infix Name="西" />
+        <infix Name="克莱" />
+        <infix Name="德里" />
+        <infix Name="加" />
+        <infix Name="格里" />
+        <infix Name="古" Weight="2" />
+        <infix Name="卢" />
+        <infix Name="卢" />
+        <infix Name="米" Weight="2" />
+        <infix Name="纳" />
+        <infix Name="恩迪" />
+        <infix Name="尼" />
+        <infix Name="努" />
+        <infix Name="皮" />
+        <infix Name="普里" />
+        <infix Name="拉" />
+        <infix Name="尔迪" />
+        <infix Name="雷" Weight="2" />
+        <infix Name="伦蒂" />
+        <infix Name="尔马" />
+        <infix Name="尔内" />
+        <infix Name="西" />
+        <infix Name="斯皮" />
+        <infix Name="西" />
+        <infix Name="斯蒂" />
+        <infix Name="蒂" />
+        <infix Name="托" />
+        <infix Name="维" />
+        <infix Name="凯" />
+        <infix Name="基" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="巴" />
+        <postfix Name="比乌斯" />
+        <postfix Name="布斯" />
+        <postfix Name="西乌斯" />
+        <postfix Name="达" />
+        <postfix Name="迪纳" />
+        <postfix Name="迪努斯" />
+        <postfix Name="迪乌斯" />
+        <postfix Name="吉纳" />
+        <postfix Name="吉努斯" />
+        <postfix Name="伊乌斯" />
+        <postfix Name="拉" />
+        <postfix Name="拉纳" />
+        <postfix Name="利乌斯" />
+        <postfix Name="利克斯" />
+        <postfix Name="拉" />
+        <postfix Name="卢斯" />
+        <postfix Name="穆斯" />
+        <postfix Name="纳" />
+        <postfix Name="尼乌斯" />
+        <postfix Name="努斯" />
+        <postfix Name="皮乌斯" />
+        <postfix Name="帕" />
+        <postfix Name="皮纳" />
+        <postfix Name="普斯" />
+        <postfix Name="罗" />
+        <postfix Name="萨尔" />
+        <postfix Name="西乌斯" />
+        <postfix Name="斯塔" />
+        <postfix Name="斯图斯" />
+        <postfix Name="托" />
+        <postfix Name="图斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Yawningmoon" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿帕" />
+        <prefix Name="德亚" />
+        <prefix Name="格尔塔" />
+        <prefix Name="吉纳" />
+        <prefix Name="克萨" />
+        <prefix Name="克塞" />
+        <prefix Name="克索" />
+        <prefix Name="米" />
+        <prefix Name="尼尔" />
+        <prefix Name="普里" />
+        <prefix Name="普" />
+        <prefix Name="鲁" />
+        <prefix Name="萨维" />
+        <prefix Name="塔尔" />
+        <prefix Name="特瓦" />
+        <prefix Name="特维" />
+        <prefix Name="特沃" />
+        <prefix Name="乌尔" />
+        <prefix Name="夫里" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="尔斯" />
+        <infix Name="什" />
+        <infix Name="斯" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="塔尔" />
+        <postfix Name="德拉" />
+        <postfix Name="夫拉" />
+        <postfix Name="夫林" />
+        <postfix Name="特尔" />
+        <postfix Name="夫里" />
+        <postfix Name="努" />
+        <postfix Name="德鲁" />
+        <postfix Name="克拉斯" />
+        <postfix Name="克拉" />
+        <postfix Name="特拉" />
+        <postfix Name="特里" />
+        <postfix Name="特鲁乌" />
+        <postfix Name="恩尤" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Arcologian" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" Weight="3" />
+        <prefix Name="阿多" />
+        <prefix Name="阿埃" />
+        <prefix Name="巴" />
+        <prefix Name="奇里" />
+        <prefix Name="克劳" />
+        <prefix Name="克莱奥" />
+        <prefix Name="科" />
+        <prefix Name="克罗" />
+        <prefix Name="西" />
+        <prefix Name="达" />
+        <prefix Name="德" />
+        <prefix Name="迪" />
+        <prefix Name="多" />
+        <prefix Name="埃" />
+        <prefix Name="欧" />
+        <prefix Name="加" />
+        <prefix Name="盖奥" />
+        <prefix Name="吉" />
+        <prefix Name="格雷" />
+        <prefix Name="赫" />
+        <prefix Name="希" />
+        <prefix Name="霍" />
+        <prefix Name="亚" />
+        <prefix Name="伊" />
+        <prefix Name="贾" />
+        <prefix Name="杰" />
+        <prefix Name="朱" />
+        <prefix Name="卡" />
+        <prefix Name="克洛" />
+        <prefix Name="克劳" />
+        <prefix Name="克里" />
+        <prefix Name="基尔" />
+        <prefix Name="拉" />
+        <prefix Name="利" />
+        <prefix Name="莱奥" />
+        <prefix Name="利" />
+        <prefix Name="马" />
+        <prefix Name="米" />
+        <prefix Name="内" />
+        <prefix Name="尼" />
+        <prefix Name="奥" />
+        <prefix Name="帕" />
+        <prefix Name="佩" />
+        <prefix Name="菲" />
+        <prefix Name="皮" />
+        <prefix Name="普拉" />
+        <prefix Name="普罗" />
+        <prefix Name="普托" />
+        <prefix Name="皮" />
+        <prefix Name="拉" />
+        <prefix Name="萨" />
+        <prefix Name="塞" />
+        <prefix Name="索" />
+        <prefix Name="斯塔" />
+        <prefix Name="斯特" />
+        <prefix Name="萨" />
+        <prefix Name="瑟" />
+        <prefix Name="瑟奥" />
+        <prefix Name="蒂" />
+        <prefix Name="卡" />
+        <prefix Name="泽" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="安德" />
+        <infix Name="比" />
+        <infix Name="比乌" />
+        <infix Name="塞" />
+        <infix Name="查埃" />
+        <infix Name="奇" />
+        <infix Name="乔" />
+        <infix Name="西" Weight="2" />
+        <infix Name="克利" />
+        <infix Name="克拉" />
+        <infix Name="达欧" />
+        <infix Name="德" />
+        <infix Name="多" Weight="2" />
+        <infix Name="德雷" />
+        <infix Name="迪" />
+        <infix Name="埃苏" />
+        <infix Name="盖" />
+        <infix Name="盖西" />
+        <infix Name="吉" />
+        <infix Name="戈" />
+        <infix Name="莱" />
+        <infix Name="利" />
+        <infix Name="姆布罗" />
+        <infix Name="梅" Weight="2" />
+        <infix Name="莫" />
+        <infix Name="姆皮" />
+        <infix Name="纳" />
+        <infix Name="纳欧" />
+        <infix Name="尼" />
+        <infix Name="恩盖洛" />
+        <infix Name="恩盖卢" />
+        <infix Name="恩蒂" />
+        <infix Name="恩托" Weight="2" />
+        <infix Name="尼" />
+        <infix Name="奥尼" />
+        <infix Name="福" Weight="2" />
+        <infix Name="夫罗" />
+        <infix Name="皮" />
+        <infix Name="拉" Weight="2" />
+        <infix Name="尔卡" />
+        <infix Name="里" />
+        <infix Name="罗" />
+        <infix Name="尔福" />
+        <infix Name="萨" />
+        <infix Name="斯奇" />
+        <infix Name="塞" />
+        <infix Name="西" />
+        <infix Name="萨" />
+        <infix Name="斯穆" />
+        <infix Name="斯塔" Weight="2" />
+        <infix Name="斯瑟" />
+        <infix Name="斯塔" />
+        <infix Name="萨" Weight="2" />
+        <infix Name="蒂乌" />
+        <infix Name="托" />
+        <infix Name="图" />
+        <infix Name="卡" />
+        <infix Name="基" />
+        <infix Name="卡" />
+        <infix Name="亚" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="阿" />
+        <postfix Name="安" />
+        <postfix Name="贝" />
+        <postfix Name="比勒" />
+        <postfix Name="比乌斯" />
+        <postfix Name="塞" />
+        <postfix Name="查" />
+        <postfix Name="丘斯" />
+        <postfix Name="克拉" />
+        <postfix Name="克莱斯" Weight="2" />
+        <postfix Name="克利德" />
+        <postfix Name="克特拉" />
+        <postfix Name="西" />
+        <postfix Name="达" />
+        <postfix Name="达塞" />
+        <postfix Name="达斯" />
+        <postfix Name="德尔" />
+        <postfix Name="德斯" Weight="2" />
+        <postfix Name="迪特" />
+        <postfix Name="迪乌斯" />
+        <postfix Name="德内" Weight="2" />
+        <postfix Name="德拉" Weight="3" />
+        <postfix Name="德拉" />
+        <postfix Name="戈尔" />
+        <postfix Name="奥内" />
+        <postfix Name="贾" />
+        <postfix Name="拉" />
+        <postfix Name="拉斯" />
+        <postfix Name="劳斯" />
+        <postfix Name="莱" />
+        <postfix Name="林" />
+        <postfix Name="伦" />
+        <postfix Name="莱斯" />
+        <postfix Name="拉" />
+        <postfix Name="林" />
+        <postfix Name="利内" />
+        <postfix Name="利普" />
+        <postfix Name="利普" />
+        <postfix Name="利乌斯" />
+        <postfix Name="拉" />
+        <postfix Name="伦" />
+        <postfix Name="马斯" />
+        <postfix Name="马" />
+        <postfix Name="米斯" />
+        <postfix Name="蒙" Weight="2" />
+        <postfix Name="穆斯" Weight="3" />
+        <postfix Name="米" />
+        <postfix Name="恩" Weight="2" />
+        <postfix Name="纳" Weight="2" />
+        <postfix Name="恩达" />
+        <postfix Name="恩德尔" Weight="2" />
+        <postfix Name="恩德雷" />
+        <postfix Name="内" Weight="3" />
+        <postfix Name="内斯" />
+        <postfix Name="恩盖勒" />
+        <postfix Name="纳" />
+        <postfix Name="尼塞" />
+        <postfix Name="尼斯" Weight="2" />
+        <postfix Name="尼塞" />
+        <postfix Name="纳" Weight="2" />
+        <postfix Name="内" Weight="2" />
+        <postfix Name="恩斯" />
+        <postfix Name="恩萨" />
+        <postfix Name="恩瑟" Weight="2" />
+        <postfix Name="尼斯" />
+        <postfix Name="芬" />
+        <postfix Name="费尔" Weight="2" />
+        <postfix Name="福斯" />
+        <postfix Name="夫内" />
+        <postfix Name="福内" />
+        <postfix Name="尔" />
+        <postfix Name="拉斯" />
+        <postfix Name="尔卡斯" />
+        <postfix Name="雷" />
+        <postfix Name="伦" />
+        <postfix Name="雷斯" />
+        <postfix Name="雷特" />
+        <postfix Name="雷特" />
+        <postfix Name="尔盖" />
+        <postfix Name="尔加" />
+        <postfix Name="里勒" />
+        <postfix Name="林" />
+        <postfix Name="里内" />
+        <postfix Name="隆" />
+        <postfix Name="里斯" Weight="3" />
+        <postfix Name="尔斯" />
+        <postfix Name="鲁斯" />
+        <postfix Name="里" />
+        <postfix Name="林" Weight="2" />
+        <postfix Name="斯" Weight="3" />
+        <postfix Name="萨" />
+        <postfix Name="塞" />
+        <postfix Name="西勒" />
+        <postfix Name="西斯" />
+        <postfix Name="萨" Weight="2" />
+        <postfix Name="索斯" />
+        <postfix Name="斯塔" />
+        <postfix Name="斯托尔" />
+        <postfix Name="苏斯" />
+        <postfix Name="西内" />
+        <postfix Name="塔" Weight="2" />
+        <postfix Name="特尔" />
+        <postfix Name="特斯" Weight="2" />
+        <postfix Name="萨" />
+        <postfix Name="西" Weight="2" />
+        <postfix Name="索斯" />
+        <postfix Name="萨" />
+        <postfix Name="西" />
+        <postfix Name="坦" Weight="2" />
+        <postfix Name="蒂乌斯" />
+        <postfix Name="托" />
+        <postfix Name="托尔" />
+        <postfix Name="特雷" />
+        <postfix Name="塔" Weight="2" />
+        <postfix Name="图斯" Weight="4" />
+        <postfix Name="蒂切" />
+        <postfix Name="乌斯" Weight="2" />
+        <postfix Name="文" />
+        <postfix Name="克斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Baboon" Format="Capitalized" Load="Merge">
+      <prefixes Load="Replace" Amount="1-3">
+        <prefix Name="呜" />
+        <prefix Name="呜呜" />
+        <prefix Name="奥" />
+        <prefix Name="哦" />
+        <prefix Name="哦呜" />
+        <prefix Name="霍" />
+        <prefix Name="呼" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-3">
+        <infix Name="哦" />
+        <infix Name="哦哦" Weight="2" />
+        <infix Name="哦哦哦" />
+        <infix Name="呼哦" />
+        <infix Name="呼哦哦" />
+        <infix Name="啊" Weight="3" />
+        <infix Name="东" />
+        <infix Name="咿" />
+        <infix Name="咿咿" />
+      </infixes>
+      <postfixes Load="Replace" Amount="0-2">
+        <postfix Name="啊" />
+        <postfix Name="啊啊" />
+        <postfix Name="奥" />
+        <postfix Name="呜" />
+        <postfix Name="呜呜" />
+        <postfix Name="霍" />
+        <postfix Name="呼" />
+        <postfix Name="埃" />
+        <postfix Name="咿" />
+        <postfix Name="咿咿" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Baboon Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=rings=环狒狒=position=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="rings">
+          
+          <value Name="七环" />
+        </templatevar>
+      
+        <templatevar Name="position">
+          <value Name="浪荡子" />
+          <value Name="谜语人" />
+          <value Name="隐士" />
+          <value Name="雅士" />
+          <value Name="煽动者" />
+          <value Name="国王" />
+          <value Name="王后" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Clam" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿科" />
+        <prefix Name="阿加" />
+        <prefix Name="巴" />
+        <prefix Name="博" />
+        <prefix Name="卡" />
+        <prefix Name="迪" />
+        <prefix Name="吉" />
+        <prefix Name="哈" Weight="2" />
+        <prefix Name="希" />
+        <prefix Name="贾" />
+        <prefix Name="马" />
+        <prefix Name="穆" />
+        <prefix Name="洛" />
+        <prefix Name="萨" />
+        <prefix Name="索" />
+        <prefix Name="特" />
+        <prefix Name="伊" />
+        <prefix Name="扎" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="布尼" />
+        <infix Name="多" />
+        <infix Name="吉" />
+        <infix Name="戈" />
+        <infix Name="勒" />
+        <infix Name="米尔" />
+        <infix Name="姆西" />
+        <infix Name="尼" />
+        <infix Name="福" />
+        <infix Name="拉" />
+        <infix Name="尔卡" />
+        <infix Name="尔萨" />
+        <infix Name="斯德鲁" />
+        <infix Name="斯戈" />
+        <infix Name="特拉" />
+        <infix Name="提" />
+        <infix Name="TA" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="蛤" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Crab" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿科" />
+        <prefix Name="阿加" />
+        <prefix Name="巴" />
+        <prefix Name="博" />
+        <prefix Name="卡" />
+        <prefix Name="迪" />
+        <prefix Name="吉" />
+        <prefix Name="哈" Weight="2" />
+        <prefix Name="希" />
+        <prefix Name="贾" />
+        <prefix Name="马" />
+        <prefix Name="穆" />
+        <prefix Name="洛" />
+        <prefix Name="萨" />
+        <prefix Name="索" />
+        <prefix Name="特" />
+        <prefix Name="伊" />
+        <prefix Name="扎" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="布尼" />
+        <infix Name="多" />
+        <infix Name="吉" />
+        <infix Name="戈" />
+        <infix Name="勒" />
+        <infix Name="米尔" />
+        <infix Name="姆西" />
+        <infix Name="尼" />
+        <infix Name="福" />
+        <infix Name="拉" />
+        <infix Name="尔卡" />
+        <infix Name="尔萨" />
+        <infix Name="斯德鲁" />
+        <infix Name="斯戈" />
+        <infix Name="特拉" />
+        <infix Name="提" />
+        <infix Name="TA" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="蟹" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Crab Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=adjective==creatureTypeCap==position=" />
+      </templates>
+      <templatevars Load="Replace">
+        
+        <templatevar Name="adjective">
+          <value Name="回响" />
+          <value Name="狂躁" />
+          <value Name="多足" />
+          <value Name="巨硕" />
+          <value Name="独钳" />
+          <value Name="破壳" />
+        </templatevar>
+        <templatevar Name="position">
+          <value Name="上古" />
+          <value Name="深爬者" />
+          <value Name="歌利亚" />
+          <value Name="领主" />
+          <value Name="族长" />
+          <value Name="斯库特勒" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Goatfolk" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="0-1">
+        <prefix Name="巴" />
+        <prefix Name="巴阿" Weight="2" />
+        <prefix Name="纳" />
+        <prefix Name="纳阿" />
+        <prefix Name="拉" />
+        <prefix Name="拉阿" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-3">
+        <infix Name="巴" Weight="2" />
+        <infix Name="巴阿" />
+        <infix Name="纳阿" />
+        <infix Name="拉" Weight="2" />
+        <infix Name="拉阿" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1-2">
+        <postfix Name="阿" />
+        <postfix Name="阿阿阿" />
+        <postfix Name="阿阿阿阿阿" />
+        <postfix Name="阿阿阿" />
+        <postfix Name="阿阿" />
+        <postfix Name="阿" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Goatfolk Hero" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Goatfolk Hero Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=epithet=" />
+      </templates>
+      <templatevars Load="Replace">
+        
+        <templatevar Name="epithet">
+          <value Name="观星者" />
+          <value Name="噬心者" />
+          <value Name="两舌者" />
+          <value Name="饮魂者" />
+          <value Name="白指" />
+          <value Name="裂角" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Goatfolk Hero Title" Load="Merge">
+      <templates Load="Replace">
+        
+        <template Name="=clan=氏族的羊人萨满" />
+      </templates>
+      <templatevars Load="Replace">
+        
+        <templatevar Name="clan">
+          <value Name="霍图尔" />
+          <value Name="北山羊" />
+          <value Name="索尔" />
+          <value Name="白舌" />
+          <value Name="伊尔" />
+          <value Name="姆尼姆" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Goatfolk Site" Format="TitleCase" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name==suffix=" Weight="1800" />
+        <template Name="=prefix==suffix=" Weight="1800" />
+        <template Name="=sultan==suffix=" Weight="450" />
+        <template Name="=name==location=" Weight="1125" />
+        <template Name="=prefix==location=" Weight="1125" />
+        <template Name="=sultan==location=" Weight="250" />
+        <template Name="=name==forest=" Weight="1575" />
+        <template Name="=prefix==forest=" Weight="1575" />
+        <template Name="=sultan==forest=" Weight="350" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="prefix">
+          <value Name="灰" />
+          <value Name="黑" />
+          <value Name="血" />
+          <value Name="骨" />
+          <value Name="分蹄" />
+          <value Name="蕨" />
+          <value Name="心" />
+          <value Name="月" />
+          <value Name="苔" />
+          <value Name="雨" />
+          <value Name="汁" />
+          <value Name="颅" />
+          <value Name="星" />
+          <value Name="白" />
+        </templatevar>
+        <templatevar Name="sultan">
+          <value Name="利悉" />
+        </templatevar>
+        <templatevar Name="suffix">
+          <value Name="巴阿" Weight="2" />
+          <value Name="咩——" />
+          <value Name="咩——" Weight="3" />
+          <value Name="咩——" Weight="3" />
+          <value Name="咩——" Weight="3" />
+          <value Name="咩" Weight="2" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="拉阿" Weight="2" />
+          <value Name="啦——" />
+          <value Name="啦——" Weight="3" />
+          <value Name="啦——" Weight="3" />
+          <value Name="啦——" Weight="3" />
+          <value Name="啦" Weight="2" />
+        </templatevar>
+        <templatevar Name="forest">
+          <value Name="林地" />
+          <value Name="谷地" />
+          <value Name="幽谷" />
+          <value Name="林间空地" />
+          <value Name="山谷" />
+          <value Name="峡谷" />
+          <value Name="树林" />
+          <value Name="草甸" />
+          <value Name="根" />
+          <value Name="山谷" />
+          <value Name="林野" />
+          <value Name="泣泉" />
+          <value Name="林" />
+        </templatevar>
+        <templatevar Name="location">
+          <value Name="曲湾" />
+          <value Name="咬击" />
+          <value Name="弓" />
+          <value Name="裂隙" />
+          <value Name="弦月" />
+          <value Name="深" />
+          <value Name="水池" />
+          <value Name="星" />
+          <value Name="虚空" />
+          <value Name="泉" />
+        </templatevar>
+      </templatevars>
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="巴" />
+        <prefix Name="巴阿" Weight="2" />
+        <prefix Name="纳" />
+        <prefix Name="纳阿" />
+        <prefix Name="拉" />
+        <prefix Name="拉阿" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="巴" Weight="2" />
+        <infix Name="巴阿" />
+        <infix Name="纳阿" />
+        <infix Name="拉" Weight="2" />
+        <infix Name="拉阿" />
+      </infixes>
+    </namestyle>
+    <namestyle Name="Qlippoth Site" Format="TitleCase" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=prefix==suffix=" Weight="1800" />
+        <template Name="=name==location=" Weight="1125" />
+        <template Name="=prefix==location=" Weight="1125" />
+        <template Name="=sultan==location=" Weight="250" />
+        <template Name="=prefix==forest=" Weight="1575" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="prefix">
+          <value Name="灰" />
+          <value Name="黑" />
+          <value Name="幽灵" />
+          <value Name="尘" />
+          <value Name="怨灵" />
+          <value Name="月" />
+          <value Name="梦" />
+          <value Name="星" />
+          <value Name="白" />
+          <value Name="灰" />
+          <value Name="幽暗" />
+          <value Name="昏" />
+          <value Name="暮" />
+          <value Name="永" />
+          <value Name="虚无" />
+        </templatevar>
+        <templatevar Name="sultan">
+          <value Name="利悉" />
+        </templatevar>
+        <templatevar Name="suffix">
+          <value Name="巴阿" Weight="2" />
+          <value Name="咩——" />
+          <value Name="咩——" Weight="3" />
+          <value Name="咩——" Weight="3" />
+          <value Name="咩——" Weight="3" />
+          <value Name="咩" Weight="2" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="呐——" />
+          <value Name="拉阿" Weight="2" />
+          <value Name="啦——" />
+          <value Name="啦——" Weight="3" />
+          <value Name="啦——" Weight="3" />
+          <value Name="啦——" Weight="3" />
+          <value Name="啦" Weight="2" />
+        </templatevar>
+        <templatevar Name="forest">
+          <value Name="林地" />
+          <value Name="谷地" />
+          <value Name="幽谷" />
+          <value Name="林间空地" />
+          <value Name="山谷" />
+          <value Name="峡谷" />
+          <value Name="树林" />
+          <value Name="草甸" />
+          <value Name="根" />
+          <value Name="山谷" />
+          <value Name="林野" />
+          <value Name="泣泉" />
+          <value Name="林" />
+          <value Name="空" />
+        </templatevar>
+        <templatevar Name="location">
+          <value Name="弦月" />
+          <value Name="深" />
+          <value Name="水池" />
+          <value Name="星" />
+          <value Name="虚空" />
+          <value Name="泉" />
+          <value Name="梦" />
+          <value Name="神话" />
+          <value Name="静" />
+        </templatevar>
+      </templatevars>
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="巴" />
+        <prefix Name="巴阿" Weight="2" />
+        <prefix Name="纳" />
+        <prefix Name="纳阿" />
+        <prefix Name="拉" />
+        <prefix Name="拉阿" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="巴" Weight="2" />
+        <infix Name="巴阿" />
+        <infix Name="纳阿" />
+        <infix Name="拉" Weight="2" />
+        <infix Name="拉阿" />
+      </infixes>
+    </namestyle>
+    <namestyle Name="Naphtaali" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="巴阿" />
+        <prefix Name="比" />
+        <prefix Name="贝" />
+        <prefix Name="切" />
+        <prefix Name="达" />
+        <prefix Name="埃勒" />
+        <prefix Name="加" />
+        <prefix Name="戈" />
+        <prefix Name="豪" />
+        <prefix Name="伊" />
+        <prefix Name="伊" />
+        <prefix Name="马" />
+        <prefix Name="莫" />
+        <prefix Name="纳" />
+        <prefix Name="内" />
+        <prefix Name="尼" />
+        <prefix Name="科" />
+        <prefix Name="雷" />
+        <prefix Name="沙" />
+        <prefix Name="亚" />
+        <prefix Name="苏" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="德拉梅" />
+        <infix Name="穆" />
+        <infix Name="纳梅莱" />
+        <infix Name="谢拉" />
+        <infix Name="斯塔罗" />
+        <infix Name="斯塔" />
+        <infix Name="瑟" />
+        <infix Name="埃莫" />
+        <infix Name="戈" />
+        <infix Name="洛希" />
+        <infix Name="勒约" />
+        <infix Name="纳纳" />
+        <infix Name="洛" />
+        <infix Name="胡什塔" />
+        <infix Name="尔加" />
+        <infix Name="努尔塔" />
+        <infix Name="姆法" />
+        <infix Name="谢" />
+        <infix Name="阿普舒" />
+        <infix Name="拉" />
+        <infix Name="赫" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="奇" />
+        <postfix Name="恩" />
+        <postfix Name="阿" />
+        <postfix Name="斯" />
+        <postfix Name="尔特" />
+        <postfix Name="勒" />
+        <postfix Name="什" />
+        <postfix Name="德" />
+        <postfix Name="姆" />
+        <postfix Name="纳" />
+        <postfix Name="尔特" />
+        <postfix Name="特" />
+        <postfix Name="尔塔" />
+        <postfix Name="斯" />
+        <postfix Name="夫" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Godhed Hero Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=honorific=神裔" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="honorific">
+          <value Name="辛香" />
+          <value Name="辛香" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Godhed Hero Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=adjective=神裔" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="adjective">
+          <value Name="辛香" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Godhed Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="神裔=noun1=" />
+        <template Name="神裔=noun1=·=noun2=" Weight="2" />
+        <template Name="神裔=adj=·=noun1=" Weight="2" />
+        <template Name="=noun1|pluralize=的神裔" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="noun1">
+          <value Name="辛香" />
+        </templatevar>
+        <templatevar Name="noun2">
+          <value Name="辛香" />
+        </templatevar>
+        <templatevar Name="adj">
+          <value Name="辛香" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Godhed Hero Title Empty" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Snapjaw" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="0-2">
+        <prefix Name="巴尔" />
+        <prefix Name="巴勒" />
+        <prefix Name="博尔" />
+        <prefix Name="博勒" />
+        <prefix Name="布尔" />
+        <prefix Name="布勒" />
+        <prefix Name="达" />
+        <prefix Name="多" />
+        <prefix Name="杜" />
+        <prefix Name="格拉" />
+        <prefix Name="格罗" />
+        <prefix Name="格鲁" />
+        <prefix Name="马夫" />
+        <prefix Name="莫夫" />
+        <prefix Name="穆夫" />
+        <prefix Name="拉夫" />
+        <prefix Name="罗夫" />
+        <prefix Name="鲁夫" />
+        <prefix Name="斯卡尔" />
+        <prefix Name="斯科尔" />
+        <prefix Name="斯库尔" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-4">
+        <infix Name="阿福" />
+        <infix Name="阿戈" />
+        <infix Name="阿霍" />
+        <infix Name="奥博" />
+        <infix Name="奥福" />
+        <infix Name="奥戈" />
+        <infix Name="奥霍" />
+        <infix Name="苏" />
+        <infix Name="乌布" />
+        <infix Name="乌福" />
+        <infix Name="乌戈" />
+        <infix Name="乌霍" />
+        <infix Name="乌卢" />
+        <infix Name="沃夫" />
+      </infixes>
+      <postfixes Load="Replace" Amount="0-2">
+        <postfix Name="阿布" />
+        <postfix Name="阿夫" />
+        <postfix Name="阿戈" />
+        <postfix Name="阿" />
+        <postfix Name="阿兹" />
+        <postfix Name="巴" />
+        <postfix Name="博" />
+        <postfix Name="布" />
+        <postfix Name="马" />
+        <postfix Name="莫" />
+        <postfix Name="穆" />
+        <postfix Name="奥布" />
+        <postfix Name="奥夫" />
+        <postfix Name="奥" />
+        <postfix Name="奥兹" />
+        <postfix Name="乌布" />
+        <postfix Name="乌夫" />
+        <postfix Name="乌" />
+        <postfix Name="乌兹" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Snapjaw Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=adjective=豺颚人=occupation=" />
+      </templates>
+      <templatevars Load="Replace">
+        
+        <templatevar Name="adjective">
+          <value Name="粗皮" />
+          <value Name="可怖" />
+          <value Name="捷足" />
+          <value Name="魁伟" />
+          <value Name="博学" />
+          <value Name="灵巧" />
+          <value Name="刚毅" />
+        </templatevar>
+        <templatevar Name="occupation">
+          <value Name="逗熊人" />
+          <value Name="喷火咆哮者" />
+          <value Name="剖腹者" />
+          <value Name="国王" />
+          <value Name="裂颅者" />
+          <value Name="食幼者" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Star" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿布霍" />
+        <prefix Name="阿拉" />
+        <prefix Name="阿穆" />
+        <prefix Name="阿莫" />
+        <prefix Name="阿福" />
+        <prefix Name="阿波" />
+        <prefix Name="阿拉" />
+        <prefix Name="阿特拉" />
+        <prefix Name="鲍" />
+        <prefix Name="巴" />
+        <prefix Name="布格努" />
+        <prefix Name="博" />
+        <prefix Name="布" />
+        <prefix Name="布亚" />
+        <prefix Name="科阿" />
+        <prefix Name="克罗" />
+        <prefix Name="克萨" />
+        <prefix Name="克萨埃" />
+        <prefix Name="克西" />
+        <prefix Name="斯亚" />
+        <prefix Name="西诺" />
+        <prefix Name="德胡" />
+        <prefix Name="迪" />
+        <prefix Name="德泽" />
+        <prefix Name="埃" />
+        <prefix Name="埃特" />
+        <prefix Name="加" />
+        <prefix Name="吉" />
+        <prefix Name="格利" />
+        <prefix Name="格卢" />
+        <prefix Name="戈" />
+        <prefix Name="格罗" />
+        <prefix Name="格图" />
+        <prefix Name="格兹克斯" />
+        <prefix Name="哈" />
+        <prefix Name="纳" />
+        <prefix Name="齐" />
+        <prefix Name="伊德" />
+        <prefix Name="因佩" />
+        <prefix Name="奥" />
+        <prefix Name="伊" />
+        <prefix Name="贾" />
+        <prefix Name="朱" />
+        <prefix Name="卡阿" />
+        <prefix Name="卡" />
+        <prefix Name="克纳" />
+        <prefix Name="克拉" />
+        <prefix Name="克萨" />
+        <prefix Name="库" />
+        <prefix Name="拉" />
+        <prefix Name="利" />
+        <prefix Name="马" />
+        <prefix Name="姆巴" />
+        <prefix Name="姆纳" />
+        <prefix Name="姆诺" />
+        <prefix Name="莫" />
+        <prefix Name="米诺" />
+        <prefix Name="恩克托" />
+        <prefix Name="恩吉" />
+        <prefix Name="恩苏" />
+        <prefix Name="努" />
+        <prefix Name="恩亚" />
+        <prefix Name="尼克拉" />
+        <prefix Name="恩约" />
+        <prefix Name="乌" />
+        <prefix Name="奥苏" />
+        <prefix Name="佩" />
+        <prefix Name="法" />
+        <prefix Name="普苏" />
+        <prefix Name="普塔" />
+        <prefix Name="基" />
+        <prefix Name="拉法" />
+        <prefix Name="尔霍" />
+        <prefix Name="尔利" />
+        <prefix Name="斯卡" />
+        <prefix Name="塞" />
+        <prefix Name="斯法" />
+        <prefix Name="谢" />
+        <prefix Name="斯萨" />
+        <prefix Name="斯特亚" />
+        <prefix Name="苏" />
+        <prefix Name="萨" />
+        <prefix Name="索" />
+        <prefix Name="托" />
+        <prefix Name="察" />
+        <prefix Name="乌伊" />
+        <prefix Name="克斯克托" />
+        <prefix Name="科" />
+        <prefix Name="亚" />
+        <prefix Name="耶" />
+        <prefix Name="伊戈" />
+        <prefix Name="伊" />
+        <prefix Name="伊斯巴" />
+        <prefix Name="伊索" />
+        <prefix Name="兹斯蒂" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="洛" />
+        <infix Name="策" />
+        <infix Name="恩-" />
+        <infix Name="奥姆-" />
+        <infix Name="科洛" />
+        <infix Name="奇-" />
+        <infix Name="特利" />
+        <infix Name="阿" />
+        <infix Name="加" />
+        <infix Name="索" />
+        <infix Name="普塞" />
+        <infix Name="达" />
+        <infix Name="斯古" />
+        <infix Name="尔洛" />
+        <infix Name="尔克" />
+        <infix Name="阿卢" />
+        <infix Name="索" />
+        <infix Name="乌努" />
+        <infix Name="尔帕" />
+        <infix Name="波" />
+        <infix Name="姆卡" />
+        <infix Name="尔西" />
+        <infix Name="克拉" />
+        <infix Name="格萨" />
+        <infix Name="尔-阿" />
+        <infix Name="法" />
+        <infix Name="纳" />
+        <infix Name="斯内" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="洛斯" />
+        <postfix Name="巴" />
+        <postfix Name="斯" Weight="4" />
+        <postfix Name="萨" />
+        <postfix Name="查" />
+        <postfix Name="格" Weight="3" />
+        <postfix Name="格" Weight="3" />
+        <postfix Name="什" />
+        <postfix Name="琴" />
+        <postfix Name="阿奇" />
+        <postfix Name="阿特" />
+        <postfix Name="勒胡" />
+        <postfix Name="拉" />
+        <postfix Name="格利斯" />
+        <postfix Name="尔特" />
+        <postfix Name="尔" />
+        <postfix Name="尼斯" />
+        <postfix Name="蒙" />
+        <postfix Name="恩" Weight="3" />
+        <postfix Name="奥尔" />
+        <postfix Name="斯" />
+        <postfix Name="约斯" />
+        <postfix Name="尔克" />
+        <postfix Name="斯卡" />
+        <postfix Name="沙" />
+        <postfix Name="恩戈" />
+        <postfix Name="特" />
+        <postfix Name="克鲁" />
+        <postfix Name="伊克斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Troll" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="0-1">
+        <prefix Name="卢尔" />
+        <prefix Name="穆布" />
+        <prefix Name="穆尔" />
+        <prefix Name="普尔" />
+        <prefix Name="鲁尔" />
+        <prefix Name="乌尔" />
+        <prefix Name="乌布" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-3">
+        <infix Name="蒙" />
+        <infix Name="诺姆" />
+        <infix Name="农" />
+        <infix Name="沃" />
+        <infix Name="沃兹" />
+        <infix Name="佐" />
+        <infix Name="佐兹" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1-2">
+        <postfix Name="穆" />
+        <postfix Name="穆姆" />
+        <postfix Name="努姆" />
+        <postfix Name="努姆" />
+        <postfix Name="乌兹" />
+        <postfix Name="泽布" />
+        <postfix Name="祖姆" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Troll Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=adjective=巨魔=occupation=" />
+      </templates>
+      <templatevars Load="Replace">
+        
+        <templatevar Name="adjective">
+          <value Name="扭曲者" />
+          <value Name="不朽" />
+          <value Name="魁伟" />
+          <value Name="兽性" />
+          <value Name="狂躁" />
+          <value Name="胶皮" />
+          <value Name="嗜血" />
+          <value Name="双头" />
+        </templatevar>
+        <templatevar Name="occupation">
+          <value Name="集颅者" />
+          <value Name="食心者" />
+          <value Name="狩猎之主" />
+          <value Name="食人者" />
+          <value Name="洞窟之王" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Mechanimist" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿巴" />
+        <prefix Name="阿巴" />
+        <prefix Name="阿比" />
+        <prefix Name="阿格" />
+        <prefix Name="阿莱卡" />
+        <prefix Name="阿什" />
+        <prefix Name="巴尔萨" />
+        <prefix Name="巴尔索" />
+        <prefix Name="本贾" />
+        <prefix Name="本朱" />
+        <prefix Name="贝努" />
+        <prefix Name="卡" />
+        <prefix Name="卡莱" />
+        <prefix Name="卡斯托" />
+        <prefix Name="切" />
+        <prefix Name="科尔" />
+        <prefix Name="达马斯卡" />
+        <prefix Name="德博" />
+        <prefix Name="多尔卡" />
+        <prefix Name="埃本" />
+        <prefix Name="埃利" />
+        <prefix Name="埃洛" />
+        <prefix Name="埃夫拉" />
+        <prefix Name="埃夫里" />
+        <prefix Name="加布里" />
+        <prefix Name="哈" />
+        <prefix Name="哈加" />
+        <prefix Name="赫罗" />
+        <prefix Name="霍" />
+        <prefix Name="胡" />
+        <prefix Name="伊查" />
+        <prefix Name="杰迪" />
+        <prefix Name="杰哈" />
+        <prefix Name="杰霍" />
+        <prefix Name="乔迪" />
+        <prefix Name="拉扎" />
+        <prefix Name="马特西" />
+        <prefix Name="梅姆菲" />
+        <prefix Name="梅诺" />
+        <prefix Name="莫尔德" />
+        <prefix Name="纳萨" />
+        <prefix Name="诺阿" />
+        <prefix Name="奥德" />
+        <prefix Name="法" />
+        <prefix Name="费" />
+        <prefix Name="菲" />
+        <prefix Name="福" />
+        <prefix Name="拉切" />
+        <prefix Name="尔希" />
+        <prefix Name="鲁" />
+        <prefix Name="萨拉" />
+        <prefix Name="萨法" />
+        <prefix Name="塞费" />
+        <prefix Name="塞瑟" />
+        <prefix Name="索洛" />
+        <prefix Name="斯特费" />
+        <prefix Name="苏卢" />
+        <prefix Name="托比" />
+      </prefixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="凯" />
+        <postfix Name="达" />
+        <postfix Name="达斯" />
+        <postfix Name="迪乌斯" />
+        <postfix Name="哈姆" />
+        <postfix Name="凯纳" />
+        <postfix Name="库纳" />
+        <postfix Name="明" />
+        <postfix Name="蒙" />
+        <postfix Name="莫斯" />
+        <postfix Name="蒙" />
+        <postfix Name="穆斯" />
+        <postfix Name="纳埃" />
+        <postfix Name="诺埃" />
+        <postfix Name="努" />
+        <postfix Name="尼" />
+        <postfix Name="拉埃勒" />
+        <postfix Name="拉斯" />
+        <postfix Name="罗斯" />
+        <postfix Name="赛达" />
+        <postfix Name="萨夫" />
+        <postfix Name="塞夫" />
+        <postfix Name="沙法特" />
+        <postfix Name="沙尔" />
+        <postfix Name="谢巴" />
+        <postfix Name="谢姆" />
+        <postfix Name="沙" />
+        <postfix Name="肖" />
+        <postfix Name="希乌" />
+        <postfix Name="肖普" />
+        <postfix Name="萨" />
+        <postfix Name="索" />
+        <postfix Name="西乌" />
+        <postfix Name="索夫" />
+        <postfix Name="瑟勒" />
+        <postfix Name="瑟斯达" />
+        <postfix Name="蒂勒" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Mechanimist Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=cognomen=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="cognomen">
+          <value Name="舍金纳所选" />
+          <value Name="镀铬之躯" />
+          <value Name="银色众父的宠儿" />
+          <value Name="圣石之子" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Animal" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="" />
+        <prefix Name="阿" />
+        <prefix Name="巴" Weight="2" />
+        <prefix Name="比" />
+        <prefix Name="达" />
+        <prefix Name="埃" />
+        <prefix Name="法" />
+        <prefix Name="加" />
+        <prefix Name="赫" />
+        <prefix Name="伊" />
+        <prefix Name="卡" />
+        <prefix Name="卡" />
+        <prefix Name="凯" />
+        <prefix Name="纳" />
+        <prefix Name="纳夫" />
+        <prefix Name="内" />
+        <prefix Name="卡" />
+        <prefix Name="凯" />
+        <prefix Name="萨" />
+        <prefix Name="沙" />
+        <prefix Name="索" />
+        <prefix Name="苏" />
+        <prefix Name="塔" Weight="2" />
+        <prefix Name="特" />
+        <prefix Name="齐" />
+        <prefix Name="乌" />
+        <prefix Name="瓦" />
+        <prefix Name="伊" />
+        <prefix Name="伊伊" />
+        <prefix Name="扎" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-3">
+        <infix Name="" />
+        <infix Name="巴" />
+        <infix Name="希" />
+        <infix Name="拉" />
+        <infix Name="勒霍" />
+        <infix Name="马" />
+        <infix Name="梅" />
+        <infix Name="姆萨" />
+        <infix Name="恩亚" />
+        <infix Name="卡" />
+        <infix Name="拉" />
+        <infix Name="里" />
+        <infix Name="谢" />
+        <infix Name="萨" />
+        <infix Name="塔" Weight="2" />
+        <infix Name="萨" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="阿" />
+        <postfix Name="艾勒" />
+        <postfix Name="查尔" />
+        <postfix Name="法阿特" />
+        <postfix Name="法" />
+        <postfix Name="凡" />
+        <postfix Name="加阿" />
+        <postfix Name="基" />
+        <postfix Name="勒布" Weight="2" />
+        <postfix Name="莱夫" />
+        <postfix Name="利" />
+        <postfix Name="马阿尔" />
+        <postfix Name="马克" />
+        <postfix Name="梅尔" />
+        <postfix Name="明" />
+        <postfix Name="恩" />
+        <postfix Name="纳尔" />
+        <postfix Name="波尔" />
+        <postfix Name="凯尔德" />
+        <postfix Name="尔" />
+        <postfix Name="拉" />
+        <postfix Name="拉斯" />
+        <postfix Name="尔恩" />
+        <postfix Name="鲁夫" />
+        <postfix Name="萨德" />
+        <postfix Name="谢尔" />
+        <postfix Name="希" />
+        <postfix Name="斯尔" />
+        <postfix Name="特" />
+        <postfix Name="图勒" />
+        <postfix Name="维什" />
+        <postfix Name="尔" />
+        <postfix Name="齐尔" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Bear" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1-5">
+        <prefix Name="巴" />
+        <prefix Name="巴卡" />
+        <prefix Name="巴马" />
+        <prefix Name="巴亚" />
+        <prefix Name="贝" />
+        <prefix Name="比" />
+        <prefix Name="比" />
+        <prefix Name="博" />
+        <prefix Name="博科" />
+        <prefix Name="博莫" />
+        <prefix Name="布" />
+        <prefix Name="博约" />
+        <prefix Name="布" />
+        <prefix Name="布库" />
+        <prefix Name="布穆" />
+        <prefix Name="布尤" />
+      </prefixes>
+      <postfixes Load="Replace" Amount="0-1">
+        <postfix Name="巴" />
+        <postfix Name="巴姆" />
+        <postfix Name="巴特" />
+        <postfix Name="贝" />
+        <postfix Name="比" />
+        <postfix Name="博" />
+        <postfix Name="博姆" />
+        <postfix Name="布" />
+        <postfix Name="布姆" />
+        <postfix Name="比姆" />
+        <postfix Name="吉" />
+        <postfix Name="吉" />
+        <postfix Name="格耶" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Bear Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="嗜蜜闻名的=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Ape" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1-5">
+        <prefix Name="卡" />
+        <prefix Name="卡卡" />
+        <prefix Name="卡马" />
+        <prefix Name="卡亚" />
+        <prefix Name="凯" />
+        <prefix Name="基" />
+        <prefix Name="基" />
+        <prefix Name="科" />
+        <prefix Name="科科" />
+        <prefix Name="科莫" />
+        <prefix Name="库" />
+        <prefix Name="科约" />
+        <prefix Name="库" />
+        <prefix Name="库库" />
+        <prefix Name="库穆" />
+        <prefix Name="库尤" />
+        <prefix Name="奥" />
+        <prefix Name="奥卡" />
+        <prefix Name="奥科" />
+        <prefix Name="奥库" />
+        <prefix Name="奥马" />
+        <prefix Name="奥莫" />
+        <prefix Name="奥穆" />
+        <prefix Name="乌" />
+        <prefix Name="奥亚" />
+        <prefix Name="奥尤" />
+      </prefixes>
+      <postfixes Load="Replace" Amount="0-1">
+        <postfix Name="卡" />
+        <postfix Name="卡姆" />
+        <postfix Name="卡特" />
+        <postfix Name="凯" />
+        <postfix Name="基" Weight="2" />
+        <postfix Name="科" />
+        <postfix Name="科姆" />
+        <postfix Name="库" />
+        <postfix Name="库姆" />
+        <postfix Name="基" />
+        <postfix Name="克耶" />
+        <postfix Name="基姆" />
+        <postfix Name="奥" />
+        <postfix Name="奥伊" />
+        <postfix Name="乌" />
+        <postfix Name="奥" />
+        <postfix Name="奥耶" />
+        <postfix Name="奥姆" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Ape Hero Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=adjective=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="adjective">
+          <value Name="斑斓" />
+          <value Name="优雅" />
+          <value Name="时髦" />
+          <value Name="棱彩" />
+          <value Name="俊雅" />
+          <value Name="风度翩翩" />
+          <value Name="衣着考究" />
+          <value Name="服饰华美" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Ape Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Robot" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1-2">
+        <prefix Name="缺失十六进制值" />
+        <prefix Name="0" Weight="2" />
+        <prefix Name="1" Weight="2" />
+        <prefix Name="2" Weight="2" />
+        <prefix Name="3" Weight="2" />
+        <prefix Name="4" Weight="2" />
+        <prefix Name="5" Weight="2" />
+        <prefix Name="6" Weight="2" />
+        <prefix Name="7" Weight="2" />
+        <prefix Name="8" Weight="2" />
+        <prefix Name="9" Weight="2" />
+        <prefix Name="阿" Weight="2" />
+        <prefix Name="布" Weight="2" />
+        <prefix Name="克" Weight="2" />
+        <prefix Name="德" Weight="2" />
+        <prefix Name="埃" Weight="2" />
+        <prefix Name="夫" Weight="2" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="缺失十六进制值" />
+        <infix Name="0" Weight="2" />
+        <infix Name="1" Weight="2" />
+        <infix Name="2" Weight="2" />
+        <infix Name="3" Weight="2" />
+        <infix Name="4" Weight="2" />
+        <infix Name="5" Weight="2" />
+        <infix Name="6" Weight="2" />
+        <infix Name="7" Weight="2" />
+        <infix Name="8" Weight="2" />
+        <infix Name="9" Weight="2" />
+        <infix Name="阿" Weight="2" />
+        <infix Name="布" Weight="2" />
+        <infix Name="克" Weight="2" />
+        <infix Name="德" Weight="2" />
+        <infix Name="埃" Weight="2" />
+        <infix Name="夫" Weight="2" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1-2">
+        <postfix Name="缺失十六进制值" />
+        <postfix Name="0" Weight="2" />
+        <postfix Name="1" Weight="2" />
+        <postfix Name="2" Weight="2" />
+        <postfix Name="3" Weight="2" />
+        <postfix Name="4" Weight="2" />
+        <postfix Name="5" Weight="2" />
+        <postfix Name="6" Weight="2" />
+        <postfix Name="7" Weight="2" />
+        <postfix Name="8" Weight="2" />
+        <postfix Name="9" Weight="2" />
+        <postfix Name="阿" Weight="2" />
+        <postfix Name="布" Weight="2" />
+        <postfix Name="克" Weight="2" />
+        <postfix Name="德" Weight="2" />
+        <postfix Name="埃" Weight="2" />
+        <postfix Name="夫" Weight="2" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Insect" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="阿克" />
+        <prefix Name="阿帕" />
+        <prefix Name="阿尔" Weight="2" />
+        <prefix Name="阿塔" />
+        <prefix Name="奥" />
+        <prefix Name="比" />
+        <prefix Name="卡" />
+        <prefix Name="塞" />
+        <prefix Name="克拉" />
+        <prefix Name="达" />
+        <prefix Name="迪" />
+        <prefix Name="埃格拉" />
+        <prefix Name="埃帕" />
+        <prefix Name="富" />
+        <prefix Name="格里" />
+        <prefix Name="赫" />
+        <prefix Name="伊萨" />
+        <prefix Name="拉" />
+        <prefix Name="利" />
+        <prefix Name="马" />
+        <prefix Name="梅拉" />
+        <prefix Name="努" />
+        <prefix Name="奥埃" />
+        <prefix Name="法" />
+        <prefix Name="普莱" />
+        <prefix Name="普特" />
+        <prefix Name="皮尔" />
+        <prefix Name="拉" />
+        <prefix Name="雷" />
+        <prefix Name="斯蒂" />
+        <prefix Name="特" />
+        <prefix Name="西" />
+        <prefix Name="瓦" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="贝" />
+        <infix Name="卡" />
+        <infix Name="塞" />
+        <infix Name="查埃" />
+        <infix Name="科" />
+        <infix Name="克托" />
+        <infix Name="西" />
+        <infix Name="斯约" />
+        <infix Name="达" />
+        <infix Name="加" />
+        <infix Name="吉" />
+        <infix Name="戈" />
+        <infix Name="哈" />
+        <infix Name="拉" Weight="2" />
+        <infix Name="利" />
+        <infix Name="利" />
+        <infix Name="勒托" />
+        <infix Name="梅" />
+        <infix Name="米" />
+        <infix Name="内" />
+        <infix Name="诺" />
+        <infix Name="恩苏" />
+        <infix Name="法" />
+        <infix Name="菲" />
+        <infix Name="皮" />
+        <infix Name="尔吉" />
+        <infix Name="罗" />
+        <infix Name="罗" />
+        <infix Name="索" />
+        <infix Name="索" />
+        <infix Name="斯蒂" />
+        <infix Name="斯特里" />
+        <infix Name="托" />
+        <infix Name="特罗" />
+        <infix Name="维特" />
+        <infix Name="肯" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="贝拉" />
+        <postfix Name="库斯" />
+        <postfix Name="达埃" />
+        <postfix Name="东" />
+        <postfix Name="盖阿" />
+        <postfix Name="拉" />
+        <postfix Name="卢斯" />
+        <postfix Name="纳" />
+        <postfix Name="尼" />
+        <postfix Name="尼" />
+        <postfix Name="纳" />
+        <postfix Name="尼斯" />
+        <postfix Name="帕埃" />
+        <postfix Name="佩" />
+        <postfix Name="法" />
+        <postfix Name="普卢斯" />
+        <postfix Name="普斯" />
+        <postfix Name="拉" />
+        <postfix Name="罗斯" />
+        <postfix Name="尔塔" />
+        <postfix Name="鲁姆" />
+        <postfix Name="鲁斯" />
+        <postfix Name="西斯" Weight="2" />
+        <postfix Name="萨" />
+        <postfix Name="苏斯" />
+        <postfix Name="塔" />
+        <postfix Name="蒂斯" />
+        <postfix Name="托尔" />
+        <postfix Name="图斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Ooze" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿努" />
+        <prefix Name="阿斯特罗" />
+        <prefix Name="库比" />
+        <prefix Name="库博" />
+        <prefix Name="西克利" />
+        <prefix Name="西克洛" />
+        <prefix Name="德卡" />
+        <prefix Name="迪" />
+        <prefix Name="迪斯科" />
+        <prefix Name="多德" />
+        <prefix Name="埃利" />
+        <prefix Name="富西" />
+        <prefix Name="赫普塔" />
+        <prefix Name="赫卡" />
+        <prefix Name="伊索" />
+        <prefix Name="克-戈尼" />
+        <prefix Name="姆-戈尼" />
+        <prefix Name="恩-戈尼" />
+        <prefix Name="奥克塔" />
+        <prefix Name="奥克塔" />
+        <prefix Name="奥瓦" />
+        <prefix Name="奥沃" />
+        <prefix Name="帕拉莱" />
+        <prefix Name="波利" />
+        <prefix Name="卡德里" />
+        <prefix Name="雷克塔" />
+        <prefix Name="尔霍穆" />
+        <prefix Name="斯费里" />
+        <prefix Name="斯基" />
+        <prefix Name="特拉佩" />
+        <prefix Name="特里" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="奇里斯" />
+        <infix Name="德隆" />
+        <infix Name="克莱" />
+        <infix Name="克里" />
+        <infix Name="克托" />
+        <infix Name="梅姆" />
+        <infix Name="努" />
+        <infix Name="夫里" />
+        <infix Name="夫罗" />
+        <infix Name="波利" />
+        <infix Name="波洛" />
+        <infix Name="普托" />
+        <infix Name="尔贝" />
+        <infix Name="尔奇米" />
+        <infix Name="里" />
+        <infix Name="里斯塔" />
+        <infix Name="里斯托" />
+        <infix Name="索" />
+        <infix Name="斯塔" Weight="2" />
+        <infix Name="萨" />
+        <infix Name="蒂奇" />
+        <infix Name="蒂乔" />
+        <infix Name="卡" />
+        <infix Name="基" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="艾奥斯" />
+        <postfix Name="阿斯特尔" />
+        <postfix Name="邦" />
+        <postfix Name="克拉特斯" />
+        <postfix Name="多斯" />
+        <postfix Name="德罗斯" />
+        <postfix Name="恩奥" />
+        <postfix Name="胡德" />
+        <postfix Name="奥" />
+        <postfix Name="奥斯" />
+        <postfix Name="伊斯" />
+        <postfix Name="伊乌斯" />
+        <postfix Name="克拉特斯" />
+        <postfix Name="莱米" />
+        <postfix Name="隆" />
+        <postfix Name="洛斯" />
+        <postfix Name="洛斯" />
+        <postfix Name="利托斯" />
+        <postfix Name="梅德斯" />
+        <postfix Name="蒙" />
+        <postfix Name="穆斯" />
+        <postfix Name="尼斯" />
+        <postfix Name="农" />
+        <postfix Name="恩蒂诺斯" />
+        <postfix Name="法斯" />
+        <postfix Name="菲斯" />
+        <postfix Name="福克莱斯" />
+        <postfix Name="尔戈" />
+        <postfix Name="尔戈斯" />
+        <postfix Name="隆" />
+        <postfix Name="塞斯" />
+        <postfix Name="索普" />
+        <postfix Name="斯托斯" />
+        <postfix Name="斯特拉特" />
+        <postfix Name="斯图斯" />
+        <postfix Name="特莱斯" />
+        <postfix Name="萨道斯" />
+        <postfix Name="瑟内斯" />
+        <postfix Name="瑟尼斯" />
+        <postfix Name="瑟尔" />
+        <postfix Name="索斯" />
+        <postfix Name="松" />
+        <postfix Name="托斯" />
+        <postfix Name="特罗斯" />
+        <postfix Name="基斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Reptile" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="阿塔" />
+        <prefix Name="查" />
+        <prefix Name="奇" />
+        <prefix Name="西" />
+        <prefix Name="科" />
+        <prefix Name="埃" />
+        <prefix Name="胡" />
+        <prefix Name="胡" />
+        <prefix Name="胡伊" />
+        <prefix Name="伊" />
+        <prefix Name="库" />
+        <prefix Name="马" />
+        <prefix Name="奥" />
+        <prefix Name="帕" Weight="2" />
+        <prefix Name="皮" />
+        <prefix Name="凯" />
+        <prefix Name="特" />
+        <prefix Name="特拉" />
+        <prefix Name="托" />
+        <prefix Name="科" />
+        <prefix Name="亚" />
+        <prefix Name="扎" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="卡" />
+        <infix Name="克特拉" />
+        <infix Name="克托" />
+        <infix Name="拉" />
+        <infix Name="勒西" />
+        <infix Name="勒科" />
+        <infix Name="洛" />
+        <infix Name="勒特" />
+        <infix Name="梅" />
+        <infix Name="恩基" />
+        <infix Name="帕" />
+        <infix Name="波" Weight="2" />
+        <infix Name="特" />
+        <infix Name="特奥" />
+        <infix Name="特拉" />
+        <infix Name="特利" />
+        <infix Name="特扎" />
+        <infix Name="克斯科" />
+        <infix Name="科" />
+        <infix Name="克斯托" />
+        <infix Name="亚" />
+        <infix Name="兹卡" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="卡特勒" />
+        <postfix Name="西" />
+        <postfix Name="科阿" />
+        <postfix Name="库" />
+        <postfix Name="希勒" />
+        <postfix Name="哈" />
+        <postfix Name="哈特勒" />
+        <postfix Name="利斯克" />
+        <postfix Name="洛克" />
+        <postfix Name="洛特勒" />
+        <postfix Name="莫" />
+        <postfix Name="纳勒" />
+        <postfix Name="嫩" />
+        <postfix Name="基" />
+        <postfix Name="特奥" />
+        <postfix Name="特奥特勒" />
+        <postfix Name="廷" />
+        <postfix Name="蒂乌" />
+        <postfix Name="通" />
+        <postfix Name="特里塞" />
+        <postfix Name="特扎勒" />
+        <postfix Name="克斯特利" />
+        <postfix Name="亚" />
+        <postfix Name="约特勒" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Tortoise" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="马尔" />
+        <prefix Name="米尔" />
+        <prefix Name="莫尔" />
+        <prefix Name="穆尔" />
+        <prefix Name="米尔" />
+        <prefix Name="纳尔" />
+        <prefix Name="尼尔" />
+        <prefix Name="诺尔" />
+        <prefix Name="努尔" />
+        <prefix Name="尼尔" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="拉" />
+        <infix Name="莱" />
+        <infix Name="洛" />
+        <infix Name="卢" />
+      </infixes>
+      <postfixes Load="Replace" Amount="0-1">
+        <postfix Name="拉布" />
+        <postfix Name="莱布" />
+        <postfix Name="洛布" />
+        <postfix Name="卢布" />
+        <postfix Name="马布" />
+        <postfix Name="梅布" />
+        <postfix Name="米布" />
+        <postfix Name="莫布" />
+        <postfix Name="穆布" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Tortoise Hero Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=disposition=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="disposition">
+          <value Name="乖戾" />
+          <value Name="暴躁" />
+          <value Name="恼怒" />
+          <value Name="郁郁寡欢" />
+          <value Name="怨声载道" />
+          <value Name="粗暴" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Tortoise Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Fish" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" Weight="5" />
+        <prefix Name="贝" />
+        <prefix Name="博阿" />
+        <prefix Name="布里" />
+        <prefix Name="西" />
+        <prefix Name="科" />
+        <prefix Name="迪" />
+        <prefix Name="埃" />
+        <prefix Name="法" />
+        <prefix Name="盖" />
+        <prefix Name="格拉" />
+        <prefix Name="伊" Weight="2" />
+        <prefix Name="奥" Weight="6" />
+        <prefix Name="拉" />
+        <prefix Name="莱" />
+        <prefix Name="利" />
+        <prefix Name="利" />
+        <prefix Name="卢" />
+        <prefix Name="莫" />
+        <prefix Name="穆" />
+        <prefix Name="奥" />
+        <prefix Name="塞" Weight="2" />
+        <prefix Name="西" />
+        <prefix Name="斯梅" />
+        <prefix Name="特里" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-2">
+        <infix Name="巴" />
+        <infix Name="比" />
+        <infix Name="布诺" />
+        <infix Name="布拉" />
+        <infix Name="考" />
+        <infix Name="科" />
+        <infix Name="库" />
+        <infix Name="达" />
+        <infix Name="德苏" />
+        <infix Name="法" />
+        <infix Name="加" />
+        <infix Name="格罗" />
+        <infix Name="劳" />
+        <infix Name="利" />
+        <infix Name="拉" />
+        <infix Name="姆佩" />
+        <infix Name="恩卡" />
+        <infix Name="恩达" />
+        <infix Name="恩多" />
+        <infix Name="恩蒂" />
+        <infix Name="恩图" />
+        <infix Name="尔杜伊" />
+        <infix Name="里" />
+        <infix Name="萨" />
+        <infix Name="斯梅" />
+        <infix Name="索" />
+        <infix Name="塔" />
+        <infix Name="维" Weight="2" />
+        <infix Name="维勒" />
+        <infix Name="凯" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="库拉" />
+        <postfix Name="登斯" Weight="2" />
+        <postfix Name="德罗斯" />
+        <postfix Name="格鲁斯" />
+        <postfix Name="古斯" />
+        <postfix Name="洛" />
+        <postfix Name="卢斯" />
+        <postfix Name="马" />
+        <postfix Name="莫斯" />
+        <postfix Name="姆纳" />
+        <postfix Name="莫斯" />
+        <postfix Name="纳" />
+        <postfix Name="南" />
+        <postfix Name="纳埃" />
+        <postfix Name="恩" />
+        <postfix Name="纳" />
+        <postfix Name="南" />
+        <postfix Name="诺斯" />
+        <postfix Name="努斯" />
+        <postfix Name="努斯" />
+        <postfix Name="里斯" />
+        <postfix Name="尔努斯" />
+        <postfix Name="鲁姆" />
+        <postfix Name="斯特雷斯" />
+        <postfix Name="苏斯" />
+        <postfix Name="苏斯" />
+        <postfix Name="蒂斯" Weight="2" />
+        <postfix Name="特罗斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Arachnid" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="夫西斯" />
+        <prefix Name="谢布" />
+        <prefix Name="肖布" />
+        <prefix Name="希布" />
+        <prefix Name="西斯" />
+        <prefix Name="西斯" />
+        <prefix Name="蒂斯" />
+        <prefix Name="伊斯" />
+      </prefixes>
+      <postfixes Load="Replace" Amount="1-3">
+        <postfix Name="伊斯" />
+        <postfix Name="伊斯" />
+        <postfix Name="奥斯" />
+        <postfix Name="奥斯" />
+        <postfix Name="乌斯" />
+        <postfix Name="乌斯" />
+        <postfix Name="伊斯" />
+        <postfix Name="伊斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Arachnid Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=，织艺绝伦" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Bird" Format="Capitalized" Load="Merge">
+      <prefixes Load="Replace" Amount="3-6">
+        <prefix Name="卡" Weight="2" />
+        <prefix Name="嘎" Weight="2" />
+        <prefix Name="嘎——" />
+        <prefix Name="嘎——" />
+        <prefix Name="嘎——" />
+        <prefix Name="嘎——" />
+        <prefix Name="嘎——" />
+        <prefix Name="嘎——" />
+        <prefix Name="嘎" />
+        <prefix Name="嘎" />
+        <prefix Name="嘎" />
+        <prefix Name="嘎" />
+      </prefixes>
+    </namestyle>
+    <namestyle Name="Bird Hero Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=singer=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="singer">
+          <value Name="吟游诗人" />
+          <value Name="乐师" />
+          <value Name="歌者" />
+          <value Name="女歌者" />
+          <value Name="游吟诗人" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Bird Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=disposition==creatureType=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="disposition">
+          <value Name="沉郁" />
+          <value Name="欢悦" />
+          <value Name="严峻" />
+          <value Name="快活" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Worm" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="布鲁" />
+        <prefix Name="德劳" />
+        <prefix Name="埃" />
+        <prefix Name="法夫" />
+        <prefix Name="菲" />
+        <prefix Name="加" />
+        <prefix Name="格劳" />
+        <prefix Name="哈" />
+        <prefix Name="希" />
+        <prefix Name="乔尔" />
+        <prefix Name="拉" />
+        <prefix Name="利" />
+        <prefix Name="马" />
+        <prefix Name="尼" />
+        <prefix Name="拉" />
+        <prefix Name="塔" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="多" />
+        <infix Name="夫古" />
+        <infix Name="赫里" />
+        <infix Name="尔迪" />
+        <infix Name="穆" />
+        <infix Name="恩加" />
+        <infix Name="恩巴" />
+        <infix Name="恩格里" />
+        <infix Name="尼" />
+        <infix Name="恩米" />
+        <infix Name="恩瓦" />
+        <infix Name="尔梅" />
+        <infix Name="塔" />
+        <infix Name="托" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="法" />
+        <postfix Name="格" />
+        <postfix Name="格尔" />
+        <postfix Name="吉" />
+        <postfix Name="格尔" />
+        <postfix Name="克尔" />
+        <postfix Name="尔吉亚" />
+        <postfix Name="尔" />
+        <postfix Name="恩德尔" />
+        <postfix Name="恩吉亚" />
+        <postfix Name="尼尔" />
+        <postfix Name="恩" />
+        <postfix Name="尔默尔" />
+        <postfix Name="伦" />
+        <postfix Name="斯克尔" />
+        <postfix Name="斯尼尔" />
+        <postfix Name="斯特尔" />
+        <postfix Name="提尔" />
+        <postfix Name="虫" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Plant" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="博" />
+        <prefix Name="卡" />
+        <prefix Name="查" />
+        <prefix Name="科" />
+        <prefix Name="埃" />
+        <prefix Name="费" />
+        <prefix Name="弗拉" />
+        <prefix Name="弗雷" />
+        <prefix Name="戈" />
+        <prefix Name="古" />
+        <prefix Name="赫" />
+        <prefix Name="海" />
+        <prefix Name="希勒" />
+        <prefix Name="贾" />
+        <prefix Name="乔" />
+        <prefix Name="莱奥" />
+        <prefix Name="马" />
+        <prefix Name="涅" />
+        <prefix Name="奥" />
+        <prefix Name="菲" />
+        <prefix Name="里" />
+        <prefix Name="鲁" Weight="2" />
+        <prefix Name="维" />
+        <prefix Name="维" Weight="2" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="查尔迪" />
+        <infix Name="德" />
+        <infix Name="德格" />
+        <infix Name="德勒" />
+        <infix Name="多尔福" />
+        <infix Name="埃特" />
+        <infix Name="格尔" />
+        <infix Name="格尔瑟" />
+        <infix Name="勒贝" />
+        <infix Name="勒赫" />
+        <infix Name="利" />
+        <infix Name="勒茨玛" />
+        <infix Name="米" />
+        <infix Name="恩采" />
+        <infix Name="恩拉" />
+        <infix Name="恩施泰因" />
+        <infix Name="恩瑟" />
+        <infix Name="佩尔塔" />
+        <infix Name="菲" />
+        <infix Name="波尔多" />
+        <infix Name="尔迪" />
+        <infix Name="尔勒" />
+        <infix Name="尔洛" />
+        <infix Name="尔努" />
+        <infix Name="尔西" />
+        <infix Name="塞" />
+        <infix Name="斯劳" />
+        <infix Name="斯佩" />
+        <infix Name="特格" />
+        <infix Name="托" />
+        <infix Name="茨舍" />
+        <infix Name="基" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="山毛榉" />
+        <postfix Name="贝尔特" />
+        <postfix Name="博尔特" />
+        <postfix Name="鳞茎" />
+        <postfix Name="灌木" />
+        <postfix Name="蕨" />
+        <postfix Name="叶簇" />
+        <postfix Name="树林" />
+        <postfix Name="霍尔德" />
+        <postfix Name="叶" />
+        <postfix Name="洛克" />
+        <postfix Name="洛策" />
+        <postfix Name="苔" />
+        <postfix Name="橡" />
+        <postfix Name="松" />
+        <postfix Name="李" />
+        <postfix Name="根" />
+        <postfix Name="根" />
+        <postfix Name="树丛" />
+        <postfix Name="嫩枝" />
+        <postfix Name="云杉" />
+        <postfix Name="施通普夫" />
+        <postfix Name="塔奇" />
+        <postfix Name="藤" />
+        <postfix Name="柳" />
+        <postfix Name="林" />
+        <postfix Name="草" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Fungus" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿马" />
+        <prefix Name="阿曼" />
+        <prefix Name="布" />
+        <prefix Name="博尔" />
+        <prefix Name="尚" />
+        <prefix Name="克拉夫" />
+        <prefix Name="科" />
+        <prefix Name="科迪" />
+        <prefix Name="克雷" />
+        <prefix Name="恩托" />
+        <prefix Name="吉罗" />
+        <prefix Name="伊诺" />
+        <prefix Name="莱普" />
+        <prefix Name="姆" />
+        <prefix Name="姆恩" />
+        <prefix Name="翁法" />
+        <prefix Name="法尔" />
+        <prefix Name="普勒" />
+        <prefix Name="斯库" />
+        <prefix Name="特里" />
+        <prefix Name="乌姆" />
+        <prefix Name="维尔" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="阿克" />
+        <infix Name="塞普斯" />
+        <infix Name="奇尼" />
+        <infix Name="科尔特" />
+        <infix Name="登斯" />
+        <infix Name="埃洛" />
+        <infix Name="埃米尼" />
+        <infix Name="恩托" />
+        <infix Name="埃拉" />
+        <infix Name="埃雷尔" />
+        <infix Name="加诺" />
+        <infix Name="伊库斯" />
+        <infix Name="伊纳尔" />
+        <infix Name="伊尼" />
+        <infix Name="伊塔" />
+        <infix Name="洛马" />
+        <infix Name="奥基" />
+        <infix Name="奥马" />
+        <infix Name="奥普西斯" />
+        <infix Name="奥雷尔" />
+        <infix Name="奥萨" />
+        <infix Name="芝" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="菌室" />
+        <postfix Name="伞菌" />
+        <postfix Name="牛肝菌" />
+        <postfix Name="菌盖" />
+        <postfix Name="菌果" />
+        <postfix Name="菌落" />
+        <postfix Name="卷枝" />
+        <postfix Name="颈褶" />
+        <postfix Name="菌丝" />
+        <postfix Name="地衣" />
+        <postfix Name="霉" />
+        <postfix Name="羊肚菌" />
+        <postfix Name="菌皮" />
+        <postfix Name="载体" />
+        <postfix Name="孔" />
+        <postfix Name="原生生物" />
+        <postfix Name="菌" />
+        <postfix Name="菌种" />
+        <postfix Name="孢" />
+        <postfix Name="凳子" />
+        <postfix Name="菌体" />
+        <postfix Name="菌群" />
+        <postfix Name="菌脐" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Antelope" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1-5">
+        <prefix Name="加" />
+        <prefix Name="加卡" />
+        <prefix Name="加马" />
+        <prefix Name="加亚" />
+        <prefix Name="盖" />
+        <prefix Name="吉" />
+        <prefix Name="吉" />
+        <prefix Name="格纳" />
+        <prefix Name="格纳卡" />
+        <prefix Name="格纳马" />
+        <prefix Name="格内" />
+        <prefix Name="格尼" />
+        <prefix Name="格尼" />
+        <prefix Name="格诺" />
+        <prefix Name="格诺莫" />
+        <prefix Name="格努" />
+        <prefix Name="格诺约" />
+        <prefix Name="格努" />
+        <prefix Name="格努库" />
+        <prefix Name="格努穆" />
+        <prefix Name="格努尤" />
+        <prefix Name="戈" />
+        <prefix Name="戈科" />
+        <prefix Name="戈莫" />
+        <prefix Name="古" />
+        <prefix Name="戈约" />
+        <prefix Name="古" />
+        <prefix Name="古库" />
+        <prefix Name="古穆" />
+        <prefix Name="古尤" />
+      </prefixes>
+      <postfixes Load="Replace" Amount="0-1">
+        <postfix Name="加" />
+        <postfix Name="加姆" />
+        <postfix Name="加特" />
+        <postfix Name="盖" />
+        <postfix Name="吉" />
+        <postfix Name="格纳姆" />
+        <postfix Name="格纳特" />
+        <postfix Name="格内" />
+        <postfix Name="格尼" />
+        <postfix Name="格诺" />
+        <postfix Name="格诺姆" />
+        <postfix Name="格努" />
+        <postfix Name="格努姆" />
+        <postfix Name="格尼姆" />
+        <postfix Name="戈" />
+        <postfix Name="戈姆" />
+        <postfix Name="古" />
+        <postfix Name="古姆" />
+        <postfix Name="吉" />
+        <postfix Name="格耶" />
+        <postfix Name="吉姆" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Antelope Hero" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name==adjective=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="adjective">
+          <value Name="疾蹄" />
+          <value Name="迅跃者" />
+          <value Name="嬉跃者" />
+          <value Name="轻蹄疾步" />
+          <value Name="蹦跳轻蹄" />
+          <value Name="风筝舞者" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Antelope Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Dromad" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1-2">
+        <prefix Name="阿" />
+        <prefix Name="达" />
+        <prefix Name="迪" />
+        <prefix Name="杜" />
+        <prefix Name="伊" />
+        <prefix Name="姆纳" />
+        <prefix Name="姆尼" />
+        <prefix Name="姆努" />
+        <prefix Name="卡" />
+        <prefix Name="基" />
+        <prefix Name="卡" />
+        <prefix Name="基" />
+        <prefix Name="克" />
+        <prefix Name="克" />
+        <prefix Name="塔" />
+        <prefix Name="蒂" />
+        <prefix Name="图" />
+        <prefix Name="乌" />
+      </prefixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="勒" />
+        <postfix Name="姆" />
+        <postfix Name="恩" />
+        <postfix Name="克" />
+        <postfix Name="克" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Urchin" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="布鲁" />
+        <prefix Name="德劳" />
+        <prefix Name="埃" />
+        <prefix Name="法夫" />
+        <prefix Name="菲" />
+        <prefix Name="加" />
+        <prefix Name="格劳" />
+        <prefix Name="哈" />
+        <prefix Name="希" />
+        <prefix Name="乔尔" />
+        <prefix Name="拉" />
+        <prefix Name="利" />
+        <prefix Name="马" />
+        <prefix Name="尼" />
+        <prefix Name="拉" />
+        <prefix Name="塔" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="德霍" />
+        <infix Name="夫古" />
+        <infix Name="里" />
+        <infix Name="勒迪" />
+        <infix Name="穆" />
+        <infix Name="恩加" />
+        <infix Name="恩格巴" />
+        <infix Name="恩格里" />
+        <infix Name="尼" />
+        <infix Name="恩米" />
+        <infix Name="恩瓦" />
+        <infix Name="尔梅" />
+        <infix Name="塔" />
+        <infix Name="托" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="法" />
+        <postfix Name="格" />
+        <postfix Name="格尔" />
+        <postfix Name="吉" />
+        <postfix Name="格尔" />
+        <postfix Name="克尔" />
+        <postfix Name="勒格贾" />
+        <postfix Name="勒" />
+        <postfix Name="恩德尔" />
+        <postfix Name="恩格贾" />
+        <postfix Name="尼尔" />
+        <postfix Name="恩" />
+        <postfix Name="尔姆尔" />
+        <postfix Name="伦格" />
+        <postfix Name="斯克尔" />
+        <postfix Name="斯尼尔" />
+        <postfix Name="斯特尔" />
+        <postfix Name="蒂尔" />
+        <postfix Name="乌尔奇" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Issachari" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="沐" />
+        <prefix Name="嚼" />
+        <prefix Name="噎" />
+        <prefix Name="畅饮" />
+        <prefix Name="哭" />
+        <prefix Name="饮" />
+        <prefix Name="剥" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="被" />
+        <infix Name="里" />
+        <infix Name="近" />
+        <infix Name="于" />
+        <infix Name="于" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="沥青" />
+        <postfix Name="火" />
+        <postfix Name="油" />
+        <postfix Name="速盐" />
+        <postfix Name="盐" />
+        <postfix Name="群蛇" />
+        <postfix Name="羽蛇" />
+        <postfix Name="日" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Templar" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="巴" />
+        <prefix Name="贝" />
+        <prefix Name="卡" />
+        <prefix Name="查" />
+        <prefix Name="奇里" />
+        <prefix Name="西" />
+        <prefix Name="达" />
+        <prefix Name="埃德" />
+        <prefix Name="埃利" />
+        <prefix Name="埃姆" />
+        <prefix Name="埃维" />
+        <prefix Name="法" />
+        <prefix Name="夫洛" />
+        <prefix Name="加" />
+        <prefix Name="盖" />
+        <prefix Name="古伊" />
+        <prefix Name="吉" />
+        <prefix Name="哈" />
+        <prefix Name="霍" />
+        <prefix Name="胡" />
+        <prefix Name="亚" />
+        <prefix Name="伊" />
+        <prefix Name="贾" />
+        <prefix Name="乔" />
+        <prefix Name="朱" />
+        <prefix Name="莱" />
+        <prefix Name="卢" />
+        <prefix Name="马" />
+        <prefix Name="纳" />
+        <prefix Name="奥" />
+        <prefix Name="帕" />
+        <prefix Name="菲" />
+        <prefix Name="普罗" />
+        <prefix Name="普鲁" />
+        <prefix Name="罗" />
+        <prefix Name="塞" />
+        <prefix Name="索" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="布索" />
+        <infix Name="乔" />
+        <infix Name="凯" />
+        <infix Name="德" />
+        <infix Name="格纳" />
+        <infix Name="勒贝" />
+        <infix Name="勒赫" />
+        <infix Name="利皮" />
+        <infix Name="利" />
+        <infix Name="马" />
+        <infix Name="纳" />
+        <infix Name="奈" />
+        <infix Name="内" />
+        <infix Name="纳" />
+        <infix Name="诺" />
+        <infix Name="里" />
+        <infix Name="尔瑟" />
+        <infix Name="萨" />
+        <infix Name="斯塔" />
+        <infix Name="斯蒂" />
+        <infix Name="西" />
+        <infix Name="特西" />
+        <infix Name="夫里" />
+        <infix Name="凯" />
+        <infix Name="基" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="贝莱" />
+        <postfix Name="贝尔特" />
+        <postfix Name="贝斯" />
+        <postfix Name="克" />
+        <postfix Name="奇姆" />
+        <postfix Name="达姆" />
+        <postfix Name="迪克特" />
+        <postfix Name="多克" />
+        <postfix Name="多勒夫" />
+        <postfix Name="多雷" />
+        <postfix Name="德里格" />
+        <postfix Name="法塞" />
+        <postfix Name="夫雷" />
+        <postfix Name="夫罗" />
+        <postfix Name="加瑟" />
+        <postfix Name="高克斯" />
+        <postfix Name="吉勒德" />
+        <postfix Name="古斯特" />
+        <postfix Name="勒德" />
+        <postfix Name="曼德" />
+        <postfix Name="蒙德" />
+        <postfix Name="南德" />
+        <postfix Name="诺特" />
+        <postfix Name="努勒" />
+        <postfix Name="菲内" />
+        <postfix Name="夫内" />
+        <postfix Name="波勒德" />
+        <postfix Name="拉塞" />
+        <postfix Name="拉尔德" />
+        <postfix Name="伦特" />
+        <postfix Name="兰" />
+        <postfix Name="里克" />
+        <postfix Name="里勒" />
+        <postfix Name="里内" Weight="2" />
+        <postfix Name="尔斯" />
+        <postfix Name="斯帕尔德" />
+        <postfix Name="斯坦塞" />
+        <postfix Name="斯塔维" />
+        <postfix Name="斯特里德" />
+        <postfix Name="瑟尔" />
+        <postfix Name="苏尔" />
+        <postfix Name="托尔" />
+        <postfix Name="维斯" />
+        <postfix Name="伊" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Templar Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="真族中的好战者" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Commander Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="骑士指挥官奥斯埃神圣的圣殿" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Wraith Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="怨灵骑士圣殿骑士奥斯埃二元荣勋" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Grand Newfather Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Grand Newfather" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Grand Newfather Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="大新父" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Mecha Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="至高机甲" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Mecha Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Templar Mecha 1" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="明" />
+        <prefix Name="珠" />
+        <prefix Name="纯" />
+        <prefix Name="荣" />
+        <prefix Name="自由" />
+        <prefix Name="信" />
+        <prefix Name="苍白" />
+        <prefix Name="星" />
+        <prefix Name="胜" />
+        <prefix Name="true" />
+        <prefix Name="瓦尔" />
+        <prefix Name="日" />
+        <prefix Name="月" />
+        <prefix Name="正" Weight="2" />
+        <prefix Name="确" />
+        <prefix Name="义" />
+        <prefix Name="宝" />
+        <prefix Name="岩" />
+        <prefix Name="铬" />
+        <prefix Name="公正" />
+        <prefix Name="高" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="布索" />
+        <infix Name="乔" />
+        <infix Name="凯" />
+        <infix Name="德" />
+        <infix Name="格纳" />
+        <infix Name="勒贝" />
+        <infix Name="勒赫" />
+        <infix Name="利皮" />
+        <infix Name="利" />
+        <infix Name="马" />
+        <infix Name="纳" />
+        <infix Name="奈" />
+        <infix Name="内" />
+        <infix Name="纳" />
+        <infix Name="诺" />
+        <infix Name="里" />
+        <infix Name="尔瑟" />
+        <infix Name="萨" />
+        <infix Name="斯塔" />
+        <infix Name="斯蒂" />
+        <infix Name="西" />
+        <infix Name="特西" />
+        <infix Name="夫里" />
+        <infix Name="TA" />
+        <infix Name="基" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="贝莱" />
+        <postfix Name="贝尔特" />
+        <postfix Name="贝斯" />
+        <postfix Name="克" />
+        <postfix Name="奇姆" />
+        <postfix Name="达姆" />
+        <postfix Name="迪克特" />
+        <postfix Name="多克" />
+        <postfix Name="多勒夫" />
+        <postfix Name="多雷" />
+        <postfix Name="德里格" />
+        <postfix Name="法塞" />
+        <postfix Name="夫雷" />
+        <postfix Name="夫罗" />
+        <postfix Name="加瑟" />
+        <postfix Name="高克斯" />
+        <postfix Name="吉勒德" />
+        <postfix Name="古斯特" />
+        <postfix Name="勒德" />
+        <postfix Name="曼德" />
+        <postfix Name="蒙德" />
+        <postfix Name="南德" />
+        <postfix Name="诺特" />
+        <postfix Name="努勒" />
+        <postfix Name="菲内" />
+        <postfix Name="夫内" />
+        <postfix Name="波勒德" />
+        <postfix Name="拉塞" />
+        <postfix Name="拉尔德" />
+        <postfix Name="伦特" />
+        <postfix Name="兰" />
+        <postfix Name="里克" />
+        <postfix Name="里勒" />
+        <postfix Name="里内" Weight="2" />
+        <postfix Name="尔斯" />
+        <postfix Name="斯帕尔德" />
+        <postfix Name="斯坦塞" />
+        <postfix Name="斯塔维" />
+        <postfix Name="斯特里德" />
+        <postfix Name="瑟尔" />
+        <postfix Name="苏尔" />
+        <postfix Name="托尔" />
+        <postfix Name="维斯" />
+        <postfix Name="伊" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Templar Mecha 2" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="巴" />
+        <prefix Name="贝" />
+        <prefix Name="卡" />
+        <prefix Name="查" />
+        <prefix Name="奇里" />
+        <prefix Name="西" />
+        <prefix Name="达" />
+        <prefix Name="埃德" />
+        <prefix Name="埃利" />
+        <prefix Name="埃姆" />
+        <prefix Name="埃维" />
+        <prefix Name="法" />
+        <prefix Name="夫洛" />
+        <prefix Name="加" />
+        <prefix Name="盖" />
+        <prefix Name="古伊" />
+        <prefix Name="吉" />
+        <prefix Name="哈" />
+        <prefix Name="霍" />
+        <prefix Name="胡" />
+        <prefix Name="亚" />
+        <prefix Name="伊" />
+        <prefix Name="贾" />
+        <prefix Name="乔" />
+        <prefix Name="朱" />
+        <prefix Name="莱" />
+        <prefix Name="卢" />
+        <prefix Name="马" />
+        <prefix Name="纳" />
+        <prefix Name="奥" />
+        <prefix Name="帕" />
+        <prefix Name="菲" />
+        <prefix Name="普罗" />
+        <prefix Name="普鲁" />
+        <prefix Name="罗" />
+        <prefix Name="塞" />
+        <prefix Name="索" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="布索" />
+        <infix Name="乔" />
+        <infix Name="凯" />
+        <infix Name="德" />
+        <infix Name="格纳" />
+        <infix Name="勒贝" />
+        <infix Name="勒赫" />
+        <infix Name="利皮" />
+        <infix Name="利" />
+        <infix Name="马" />
+        <infix Name="纳" />
+        <infix Name="奈" />
+        <infix Name="内" />
+        <infix Name="纳" />
+        <infix Name="诺" />
+        <infix Name="里" />
+        <infix Name="尔瑟" />
+        <infix Name="萨" />
+        <infix Name="斯塔" />
+        <infix Name="斯蒂" />
+        <infix Name="西" />
+        <infix Name="特西" />
+        <infix Name="夫里" />
+        <infix Name="TA" />
+        <infix Name="基" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="贝莱" Weight="2" />
+        <postfix Name="之子" />
+        <postfix Name="之女" />
+        <postfix Name="同族" />
+        <postfix Name="之童" />
+        <postfix Name="日" />
+        <postfix Name="夜" />
+        <postfix Name="秋" />
+        <postfix Name="春" />
+        <postfix Name="夏" />
+        <postfix Name="冬" />
+        <postfix Name="星团" Weight="2" />
+        <postfix Name="食者" />
+        <postfix Name="猪" />
+        <postfix Name="骏" />
+        <postfix Name="母马" />
+        <postfix Name="沙阿" />
+        <postfix Name="首领" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Barathrumite" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="布" />
+        <prefix Name="奇" />
+        <prefix Name="德" />
+        <prefix Name="夫" />
+        <prefix Name="吉" />
+        <prefix Name="勒" />
+        <prefix Name="姆" />
+        <prefix Name="恩" />
+        <prefix Name="奥斯" />
+        <prefix Name="普" />
+        <prefix Name="什" />
+        <prefix Name="斯普" />
+        <prefix Name="斯" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="阿科" />
+        <infix Name="阿费" />
+        <infix Name="阿福" />
+        <infix Name="阿诺" />
+        <infix Name="阿拉" />
+        <infix Name="阿尔迪" />
+        <infix Name="阿尔尼" />
+        <infix Name="阿蒂" />
+        <infix Name="伊蒂" />
+        <infix Name="奥卡" />
+        <infix Name="奥科" />
+        <infix Name="奥费" />
+        <infix Name="奥福" />
+        <infix Name="奥纳" />
+        <infix Name="奥诺" />
+        <infix Name="奥罗" />
+        <infix Name="奥索" />
+        <infix Name="奥蒂" />
+      </infixes>
+      <postfixes Load="Replace" Amount="0-1">
+        <postfix Name="克西" />
+        <postfix Name="克塞奥" />
+        <postfix Name="达" />
+        <postfix Name="迪" Weight="2" />
+        <postfix Name="多" />
+        <postfix Name="菲" />
+        <postfix Name="费奥" />
+        <postfix Name="富西拉" />
+        <postfix Name="富西莱" />
+        <postfix Name="皮" />
+        <postfix Name="佩奥" />
+        <postfix Name="帕" />
+        <postfix Name="波" />
+        <postfix Name="萨" />
+        <postfix Name="索" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Barathrumite Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=adjective=巴拉斯鲁姆派=role=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="adjective">
+          <value Name="声名卓著" />
+          <value Name="卓尔不群" />
+          <value Name="德高望重" />
+        </templatevar>
+        <templatevar Name="role">
+          <value Name="方舟航行者" />
+          <value Name="讲师" />
+          <value Name="修补匠" />
+          <value Name="导师" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Hindren" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="比" />
+        <prefix Name="达" />
+        <prefix Name="德" />
+        <prefix Name="德尔" />
+        <prefix Name="哈" />
+        <prefix Name="伊斯" />
+        <prefix Name="卡" />
+        <prefix Name="卡" />
+        <prefix Name="凯" />
+        <prefix Name="基" />
+        <prefix Name="利" />
+        <prefix Name="梅" />
+        <prefix Name="纳" />
+        <prefix Name="内尔" />
+        <prefix Name="诺" />
+        <prefix Name="拉" />
+        <prefix Name="雷" />
+        <prefix Name="雷" />
+        <prefix Name="里" />
+        <prefix Name="萨" />
+        <prefix Name="桑" />
+        <prefix Name="塞" />
+        <prefix Name="塞" />
+        <prefix Name="塞尔" />
+        <prefix Name="塔" />
+        <prefix Name="特" />
+        <prefix Name="维" />
+        <prefix Name="维尔" />
+        <prefix Name="维" />
+        <prefix Name="沃" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-2">
+        <infix Name="阿阿" />
+        <infix Name="阿" />
+        <infix Name="阿" />
+        <infix Name="达" />
+        <infix Name="德" />
+        <infix Name="迪" />
+        <infix Name="埃" />
+        <infix Name="法" />
+        <infix Name="费" />
+        <infix Name="费" />
+        <infix Name="菲" />
+        <infix Name="伊" />
+        <infix Name="卡" />
+        <infix Name="凯" />
+        <infix Name="凯" />
+        <infix Name="基" />
+        <infix Name="莱" />
+        <infix Name="莱" />
+        <infix Name="马" />
+        <infix Name="恩" />
+        <infix Name="纳" />
+        <infix Name="特" />
+        <infix Name="特" />
+        <infix Name="特" />
+        <infix Name="蒂" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="" />
+        <postfix Name="哈尔特" Weight="2" />
+        <postfix Name="欣德" Weight="11" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Mopango" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="达" />
+        <prefix Name="多" />
+        <prefix Name="加" />
+        <prefix Name="戈" />
+        <prefix Name="古" />
+        <prefix Name="格亚" />
+        <prefix Name="格约" />
+        <prefix Name="拉" />
+        <prefix Name="莱" />
+        <prefix Name="洛" />
+        <prefix Name="马" />
+        <prefix Name="梅" />
+        <prefix Name="莫" />
+        <prefix Name="穆" />
+        <prefix Name="奥" />
+        <prefix Name="帕" />
+        <prefix Name="波" />
+        <prefix Name="普亚" />
+        <prefix Name="普约" />
+        <prefix Name="维" />
+        <prefix Name="亚" />
+        <prefix Name="约" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-2">
+        <infix Name="巴" />
+        <infix Name="奇拉" />
+        <infix Name="奇雷" />
+        <infix Name="奇罗" />
+        <infix Name="达" />
+        <infix Name="德" />
+        <infix Name="多" />
+        <infix Name="加" />
+        <infix Name="戈" />
+        <infix Name="古" />
+        <infix Name="吉" />
+        <infix Name="格亚" />
+        <infix Name="格约" />
+        <infix Name="卡" />
+        <infix Name="基" />
+        <infix Name="拉" />
+        <infix Name="梅" />
+        <infix Name="姆亚" />
+        <infix Name="姆约" />
+        <infix Name="内" />
+        <infix Name="帕" />
+        <infix Name="拉" />
+        <infix Name="罗" />
+        <infix Name="瓦" />
+        <infix Name="维" />
+        <infix Name="维" />
+        <infix Name="沃" />
+        <infix Name="维" />
+        <infix Name="佐" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="布" />
+        <postfix Name="巴" />
+        <postfix Name="奇" />
+        <postfix Name="德" />
+        <postfix Name="多" />
+        <postfix Name="格" />
+        <postfix Name="戈" />
+        <postfix Name="阿" />
+        <postfix Name="姆" />
+        <postfix Name="恩" />
+        <postfix Name="纳" />
+        <postfix Name="拉" />
+        <postfix Name="塔" />
+        <postfix Name="维" />
+        <postfix Name="沃" />
+        <postfix Name="夫亚" />
+        <postfix Name="约" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Two-Headed" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=/=altName=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Seeker" Format="SpacesToHyphens" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=name=已不复是" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Seeker Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=position=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="position">
+          <value Name="普托的仆从" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Seeker Dervish Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Pariah Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=creatureTypeCap=弃绝者" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Barathrumite Pariah Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=creatureTypeCap=破像者" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Mechanimist Pariah Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=creatureTypeCap=异端" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Hindren Pariah Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=creatureTypeCap=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="General Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Lair Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Newly Sentient Being Hero Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=descriptor=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Newly Sentient Being Hero Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=descriptor=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Newly Sentient Being Hero Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="传奇=creatureType=" Weight="6" />
+        <template Name="声名远播的=creatureType=" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Newly Sentient Being Hero Extra Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=clientele=之友" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Mayor Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=mayorSyn|capitalize=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="mayorSyn">
+          <value Name="镇长" />
+          <value Name="长老" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Mayor Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="村中=mayorSyn=" />
+        <template Name="村中=mayorSyn=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="mayorSyn">
+          <value Name="镇长" />
+          <value Name="长老" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="King Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=monarchSynCap=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="monarchSyn">
+          <value Name="王" />
+        </templatevar>
+        <templatevar Name="monarchSynCap">
+          <value Name="国王" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Queen Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=monarchSynCap=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="monarchSyn">
+          <value Name="女王" />
+        </templatevar>
+        <templatevar Name="monarchSynCap">
+          <value Name="王后" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Councilor Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=councilorSynCap=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="councilorSyn">
+          <value Name="议员" />
+        </templatevar>
+        <templatevar Name="councilorSynCap">
+          <value Name="议员" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Senator Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=councilorSynCap=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="councilorSyn">
+          <value Name="参议员" />
+        </templatevar>
+        <templatevar Name="councilorSynCap">
+          <value Name="参议员" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Parliamentarian Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=councilorSynCap=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="councilorSyn">
+          <value Name="议会成员" />
+        </templatevar>
+        <templatevar Name="councilorSynCap">
+          <value Name="议会成员" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Viceroy Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=viceroySynCap=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="viceroySyn">
+          <value Name="总督" />
+        </templatevar>
+        <templatevar Name="viceroySynCap">
+          <value Name="总督" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Governor Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=viceroySynCap=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="viceroySyn">
+          <value Name="总督" />
+        </templatevar>
+        <templatevar Name="viceroySynCap">
+          <value Name="总督" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Administrator Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="=wiseAdjective=" />
+      </templates>
+      <templatevars Load="Replace">
+        <templatevar Name="wiseAdjective">
+          <value Name="博学者" />
+          <value Name="明断者" />
+          <value Name="贤者" />
+          <value Name="明理者" />
+          <value Name="精明者" />
+          <value Name="睿智者" />
+          <value Name="审慎者" />
+          <value Name="明智者" />
+        </templatevar>
+      </templatevars>
+    </namestyle>
+    <namestyle Name="Warden Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="守望者" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Warden Two-Headed Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="守望者" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Warden Plural Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="守望者" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Merchant Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="村中商人" Weight="2" />
+        <template Name="村中商人" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Dromad Merchant Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="单峰驼商" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Tinker Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="村中修补匠" Weight="2" />
+        <template Name="村中修补匠" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Apothecary Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="村中药师" Weight="2" />
+        <template Name="村中药师" />
+      </templates>
+    </namestyle>
+    <namestyle Name="GeneralGenderName" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="" Weight="2" />
+        <prefix Name="阿" />
+        <prefix Name="阿勒" />
+        <prefix Name="埃" />
+        <prefix Name="埃奥" />
+        <prefix Name="埃克斯" />
+        <prefix Name="霍" />
+        <prefix Name="贾" />
+        <prefix Name="穆" />
+        <prefix Name="内奥" />
+        <prefix Name="农" />
+        <prefix Name="努" />
+        <prefix Name="奥" />
+        <prefix Name="辛" />
+        <prefix Name="温" />
+        <prefix Name="凯诺" />
+        <prefix Name="金" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="克拉" />
+        <infix Name="德雷" />
+        <infix Name="法" />
+        <infix Name="菲" />
+        <infix Name="夫拉" />
+        <infix Name="盖" />
+        <infix Name="格洛" />
+        <infix Name="格拉" />
+        <infix Name="马" />
+        <infix Name="梅" />
+        <infix Name="穆" />
+        <infix Name="纳" />
+        <infix Name="瑙" />
+        <infix Name="诺" />
+        <infix Name="斯塔" />
+        <infix Name="塔" />
+        <infix Name="瓦" />
+        <infix Name="维" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="塞尔" />
+        <postfix Name="丹" />
+        <postfix Name="德" />
+        <postfix Name="拉特" />
+        <postfix Name="莱" />
+        <postfix Name="利" />
+        <postfix Name="利特" />
+        <postfix Name="米特" />
+        <postfix Name="恩" />
+        <postfix Name="恩德" />
+        <postfix Name="恩德勒" />
+        <postfix Name="恩德尔" />
+        <postfix Name="尔" />
+        <postfix Name="尔盖" />
+        <postfix Name="里内" />
+        <postfix Name="特" />
+        <postfix Name="蒂内" />
+        <postfix Name="维" />
+        <postfix Name="克斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="GeneralGenderPersonTerm" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="奇" />
+        <prefix Name="埃克斯姆" />
+        <prefix Name="格勒" />
+        <prefix Name="姆" />
+        <prefix Name="内奥姆" />
+        <prefix Name="斯特" />
+        <prefix Name="沃姆" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="阿阿" />
+        <infix Name="阿" Weight="3" />
+        <infix Name="阿达" />
+        <infix Name="艾" />
+        <infix Name="奥" />
+        <infix Name="埃拉" />
+        <infix Name="亚" />
+        <infix Name="伊" Weight="2" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="克" />
+        <postfix Name="勒" />
+        <postfix Name="恩" />
+        <postfix Name="恩" />
+        <postfix Name="恩特" />
+        <postfix Name="克斯" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="GeneralGenderImmaturePersonTerm" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="布" />
+        <prefix Name="布" />
+        <prefix Name="奇" />
+        <prefix Name="格" />
+        <prefix Name="格勒" />
+        <prefix Name="克斯" />
+        <prefix Name="日" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="阿" />
+        <infix Name="埃" />
+        <infix Name="伊" />
+        <infix Name="奥" />
+        <infix Name="亚" />
+        <infix Name="伊" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="迪" />
+        <postfix Name="勒德" />
+        <postfix Name="利" />
+        <postfix Name="利" />
+        <postfix Name="恩迪" />
+        <postfix Name="尔勒" />
+        <postfix Name="伊" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="GeneralGenderFormalAddressTerm" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="夫尔" />
+        <prefix Name="格尔" />
+        <prefix Name="姆" />
+        <prefix Name="马德" />
+        <prefix Name="普勒" />
+        <prefix Name="斯" />
+        <prefix Name="夫" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="阿" />
+        <infix Name="埃" />
+        <infix Name="伊" />
+        <infix Name="伊" />
+        <infix Name="乌" />
+        <infix Name="伊" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="阿" />
+        <postfix Name="伊" />
+        <postfix Name="姆" />
+        <postfix Name="恩" />
+        <postfix Name="恩德" />
+        <postfix Name="努" />
+        <postfix Name="尔" />
+        <postfix Name="拉" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="GeneralGenderOffspringTerm" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="布" />
+        <prefix Name="布" />
+        <prefix Name="奇" />
+        <prefix Name="德" />
+        <prefix Name="格" />
+        <prefix Name="格勒" />
+        <prefix Name="斯" />
+        <prefix Name="克斯" />
+        <prefix Name="日" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="阿" />
+        <infix Name="奥" />
+        <infix Name="埃" />
+        <infix Name="伊" />
+        <infix Name="奥" />
+        <infix Name="亚" />
+        <infix Name="伊" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="比" />
+        <postfix Name="迪" />
+        <postfix Name="格特尔" />
+        <postfix Name="勒德" />
+        <postfix Name="利" />
+        <postfix Name="利" />
+        <postfix Name="恩" />
+        <postfix Name="恩迪" />
+        <postfix Name="尔勒" />
+        <postfix Name="特" />
+        <postfix Name="特尔" />
+        <postfix Name="伊" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="GeneralGenderSiblingTerm" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="布" />
+        <prefix Name="布" />
+        <prefix Name="布尔" />
+        <prefix Name="奇" />
+        <prefix Name="德" />
+        <prefix Name="格" />
+        <prefix Name="格勒" />
+        <prefix Name="斯" />
+        <prefix Name="克斯" />
+        <prefix Name="日" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="阿" />
+        <infix Name="奥" />
+        <infix Name="埃" />
+        <infix Name="伊" />
+        <infix Name="奥" />
+        <infix Name="亚" />
+        <infix Name="伊" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="布" />
+        <postfix Name="比" />
+        <postfix Name="迪" />
+        <postfix Name="勒德" />
+        <postfix Name="利" />
+        <postfix Name="利" />
+        <postfix Name="恩" />
+        <postfix Name="恩迪" />
+        <postfix Name="尔勒" />
+        <postfix Name="斯特尔" />
+        <postfix Name="瑟尔" />
+        <postfix Name="伊" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="GeneralGenderParentTerm" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="布" />
+        <prefix Name="布" />
+        <prefix Name="布尔" />
+        <prefix Name="奇" />
+        <prefix Name="夫" />
+        <prefix Name="德" />
+        <prefix Name="格" />
+        <prefix Name="格勒" />
+        <prefix Name="姆" />
+        <prefix Name="斯" />
+        <prefix Name="克斯" />
+        <prefix Name="日" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1">
+        <infix Name="阿" />
+        <infix Name="奥" />
+        <infix Name="埃" />
+        <infix Name="伊" />
+        <infix Name="奥" />
+        <infix Name="亚" />
+        <infix Name="伊" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="布" />
+        <postfix Name="德" />
+        <postfix Name="迪" />
+        <postfix Name="迪" />
+        <postfix Name="勒德" />
+        <postfix Name="莱尔" />
+        <postfix Name="洛" />
+        <postfix Name="姆" />
+        <postfix Name="米" />
+        <postfix Name="恩" />
+        <postfix Name="恩迪" />
+        <postfix Name="尔勒" />
+        <postfix Name="斯特尔" />
+        <postfix Name="瑟尔" />
+        <postfix Name="伊" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Confused" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1-2">
+        <prefix Name="杜" />
+        <prefix Name="埃尔" />
+        <prefix Name="胡" />
+        <prefix Name="乌" />
+        <prefix Name="乌姆" />
+        <prefix Name="乌姆" />
+        <prefix Name="瓦" />
+        <prefix Name="乌" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="卡勒" />
+        <infix Name="丘" />
+        <infix Name="埃尔" />
+        <infix Name="马" />
+        <infix Name="乌" />
+        <infix Name="乌姆" />
+        <infix Name="瓦" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1-2">
+        <postfix Name="卡勒" />
+        <postfix Name="查" />
+        <postfix Name="丘" />
+        <postfix Name="埃尔" />
+        <postfix Name="伊特" />
+        <postfix Name="马" />
+        <postfix Name="乌" />
+        <postfix Name="乌姆" />
+        <postfix Name="乌姆" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="FuriousConfused" Load="Merge">
+      <prefixes Load="Replace" Amount="1-2">
+        <prefix Name="啊" />
+        <prefix Name="呸" />
+        <prefix Name="嘎" />
+        <prefix Name="呃" />
+        <prefix Name="吼" />
+        <prefix Name="嚷" />
+        <prefix Name="呜" />
+        <prefix Name="呜" />
+      </prefixes>
+      <infixes Load="Replace" Amount="1-2">
+        <infix Name="啊" />
+        <infix Name="啊——" />
+        <infix Name="啊嚷" />
+        <infix Name="嘎啊" />
+        <infix Name="呵" />
+        <infix Name="骂" />
+        <infix Name="嚷" />
+        <infix Name="嚷" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1-2">
+        <postfix Name="！！！" />
+        <postfix Name="！！" />
+        <postfix Name="！！1！" />
+        <postfix Name="！" />
+        <postfix Name="啊！" />
+        <postfix Name="哦！" />
+        <postfix Name="吼！！！" />
+        <postfix Name="嚷！" />
+        <postfix Name="嚷！！" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Gyre Wight" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="法" />
+        <prefix Name="哈" />
+        <prefix Name="伊" Weight="2" />
+        <prefix Name="卡" />
+        <prefix Name="基" />
+        <prefix Name="库" />
+        <prefix Name="马" />
+        <prefix Name="梅" />
+        <prefix Name="莫" />
+        <prefix Name="穆" />
+        <prefix Name="纳" />
+        <prefix Name="尼" />
+        <prefix Name="努" />
+        <prefix Name="尼" />
+        <prefix Name="奥" />
+        <prefix Name="克" />
+        <prefix Name="舒" />
+        <prefix Name="希" />
+        <prefix Name="西" />
+        <prefix Name="西" />
+        <prefix Name="塔" />
+        <prefix Name="蒂" />
+        <prefix Name="蒂" />
+        <prefix Name="乌" />
+        <prefix Name="乌乌" />
+        <prefix Name="伊" />
+        <prefix Name="亚" />
+        <prefix Name="伊" />
+        <prefix Name="伊伊" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="加" />
+        <infix Name="梅" />
+        <infix Name="莫" />
+        <infix Name="穆" />
+        <infix Name="穆" />
+        <infix Name="穆乌" />
+        <infix Name="拉" />
+        <infix Name="罗" />
+        <infix Name="鲁" />
+        <infix Name="鲁" />
+        <infix Name="鲁乌" />
+        <infix Name="希" />
+        <infix Name="什拉" />
+        <infix Name="什里" />
+        <infix Name="什罗" />
+        <infix Name="什鲁" />
+        <infix Name="沙" />
+        <infix Name="肖" />
+        <infix Name="舒" />
+        <infix Name="尤" Weight="2" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="巴斯" />
+        <postfix Name="德" />
+        <postfix Name="吉尔" />
+        <postfix Name="卡斯" />
+        <postfix Name="卡特" />
+        <postfix Name="拉" />
+        <postfix Name="姆" />
+        <postfix Name="梅特" />
+        <postfix Name="米尔" />
+        <postfix Name="穆特" />
+        <postfix Name="克" />
+        <postfix Name="卡特" />
+        <postfix Name="拉克" />
+        <postfix Name="雷姆" />
+        <postfix Name="罗克" />
+        <postfix Name="舒姆" />
+        <postfix Name="舒尔" />
+        <postfix Name="特普" />
+        <postfix Name="温" />
+        <postfix Name="乌尔" />
+        <postfix Name="温乌" />
+        <postfix Name="瓦尔" />
+        <postfix Name="韦尔" />
+        <postfix Name="乌尔" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Gyre Wight Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Agolgot Gyre Wight Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="汲管者" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Agolgot Gyre Wight Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="阿戈尔戈特的" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Agolgot Gyre Wight Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Bethsaida Gyre Wight Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="回旋双生" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Bethsaida Gyre Wight Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="伯赛大的" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Bethsaida Gyre Wight Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Shug'ruith Gyre Wight Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="幽深" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Shug'ruith Gyre Wight Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="舒格鲁伊斯的" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Shug'ruith Gyre Wight Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Rermadon Gyre Wight Honorific" Load="Merge">
+      <templates Load="Replace">
+        <template Name="气辉" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Rermadon Gyre Wight Epithet" Load="Merge">
+      <templates Load="Replace">
+        <template Name="-雷尔马顿" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Rermadon Gyre Wight Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qas Gyre Wight Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="卡斯的新娘侍女" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Qon Gyre Wight Title" Load="Merge">
+      <templates Load="Replace">
+        <template Name="孔的新娘侍女" />
+      </templates>
+    </namestyle>
+    <namestyle Name="Chiliad Qudish" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="法" />
+        <prefix Name="哈" />
+        <prefix Name="伊" Weight="2" />
+        <prefix Name="卡" />
+        <prefix Name="基" />
+        <prefix Name="克" />
+        <prefix Name="马" />
+        <prefix Name="马埃" />
+        <prefix Name="莫" />
+        <prefix Name="穆" />
+        <prefix Name="纳" />
+        <prefix Name="尼" />
+        <prefix Name="努" />
+        <prefix Name="奥" />
+        <prefix Name="克" />
+        <prefix Name="斯武" />
+        <prefix Name="斯维" />
+        <prefix Name="西" />
+        <prefix Name="塔" />
+        <prefix Name="蒂" />
+        <prefix Name="乌" />
+        <prefix Name="乌乌" />
+        <prefix Name="亚" />
+        <prefix Name="伊伊" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-2">
+        <infix Name="加" />
+        <infix Name="梅" />
+        <infix Name="诺" />
+        <infix Name="努" />
+        <infix Name="穆" />
+        <infix Name="穆乌" />
+        <infix Name="瓦" />
+        <infix Name="沃" />
+        <infix Name="武" />
+        <infix Name="武" />
+        <infix Name="武乌" />
+        <infix Name="希" />
+        <infix Name="斯瓦" />
+        <infix Name="斯维" />
+        <infix Name="斯武" />
+        <infix Name="斯沃" />
+        <infix Name="尤" Weight="2" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="巴斯" />
+        <postfix Name="德" />
+        <postfix Name="吉勒" />
+        <postfix Name="卡埃斯" />
+        <postfix Name="卡埃特" />
+        <postfix Name="拉" />
+        <postfix Name="姆" />
+        <postfix Name="马埃特" />
+        <postfix Name="米尔" />
+        <postfix Name="穆特" />
+        <postfix Name="克" />
+        <postfix Name="拉克" />
+        <postfix Name="雷姆" />
+        <postfix Name="罗克" />
+        <postfix Name="斯武姆" />
+        <postfix Name="舒勒" />
+        <postfix Name="特普" />
+        <postfix Name="温" />
+        <postfix Name="乌勒" />
+        <postfix Name="温乌" />
+        <postfix Name="瓦勒" />
+        <postfix Name="韦勒" />
+        <postfix Name="乌勒" />
+      </postfixes>
+    </namestyle>
+    <namestyle Name="Chiliad Qudish Site" Format="TitleCase" Load="Merge">
+      <prefixes Load="Replace" Amount="1">
+        <prefix Name="阿" />
+        <prefix Name="阿拉" />
+        <prefix Name="比" />
+        <prefix Name="达" />
+        <prefix Name="杜" />
+        <prefix Name="埃卡" />
+        <prefix Name="哈" />
+        <prefix Name="伊" />
+        <prefix Name="卡" />
+        <prefix Name="基" />
+        <prefix Name="马" />
+        <prefix Name="米" />
+        <prefix Name="纳" />
+        <prefix Name="萨" />
+        <prefix Name="斯瓦" />
+        <prefix Name="斯维" />
+        <prefix Name="斯武" />
+        <prefix Name="苏" />
+        <prefix Name="塔" />
+        <prefix Name="特" />
+        <prefix Name="图" />
+        <prefix Name="乌" />
+      </prefixes>
+      <infixes Load="Replace" Amount="0-1">
+        <infix Name="阿拉" />
+        <infix Name="阿佐" />
+        <infix Name="巴" />
+        <infix Name="比" />
+        <infix Name="加" />
+        <infix Name="加" />
+        <infix Name="伊利" />
+        <infix Name="姆里" />
+        <infix Name="内" />
+        <infix Name="拉" />
+        <infix Name="尔切" />
+        <infix Name="尔卡" />
+        <infix Name="尔克" />
+        <infix Name="尔西" />
+        <infix Name="尔瓦" />
+      </infixes>
+      <postfixes Load="Replace" Amount="1">
+        <postfix Name="巴勒" />
+        <postfix Name="德" />
+        <postfix Name="凯夫" />
+        <postfix Name="克" />
+        <postfix Name="基什" />
+        <postfix Name="莱普" />
+        <postfix Name="利勒" />
+        <postfix Name="瓦斯" />
+        <postfix Name="维什" />
+        <postfix Name="武" />
+        <postfix Name="毛尔" />
+        <postfix Name="姆劳德" />
+        <postfix Name="穆尔" />
+        <postfix Name="尼普" />
+        <postfix Name="纳" />
+        <postfix Name="瓦德" />
+        <postfix Name="瓦" />
+        <postfix Name="瓦勒" />
+        <postfix Name="维勒" />
+        <postfix Name="武勒" />
+        <postfix Name="尔" />
+        <postfix Name="鲁克" />
+        <postfix Name="什" />
+        <postfix Name="尚" />
+        <postfix Name="舒勒" />
+        <postfix Name="塔拉" />
+        <postfix Name="图姆" />
+        <postfix Name="瓦" />
+        <postfix Name="武" />
+        <postfix Name="万" />
+        <postfix Name="瓦勒" />
+        <postfix Name="藻勒" />
+      </postfixes>
+    </namestyle>
+  </namestyles>
+</naming>

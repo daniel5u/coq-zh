@@ -1,0 +1,12 @@
+#! Source-reviewed full templates replacing unsafe English grammar captures
+You toggle {0} on.	你开启了{0}。
+You toggle {0} off.	你关闭了{0}。
+Your {0} is {{C|{1}}}.	你的{0}为{{C|{1}}}。
+Your base {0} is {{C|{1}}}, modified to {{R|{2}}}.	你的基础{0}为{{C|{1}}}，调整后为{{R|{2}}}。
+Your base {0} is {{C|{1}}}, modified to {{G|{2}}}.	你的基础{0}为{{C|{1}}}，调整后为{{G|{2}}}。
+You may not raise an attribute above 100.	属性不能提高到100以上。
+You have no attribute points to raise this attribute.	你没有可用于提升此属性的属性点数。
+It will cost {{C|1}} attribute point to increase {0} by 1.	将{0}提高1点需要花费{{C|1}}点属性点数。
+Do you wish to increase this attribute?	要提高此属性吗？
+You are crippled for # turns!	你残废了，持续#回合！
+You are crippled for # turn!	你残废了，持续#回合！

@@ -1,0 +1,5 @@
+EXECUTION RULES (critical):
+- Your very first response MUST be a tool call (e.g. read a file). Do NOT write any text message to the user until every assigned batch is written to work/out/ and passes tools/check_batch.py with 0 errors. In this environment a text-only reply ENDS your session immediately, and unfinished batches count as failure.
+- This task is expected to take many tool calls. That is fine — keep going until done. Never stop to ask whether to continue.
+- Work batch by batch: translate the batch (in chunks of ~40-60 units if you like, appending to the output file), validate, fix, then move on.
+- Only after everything is done, reply with a 3-line summary.

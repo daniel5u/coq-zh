@@ -1,0 +1,1280 @@
+<?xml version='1.0' encoding='utf-8'?>
+<objects Lang="zh" Encoding="utf-8" ExcludeFromCorpusGeneration="true">
+  <object Name="Ehalcodon" Load="Merge">
+    <part Name="Render" DisplayName="{{M|埃哈尔科顿}}" />
+    <part Name="Description" Short="一尊庞然巨物攀上视线之上缘，放射着神光。双髋洒满纺锤微光，托起一具由此界有知觉的背景辐射勾勒成形的生灵之躯；宽大的带纹双翼，其缘锋利，宜于乘星风翱翔。最后，在=pronouns.possessive=那透传玻璃般的肌肤之下，翻涌的虹彩之光被折射进不可能之超光谱，化作螺旋曲线自体内倾泻而出。" />
+    <part Name="Honorifics" Ordinary="{{M|星成者}}" />
+    <tag Name="PronounSet" Value="qe/qem/qyr" />
+    <part Name="BlowAwayGas" Message="=subject.T=拍动=subject.possessive=的带纹双翼，将=gas=吹散！" />
+    <part Name="TimeCubeProtection" Message="=subject.T=进入了一只时空之茧！" />
+  </object>
+  <object Name="Nephal_Starhoof" Load="Merge">
+    <part Name="Render" DisplayName="星印之蹄" />
+  </object>
+  <object Name="Prism Girshling" Load="Merge">
+    <part Name="Render" DisplayName="棱镜吉尔什幼体" />
+  </object>
+  <object Name="Prism Girshling Cresh" Load="Merge">
+    <part Name="Render" DisplayName="棱镜克雷什" />
+  </object>
+  <object Name="LightCircleEhalcodon" Load="Merge">
+    <part Name="Render" DisplayName="光环，位于{{ehalcodon|埃哈尔科顿}}和弦中" />
+    <part Name="Description" Short="原初宇宙迸出的星爆喷发物，其尖塔般的形体环绕一处零点盘旋，在一位非确定性之神的虹彩中渐趋模糊。" />
+  </object>
+  <object Name="BaseEaterGreatMachineShrine" Load="Merge">
+    <part Name="Render" DisplayName="大机神神龛" />
+    <part Name="Description" Short="大理石的食者们以祭司之态跪于大机神面前，拉动杠杆，为消防栓注压，借此驾驭并被驾驭于那受计算的意志。一座水晶二极管筑成的高台，让人以仪表盘之视角，俯瞰数十万光年之外诸般地理文化的翻腾。" />
+  </object>
+  <object Name="Eater Globe" Load="Merge">
+    <part Name="Render" DisplayName="悬空之球" />
+    <part Name="Description" Short="在这球形模型的蓝宝石表面上，沙色形状的褶皱与结节以高浮雕之姿冠于其上。比例尺的并置，海与陆的比重，以及为造出此物所汇聚的集体智慧，令你头晕目眩。" />
+  </object>
+  <object Name="BaseSpindleSupport" Load="Merge">
+    <part Name="Render" DisplayName="牵引臂" />
+    <part Name="Description" Short="带凸缘的原钢锚固着吉奥斯那渐细的缎带，使其系于低地球点。" />
+  </object>
+  <object Name="Spindle Ribbon" Load="Merge">
+    <part Name="Render" DisplayName="石墨烯缎带" />
+    <part Name="Description" Short="一条由碳尘微粒车削至纸张般薄的泡状缎带，抵着它的锚固机构梳过，朝天而去，消失于渐细为无的尽头。" />
+  </object>
+  <object Name="Left Spindle Ribbon" Load="Merge">
+    <part Name="Render" DisplayName="石墨烯缎带" />
+  </object>
+  <object Name="Right Spindle Ribbon" Load="Merge">
+    <part Name="Render" DisplayName="石墨烯缎带" />
+  </object>
+  <object Name="Spindle Ribbon Top" Load="Merge">
+    <part Name="Render" DisplayName="石墨烯缎带" />
+    <part Name="Description" Short="一条由碳尘微粒车削至纸张般薄的泡状缎带，抵着它的锚固机构梳过，朝天而去，消失于渐细为无的尽头。" />
+  </object>
+  <object Name="Left Spindle Ribbon Top" Load="Merge">
+    <part Name="Render" DisplayName="石墨烯缎带" />
+  </object>
+  <object Name="Right Spindle Ribbon Top" Load="Merge">
+    <part Name="Render" DisplayName="石墨烯缎带" />
+  </object>
+  <object Name="TerrainNorthSheva" Load="Merge">
+    <xtagGrammar massNoun="false" />
+  </object>
+  <object Name="TerrainCosmos" Load="Merge">
+    <part Name="Render" DisplayName="宝石宇宙" />
+    <part Name="Description" Short="取景锥体内满是一幅虹彩马赛克，由群星的烛火拼成，被它们那不可思议的鸿沟间的尘埃岛屿柔化，又在梭形的运动中闪烁眨动。作为一幅完整的景象，其广阔震撼了意识；意识飞速奔忙，欲将无数的像素还原为完整而柏拉图式的形体。" />
+  </object>
+  <object Name="TerrainWorld" Load="Merge">
+    <part Name="Render" DisplayName="蓝色大理石世界" />
+    <part Name="Description" Short="巨大的冰架融化，注入蓝宝石般的海洋，海水拍打着漂流的玄武岩与石灰岩蜂巢。自此高处望去，海岸线的图案自数百万条流动的轮廓中浮现，其中每一条都可能栖息着一支蜗牛、树木或稻农的支系。" />
+  </object>
+  <object Name="TerrainHalo" Load="Merge">
+    <part Name="Render" DisplayName="大气光环" />
+    <part Name="Description" Short="一圈轻盈的绒雾在大理石之上盘旋，在无尽的季节里，时而聚拢，时而消散，灼人的海风渐凉为和煦的清风，为一颗呼吸着的世界排定生命的节律。" />
+  </object>
+  <object Name="TerrainExtrasolarFungi" Load="Merge">
+    <part Name="Render" DisplayName="太阳系外真菌" />
+    <part Name="Description" Short="巨大的子实体，色泽浓郁而非属尘世，附着于海绵分叉之上，打着嗝喷出孢子。它们沿着曲线朝纺锤系缆的静电扑去，又化作微光洒落。" />
+  </object>
+  <object Name="TerrainSolarRibbon" Load="Merge">
+    <part Name="Render" DisplayName="日轮缎带" />
+    <part Name="Description" Short="一片片被太阳灌醉的平坦导体，呈超椭圆形，镶嵌成一条编织的条带，其弯曲之势恰能捕获最多的阳光及其反射而来的余流。" />
+  </object>
+  <object Name="TerrainSpindleTether" Load="Merge">
+    <part Name="Render" DisplayName="纺锤牵索" />
+    <part Name="Description" Short="一条泡状玛瑙缎带朝北弯曲，穿过云的深井直坠而下，与下方一道低垂的陆地架融成一片模糊。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainSkyBridge" Load="Merge">
+    <part Name="Render" DisplayName="向南之桥" />
+    <part Name="Description" Short="自底层隧道阴沉的幽暗中，一座向南延伸的桥横跨天穹，下方被阳光照耀的海洋自下而上映亮了它。" />
+  </object>
+  <object Name="TerrainSurfaceStratum" Load="Merge">
+    <part Name="Render" DisplayName="地表层" />
+    <part Name="Description" Short="一层又一层富含纤维的复合材料，被车削成平整可造的褶皱，以供高轨城邦之用。" />
+  </object>
+  <object Name="TerrainSuperStratum" Load="Merge">
+    <part Name="Render" DisplayName="超覆层" />
+    <part Name="Description" Short="方正的纤维复合体朝北拔起，高出舍瓦之上，自高高的台地提供一个斜角视野，俯瞰低处的层架。" />
+  </object>
+  <object Name="TerrainUnderstratum" Load="Merge">
+    <part Name="Render" DisplayName="下覆层" />
+    <part Name="Description" Short="在地表阳光普照的城邦之下，无从绘图的洞窟迷宫由镂空的纤维物质构成，其中安放着数千年化石般的地下文化。" />
+  </object>
+  <object Name="TerrainShatteredStratum" Load="Merge">
+    <part Name="Render" DisplayName="破碎地层" />
+    <part Name="Description" Short="巨型支柱被拆开，以磨损复合物的缆索镀金，一切皆为时间的暴力所摧毁，冻结于无空气的真空之中。" />
+  </object>
+  <object Name="TerrainUnderhorn" Load="Merge">
+    <part Name="Render" DisplayName="下角" />
+    <part Name="Description" Short="超导的白银蝠一般潜伏于低层地层之下，向下方翻搅的腐殖层发送信号。" />
+  </object>
+  <object Name="TerrainMoverRail" Load="Merge">
+    <part Name="Render" DisplayName="搬运轨道" />
+    <part Name="Description" Short="长长的超导木材线路横穿北舍瓦，使磁悬浮的载具驶往朝天而弯的站点。" />
+  </object>
+  <object Name="TerrainMoverStop" Load="Merge">
+    <part Name="Render" DisplayName="搬运站" />
+    <part Name="Description" Short="锁钉钻石与载具轿舆的双腿达成磁锁，行旅之仪式至此告终。" />
+  </object>
+  <object Name="TerrainMoverStopRuined" Load="Merge">
+    <part Name="Render" DisplayName="废弃搬运站" />
+    <part Name="Description" Short="门闩迸开，磁荷向外涌流；载具再无从捕获。" />
+  </object>
+  <object Name="TerrainArrivarium" Load="Merge">
+    <part Name="Render" DisplayName="抵达庭" />
+    <part Name="Description" Short="纺锤系缆沿舍瓦方向的全长，被扣紧于抵达舱的锁闭机构之中。稳定用的重锤敲响铜锣，抹平舍瓦们地锁轨道上的震颤偏差。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainEarthGate" Load="Merge">
+    <part Name="Render" DisplayName="地球之门" />
+    <part Name="Description" Short="一道肩状拱门与大门，使陆上的树木与沙，同星上的栖木之间的流动得以具象，反之亦然。在通途果园里，大门脚下，巨大的先祖页岩板环列，其上摆着仪式的器皿。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainEarthGateFlank" Load="Merge">
+    <part Name="Render" DisplayName="地球之门" />
+    <xtagGrammar Proper="true" />
+    <part Name="Description" Short="一道肩状拱门与大门，使陆上的树木与沙，同星上的栖木之间的流动得以具象，反之亦然。在通途果园里，大门脚下，巨大的先祖页岩板环列，其上摆着仪式的器皿。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainTifaret" Load="Merge">
+    <part Name="Render" DisplayName="提法列特之点" />
+    <part Name="Description" Short="辛诺罗特在中点相交，由其金色黄道牵引，在蓝色会堂中把载具推送至北舍瓦之心，或自其心推出。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainNorthernArk" Load="Merge">
+    <part Name="Render" DisplayName="北方方舟" />
+    <part Name="Description" Short="老妪区的尘云鳍片被焊接于上层地层，并以迷宫石筑成迷阵，以护卫超脑。在这座电磁囚笼与量子神殿之内，大西阿赫的搅动自其非确定性的核心倾泻而出。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainStarfarersQuay" Load="Merge">
+    <part Name="Render" DisplayName="星航者码头" />
+    <part Name="Description" Short="钟乳穴饰自高高的穹顶倾泻而下，此穹顶曾为千星族之路的肚脐遮顶。如今，歌唱的钟声响彻赛马场，却无任何生灵作答。" />
+  </object>
+  <object Name="TerrainStarOrchidTemple" Load="Merge">
+    <part Name="Render" DisplayName="星兰圣殿" />
+    <part Name="Description" Short="以星舰尾焰烧制的异界石灰筑成的尖塔花园，高耸于低矮的别墅之上。穿过层层对跖的柱廊，池中睡莲沿栏杆攀爬，窥看自己的倒影。此乃门户之地。" />
+    <xtagGrammar Proper="true" />
+  </object>
+  <object Name="TerrainGreatMachineTemple" Load="Merge">
+    <part Name="Render" DisplayName="大机神圣殿" />
+    <part Name="Description" Short="缓缓转动的星金之齿轮披着帆幕，两侧立着一只以大陆为度量的算盘。油燃以点亮这座实用的圣殿，它既是七十二重和平的会堂，亦是执行其诫命的引擎。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainDarkMatterMast" Load="Merge">
+    <part Name="Render" DisplayName="暗物质桅杆" />
+    <part Name="Description" Short="遮光的重质高杆被竖立于本星团各处的星港之上；地脉被扭转，流动的文化凿出了新渠。" />
+  </object>
+  <object Name="TerrainStarshipMoor" Load="Merge">
+    <part Name="Render" DisplayName="星舰泊位" />
+    <part Name="Description" Short="巨大的、戳向虚空的码头点缀着星舰机库，又被崩坏的大理石大道交叉割划。镶嵌珠宝般的宇宙，自四分之一球形的穹顶中熠熠生辉。" />
+  </object>
+  <object Name="TerrainObservationLune" Load="Merge">
+    <part Name="Render" DisplayName="观测新月" />
+    <part Name="Description" Short="一只独眼巨人般的占卜液之鼓，被缚于地层之上，用以窥看泡状王国的神话诗意事件流。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainObservationLune R" Load="Merge">
+    <part Name="Render" DisplayName="观测新月" />
+  </object>
+  <object Name="TerrainQor" Load="Merge">
+    <part Name="Render" DisplayName="科尔王国" />
+    <part Name="Description" Short="食者究竟出于何种目的，养育了一个童话般的民族，又令他们以为自己的旗帜飘扬在整座水晶宇宙之上？若有其目的，今已湮没无闻。" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainMotedForest" Load="Merge">
+    <part Name="Render" DisplayName="微粒森林" />
+    <part Name="Description" Short="星尘之粒穿过魔法的华盖落下，在风中盘旋。它们折射泡状之光，滑入不可见的色彩，淅沥地洒在湿润而柔软的树叶上。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="TerrainLakeAvalon" Load="Merge">
+    <part Name="Render" DisplayName="阿瓦隆湖" />
+    <part Name="Description" Short="圣湖之面，抑制了森林中的魔法歌声，倒映出大月，其蓝宝石般的海洋与灰烬的大陆在水的投影中颤抖。" />
+    <xtagGrammar Proper="true" />
+  </object>
+  <object Name="TerrainGlassDome" Load="Merge">
+    <part Name="Render" DisplayName="玻璃穹顶" />
+    <part Name="Description" Short="这巨大的胶囊（外墙兼世界之皮）在实质上容纳了王国，外观上却不然，倒转了王国与国王的关系。" />
+  </object>
+  <object Name="TerrainSeedVault" Load="Merge">
+    <part Name="Render" DisplayName="种子库" />
+    <part Name="Description" Short="绘有壁画的蓄水池里，储存着巨大的液态生物库，保存着数千年的地球植物生命。如此镌刻的植物索引，既映照又预言着文化的迁徙：沼泽居民逐肥沃土壤溯河而上，而每当食肉的支系兴旺时，又退回峡谷。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainConsulate" Load="Merge">
+    <part Name="Render" DisplayName="三角座领事馆" />
+    <part Name="Description" Short="螺旋三角形的顶饰描绘了那道流动的星群，正是它使这片星团声名显赫。阿尔法、贝特与达勒特自银河核心涌现并绽放，沿着与大机神相同的黄道轨迹奔流，并遣出一个由花瓣众生组成的祈祷团，祈祷/嬉戏，以期在将来使一场结合成真。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainConsulate U" Load="Merge">
+    <part Name="Render" DisplayName="三角座领事馆" />
+    <part Name="Description" Short="螺旋三角形的顶饰描绘了那道流动的星群，正是它使这片星团声名显赫。阿尔法、贝特与达勒特自银河核心涌现并绽放，沿着与大机神相同的黄道轨迹奔流，并遣出一个由花瓣众生组成的祈祷团，祈祷/嬉戏，以期在将来使一场结合成真。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainJyEgregore L" Load="Merge">
+    <part Name="Render" DisplayName="杰伊集体意识" />
+    <part Name="Description" Short="这神秘的思想形态自本地灵智失落的潮流中苏醒，在地表的紫外线浴中蹲出一片海绵般的红树林。它早已干枯，那内脏般的肉块被时间钳压成更近乎纸浆的东西。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainJyEgregore C" Load="Merge">
+    <part Name="Render" DisplayName="杰伊集体意识" />
+    <part Name="Description" Short="这神秘的思想形态自本地灵智失落的潮流中苏醒，在地表的紫外线浴中蹲出一片海绵般的红树林。它早已干枯，那内脏般的肉块被时间钳压成更近乎纸浆的东西。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainJyEgregore R" Load="Merge">
+    <part Name="Render" DisplayName="杰伊集体意识" />
+    <part Name="Description" Short="这神秘的思想形态自本地灵智失落的潮流中苏醒，在地表的紫外线浴中蹲出一片海绵般的红树林。它早已干枯，那内脏般的肉块被时间钳压成更近乎纸浆的东西。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainDishHorn" Load="Merge">
+    <part Name="Render" DisplayName="碟形角" />
+    <part Name="Description" Short="抛物线形的巨掌，自宇宙遥远的疆域捕捉信号，又将其经由发声号角吹送回去。" />
+  </object>
+  <object Name="TerrainTerrarium" Load="Merge">
+    <part Name="Render" DisplayName="生态箱" />
+    <part Name="Description" Short="地球的植物及其他生物在温室泡中茁壮生长，根系揉入纤维地层，叶片朝向太阳，探出头窥看虚空。" />
+  </object>
+  <object Name="TerrainShatteredTerrarium" Load="Merge">
+    <part Name="Render" DisplayName="破碎生态箱" />
+    <part Name="Description" Short="奇异的增生物及其他变异，折磨着暴露在外的植物；破碎的真空玻璃让未经过滤的阳光、尘埃与孢子群落涌入。" />
+  </object>
+  <object Name="TerrainFarmShelf" Load="Merge">
+    <part Name="Render" DisplayName="紫外线种植架" />
+    <part Name="Description" Short="巨大的土丘被辟成梯田，种上经改造的作物，使其能向虚空扎根，并汲取太阳的全谱之光。" />
+  </object>
+  <object Name="TerrainNorthForum" Load="Merge">
+    <part Name="Render" DisplayName="北论坛" />
+    <part Name="Description" Short="凯旋的曲折街道与集市穹顶，勾勒着铺砌的上层地层山谷，麦地那与老妪区的食者曾在此举行他们的环行仪式。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainSheshDacha" Load="Merge">
+    <part Name="Render" DisplayName="舍什庄园" />
+    <part Name="Description" Short="随着星际交通涌入低处的麦地那，食者们又被敦促多在顶层逗留，舍什卡尼姆的拱背小屋便成簇地冒了出来。" />
+  </object>
+  <object Name="TerrainShevaDacha" Load="Merge">
+    <part Name="Render" DisplayName="舍瓦庄园" />
+    <part Name="Description" Short="当小屋密布于舍什卡尼姆之时，后来的上层居民与填补边隙的星民，便在舍瓦上安下家来，位于气泡之南，紧贴着北方大陆那一面镶板幕布般的悬崖。" />
+  </object>
+  <object Name="TerrainLowMedina" Load="Merge">
+    <part Name="Render" DisplayName="低城区" />
+    <part Name="Description" Short="表层地层上古老而被圈定的城邦，曾是食者氏族与行会的家园，他们在盟约之前的原初纪元里，沿吉奥斯向上涌来。他们在此搬运早期的星际货物，并以纯粹的惊叹凝望着那颗他们离开的蓝色宝石。" />
+  </object>
+  <object Name="TerrainHighMedina" Load="Merge">
+    <part Name="Render" DisplayName="高城区" />
+    <part Name="Description" Short="甚至在早期食者尚未定居低处麦地那之前，方舟正被准备用来向遥远天空播撒地球的基因组，最初的城邦便已自吉奥斯建造过程中的神圣政治与神话散文式争论中崛起。不知怎的，它们至今仍然屹立。" />
+  </object>
+  <object Name="TerrainBazaarOfSamech" Load="Merge">
+    <part Name="Render" DisplayName="萨梅赫集市" />
+    <part Name="Description" Short="此处耸立着大集市的融合式拱廊，位于星港背风处。集市将六十颗星辰的丰饶挤入帐篷大厅：十亿织纹的地毯、牛车拉的宏处理器、有毒的香水，以及冰凉的桃子。" />
+    <xtagGrammar Proper="true" />
+    <tag Name="IndefiniteArticle" Value="此" />
+    <tag Name="DefiniteArticle" Value="此" />
+  </object>
+  <object Name="TerrainOutworldVault" Load="Merge">
+    <part Name="Render" DisplayName="外界宝库" />
+    <part Name="Description" Short="星民最丰厚的赠礼，被存放在钻石化的泽塔铬金库与管道输送的停滞场之中。从载具上望去，无从得知时间的电离是否已削弱了旧银行那些时空栅栏。" />
+  </object>
+  <object Name="TerrainTelescope" Load="Merge">
+    <part Name="Render" DisplayName="占卜角" />
+    <part Name="Description" Short="号角及其巨大的镜面蜂巢，自此维度及其邻近维度的最远处汲取湿润的光。食者借此窥见宇宙诞生的最初时刻，以及先于其前的漫长岁月。" />
+  </object>
+  <object Name="TerrainForceCore" Load="Merge">
+    <part Name="Render" DisplayName="力场核心" />
+    <part Name="Description" Short="机械的牢笼存储着从滑流中啜饮来的原始力量，用来重塑局部时空。偶尔，非数学的涨落会让一枚推子逃脱，并将一个侧向的星系正中射穿其核心。" />
+  </object>
+  <object Name="TerrainForceCore R" Load="Merge">
+    <part Name="Render" DisplayName="力场核心" />
+    <part Name="Description" Short="机械的牢笼存储着从滑流中啜饮来的原始力量，用来重塑局部时空。偶尔，非数学的涨落会让一枚推子逃脱，并将一个侧向的星系正中射穿其核心。" />
+  </object>
+  <object Name="OmniForcefield" Load="Merge">
+    <part Name="Render" DisplayName="力场屏障" />
+    <part Name="Description" Short="潜能被极化为一张品红色的六边形网格，并与相位光谱中的每一层相锁定。物体无一例外皆被阻挡。" />
+  </object>
+  <object Name="Fluent Lock" Load="Merge">
+    <part Name="Render" DisplayName="流体锁" />
+    <part Name="Description" Short="一滴触变流体被向心力向下拉入盆中。与其配偶锁相互同步，其净效应是将北舍瓦稳定于地球静止轨道，并模拟出1g的环境压力。" />
+    <part Name="ChargeSink" NameForStatus="轨道稳定装置" />
+  </object>
+  <object Name="Phasic Screw" Load="Merge">
+    <part Name="Render" DisplayName="相位螺旋器" />
+    <part Name="Description" Short="石英质的面板绕着一个磁极，以锐利的螺旋旋转。其镜面将粒子自侧维度反射出，穿过那道被削弱的间隙空间之袋。一小部分能量得以捕获。" />
+    <part Name="ChargeSink" NameForStatus="超维旋转装置" />
+  </object>
+  <object Name="BaseEaterMonument" Load="Merge">
+    <part Name="Description" Short="" />
+  </object>
+  <object Name="Circumcestral Eater Monument" Load="Merge">
+    <part Name="Render" DisplayName="环祖纪念碑" />
+    <part Name="Description" Short="这块雕琢的巨石之形，使你脑中某条爬道里一支被遗忘的神经元小队通了电，将你骤然抛入与深古之间的亲密，处于初念的边缘之上。随后，一种不确定便盘踞而来：你究竟是沿着时间之辫的哪个方向在回忆。" />
+  </object>
+  <object Name="Eater Mounted Monument" Load="Merge">
+    <part Name="Render" DisplayName="圣桁架" />
+    <part Name="Description" Short="圣洁的卷末题记以三角形陈列，人们以素数循环的节律，趋近它，进行仪式性与偶像崇拜式的沉思。" />
+  </object>
+  <object Name="ShevaBrazier" Load="Merge">
+    <part Name="Render" DisplayName="悬空火盆" />
+    <part Name="Description" Short="来自宇宙早期的星渣，燃烧出兰花与靛蓝的色调。" />
+  </object>
+  <object Name="ShevaBrazierGreen" Load="Merge">
+    <part Name="Description" Short="来自宇宙早期的星渣，燃烧出叶绿与孔雀石的色调。" />
+  </object>
+  <object Name="ChevronWall" Load="Merge">
+    <part Name="Render" DisplayName="铬制奇布尔" />
+    <part Name="Description" Short="阿祖鲁姆自仙女座的采石场被星际航运而来，以铬回火，雕成基伯的仪式之形，以支撑天穹之拱。" />
+  </object>
+  <object Name="BaseShevaHydraulicPipe" Load="Merge">
+    <part Name="Render" DisplayName="装饰管道" />
+    <part Name="Description" Short="取自三十个太阳世界的熔沙，被吹制成拓扑上不可能之形，顶端覆以无星之金的尖饰。" />
+  </object>
+  <object Name="Eater Sign 1" Load="Merge">
+    <part Name="Render" DisplayName="标牌" />
+    <part Name="Description" Short="星火圣像在一块全息青铜板上跳跃掠过。" />
+    <part Name="Chat" Says="西向，至碎片" />
+  </object>
+  <object Name="Eater Sign 2" Load="Merge">
+    <part Name="Render" DisplayName="标牌" />
+    <part Name="Description" Short="星火圣像在一块全息青铜板上跳跃掠过。" />
+    <part Name="Chat" Says="东向，至提法列特之点的搬运者" />
+  </object>
+  <object Name="Eater Sign 3" Load="Merge">
+    <part Name="Render" DisplayName="标牌" />
+    <part Name="Description" Short="星火圣像在一块全息青铜板上跳跃掠过。" />
+    <part Name="Chat" Says="东向，至码头" />
+  </object>
+  <object Name="StationWall" Load="Merge">
+    <part Name="Render" DisplayName="站墙" />
+  </object>
+  <object Name="MotedAir" Load="Merge">
+    <part Name="Render" DisplayName="太空真空" />
+    <part Name="Description" Short="虹色光子行完百万年的长征，在此处空无的低压之中收足。" />
+    <xtagGrammar iArticle="the" />
+  </object>
+  <object Name="VacuumEdgeGlassWall" Load="Merge">
+    <part Name="Render" DisplayName="真空边缘玻璃" />
+    <part Name="Description" Short="此沙自轨道上一座压强农场的非石中磨出，其压强可至中子星，又经星舰尾焰锻烧，铸成坚不可碎的透亮窗板。窗板既让人得观缀满星带的虚空，亦将虚空挡在外面。" />
+  </object>
+  <object Name="QuantumReverbLightRail" Load="Merge">
+    <part Name="Render" DisplayName="光轨" />
+  </object>
+  <object Name="Fromshunter" Load="Merge">
+    <part Name="Render" DisplayName="来自调车器" />
+    <part Name="Description" Short="一道火绳枪般的光束描出近来烙印于地脉之上的生灵剪影，并将采样打乱，以得真正随机的结果。千年万载、不可胜数的比特，穿过全息此刻的一处隘口，随后被凝散为一。" />
+  </object>
+  <object Name="ProjectileFromShunter" Load="Merge">
+    <part Name="Render" DisplayName="{{o|离射线}}" />
+    <part Name="Projectile" PassByVerb="离体消散" />
+    <part Name="TreatAsSolid" Message="黑暗吞没了=subject.t=！" />
+  </object>
+  <object Name="Gimeleth" Load="Merge">
+    <part Name="Render" DisplayName="吉梅莱斯" />
+    <part Name="Description" Short="一段弯曲而带凸缘的巨大金属，复现了女巫朝堂在其三手雕塑者种族那蒸汽氤氲的大地上的格局。就在那里，在五点梅花形的月亮之下，战争的游吟诗人们锁定于仪式性的厮杀之中。" />
+    <part Name="RulesDescription" Text="这件武器有多重握法，可改变其武器类型。" />
+  </object>
+  <object Name="Eater Vessel 1" Load="Merge">
+    <part Name="Render" DisplayName="悬空容器" />
+    <part Name="Description" Short="器皿表面绵延如大陆的肌理，乃异界之手留下的痕迹：陶土在迷雾异界的炉灶中被抛转成形，而后被褫去引力之发。" />
+  </object>
+  <object Name="Eater Vessel 2" Load="Merge">
+    <part Name="Render" DisplayName="悬空容器" />
+  </object>
+  <object Name="Bending Gjaus" Load="Merge">
+    <part Name="Render" DisplayName="弯折吉奥斯" />
+    <part Name="Description" Short="一根吞饮空气的青秆纺锤，嵌于一方不可见的拓扑空间之上，将醉星的碎屑射入其罅隙之中。" />
+  </object>
+  <object Name="Moon-and-Sun Shade" Load="Merge">
+    <part Name="Render" DisplayName="日月遮罩" />
+    <part Name="Description" Short="一冠明亮滴露的星叶，在其根上投下摄人心魄的影子。" />
+  </object>
+  <object Name="Earth Gate W" Load="Merge">
+    <part Name="Render" DisplayName="地球之门" />
+    <part Name="Description" Short="星铜门扇上，刀削的沟槽里滋生出培育而成的铜绿。拼合的两半门扇上嵌着一枚镶满宝石的巨球，玛瑙的岛屿浮于绿松石漂泊的海上。万般存在之道，以高浮雕刻于门板边缘：食者们向星带缭绕的天空升降锁链，吞咽星尘，并翻着筋斗行仪，直抵存在那雾气蒸腾的边缘。" />
+    <xtagGrammar iArticle="the" />
+  </object>
+  <object Name="Earth Gate E" Load="Merge">
+    <part Name="Render" DisplayName="地球之门" />
+    <part Name="Description" Short="星铜门扇上，刀削的沟槽里滋生出培育而成的铜绿。拼合的两半门扇上嵌着一枚镶满宝石的巨球，玛瑙的岛屿浮于绿松石漂泊的海上。万般存在之道，以高浮雕刻于门板边缘：食者们向星带缭绕的天空升降锁链，吞咽星尘，并翻着筋斗行仪，直抵存在那雾气蒸腾的边缘。" />
+    <xtagGrammar iArticle="the" />
+  </object>
+  <object Name="Sheva Bell" Load="Merge">
+    <part Name="Render" DisplayName="鸣响之钟" />
+    <part Name="Description" Short="这口钟的钟体以闪亮的星铜铸成，范自一座旋转器的完美钟口，并嵌有一枚泽塔铬的钟舌。钟声一响，声波便随聆听者的主观体验而错位变幻，宣告存在与逝去的仪式。" />
+    <part Name="Interactable" Action="鸣钟" />
+  </object>
+  <object Name="Blueshifted Chrome" Load="Merge">
+    <part Name="Render" DisplayName="蓝移铬" />
+    <part Name="Description" Short="光华在雕琢华美的水槽上流转，这些井状之形，原是为令液体常保鲜活流动而设。造槽的铬矿被推向观测者的参照系，又由停滞引擎锁定了色泽。" />
+  </object>
+  <object Name="BaseMoverChute" Load="Merge">
+    <part Name="Render" DisplayName="力场轨道" />
+    <part Name="Description" Short="一道超导木材的滑槽，被调校得与相邻地脉合韵，使人得以无摩擦地滑行。" />
+  </object>
+  <object Name="BaseEaterFloorClock" Load="Merge">
+    <part Name="Render" DisplayName="搬运黄道仪" />
+    <part Name="Description" Short="一种非确定数制的金箔数码，排布于一幅黄道马赛克的圆周之内。" />
+  </object>
+  <object Name="Rubble Blue" Load="Merge">
+    <part Name="Render" DisplayName="碎石" />
+  </object>
+  <object Name="Eater Hookah" Load="Merge">
+    <part Name="Render" DisplayName="悬空水烟壶" />
+    <part Name="Description" Short="一只星辉玫瑰金的花瓶悬浮离地，由一束水晶茎干托扶。整座管道艺术品通观之下，宛如一只曝日的天鹅。" />
+  </object>
+  <object Name="Mover" Load="Merge">
+    <part Name="Render" DisplayName="搬运器" />
+    <part Name="Description" Short="自世界外缘而来的珊瑚与树生之物簇簇迸发，沿着这乘轿的磁化轿足向其金顶攀爬。逝去之仪时，钟声齐鸣，果香的烟雾自其门户涌出。" />
+  </object>
+  <object Name="Mover Exit" Load="Merge">
+    <part Name="Render" DisplayName="出口传送门" />
+    <part Name="Description" Short="一处出口，使搬运者重新领会静止世界乃是人工之物。" />
+    <xtagGrammar iArticle="" />
+  </object>
+  <object Name="Mover Baetyl" Load="Merge">
+    <part Name="Render" DisplayName="领航圣石" />
+    <part Name="Description" Short="一块玻璃透镜，凝结于光滑的石上，那是神圣数学之热灼烧空气、又在“证毕”之中冷却之处。表皮与陨石层之下，一颗电之心在磁石星野上研磨转动，并以地理空间的顺服之态闪烁。" />
+  </object>
+  <object Name="Mover Wall" Load="Merge">
+    <part Name="Render" DisplayName="星铜鳞片" />
+    <part Name="Description" Short="热星青铜以控制论之法嵌于一层活的中胚层之上，呈现出悦目而充满空间的镶嵌花纹。" />
+  </object>
+  <object Name="Mover Chair" Load="Merge">
+    <part Name="Render" DisplayName="宽椅" />
+    <part Name="Description" Short="一张宽大的木座，空间足容一副控制论培育的臀，或一对经精神化学缩小的臀，或三个被本体论压扁的臀。" />
+  </object>
+  <object Name="BaseMoverCouch" Load="Merge">
+    <part Name="Render" DisplayName="沙发" />
+    <part Name="Description" Short="一张弧形长椅，借钝化了的此地此刻之暴政，使搬运者相聚。座板取自盟会某月亮世界上的树类之物，历时千纪，每一位坐者都在上面留下了某种形状的刻痕。&#10;" />
+  </object>
+  <object Name="Eater Thurible" Load="Merge">
+    <part Name="Render" DisplayName="黄金香炉" />
+    <part Name="Description" Short="明亮的日铁，熔合于中子星相撞之时，被刻上菱形的熏烟窗口，并扣在一只燃烧种子的坩埚之上。" />
+  </object>
+  <object Name="Eater Chimes" Load="Merge">
+    <part Name="Render" DisplayName="仪式铃钟" />
+    <part Name="Description" Short="一簇钟，以本星团各色光泽的硬岩铸成，给搬运者的仪式添以声音的深度与广度。" />
+  </object>
+  <object Name="Rubble Black" Load="Merge">
+    <part Name="Render" DisplayName="碎石" />
+  </object>
+  <object Name="Dock Door N" Load="Merge">
+    <part Name="Render" DisplayName="机库门" />
+  </object>
+  <object Name="Dock Door S" Load="Merge">
+    <part Name="Render" DisplayName="机库门" />
+  </object>
+  <object Name="BaseStarshipPlatform N" Load="Merge">
+    <part Name="Render" DisplayName="星舰平台" />
+    <part Name="Description" Short="黑色格栅为宝石穹宇之光所点燃，尘中印着六百个世界的蹄印签名。" />
+  </object>
+  <object Name="BaseStarshipPlatform S" Load="Merge">
+    <part Name="Render" DisplayName="星舰平台" />
+  </object>
+  <object Name="HangarWall" Load="Merge">
+    <part Name="Render" DisplayName="晶钢机库板" />
+    <part Name="Description" Short="宽阔的星染金属板围合起星舰机库，如同千百种字母的重写羊皮卷。" />
+    <xtagGrammar iArticle="some" />
+  </object>
+  <object Name="Eel Grass" Load="Merge">
+    <part Name="Render" DisplayName="鳗草" />
+    <part Name="Description" Short="起伏的草皮渴望地向空中伸出指状之叶，并分泌出一种蜡，以防护自身，抵御其遥远矮星的毒焰。" />
+    <xtagGrammar iArticle="some" adjunctNoun="丛" />
+  </object>
+  <object Name="Wheel of Qv" Load="Merge">
+    <part Name="Render" DisplayName="Qv之轮" />
+    <part Name="Description" Short="这藤蔓的螺旋，抵着一个隐匿的第八维空间的压力而挤压（该维度唯在脱离它们素来浸没其中的奇异流体之密度时才被激活）。此时，其间固态氩的横刺以一种频率鸣响，足以蚀损一切已知的土金属。 &#10;" />
+    <xtagGrammar iArticle="some" adjunctNoun="丛" />
+  </object>
+  <object Name="StarshipGeometricWall" Load="Merge">
+    <part Name="Render" DisplayName="几何隔舱壁" />
+    <part Name="Description" Short="富混凝土、金属与泡沫的条带抵御太空真空，并给平整的内部添上悦目的视觉质感，使人在漫长航程中心神得以振奋。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="StarshipGeometricWallBright Endcap" Load="Merge">
+    <part Name="Render" DisplayName="内部" />
+  </object>
+  <object Name="StarshipGeometricWall L Endcap" Load="Merge">
+    <part Name="Render" DisplayName="内部" />
+  </object>
+  <object Name="StarshipGeometricWall R Endcap" Load="Merge">
+    <part Name="Render" DisplayName="内部" />
+  </object>
+  <object Name="StarshipBed W" Load="Merge">
+    <part Name="Render" DisplayName="睡眠龛" />
+    <part Name="Description" Short="几何舱壁上一处木雕的凹龛，周围围着毯子，悬着花纹织物为帘。在群星之间漫长的虚空里，随多面体引擎的颠簸轻轻摇晃，船民们得以进入地面居民所不知的多重安详睡眠。" />
+  </object>
+  <object Name="StarshipBed E" Load="Merge">
+    <part Name="Render" DisplayName="睡眠龛" />
+    <part Name="Description" Short="几何舱壁上一处木雕的凹龛，周围围着毯子，悬着花纹织物为帘。在群星之间漫长的虚空里，随多面体引擎的颠簸轻轻摇晃，船民们得以进入地面居民所不知的多重安详睡眠。" />
+  </object>
+  <object Name="StarshipBookshelf W" Load="Merge">
+    <part Name="Render" DisplayName="嵌入式书架" />
+    <part Name="Description" Short="取自一个多雨绿柱石世界之树的橡木板，被钉在舱壁上。其脚下的地垫，让人以柔软低矮的视角，仰观一排排虹色书脊的古抄本，每一册都是通往宇宙遥远角落的门户。" />
+  </object>
+  <object Name="StarshipBookshelf E" Load="Merge">
+    <part Name="Render" DisplayName="嵌入式书架" />
+    <part Name="Description" Short="取自一个多雨绿柱石世界之树的橡木板，被钉在舱壁上。其脚下的地垫，让人以柔软低矮的视角，仰观一排排虹色书脊的古抄本，每一册都是通往宇宙遥远角落的门户。" />
+  </object>
+  <object Name="Starship1 Floor Cushion" Load="Merge">
+    <part Name="Description" Short="一只山恐鸟自拔的羽毛，数千年前被填进天鹅绒坐垫，此后不久便在萨梅赫的集市上售出。" />
+  </object>
+  <object Name="Starship1 Wooden Table" Load="Merge">
+    <part Name="Render" DisplayName="橡木桌" />
+    <part Name="Description" Short="丰润的雨养橡木，被砍伐后以简单的角度钉合。其表面是一张带纹理的画布，供人于太空静谧的深处梳理思绪。" />
+  </object>
+  <object Name="Starship1 Wooden Chair" Load="Merge">
+    <part Name="Render" DisplayName="橡木椅" />
+    <part Name="Description" Short="这座椅以丰润的雨养橡木制成，出自远世界山城一位制椅宗师之手，其角度恰好调和了仰观星空的冥想与俯首凝神的专注。" />
+  </object>
+  <object Name="Starship Pilot Console" Load="Merge">
+    <part Name="Render" DisplayName="驾驶台" />
+    <part Name="Description" Short="玻璃月牙上显现出旋臂，以及在旋臂之间奔涌的无尽水道。钳钮、滑杆、哨键与转盘排列于表圈四周，供人在流形之中导航。" />
+    <part Name="ChargeSink" NameForStatus="星际航行控制" />
+  </object>
+  <object Name="Starship Copilot Console" Load="Merge">
+    <part Name="Render" DisplayName="副驾驶控制台" />
+    <part Name="Description" Short="飞船与星辰的诊断数据顺着玻璃月牙流下，涌入数据库。一排拨键、划钮与精密圆球，分列于仪表盘两侧的弧形面板之上，供人在流形之中查询。" />
+    <part Name="ChargeSink" NameForStatus="星际航行监测" />
+  </object>
+  <object Name="Starship1 ExitHatch" Load="Merge">
+    <part Name="Render" DisplayName="逃生舱门" />
+    <part Name="Description" Short="一块可伸缩的六边形面板，装在上过油的轨道上。" />
+  </object>
+  <object Name="Starship1 Pilot Seat" Load="Merge">
+    <part Name="Render" DisplayName="驾驶员座椅" />
+    <part Name="Description" Short="座垫裹着乙烯基，色如冰封之洋挣脱潮汐热而倾泻。控制转盘、滑杆与开关，布满平板扶手。" />
+    <part Name="Chair" NameForStatus="人体工学系统" />
+  </object>
+  <object Name="Starship1 Copilot Seat" Load="Merge">
+    <part Name="Render" DisplayName="副驾驶座椅" />
+    <part Name="Description" Short="座垫裹着乙烯基，色如冰封之洋挣脱潮汐热而倾泻。控制转盘、滑杆与开关，布满平板扶手。" />
+    <part Name="Chair" NameForStatus="人体工学系统" />
+  </object>
+  <object Name="Starship1 Passenger Seat" Load="Merge">
+    <part Name="Render" DisplayName="乘客座椅" />
+    <part Name="Description" Short="座椅泡沫被压出古怪的背印，染上十几种混合的汗渍，平衡地架在一座金属台上。" />
+    <part Name="Chair" NameForStatus="人体工学系统" />
+  </object>
+  <object Name="Starship1 Tree Sculpture" Load="Merge">
+    <part Name="Render" DisplayName="三角座树雕" />
+    <part Name="Description" Short="一根青铜或类青铜的支柱，被弯成邻近星团特有的螺旋三角形。金色铜绿以隐晦而诗意的纹样将其笼罩。" />
+  </object>
+  <object Name="Starship Ornate Potted Plant 2" Load="Merge">
+    <part Name="Description" Short="滑腻翠绿的植物叶瓣，从古老的大锅中舒展而出，铬质的切口分明。它们如同扎根壤土的亲族一般生息吐纳，只是其生物数据已被拼接入不朽之种。" />
+  </object>
+  <object Name="Starship Ornate Potted Plant 3" Load="Merge">
+    <part Name="Description" Short="滑腻翠绿的植物叶瓣，从古老的大锅中舒展而出，铬质的切口分明。它们如同扎根壤土的亲族一般生息吐纳，只是其生物数据已被拼接入不朽之种。" />
+  </object>
+  <object Name="Starship1 Power Core" Load="Merge">
+    <part Name="Render" DisplayName="能量多面体" />
+    <part Name="Description" Short="磁力火炬在多面体内闷烧，散发着高能聚变的余气，舱室因蕴藏的潜能而震颤。" />
+  </object>
+  <object Name="Starship1 Status Panel" Load="Merge">
+    <part Name="Render" DisplayName="状态面板" />
+    <part Name="Description" Short="真空玻璃之原野上，铬质二极管依多面体的序列闪烁。" />
+    <part Name="ChargeSink" NameForStatus="多面体状态二极管" />
+  </object>
+  <object Name="Starship1 Cargo Crate" Load="Merge">
+    <part Name="Render" DisplayName="货运箱" />
+    <part Name="Description" Short="耐真空的泡沫木梁，留有没药、星瓷与雪粉桃子的缕缕余香。" />
+  </object>
+  <object Name="Starship1 Pilaster" Load="Merge">
+    <part Name="Render" DisplayName="壁柱" />
+    <part Name="Description" Short="一根金属支柱上布满伤痕，那是货物刮擦、多面体碎片、等离子弹壳与铺位甲虫啃咬留下的。" />
+  </object>
+  <object Name="Starship1 Comms" Load="Merge">
+    <part Name="Render" DisplayName="通讯缎带" />
+    <part Name="Description" Short="三根绞线悬自一枚转环，每根线端各挂一只六向扬声器。不同八度的静电杂音倾入音景之中。" />
+    <part Name="ChargeSink" NameForStatus="语音投影" />
+  </object>
+  <object Name="Star Carousel Wall" Load="Merge">
+    <part Name="Render" DisplayName="晶箔鳃" />
+    <part Name="Description" Short="纸质般的晶钢薄膜随柔波摇曳，为旋转舱的内部送风。这封闭空间给人一种置身岛鱼腹中的感觉。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Star Carousel Infested Wall" Load="Merge">
+    <part Name="Render" DisplayName="受感染的晶箔鳃" />
+    <part Name="Description" Short="自Qv之轮伸出的吸盘，如湿润的手一般攫住旋转舱纸薄的鳃，浓稠黏滑的水汇积于其下。这寄生之负担，令舱壁喘息不已。" />
+  </object>
+  <object Name="Star Carousel Pilot Console" Load="Merge">
+    <part Name="Render" DisplayName="驾驶台" />
+    <part Name="Description" Short="一块按和谐比例排列的音条面板，在雕琢成形的蓝光中闪耀。此处弥漫着往昔航程残留的输入图式的嗡鸣。" />
+    <part Name="ChargeSink" NameForStatus="螺旋倾航" />
+  </object>
+  <object Name="Star Carousel Pilot Console N" Load="Merge">
+    <part Name="Render" DisplayName="驾驶台" />
+  </object>
+  <object Name="Star Carousel Pilot Console S" Load="Merge">
+    <part Name="Render" DisplayName="驾驶台" />
+  </object>
+  <object Name="Star Carousel Passenger Console 1" Load="Merge">
+    <part Name="Render" DisplayName="驾驶台" />
+    <part Name="Description" Short="关于水汽流形的视听影像，在面板的全息表面上飞溅流淌。一支微小而温柔的空无旋律，自底光中响起。" />
+    <part Name="ChargeSink" NameForStatus="异质湿气歧管" />
+  </object>
+  <object Name="Star Carousel Passenger Console 2" Load="Merge">
+    <part Name="Render" DisplayName="乘客控制台" />
+  </object>
+  <object Name="Star Carousel ExitHatch" Load="Merge">
+    <part Name="Render" DisplayName="逃生舱门" />
+    <part Name="Description" Short="一圈完美的苔床，沿正弦波分开，为相对的两处黑暗提供出入之路。" />
+  </object>
+  <object Name="Star Carousel Pilot Seat" Load="Merge">
+    <part Name="Render" DisplayName="驾驶员座椅" />
+    <part Name="Description" Short="高度与反向相配的旋转月牙，为各种体型的身躯提供凝神专注的姿势。" />
+    <part Name="Chair" NameForStatus="人体工学系统" />
+  </object>
+  <object Name="Star Carousel Passenger Seat" Load="Merge">
+    <part Name="Render" DisplayName="乘客座椅" />
+    <part Name="Description" Short="高度与反向相配的旋转月牙，为各种体型的身躯提供凝神专注的姿势。" />
+    <part Name="Chair" NameForStatus="人体工学系统" />
+  </object>
+  <object Name="Star Carousel Table" Load="Merge">
+    <part Name="Render" DisplayName="地层女像柱" />
+    <part Name="Description" Short="一段流线的肩，取自异界石灰岩，末端是平整的承物之首。石笛造型的生灵所刻画的，是一道无眼的凝视。" />
+  </object>
+  <object Name="Star Carousel Display Case" Load="Merge">
+    <part Name="Render" DisplayName="分形柜" />
+    <part Name="Description" Short="丰润的雨养橡木被砍成一座珍玩橱，搁板大小不一。这拱顶的柜子，如今成了一座百世界的集市。" />
+  </object>
+  <object Name="Star Carousel Power Core" Load="Merge">
+    <part Name="Render" DisplayName="奇液核心" />
+    <part Name="Description" Short="这个宇宙之重的短笛状球体，盛着一汪星辉的水胶。那物质时而如海浪般奔涌拍打玻璃，转瞬又咚地沉落底部。它散发出一种亚原子的倦怠之气。" />
+  </object>
+  <object Name="Star Carousel Art Sculpture 1" Load="Merge">
+    <part Name="Render" DisplayName="湿气烟斗" />
+    <part Name="Description" Short="一座玻璃养育箱，被增湿的苔藓与水藻占据，它们在昏暗的旋转舱中茁壮生长。一根独立的、垂弯的茎弧伸而出，自这生机盎然的浓汤中递来一缕冒烟的气息。" />
+  </object>
+  <object Name="Star Carousel Art Sculpture 2" Load="Merge">
+    <part Name="Render" DisplayName="装饰苔藓荚" />
+    <part Name="Description" Short="异界的苔藓分支结成缎带般的纹路，将其不可知的社会动态具象化。它们成球悬于天花板的一束之中，在其星航者房东心中激起惊异。" />
+  </object>
+  <object Name="Star Carousel Art Sculpture 3" Load="Merge">
+    <part Name="Render" DisplayName="暖窥视者" />
+    <part Name="Description" Short="旋转舱的呼吸系统嵌入一张更广阔的生物机械感觉网中。其节点的某些交汇处，决定生出一条茎状的细绳，托起一只粉红色的、能视物的眼睛。诊断证实，四下张望能让飞船平静下来。" />
+  </object>
+  <object Name="Star Carousel Star Chart L" Load="Merge">
+    <part Name="Render" DisplayName="全息星图" />
+    <part Name="Description" Short="一张耀目的家乡之日的网络，以视差之态闪烁。其星系在流形中，由贸易航线、变动的主权边界与银河星团的汇合连接在一起。较小的连字标注着一部浩大游记的私人笔记，使整幅图景化为一篇超维度的叙事。" />
+  </object>
+  <object Name="Star Carousel Star Chart C" Load="Merge">
+    <part Name="Render" DisplayName="全息星图" />
+  </object>
+  <object Name="Star Carousel Star Chart R" Load="Merge">
+    <part Name="Render" DisplayName="全息星图" />
+  </object>
+  <object Name="CrysteelBraidWall" Load="Merge">
+    <part Name="Render" DisplayName="晶钢编带" />
+    <part Name="Description" Short="一个特殊的绿匠种姓曾栖居于晶钢高炉的下层城区，在那里他们抽取仍然柔软的金属丝，用自己戴着手套的双手编出工匠的批次。适应了潮汐热，他们便再也不能返回地表，亲眼见证自己造物的用途，但月时的仪式赐予了他们一种预知之感，知晓那造物将会成为什么。" />
+  </object>
+  <object Name="HyperconductiveLabyrinthite" Load="Merge">
+    <part Name="Render" DisplayName="超导迷宫岩" />
+    <part Name="Description" Short="人造的金片雕成拜占庭式的都市模样，引导着带负电阻的电流。巨大的拱廊以明亮的网格饰纹缓冲方舟的运算核心，将流入的电子同化入火花墙，并为内殿屏蔽电磁扰动。" />
+  </object>
+  <object Name="Red Etz Trellis" Load="Merge">
+    <part Name="Render" DisplayName="红色埃兹藤架" />
+    <part Name="Description" Short="异界炽红的木料，构成迷宫般的树篱，并为一株常青者搭起棚架。" />
+  </object>
+  <object Name="ReshephWall1" Load="Merge">
+    <part Name="Render" DisplayName="真空通量处理器" />
+    <part Name="Description" Short="多重时空的紧缩维度上，色动力学之花开放，经一枚单棱镜观之。强行取一个去瓣的视角，所得之物便近于一场运算。" />
+    <part Name="ChargeSink" NameForStatus="色动力绽放" />
+  </object>
+  <object Name="ReshephWall2" Load="Merge">
+    <part Name="Render" DisplayName="记忆环面" />
+    <part Name="Description" Short="一只胶化的环面，为被追踪信息的滑移与结块提供了理想的拓扑表面。" />
+    <part Name="ChargeSink" NameForStatus="现象学分类" />
+  </object>
+  <object Name="ReshephWall3" Load="Merge">
+    <part Name="Render" DisplayName="主机状态面板" />
+    <part Name="Description" Short="真空玻璃与泽塔铬二极管之原野上，光点成旋涡闪烁。" />
+    <part Name="ChargeSink" NameForStatus="感质观测" />
+  </object>
+  <object Name="ReshephWall4" Load="Merge">
+    <part Name="Render" DisplayName="主机监视器" />
+    <part Name="Description" Short="广袤的副现象疆域被创造、被诠释，并被符号化为语言，以传达非确定核心的安康。" />
+    <part Name="ChargeSink" NameForStatus="格式塔副现象" />
+  </object>
+  <object Name="ReshephWall5" Load="Merge">
+    <part Name="Render" DisplayName="光子驱动器" />
+    <part Name="Description" Short="激光头描画螺旋星系的运转，并将全息图烙于暗物质的圆盘之上。" />
+    <part Name="ChargeSink" NameForStatus="背景辐射重写本" />
+  </object>
+  <object Name="ReshephWall6" Load="Merge">
+    <part Name="Render" DisplayName="常态排气口" />
+    <part Name="Description" Short="一阵阵结晶化的常态之风，被迫自排气口喷出，使运算核心保持自由而在现象学上柔韧。" />
+    <part Name="ChargeSink" NameForStatus="正交吞吐量" />
+  </object>
+  <object Name="ReshephWall7" Load="Merge">
+    <part Name="Render" DisplayName="真随机采样器" />
+    <part Name="Description" Short="倘若一台机器将一个世界旋起旋落得足够迅疾，便会催生出可取样而不可建模的感质。" />
+    <part Name="ChargeSink" NameForStatus="世界生成/世界毁灭" />
+  </object>
+  <object Name="BaseHologramProjector" Load="Merge">
+    <part Name="Render" DisplayName="全息投影器" />
+    <part Name="Description" Short="一枚开关将远端圆环上的粒子散射对齐，并射出一道刻痕般的光。" />
+  </object>
+  <object Name="BaseHologramProjector Barathrum" Load="Merge">
+    <part Name="Render" DisplayName="全息投影器" />
+  </object>
+  <object Name="HologramCircle" Load="Merge">
+    <part Name="Render" DisplayName="光幕台" />
+    <part Name="Description" Short="散落的点依记录的位置排列，在光之剧场中绽放。" />
+  </object>
+  <object Name="BaseTriumHologram" Load="Merge">
+    <part Name="Render" DisplayName="全息影像" />
+  </object>
+  <object Name="Barathrum Hologram" Load="Merge">
+    <part Name="Render" DisplayName="巴拉斯鲁姆全息影像" />
+    <part Name="Description" Short="这位年轻乌尔希卜明亮的面容与短刺鬃毛，即便在摇曳欲散的光之画布上，也鲜明夺目。他双肩向后舒展，带着崭新的使命，目光如激光般精确，刺穿前景。" />
+  </object>
+  <object Name="Archon Hologram" Load="Merge">
+    <part Name="Render" DisplayName="执政官主机全息影像" />
+    <part Name="Description" Short="一幅图景渐渐凝成：宇宙的爆裂之能被封入一只屏蔽的灯泡，由活塞推入一颗广大而锋利的智能之中。食者那些机械的伟大执政官便由此在其神谕所中裂变而生，并以圣石为指，车削出这醒觉的世界。" />
+  </object>
+  <object Name="Rebekah Hologram" Load="Merge">
+    <part Name="Render" DisplayName="利百加全息影像" />
+    <part Name="Description" Short="长袍泻过窄肩，侧垂的面纱使一张偏向匿名之角的脸庞呈出闪烁失真之形。终于脱出袖口蕾丝的一只手，如一盏巫术之灯般蒙着微尘，皎皎然发着光。" />
+  </object>
+  <object Name="Resheph Hologram" Load="Merge">
+    <part Name="Render" DisplayName="至高者利悉全息影像" />
+    <part Name="Description" Short="一幅披帛自他肩头垂落，带着神话散文般的必然；那数码的二元，既暗示着地上的疗愈之安，亦暗示着与穹苍的契合。" />
+  </object>
+  <object Name="BaseArkCore" Load="Merge">
+    <part Name="Render" DisplayName="非决定性核心" />
+    <part Name="Description" Short="一幅蓝、品红与绯红的帷幕，垂在月日之荫与超新星之金所筑的圣域之上（其色彩规格，乃由自内在神启中降生的机械之灵亲手传下）。纯粹的非物质性，自容器的边界被滴定而出，又经渠道，以受控的剂量输往处理器，后者将其破解，以行不可计算之事：无中生决。" />
+    <part Name="ChargeSink" NameForStatus="无质性" />
+  </object>
+  <object Name="Sheyd" Load="Merge">
+    <part Name="Render" DisplayName="谢德" />
+    <part Name="Description" Short="油腻的皮肤之质，在炼狱灰色的涡流中盘旋，到爪尖处硬化成钻石。谢德曾被星际携运，离开其神月，经百年一度的仪式讲定，转让给机械执政官，被当作宠物豢养。待到历史沿着苏丹国的黑暗深井愈拖愈长，它们便因其珍贵虹膜中的乳汁，被偷猎至灭绝。" />
+    <tag Name="PetResponse" Value="=subject.T=啾啾鸣叫。" />
+  </object>
+  <object Name="Sheyd_Claw" Load="Merge">
+    <part Name="Render" DisplayName="{{K|钻石}}爪" />
+  </object>
+  <object Name="Wood-Carved Bookshelf" Load="Merge">
+    <part Name="Render" DisplayName="木雕书架" />
+    <part Name="Description" Short="栖身城堡的木匠们仿效地精的森林建筑，为他们讲述外层天球的故事造了一座小柜。" />
+  </object>
+  <object Name="Wood-Carved Bed" Load="Merge">
+    <part Name="Render" DisplayName="木雕床" />
+    <part Name="Description" Short="躺卧者来到梦之谷的小径入口，迷失于镶嵌细工的谜题之中，融入如海沫般柔软之境。" />
+  </object>
+  <object Name="Wood-Carved Chair" Load="Merge">
+    <part Name="Render" DisplayName="木雕椅" />
+    <part Name="Description" Short="木匠耗尽毕生，与一棵树作亲密的倾谈。到了晚年，大月的节律占据其思绪越来越大的份额时，他们才终于精通蒸汽之术，使心材屈从于己意。" />
+  </object>
+  <object Name="Wood-Carved Clothespress" Load="Merge">
+    <part Name="Render" DisplayName="木雕衣柜" />
+    <part Name="Description" Short="日晷旁没有哪只衣橱或柜子算得做成，除非它有一只暗屉，好让孩童藏起他们的精灵之礼，并在死亡投影之夜重新找到它们。" />
+  </object>
+  <object Name="Wood-Carved Table" Load="Merge">
+    <part Name="Render" DisplayName="木雕桌" />
+    <part Name="Description" Short="这巫术之面用心地弯出弧度，假扮成世界之皮，供好学之心描摹法术的弧线。" />
+  </object>
+  <object Name="Moted Lamp" Load="Merge">
+    <part Name="Render" DisplayName="微粒提灯" />
+    <part Name="Description" Short="仙苔将这根柱子敷上粉末，使之沾满虹色的露水。在灯影之内，精灵的魔法如球体般恒久奔流。" />
+  </object>
+  <object Name="Qorish Veil" Load="Merge">
+    <part Name="Render" DisplayName="戈里什女巫面纱" />
+    <part Name="Description" Short="当一首力量之歌自微粒森林中咆哮而出，沿世界之皮滑升之时，那侧垂的面纱便护住女巫的耳与目。" />
+  </object>
+  <object Name="Qorish Gown" Load="Merge">
+    <part Name="Render" DisplayName="戈里什女巫长袍" />
+    <part Name="Description" Short="袖子上的微观刺绣，编码着水晶天球与大月的全部历史，至少是以精灵的视角。在王国与城堡的深井之中，那绣纹的质地回馈着一只戴手套之手在假面舞会上锁入舞步时的压力。" />
+  </object>
+  <object Name="Star Orchid Limestone" Load="Merge">
+    <part Name="Render" DisplayName="星兰酸橙" />
+    <part Name="Description" Short="星舰尾焰熔合的原始星方解石，保留着带壳生命的生物几何与斑斓色泽。终有一日，它将被加压，并打磨成石工之形。" />
+    <xtagGrammar massNoun="true" />
+  </object>
+  <object Name="Starship Nozzle" Load="Merge">
+    <part Name="Render" DisplayName="星舰喷口" />
+    <part Name="Description" Short="取自一艘星舰焦黑喷口的金属，被尾气匠行会熔化，铸成一座宏伟的脚手架。被烧焦的虚空动物的剪影，仍可见于那磨亮的贴面之上。" />
+  </object>
+  <object Name="BaseStarOrchidTemplePlaqueEndcap" Load="Merge">
+    <part Name="Render" DisplayName="星舰喷口" />
+    <part Name="Description" Short="取自一艘星舰焦黑喷口的金属，被尾气匠行会熔化，铸成一座宏伟的脚手架。被烧焦的虚空动物的剪影，仍可见于那磨亮的贴面之上。" />
+  </object>
+  <object Name="BaseStarOrchidTemplePlaque" Load="Merge">
+    <part Name="Render" DisplayName="神殿题献牌" />
+    <part Name="Description" Short="" />
+  </object>
+  <object Name="Star Orchid Temple Projector" Load="Merge">
+    <part Name="Render" DisplayName="神殿投影仪" />
+    <part Name="Description" Short="超维度的浮沫在投影盘上闪着微光，那是它被浸入星际时空的皂膜时所留。圆盘如今已然沉寂，脱离了它超越性的纠缠，其底座为苔藓的繁盛提供了一面荫墙。" />
+  </object>
+  <object Name="BaseStarOrchidTempleGate" Load="Merge">
+    <part Name="Render" DisplayName="神殿大门" />
+    <part Name="Description" Short="楼梯、舞台与环门，因超维度的细丝，被铸成与周遭相衬的大理石浮雕。异界神庙的全息远景已然消散，取而代之，本地的百合盈满画框。" />
+  </object>
+  <object Name="Engine Crabs" Load="Merge">
+    <part Name="Render" DisplayName="引擎蟹" />
+    <part Name="Description" Short="铬壳的小十足类，曾作为多面体引擎的寄生者遨游群星，吸食火炬的余流，啃噬导电的线路。如今它们思忖着自己的退休花园，因被从一艘退役飞船的喷口射出，一路冲浪般抵达废料场。" />
+  </object>
+  <object Name="Star Orchid Lily" Load="Merge">
+    <part Name="Render" DisplayName="星兰百合" />
+    <part Name="Description" Short="五片青翠的叶瓣，自一朵星形花上飘落，花色如燃烧的尾焰。它们为根茎般的冲动所驱使，在空中盘旋。" />
+  </object>
+  <object Name="Nails of Jy" Load="Merge">
+    <part Name="Render" DisplayName="杰伊之钉" />
+    <part Name="Description" Short="异界绯红欲望的尖芽，从它们依地而生的手套中刺向空气。当一阵人造风将它们吹开时，便闪着微光，嘶嘶作响。" />
+  </object>
+  <object Name="Ring of Moss" Load="Merge">
+    <part Name="Render" DisplayName="苔藓环" />
+    <part Name="Description" Short="毛茸茸的庙草，生长在一圈枯死的植物茎秆之上，啜饮着神庙的荫凉。" />
+  </object>
+  <object Name="Spoken Ionic" Load="Merge">
+    <part Name="Render" DisplayName="{{zetachrome|共价之心内的离子语}}" />
+    <part Name="Description" Short="自这棵树的枝干之弧，你推知它故乡的星辰排布，对自然的星体诞生而言，在几何上过于繁复。=pronouns.Possessive=的缎带如玻璃般反射光线，在陈腐的空气中起舞，是一个失去了一切熟悉之物的文明的奇异旗帜。在=pronouns.possessive=异乡池塘的边缘，这位来访者以根啜饮清凉之水，其举动令人费解。" />
+  </object>
+  <object Name="Coda Player Statue" Load="Merge">
+    <part Name="Render" DisplayName="玩家雕像" />
+  </object>
+  <object Name="Chiliad Village Monument Post" Load="Merge">
+    <part Name="Render" DisplayName="石制安卡十字" />
+    <part Name="Description" Short="封于墓中的贝壳从石灰倒置的环下探出，是为沉思抛物线形的生命而刻。" />
+  </object>
+  <object Name="Chiliad Village Monument Orb" Load="Merge">
+    <part Name="Render" DisplayName="玻璃球" />
+    <part Name="Description" Short="一块玻璃透镜凝结在光滑的石上，其动力鳍片已在两极处被削去。" />
+  </object>
+  <object Name="Chiliad Chest" Load="Merge">
+    <part Name="Description" Short="螺旋车制的黄铜包角，加固着一只旧木箱的底部。依其软体动物工匠的风格，箱盖不饰金属，也无徽记。" />
+  </object>
+  <object Name="Chiliad Bottle" Load="Merge">
+    <part Name="Description" Short="远洋般的瓶颈上有一圈环，被拧转成能容石灰色的大手。此瓶散发着酒与没药的气味。" />
+  </object>
+  <object Name="Chiliad Vase" Load="Merge">
+    <part Name="Description" Short="凸缘把手与瓶颈上的拇指按痕，显出陶工赶着转坯、烧制下一单时的匆忙。然而那实用的棱角，却被一层缓慢而浓似浆果的釉柔化了。" />
+  </object>
+  <object Name="Chiliad Basket" Load="Merge">
+    <part Name="Description" Short="染色的灯芯草与棕榈叶，被拉成向西的编织，以供仓房贮存。其旁生的枝缕，被染成深苹果红。" />
+  </object>
+  <object Name="Chiliad Floor Cusion" Load="Merge">
+    <part Name="Description" Short="一只山羊毛填塞的圆顶枕垫，给人以低矮而向日的休憩之姿。" />
+  </object>
+  <object Name="Chiliad Table" Load="Merge">
+    <part Name="Description" Short="一块被锯下的巨大椭圆纹木板，曾被架上腿，成为昔日某位国王的宴席之案。后来一柄争端之斧将它劈成碎片，这些孩子又被带走，刨得光滑，重新供给平整。" />
+  </object>
+  <object Name="Chiliad Oven" Load="Merge">
+    <part Name="Description" Short="厚重的陶炉中，炉火噼啪作响，暖意四散，随之而来的是美味佳肴的香气。其高高的遮檐上，绘着新季的蜂蜜与果酱。" />
+  </object>
+  <object Name="Chiliad Torchpost" Load="Merge">
+    <part Name="Description" Short="一个由干木与杯状铁器构成的燃烧的Y字，照亮了众家宅邸。" />
+  </object>
+  <object Name="Chiliad Unlit Torchpost" Load="Merge">
+    <part Name="Description" Short="一个由干木与杯状铁器构成的燃烧的Y字，照亮了众家宅邸。" />
+  </object>
+  <object Name="Mechanical Golem" Load="Merge">
+    <part Name="Description" Short="自元素周期表之外而来的废金属，被焊接成雕像，塑出神话般的形貌：=body.features=。陈年的汤水与=catalyst=的溅洒，污染了它锈蚀的躯干，在烟熏火燎的光里，其姿态令人想起一只垂死的=atzmus.creature=。铁肢被锤打成=armament.skill.snippet=之形，其正中悬着=hamsa.an=的破碎徽记。" />
+    <part Name="Interactable" Action="进入" Message="=object.Does:显得=太过古旧锈蚀，无法进入。" />
+    <part Name="ChargeSink" NameForStatus="原动机" />
+  </object>
+  <object Name="Chiliad Slynth Joppa" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯灌溉者" />
+    <part Name="Description" Short="=pronouns.Possessive=的帽檐叶像一顶被打瘪的帽子耷拉下来，为=pronouns.possessive=发光的双眼遮住盐地高悬的烈日。=pronouns.Subjective=熟练而小心地握着一柄割藤镰，绕着=pronouns.possessive=那娇嫩易割的根须挥动。" />
+  </object>
+  <object Name="Chiliad Slynth Grit Gate" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯扳手僧" />
+    <part Name="Description" Short="=pronouns.Possessive=的指茎已长到可作修补之用的长度，=pronouns.subjective=绷紧=pronouns.possessive=扎在地下的根须，以增强=pronouns.possessive=扳手转动时的扭力。" />
+  </object>
+  <object Name="Chiliad Slynth Bey Lah" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯斥候" />
+    <part Name="Description" Short="=pronouns.Subjective=嗅着空气，又用=pronouns.possessive=的后根在干燥的土里跺踏。辛辣的赭色花瓣自=pronouns.possessive=冠顶翩然飘落，点缀在=pronouns.possessive=宽阔的臀部上，宛如草甸。" />
+  </object>
+  <object Name="Chiliad Slynth Kyakukya" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯苹果酒嘴" />
+    <part Name="Description" Short="一簇蘑菇在=pronouns.possessive=的花冠中共生扎根。=pronouns.Possessive=的茎被烤焦，又撒满香料，=pronouns.subjective=正用木勺搅一锅辛香的潘趣酒。" />
+  </object>
+  <object Name="Chiliad Slynth Ezra" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯流亡者" />
+    <part Name="Description" Short="=pronouns.Possessive=青翠的花冠如侧垂的面纱流泻于=pronouns.possessive=肩头，=pronouns.possessive=的指茎扭动着缠绕在一枚闪光的阴极上。" />
+  </object>
+  <object Name="Chiliad Slynth Yd Freehold" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯吹笛者" />
+    <part Name="Description" Short="=pronouns.Possessive=的指茎在一支木笛上啪嗒滑动，=pronouns.subjective=在打褶的根须上踏着横向的吉格舞。=pronouns.possessive=冠顶花朵的花瓣齐齐变色，欢欣同步。" />
+  </object>
+  <object Name="Chiliad Slynth Mechanimists" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯歌者" />
+    <part Name="Description" Short="这位花灵戴着色彩教会的二极管兜帽，让干枯的花瓣依圣歌的节拍相互噼啪作响。一枚抛光铬制的胸针，在颈部夹住=pronouns.possessive=的叶丛。" />
+  </object>
+  <object Name="Chiliad Slynth Mopango" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯友人" />
+    <part Name="Description" Short="一束柔和的光，从=pronouns.possessive=青翠的核心散发而出，=pronouns.possessive=所有枝叶部分都朝它弯拱，如同一轮微型的太阳。在上方，=pronouns.possessive=明亮的双眼闪烁着堂吉诃德式的意志。" />
+  </object>
+  <object Name="Chiliad Slynth Chavvah" Load="Merge">
+    <part Name="Render" DisplayName="水晶斯林斯" />
+    <part Name="Description" Short="一枚炽亮的水晶碎片嵌在=pronouns.possessive=花冠的中心，代替眼睛，闪着视觉之光。=pronouns.possessive=青翠的躯体四周，空气因沙哑的嗡鸣而震颤。" />
+  </object>
+  <object Name="Chiliad Slynth Village" Load="Merge">
+    <part Name="Render" DisplayName="斯林斯村民" />
+    <part Name="Description" Short="=pronouns.Possessive=青翠的蔓生之物已自行编成一条三角围裙，=pronouns.subjective=带着一种奇异而公民般的使命感弓起身子。一双温暖的眼睛，流露出和善可亲。" />
+  </object>
+  <object Name="Nacham's Loom" Load="Merge">
+    <part Name="Render" DisplayName="纳罕的织机" />
+    <part Name="Description" Short="平展的金属片自经轴上倒着退出，被剥成散乱的金属丝。分隔筘的栅条，因心灵导电之力而嗡嗡作响。" />
+  </object>
+  <object Name="Kah's Conveyor" Load="Merge">
+    <part Name="Render" DisplayName="卡赫的传送带" />
+    <part Name="Description" Short="带状的缆线被穿过一台驱动单元，绕成双纽线之形，循环往复，永动不息。" />
+  </object>
+  <object Name="Va'am's Blower" Load="Merge">
+    <part Name="Render" DisplayName="瓦阿姆的鼓风机" />
+    <part Name="Description" Short="一只海洋之鼓抵着驱动轮安装，迫使空气与电粒子沿一条减压的漏斗而下。" />
+  </object>
+  <object Name="Dagasha's Crucifix" Load="Merge">
+    <part Name="Render" DisplayName="达加沙的十字架" />
+    <part Name="Description" Short="一座晶刺毛发的枝形棚架，被扭成标志性的十字之形。入者被迫变得凹陷。" />
+  </object>
+  <object Name="TauNoLongerFigurine" Load="Merge">
+    <part Name="Render" DisplayName="{{B|蓝宝石}}水晶之哀的雕像" />
+    <part Name="Description" Short="这是一尊刻面繁丽的肖像，刻的是那夜之惧：它将流体之海驱成死寂的晶格，如钟乳石般探入他人之梦，使做梦者尽皆蒸散。" />
+  </object>
+  <object Name="WanderingTauFigurine" Load="Merge">
+    <part Name="Render" DisplayName="{{B|蓝宝石}}流浪宝石的雕像" />
+    <part Name="Description" Short="在聚合的地平线之下，每一座山村里，都流传着关于“降临的宝石”的故事。从她那里得到的或多或少，但她宽阔而闪耀的诸多刻面之形象，始终如一。" />
+  </object>
+  <object Name="DeadTauFigurine" Load="Merge">
+    <part Name="Render" DisplayName="{{B|蓝宝石}}梦碎者的雕像" />
+    <part Name="Description" Short="一座晶体的复杂之物，被刻画于永恒的碎裂一刻。雕刻静止不动，也因此极为迅猛，在其省略之中编码了一切可能，随后又消解为无。" />
+  </object>
+  <object Name="Godling" Load="Merge">
+    <part Name="Render" DisplayName="吉尔什神裔" />
+    <part Name="Description" Short="一个具翼、蹄与脊的生灵，在岁月之重下佝偻着身子，舌头哼着“啦啦”的曲调，发出丰盈而怅惘的回响，面容闪耀着情感的明亮光谱。一股虹彩的油脂在=pronouns.possessive=半透明的皮肤下翻涌，放射出的彩虹向四外窜出，呈三维的条带。这东西不请自来，静静等候。" />
+  </object>
+  <object Name="True Godling" Load="Merge">
+    <part Name="Render" DisplayName="吉尔什神裔" />
+    <part Name="Description" Short="一个具翼、蹄与脊的生灵，在岁月之重下佝偻着身子，舌头哼着“啦啦”的曲调，发出丰盈而怅惘的回响，面容闪耀着情感的明亮光谱。一股虹彩的油脂在=pronouns.possessive=镶嵌般的皮肤（因=pronouns.possessive=多线程血脉而分形化）下翻涌，放射出的彩虹向四外窜出，呈七维的条带。这东西不请自来，静静等候。" />
+  </object>
+  <object Name="Fool of the Gyre" Load="Merge">
+    <part Name="Render" DisplayName="回旋愚者" />
+    <part Name="Description" Short="一个瘦削的身影，身着千年的杂色彩衣，蹦跳起舞，=pronouns.possessive=拱门帽上悬着的小钟叮当作响。=pronouns.subjective=在等待万物或无物，是=pronouns.possessive=那个荒废教团仅存的一人，凭着愚人的特权，在一个更丰饶的现实的潜台词里言说。" />
+  </object>
+  <object Name="Chiliad Hologram Locket" Load="Merge">
+    <part Name="Render" DisplayName="熊形挂坠盒" />
+    <part Name="Description" Short="一枚陨石缠丝玛瑙的浮雕，上刻着一枚不知名氏族的徽记，字体华丽，其衬线以微小的齿轮与风帆为饰。" />
+  </object>
+  <object Name="Starshiib Hologram" Load="Merge">
+    <part Name="Render" DisplayName="异界人全息影像" />
+    <part Name="Description" Short="缩成方解石螺钉的刺毛，在这生灵身上标出六边形的网格，那广纳而善于表情的耳朵，像夸克一样上下翻飞。一件准将的陀螺外套静止不动，而光雕的边缘则随生命微妙的动作滴答作响。" />
+  </object>
+  <object Name="Amaranthine Dust" Load="Merge">
+    <part Name="Render" DisplayName="{{r|不朽之尘}}" />
+    <part Name="Description" Short="暗沉的水晶被击碎，磨成了尘；百万个自我的世界已然崩塌。" />
+  </object>
+  <object Name="LoveAndFearCompleted" Load="Merge">
+    <part Name="Render" DisplayName="{{W|贝拉爱情故事}}" />
+    <part Name="Description" Short="数页残破、被岁月染黄的羊皮纸，在边缘处被某种胶粘在一起。" />
+  </object>
+  <object Name="LoveAndFearUncompleted" Load="Merge">
+    <part Name="Render" DisplayName="{{W|贝拉恐惧故事}}" />
+    <part Name="Description" Short="数页残破、被岁月染黄的羊皮纸，在边缘处被某种胶粘在一起。" />
+  </object>
+  <object Name="Chiliad Creature Antelopes" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=羚羊" />
+    <part Name="Description" Short="巨大的螺旋角，自一颗昂然高举的头颅上长出。" />
+  </object>
+  <object Name="Chiliad Creature Apes" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=猿" />
+    <part Name="Description" Short="=pronouns.Subjective=谦卑地低身蹲坐休憩，=pronouns.possessive=脸颊上长出一簇簇彩色的毛。" />
+  </object>
+  <object Name="Chiliad Creature Arachnids" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=蝎" />
+    <part Name="Description" Short="光亮的甲片摩擦着泥土地面，一根磨利的尾刺弯出完美的几何弧线。" />
+  </object>
+  <object Name="Chiliad Creature Baboons" Load="Merge">
+    <part Name="Render" DisplayName="狒狒=creatureRegionNoun=" />
+    <part Name="Description" Short="毛茸茸的脊背迎着盐地的长风，一条灵巧的尾巴拍打着地面。" />
+  </object>
+  <object Name="Chiliad Creature Baetyls" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=圣石" />
+    <part Name="Description" Short="一颗披着苔藓衫的水晶球，以熟练的虔敬之姿蹲坐。" />
+    <part Name="PartsGas" NameForStatus="微粒斥力" />
+  </object>
+  <object Name="Chiliad Creature Barathrumites" Load="Merge">
+    <part Name="Render" DisplayName="乌尔希卜=creatureRegionNoun=" />
+    <part Name="Description" Short="=pronouns.Possessive=双肩下垂，=pronouns.possessive=刺尖已开始发暗。" />
+  </object>
+  <object Name="Chiliad Creature Bears" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=熊" />
+    <part Name="Description" Short="巨大多毛的翅膀拍打着=pronouns.possessive=耳上的虫子，随后收落在宽阔的熊背上。" />
+  </object>
+  <object Name="Chiliad Creature Birds" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=恐鸟" />
+    <part Name="Description" Short="一条极长的脖颈抖落蚊蚋，=pronouns.possessive=嘎吱作响的口吻向漏网之虫咬去。" />
+  </object>
+  <object Name="Chiliad Creature Cannibals" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=食人者" />
+    <part Name="Description" Short="厚重空气的分量，将=pronouns.objective=压在=pronouns.possessive=粗短的臀上。" />
+  </object>
+  <object Name="Chiliad Creature Cats" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=猫" />
+    <part Name="Description" Short="一阵有节律的呼噜，不绝地自=pronouns.possessive=喉中发出。" />
+  </object>
+  <object Name="Chiliad Creature Chavvah" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=鸣钟" />
+    <part Name="Description" Short="一块躁动不安的晶体随着=pronouns.possessive=转身与伸颈，将周遭的光线折断。" />
+    <xtagTextFragments PoeticFeatures="折光之肤,棱镜之指,澄明之辉" />
+  </object>
+  <object Name="Chiliad Creature Consortium" Load="Merge">
+    <part Name="Render" DisplayName="植体联盟=creatureRegionNoun=" />
+    <part Name="Description" Short="此植株见同类在侧便鼓胀起身，沐浴于柔和的光里。" />
+  </object>
+  <object Name="Chiliad Creature Crabs" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=蟹" />
+    <part Name="Description" Short="=pronouns.Subjective=低伏贴地而行，成对地剪食青草。" />
+  </object>
+  <object Name="Chiliad Creature Cragmensch" Load="Merge">
+    <part Name="Render" DisplayName="崖人=creatureRegionNoun=" />
+    <part Name="Description" Short="一方岩架以铁丝、披巾与串珠装点了=pronouns.reflexive=。" />
+  </object>
+  <object Name="Chiliad Creature Daughters" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=女儿" />
+    <part Name="Description" Short="尘泥沾污了=pronouns.possessive=的修行袍，锈粉覆满了=pronouns.possessive=的扳手。" />
+  </object>
+  <object Name="Chiliad Creature Dogs" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=犬" />
+    <part Name="Description" Short="月牙般的双耳因远处一声嗥叫而竖起，=pronouns.subjective=嗅着风。" />
+  </object>
+  <object Name="Chiliad Creature Dromads" Load="Merge">
+    <part Name="Render" DisplayName="单峰驼商=creatureRegionNoun=" />
+    <part Name="Description" Short="=pronouns.Subjective=随着劲风僵硬的节拍摇晃=pronouns.possessive=的脖颈，又耸着=pronouns.possessive=的驼峰向前顶去。" />
+  </object>
+  <object Name="Chiliad Creature Equines" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=斑马" />
+    <part Name="Description" Short="=pronouns.Possessive=身侧的条纹先引人注目，继而令人目眩。" />
+  </object>
+  <object Name="Chiliad Creature Farmers" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=农夫" />
+    <part Name="Description" Short="=pronouns.Possessive=的目光穿透夯实的泥土，=pronouns.subjective=用=pronouns.possessive=的指间揉搓着黏土。" />
+  </object>
+  <object Name="Chiliad Creature Wardens" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=守望者" />
+    <part Name="Description" Short="紧绷的双臂撑住=pronouns.possessive=的兵器，=pronouns.subjective=带着审慎的疑虑迎住你的目光。" />
+  </object>
+  <object Name="Chiliad Creature Fish" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=鱼" />
+    <part Name="Description" Short="绚丽柔和的光芒自=pronouns.possessive=身上如绸带般飘落，一只好奇的眼睛从=pronouns.possessive=扁平的头颅上向外窥望。" />
+  </object>
+  <object Name="Chiliad Creature Flowers" Load="Merge">
+    <part Name="Render" DisplayName="繁花=creatureRegionNoun=" />
+    <part Name="Description" Short="探风的柱头与花柱，自一朵昂然盛放之花的囊中伸了出来。" />
+  </object>
+  <object Name="Chiliad Creature Frogs" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=蛙" />
+    <part Name="Description" Short="一只生于扎根淤泥的小生灵，傲然蹦跳。" />
+  </object>
+  <object Name="Chiliad Creature Fungi" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=真菌" />
+    <part Name="Description" Short="明亮的菌丝舔舐着地上的泥浆。" />
+  </object>
+  <object Name="Chiliad Creature Girsh" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=吉尔什幼体" />
+    <part Name="Description" Short="星兰的涎液积聚在=pronouns.possessive=獠牙尖端，滴落于地。" />
+  </object>
+  <object Name="Chiliad Creature Goatfolk" Load="Merge">
+    <part Name="Render" DisplayName="羊人=creatureRegionNoun=" />
+    <part Name="Description" Short="=pronouns.Subjective=蹄足拱起而立，朝天空骄傲地咩咩长鸣。" />
+    <xtagTextFragments PoeticFeatures="肌肉虬结的胸膛,螺旋之角,低沉的咕噜" />
+  </object>
+  <object Name="Chiliad Creature Prey" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=山羊" />
+    <part Name="Description" Short="一只蝇虫缠身、皮毛疥癣的臀部，伴着安宁而山羊般的节奏摇摆。" />
+  </object>
+  <object Name="Chiliad Creature Gyre Wights" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionNoun=的回旋" />
+    <part Name="Description" Short="一条垂至背长的头巾随性善变，翻飞不定，这位死与生的侍僧正踏着星辰与故乡的挽歌蹦跳而行。" />
+  </object>
+  <object Name="Chiliad Creature Hermits" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=隐士" />
+    <part Name="Description" Short="一只打捞来的水族箱泡，玻璃上悬挂着海带，将这位隐士与清醒的世界隔开一段距离。" />
+  </object>
+  <object Name="Chiliad Creature Entropic" Load="Merge">
+    <part Name="Render" DisplayName="熵变=creatureRegionNoun=" />
+    <part Name="Description" Short="由文明软骨铸成的脊刺，被异维度的信风雕琢成令人不悦的形状。" />
+  </object>
+  <object Name="Chiliad Creature Hindren" Load="Merge">
+    <part Name="Render" DisplayName="欣德伦人=creatureRegionNoun=" />
+    <part Name="Description" Short="一束卷曲的花饰披落在矮小的角上，而=pronouns.possessive=后胯的紧张程度亦不及多数走兽。" />
+  </object>
+  <object Name="Chiliad Creature Insects" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=蝇" />
+    <part Name="Description" Short="一对薄如纸的几丁质镶嵌之翼拍击着浓稠的空气，身后一节玻璃般的球茎咔咔作响。" />
+  </object>
+  <object Name="Chiliad Creature Issachari" Load="Merge">
+    <part Name="Render" DisplayName="以萨迦=creatureRegionNoun=" />
+    <part Name="Description" Short="风将一件缀着流苏的长袍与颈饰压贴在一具人形之上。织物上的刺绣与盐中的纹路、星空所裁的苍穹相互应和。" />
+  </object>
+  <object Name="Chiliad Creature Mechanimists" Load="Merge">
+    <part Name="Render" DisplayName="机神教=creatureRegionNoun=" />
+    <part Name="Description" Short="此生灵戴着色彩教会的二极管兜帽，但=pronouns.possessive=的行袍却全无那般典礼的僵板。" />
+  </object>
+  <object Name="Chiliad Creature Merchants" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=商人" />
+    <part Name="Description" Short="一只奥德鲁姆式三重口袋的挎包，被汗水紧压在=pronouns.possessive=背上。" />
+  </object>
+  <object Name="Chiliad Creature Mollusks" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=蛤" />
+    <part Name="Description" Short="一团肥腴的肉质如斧般自机械刮磨过的双壳贝中溢出。" />
+  </object>
+  <object Name="Chiliad Creature Mopango" Load="Merge">
+    <part Name="Render" DisplayName="莫潘戈=creatureRegionNoun=" />
+    <part Name="Description" Short="一缕柔和的内光自=pronouns.possessive=轭状鳞片上散出，为=pronouns.possessive=颈间皱褶的披肩笼上光环。" />
+  </object>
+  <object Name="Chiliad Creature Strangers" Load="Merge">
+    <part Name="Render" DisplayName="神秘=creatureRegionNoun=" />
+    <part Name="Description" Short="=pronouns.Possessive=的流苏披风（编织于一条被遗忘的河岸）衬出一副谨慎而沉静的纤细身姿。" />
+  </object>
+  <object Name="Chiliad Creature Naphtaali" Load="Merge">
+    <part Name="Render" DisplayName="拿弗他利=creatureRegionNoun=" />
+    <part Name="Description" Short="=pronouns.Possessive=的苔藓皮毛生得浓密（甚至结出果实），明亮的青色眼睛从=pronouns.possessive=祷会同款的面罩后向外凝望。" />
+  </object>
+  <object Name="Chiliad Creature Oozes" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=黏液" />
+    <part Name="Description" Short="一枚流畅的气泡，被困于玻璃薄膜中的黏稠水流托在半空。" />
+  </object>
+  <object Name="Chiliad Creature Templar" Load="Merge">
+    <part Name="Render" DisplayName="圣殿骑士=creatureRegionNoun=" />
+    <part Name="Description" Short="经千副甲胄捶打擦拭而成的锁甲，将这位骑士压在流年的重负之下。=pronouns.possessive=盔上褪色的菱形徽记，仍在固执地宣讲着它的形而上学。" />
+  </object>
+  <object Name="Chiliad Creature Roots" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=根" />
+    <part Name="Description" Short="海绵般组织的倒置螺旋，正在向地表的空气品尝，寻觅某株正在绽放的地下植物。" />
+  </object>
+  <object Name="Chiliad Creature Snapjaws" Load="Merge">
+    <part Name="Render" DisplayName="豺颚人=creatureRegionNoun=" />
+    <part Name="Description" Short="手杖与尖刺肩甲随着=pronouns.possessive=毛茸茸的口鼻之角度而摆正，=pronouns.possessive=的双耳带着离奇而熟悉的喜悦抖动。" />
+  </object>
+  <object Name="Chiliad Creature Robots" Load="Merge">
+    <part Name="Render" DisplayName="机械=creatureRegionNoun=" />
+    <part Name="Description" Short="肩头雷达如活动的肩章般张开凸缘，循月时旋转，=pronouns.possessive=的桶靴迈着机械的步伐小跑。" />
+  </object>
+  <object Name="Chiliad Creature Succulents" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=仙人掌" />
+    <part Name="Description" Short="沟槽般的手臂摇摆着，从浓稠的空气中汲取水分，而=pronouns.possessive=陶罐上的裂纹，显露出对生长的饥渴。" />
+  </object>
+  <object Name="Chiliad Creature Svardym" Load="Merge">
+    <part Name="Render" DisplayName="斯瓦迪姆=creatureRegionNoun=" />
+    <part Name="Description" Short="倦怠岁月之重，已使蛙族的鼓膜松垂，将他们束缚于湿叶之地。" />
+  </object>
+  <object Name="Chiliad Creature Swine" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=猪" />
+    <part Name="Description" Short="乡村生活使这头猪歪斜佝偻，磨秃了=pronouns.possessive=火腿般的臀部。此外，=pronouns.possessive=的前蹄叉开，那是使用金属工具留下的印记。" />
+  </object>
+  <object Name="Chiliad Creature Tortoises" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=龟" />
+    <part Name="Description" Short="亘古之风的车床磨去了腹甲，使其成了一块古老光滑的石头，也让这位披壳的朋友留下一抹酸涩的微笑。" />
+  </object>
+  <object Name="Chiliad Creature Trees" Load="Merge">
+    <part Name="Render" DisplayName="荫蔽=creatureRegionNoun=" />
+    <part Name="Description" Short="=pronouns.Subjective=已被悉心修剪、润泽，满怀溺爱之情，=pronouns.possessive=的陶罐亦依月启之地的样式重新上釉。" />
+  </object>
+  <object Name="Chiliad Creature Trolls" Load="Merge">
+    <part Name="Render" DisplayName="巨魔=creatureRegionNoun=" />
+    <part Name="Description" Short="一尊硬化黏土的崖岩之灵，=pronouns.possessive=肩背的压力裂缝间生出毛发与青草。" />
+  </object>
+  <object Name="Chiliad Creature Unshelled Reptiles" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=蜥蜴" />
+    <part Name="Description" Short="一只蜿蜒族蹲得很低，在这小小世界的谷地与裂隙间穿行。" />
+  </object>
+  <object Name="Chiliad Creature Urchins" Load="Merge">
+    <part Name="Render" DisplayName="棘生=creatureRegionNoun=" />
+    <part Name="Description" Short="彩色的刺如齿轮之牙般张开，散布于一只面团似的、被日光漂白的球体上。" />
+  </object>
+  <object Name="Chiliad Creature Vines" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=藤" />
+    <part Name="Description" Short="两只啐吐的叶喙互相修剪着对方的脖颈，将杂草嚼成种荚。" />
+  </object>
+  <object Name="Chiliad Creature Water" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=水权贵族" />
+    <part Name="Description" Short="在浮游种姓之中，端坐之术被奉行得如同量子色动力学般精微。在此，=pronouns.subjective=栖于=pronouns.possessive=的轿行者之上，于妙龄之境中啜饮。" />
+  </object>
+  <object Name="Chiliad Creature Winged Mammals" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=蝙蝠" />
+    <part Name="Description" Short="阔目蝙蝠在尸骸染暗的空间里扑扇，惹人烦扰。" />
+  </object>
+  <object Name="Chiliad Creature Worms" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionAdjective=虫" />
+    <part Name="Description" Short="粗鄙而刻薄的时光将=pronouns.possessive=的环节碾成最纤瘦的形态，并把体节揉作一团。一缕消融的涎线将=pronouns.possessive=的围口节与地面相连。" />
+  </object>
+  <object Name="Chiliad Creature Seekers" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionNoun=盲途寻道者" />
+    <part Name="Description" Short="晚期寻道者时兴的斜向飘带在潮润的空气中旋舞，=pronouns.subjective=不着一丝手势地哼了一声，拂去了=pronouns.possessive=兜帽上的尘土。" />
+  </object>
+  <object Name="Chiliad Creature Pariahs" Load="Merge">
+    <part Name="Render" DisplayName="=creatureRegionNoun=，亦是=subject.possessive=族人眼中的弃民" />
+  </object>
+  <object Name="Chiliad Creature Hoof" Load="Merge">
+    <part Name="Render" DisplayName="蹄" />
+  </object>
+  <object Name="Chiliad Creature Fangs" Load="Merge">
+    <part Name="Render" DisplayName="獠牙" />
+  </object>
+  <object Name="Chiliad Creature Pincer" Load="Merge">
+    <part Name="Render" DisplayName="爪" />
+  </object>
+  <object Name="Chiliad Creature Claw" Load="Merge">
+    <part Name="Render" DisplayName="爪" />
+  </object>
+  <object Name="Chiliad Creature Spade" Load="Merge">
+    <part Name="Render" DisplayName="铲" />
+  </object>
+  <object Name="Chiliad Creature Peck" Load="Merge">
+    <part Name="Render" DisplayName="啄击" />
+  </object>
+  <object Name="Chiliad Creature Prism Point" Load="Merge">
+    <part Name="Render" DisplayName="{{Y|棱镜尖端}}" />
+  </object>
+  <object Name="Chiliad Creature Pistil" Load="Merge">
+    <part Name="Render" DisplayName="雌蕊" />
+  </object>
+  <object Name="Chiliad Creature Nodule" Load="Merge">
+    <part Name="Render" DisplayName="结节" />
+  </object>
+  <object Name="Chiliad Creature Horns" Load="Merge">
+    <part Name="Render" DisplayName="角" />
+  </object>
+  <object Name="Chiliad Creature Muscular Foot" Load="Merge">
+    <part Name="Render" DisplayName="肌肉足" />
+  </object>
+  <object Name="Chiliad Creature Pseudopod" Load="Merge">
+    <part Name="Render" DisplayName="拟足" />
+  </object>
+  <object Name="Chiliad Creature Strangle" Load="Merge">
+    <part Name="Render" DisplayName="扼喉之握" />
+  </object>
+  <object Name="Chiliad Creature Spines" Load="Merge">
+    <part Name="Render" DisplayName="棘刺" />
+  </object>
+  <object Name="Chiliad Creature Bark" Load="Merge">
+    <part Name="Render" DisplayName="树皮" />
+  </object>
+  <object Name="Chiliad Creature Bands" Load="Merge">
+    <part Name="Render" DisplayName="粉碎箍带" />
+  </object>
+</objects>

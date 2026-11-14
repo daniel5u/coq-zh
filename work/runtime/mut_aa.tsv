@@ -1,0 +1,75 @@
+You spit a puddle of corrosive acid.	你吐出一滩腐蚀性的酸液。
+Covers the area in acidic slime.	以酸性黏液覆盖该区域。
+Area: 3x3	范围：3x3
+Range: 8	射程：8
+Cooldown: 10 rounds	冷却：10回合
+You regulate your body's release of adrenaline.	你能调控体内肾上腺素的释放。
+You can increase your body's adrenaline flow for # rounds.	你可催动体内肾上腺素奔涌，持续#回合。
+While it's flowing, you gain +{{rules|#}} quickness and other physical mutations gain +{{rules|#}} rank.	奔涌期间，你获得+{{rules|#}}迅捷，其他身体变异获得+{{rules|#}}阶。
+Cooldown: # rounds	冷却：#回合
+You live in an alternate plane of reality.	你栖身于另一重现实位面。
+You beguile a nearby creature into serving you loyally.	你蛊惑附近的一名生物，使其忠心为你效力。
+Mental attack versus a creature with a mind	对有心智的生物发动精神攻击
+Success roll: {{rules|mutation rank}} or Ego mod (whichever is higher) + character level + 1d8 vs. Defender MA + character level	成功判定：{{rules|变异阶数}}或自我调整值（取较高者）+角色等级+1d8 对抗 防御方精神防御+角色等级
+Range: 1	射程：1
+Beguiled creature: +{{rules|#}} bonus hit points	被蛊惑的生物：额外+{{rules|#}}生命值
+Cooldown: 50 rounds	冷却：50回合
+You can travel underground by burrowing.	你能掘地潜行，于地下穿行。
+You regenerate by absorbing cold.	你吸收寒冷以再生。
+Immune to heat damage	免疫热能伤害
+Whenever you would have taken cold damage, you heal for #% of that damage instead	每当你本会受到寒冷伤害时，改为恢复该伤害#%的生命值
+You breathe confusion gas.	你能吐息喷出混乱毒气。
+Breathe Confusion Gas	喷吐混乱毒气
+Breathes confusion gas in a cone.	以锥形喷吐混乱毒气。
+Cone length: # tiles	锥长：#格
+Cone angle: # degrees	锥角：#度
+Cooldown: 15 rounds	冷却：15回合
+You breathe corrosive gas.	你能吐息喷出腐蚀毒气。
+Breathe Corrosive Gas	喷吐腐蚀毒气
+Breathes corrosive gas in a cone.	以锥形喷吐腐蚀毒气。
+You provoke waking dreams with your gaze.	你的凝视能引发清醒时的梦魇幻境。
+You can gaze {{rules|#}} squares after a {0}-turn warmup and send your target to a waking dream.	你可注视{{rules|#}}格之外的目标，蓄势{0}回合后，使其坠入清醒梦境。
+Cooldown: {{rules|#}} rounds	冷却：{{rules|#}}回合
+You are a crystalline being.	你是晶体之身。
++# AV	+#护甲值
+-# Electrical Resistance	-#电击抗性
+#% chance to refract light-based attacks	#%几率折射光系攻击
+Effects that make non-biological clones of you produce twice as many.	能制造你的非生物克隆体的效果，产出数量翻倍。
+Affected creatures act semi-randomly and receive a -{{rules|#}} penalty to their mental abilities.	受影响的生物行动半随机，且精神能力受到-{{rules|#}}的减益。
+Cone angle: {{rules|#}} degrees	锥角：{{rules|#}}度
+Cone length: {{rules|#}}	锥长：{{rules|#}}
+Duration: {{rules|#}} rounds	持续时间：{{rules|#}}回合
+Chills affected area over {0}, dealing damage and freezing things	在{0}内持续冰冻受影响区域，造成伤害并冻结物体
+{{rules|Decreased chill temperature intensity}}	{{rules|寒冷强度降低}}
+{{rules|Increased chill temperature intensity}}	{{rules|寒冷强度提高}}
+Range: #	射程：#
+Area: #x#	范围：#x#
+Round # damage: {{rules|#}}	第#回合伤害：{{rules|#}}
+You see in the dark.	你能在黑暗中视物。
+{0} penetration vs. walls: {{rules|#}}	{0}对墙壁的穿透：{{rules|#}}
+{0} destroy walls after # penetrating hits.	{0}在#次穿透命中后可摧毁墙壁。
+Can dig passages up or down when outside of combat	非战斗时可向上或向下挖掘通道
+{0} are also a {1} class natural weapon that deal {{rules|#}} base damage to non-walls.	{0}亦属{1}类天生武器，对非墙壁目标造成{{rules|#}}点基础伤害。
+# DV	#闪避值
+# Heat Resistance	#热能抗性
+# Cold Resistance	#寒冷抗性
+You may tighten your {0} to receive double the AV bonus at a -2 DV penalty as long as you remain still.	只要保持静止，你可收紧{0}，获得双倍护甲值加成，但闪避值-2。
+Cannot wear body armor.	无法穿着身甲。
+* You do not possess this {0} inherently, and so you cannot advance its rank.	* 你并非天生具备此{0}，因而无法提升其阶数。
+* This {0} base rank is #.	* 此{0}的基础阶数为#。
++ This {0} rank is increased by # due to your high {1}.	+ 由于你的{1}较高，此{0}阶数提升#。
+- This {0} rank is decreased by # due to your low {1}.	- 由于你的{1}较低，此{0}阶数降低#。
++ All your {0}' ranks are increased by #.	+ 你所有{0}的阶数提升#。
+- All your {0}' ranks are decreased by #.	- 你所有{0}的阶数降低#。
++ All your {0} {1} ranks are increased by #.	+ 你所有{0}{1}的阶数提升#。
+- All your {0} {1} ranks are decreased by #.	- 你所有{0}{1}的阶数降低#。
++ This {0} rank is increased by # due to your high adrenaline.	+ 由于肾上腺素高涨，此{0}阶数提升#。
++ This {0} rank is increased by # due to being rapidly advanced # time.	+ 此{0}阶数因被快速进阶#2次而提升#1。
++ This {0} rank is increased by # due to being rapidly advanced # times.	+ 此{0}阶数因被快速进阶#2次而提升#1。
++ This {0} rank is increased by # due to a metabolizing effect.	+ 由于代谢效应，此{0}阶数提升#。
++ This {0} rank is increased by # due to a tonic effect.	+ 由于补剂效应，此{0}阶数提升#。
++ This {0} rank is increased by # due to your equipped item, {1}.	+ 由于你装备的物品{1}，此{0}阶数提升#。
++ This {0} rank is increased by # due to {1}.	+ 由于{1}，此{0}阶数提升#。
++ This {0} rank is increased by # due to your {1}.	+ 由于你的{1}，此{0}阶数提升#。
++ {0} ranks cannot be reduced below 1.	+ {0}阶数不能降至1以下。
+- This {0} rank is capped at # due to your level.	- 由于你的等级，此{0}阶数上限为#。

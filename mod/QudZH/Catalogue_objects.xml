@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<objects Lang="zh" LoadPriority="-1100">
+  <object Name="Junk Dollar" Load="Merge">
+    <part Name="Impaler" Message="{{R|你听见一声脆响，接着=subject.t==subject.directionIfAny==verb:爆炸=！}}" />
+  </object>
+  <object Name="GritGateMedicalBayWidget" Load="Merge">
+    <part Name="Interesting" DisplayName="医务室" />
+  </object>
+  <object Name="Nacham's Loom" Load="Merge">
+    <part Name="ItemConvertor" Verb="纺织" />
+  </object>
+  <object Name="PondDown" Load="Merge">
+    <part Name="HiddenRender" DisplayName="石缝" />
+  </object>
+  <object Name="Hyperbiotic Bed" Load="Merge">
+    <part Name="FusionReactor" Description="微型聚变反应堆" />
+  </object>
+  <object Name="Hyperbiotic Chair" Load="Merge">
+    <part Name="FusionReactor" Description="微型聚变反应堆" />
+  </object>
+  <object Name="Gorged Growth" Load="Merge">
+    <part Name="FallsApart" Message="=subject.T==verb:脱水=，继而=verb:崩碎=散落。" />
+  </object>
+  <object Name="Rock Tumbler" Load="Merge">
+    <part Name="ItemConvertor" Verb="滚磨" />
+  </object>
+</objects>

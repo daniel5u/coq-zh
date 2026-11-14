@@ -1,0 +1,54 @@
+Cooldown: {{rules|#}} rounds	冷却时间：{{rules|#}}回合
+Teleport to a random location within a designated area.	传送至指定区域内的随机地点。
+Uncertainty radius: {{rules|#}}	不确定半径：{{rules|#}}
+Duration: {{rules|#}} rounds	持续时间：{{rules|#}}回合
+Copies: {{rules|#}}	分身数量：{{rules|#}}
+You are covered in a thick coat of fur, which protects you from the elements.	你周身覆着一层厚密皮毛，可抵御风霜酷暑。
++# Heat Resistance	+#抗热性
++# Cold Resistance	+#抗寒性
++# reputation with {{w|apes}}, {{w|baboons}}, {{w|bears}}, and {{w|grazing hedonists}}	+#与{{w|猿类}}、{{w|狒狒}}、{{w|熊类}}及{{w|食草享乐者}}的声望
++# reputation with {{w|birds}} and {{w|winged mammals}}	+#与{{w|鸟类}}及{{w|有翼哺乳动物}}的声望
+Creatures within # tiles are slowed according to how close they are to you.	#格内的生物将依其与你的远近而被减速。
+Distance 1: creatures receive a {{rules|#}}% Quickness penalty	距离1：生物受到{{rules|#}}%的迅捷减值
+Distance 4: creatures receive a {{rules|#}}% Quickness penalty	距离4：生物受到{{rules|#}}%的迅捷减值
+Distance 7: creatures receive a {{rules|#}}% Quickness penalty	距离7：生物受到{{rules|#}}%的迅捷减值
+Duration: 15 rounds	持续时间：15回合
+Cooldown: # rounds	冷却时间：#回合
+Cooldown: # round	冷却时间：#回合
+You have two heads.	你生有两首。
+Mental actions have {{rules|#}}% lower action costs	精神行动的行动消耗降低{{rules|#}}%
+{{rules|#}}% chance initially and each round to shake off a negative mental status effect	初始及每回合有{{rules|#}}%几率摆脱一项负面精神状态效果
+{0} {1} {2} shake off the effect!	{0}{1}助{2}摆脱了该效果！
+{0} {1} {2} shake off a mental state!	{0}{1}助{2}摆脱了一种精神状态！
+{0} {1} {2} shake off being {3}!	{0}{1}助{2}摆脱了{3}状态！
+You have two hearts.	你生有两颗心脏。
++{{rules|#}} Toughness	+{{rules|#}}坚韧
+You can sprint for {{rules|#}}% longer.	你的冲刺时间延长{{rules|#}}%。
+You spasmodically engender wild plant growth around yourself for a short period.	你痉挛般地在周身催生出狂野的草木，持续片刻。
+There is a small chance each round that you enter into a compulsive state of mind for 30-39 rounds.	每回合都有小几率使你陷入持续30-39回合的强迫心境。
+During this time, there is a 25% chance each round that you summon several hostile plants nearby.	此期间，每回合有25%几率在附近召出数株敌对植物。
+You belch forth various urchins.	你喷吐出各色海胆。
+You belch urchins in a nearby area.	你向附近区域喷吐海胆。
+Number of urchins: #	海胆数量：#
+Range: #	范围：#
+Radius: #	半径：#
+You can move across walls, and only across walls.	你能在墙壁上行走，且仅能在墙壁上行走。
+You dash along a waveform.	你沿着波形疾冲。
+You dash in a direction, dealing damage to creatures you pass through.	你朝一个方向疾冲，对穿过的生物造成伤害。
+Damage: #	伤害：#
+Your heart is weak.	你的心脏孱弱。
+-# to save vs. poison, disease, and cardiac arrest.	对抗毒素、疾病及心脏骤停的豁免-#。
+Small chance per turn of entering cardiac arrest.	每回合有小几率陷入心脏骤停。
+Augments one physical attribute by an amount equal to twice your Ego bonus	强化一项身体属性，幅度等于你自我加值的两倍
+Duration: {{rules|#}} rounds	持续时间：{{rules|#}}回合
+Cooldown: 200 rounds	冷却时间：200回合
+You travel on the world map at {{rules|#}}x speed.	你在世界地图上以{{rules|#}}倍速度行进。
+{{rules|#}}% reduced chance of becoming lost	迷路几率降低{{rules|#}}%
+While outside, you may fly. You cannot be hit in melee by grounded creatures while flying.	身处户外时，你可以飞行。飞行期间，地面生物无法对你发动近战攻击。
+{{rules|#}}% chance of falling clumsily to the ground	有{{rules|#}}%几率笨拙地坠落地面
++{{rules|#}}% move speed while sprinting	冲刺时移动速度+{{rules|#}}%
+You can jump {{rules|#}} square farther.	你的跳跃距离增加{{rules|#}}格。
+You can jump {{rules|#}} squares farther.	你的跳跃距离增加{{rules|#}}格。
+You can charge {{rules|#}} square farther.	你的冲锋距离增加{{rules|#}}格。
+You can charge {{rules|#}} squares farther.	你的冲锋距离增加{{rules|#}}格。
+You bear a tail with a stinger that delivers {0} venom to your enemies.	你生有一条带毒刺的尾巴，能向敌人注入{0}毒液。

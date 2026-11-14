@@ -1,0 +1,8 @@
+# to every attribute per turn (current: #).	每回合所有属性#（当前：#）。
+Unable to progress until all hearts have stopped (current: #).	所有心脏停跳前无法推进（当前：#）。
+Dies when any attribute reaches #.	任一属性降至#时死亡。
+Doesn't regenerate hit points.	不会恢复生命值。
+Healing effects are only # as effective.	治疗效果仅能发挥#效力。
+Difficulty # {0} save each turn to recover.	恢复需每回合进行一次难度为#的{0}豁免。
+Electrical damage has a percentage chance to cause recovery equal to the damage taken.	电击伤害有一定几率令其恢复，几率等同于所受伤害。
+Will become ill upon recovery for # turns per attribute penalty point.	恢复后将患病，每点属性惩罚持续#回合。

@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<skills Lang="zh" Encoding="utf-8">
+  <skill Name="Acrobatics" DisplayName="杂技" Description="你精于杂技。" Snippet="杂技">
+    <power Name="Swift Reflexes" DisplayName="迅捷反射" Description="被投射攻击逼得闪避时，你的闪避值获得+5加值。" Snippet="反应敏捷" />
+    <power Name="Spry" DisplayName="灵巧" Description="你的闪避值获得+2加值。" Snippet="身手轻捷" />
+    <power Name="Jump" DisplayName="跳跃" Description="你跃入射程2以内的一处空格。除非你拥有能增强跳跃的能力（如飞行），否则不能越过有生物占据的格子。" Snippet="跳跃" />
+    <power Name="Tumble" DisplayName="翻滚" Description="你的闪避值获得+1加值。此外，“闪躲”的冷却时间缩短为20。" Snippet="翻腾" />
+  </skill>
+  <skill Name="Axe" DisplayName="斧" Description="你精于使用斧。" Snippet="斧">
+    <power Name="Axe Proficiency" DisplayName="斧术熟练" Description="你使用斧时命中+2。" Snippet="斧" />
+    <power Name="Cleave" DisplayName="劈斩" Description="你以斧击中对手时，有75%的几率劈开其护甲，使其护甲值受到-1的减值。此减值至多叠加你力量调整值一半（向上取整）的层数，暴击时再+1。" Snippet="劈砍" />
+    <power Name="Charging Strike" DisplayName="冲锋打击" Description="你以斧冲锋并命中时，若劈开了对方护甲，对方的护甲值再受-1减值。若你拥有“肢解”，你以斧冲锋时肢解的几率翻倍。你以棍棒冲锋并命中时，自动使对手晕眩。" Snippet="冲锋与击打" />
+    <power Name="Dismember" DisplayName="肢解" Description="主动技能；冷却30。斧击。若命中并击穿护甲，你会随机斩断对方一肢，使其流血（每回合1-2点伤害；坚韧豁免，难度35）。此外，你的斧击在击穿时另有概率斩断肢体：单手斧3%，双手斧6%。" Snippet="肢解" />
+    <power Name="Hook and Drag" DisplayName="钩拖" Description="主动技能；冷却50。你以斧跟钩住对手的一肢。若成功，你移动时会将对手一并拖行，并以斧顺势发动一次免费攻击。对手有机会抗拒此举（力量豁免；难度20+你的力量调整值），并在其回合开始时有机会挣脱（同一豁免）。持续9回合，或直至你肢解该对手。" Snippet="钩拖" />
+    <power Name="Decapitate" DisplayName="斩首" Description="头颅亦列入你可肢解的肢体之中。斩下生物唯一的头颅，可使其当场毙命。若该生物有多颗头颅，则其会血流不止（每回合2-3点伤害；坚韧豁免，难度35）。" Snippet="斩首" />
+    <power Name="Berserk!" DisplayName="狂暴！" Description="主动技能；冷却100。&#10;你陷入嗜血狂乱，5回合内，你以斧攻击时的肢解概率为100%。使用狂暴时，肢解须已脱离冷却，且使用狂暴会使肢解进入冷却。" Snippet="陷入狂暴" />
+  </skill>
+  <skill Name="Bow and Rifle" DisplayName="弓与步枪" Description="你精于弓弩与步枪之道。" Snippet="弓与步枪">
+    <power Name="Steady Hands" DisplayName="稳手" Description="在判定你使用弓与步枪的命中率时，你的敏捷视同高出4点。" Snippet="弓与步枪" />
+    <power Name="Draw a Bead" DisplayName="瞄准" Description="你花费一回合对目标瞄准并将其标记。每当你以弓或步枪射击已标记的目标时，判定命中率时你的敏捷视同高出2点。你同一时间只能标记一个目标。若你失去对目标的视野，其标记即消失。" Snippet="瞄准" />
+    <power Name="Suppressive Fire" DisplayName="压制射击" Description="你向已标记的目标射击。若射击击穿，目标将被压制，3-5回合内无法移动。随后目标的标记解除。" Snippet="压制射击" />
+    <power Name="Flattening Fire" DisplayName="扫平射击" Description="只要目标被6个或更多实心障碍物环绕，压制射击即升级为扫平射击。扫平射击还会将目标击倒仆地并缴去其武器。" Snippet="扫平射击" />
+    <power Name="Wounding Fire" DisplayName="创伤射击" Description="你向已标记的目标射击。每发命中的射击每击穿一次，目标每回合流失1点生命（豁免：20+武器的最大伤害）。随后目标的标记解除。" Snippet="创伤射击" />
+    <power Name="Disorienting Fire" DisplayName="扰乱射击" Description="只要目标看不见也听不见任何同派系盟友，创伤射击即升级为扰乱射击。扰乱射击还会使目标的闪避值与心智护甲降低4点。" Snippet="扰乱射击" />
+    <power Name="Sure Fire" DisplayName="精准射击" Description="你向已标记的目标射击，且无命中惩罚（武器本身的精度仍然有效）。随后目标的标记解除。" Snippet="精准射击" />
+    <power Name="Beacon Fire" DisplayName="信标射击" Description="只要目标正在燃烧、发光或发出磷光，精准射击即升级为信标射击。信标射击亦视同暴击。" Snippet="信标射击" />
+    <power Name="Ultra Fire" DisplayName="超限射击" Description="冷却100。你向已标记的目标射击。此发射击集你所有其他射击技艺的效果于一身。" Snippet="超限射击" />
+  </skill>
+  <skill Name="Cooking and Gathering" DisplayName="烹饪与采集" Description="你精于烹饪与采集餐食食材。" Snippet="烹饪与采集">
+    <power Name="Meal Preparation" DisplayName="备餐" Description="在营火旁，你可依食谱烹饪，可择至多两种食材入菜，亦可保存新鲜食物。&#10;依食谱烹成的餐食会赐予特殊的状态效果；以所选食材烹成的餐食则赐予动态生成的状态效果。&#10;保存好的食物可用作餐食食材。" Snippet="备餐" />
+    <power Name="Harvestry" DisplayName="采收术" Description="你可从植物上采收新鲜食材及其他可用部位。" Snippet="采收" />
+    <power Name="Butchery" DisplayName="屠宰术" Description="你可从动物尸体上宰取新鲜食材及其他可用部位。" Snippet="屠宰" />
+    <power Name="Spicer" DisplayName="香料师" Description="选择食材烹饪时，你可选三种而非两种。以三种食材烹成的餐食会赐予更强力的状态效果。" Snippet="调味" />
+    <power Name="Carbide Chef" DisplayName="碳化物厨师" Description="每当你升级时，以及每次探索新地图时有5%的几率，你会获得灵感，持续两天。灵感在身时，你下一次以所选食材烹饪餐食，可从三种动态生成的效果中择一施加，并为所选效果创建一份食谱。" Snippet="碳化物厨师" />
+  </skill>
+  <skill Name="Cudgel" DisplayName="棍棒" Description="你精于碾压与钝击类武器。" Snippet="棍棒">
+    <power Name="Cudgel Proficiency" DisplayName="棍棒熟练" Description="你使用棍棒时命中+2。" Snippet="棍棒" />
+    <power Name="Bludgeon" DisplayName="重击" Description="每当你以棍棒命中，有50%的几率使对手眩晕（智力-4，敏捷-4，移动速度-10），持续3-4回合。若你令已眩晕的对手再度眩晕，则其改为被击晕1回合（无法行动，闪避值为0）。" Snippet="钝击" />
+    <power Name="Charging Strike" DisplayName="冲锋打击" Description="以棍棒冲锋并命中时，对手自动眩晕。以斧冲锋并命中时，若你劈开其护甲，其护甲值额外-1。若你拥有肢解，则以斧冲锋时肢解的几率加倍。" Snippet="冲锋与击打" />
+    <power Name="Conk" DisplayName="闷击" Description="主动技能；冷却10。&#10;你以棍棒攻击相邻的对手。若命中，对手自动眩晕3-4回合。对已眩晕的对手施以眩晕，则将其击晕。闷击已被击晕的对手，则使其晕眩30-40回合（晕眩的对手受到伤害时会在眩晕中醒来）。" Snippet="闷击" />
+    <power Name="Backswing" DisplayName="回摆" Description="每当你以主手发动棍棒攻击，有25%的几率以同一只手再免费攻击一次。" Snippet="回摆" />
+    <power Name="Slam" DisplayName="猛砸" Description="主动技能；冷却50。你以棍棒攻击相邻的对手，穿透判定+1。若命中，你将对手向后猛击至多3格，推开途中其他生物，并撞穿护甲值低于你力量调整值5倍的墙壁。被推开的对手被击晕1回合，每被推过一格再加1回合。被推穿墙壁或撞上墙壁的对手，每道墙壁各使其额外承受一次武器伤害。体型庞大的对手不会被推开，但仍被击晕1回合。可摧毁护甲值低于你力量调整值5倍的墙壁或门。" Snippet="猛砸" />
+    <power Name="Demolish" DisplayName="粉碎" Description="主动技能；冷却100。&#10;接下来5回合内，你以棍棒攻击令对手眩晕的几率为100%，且猛砸没有冷却。使用粉碎时，猛砸须已脱离冷却，且使用粉碎会使猛砸进入冷却。" Snippet="粉碎" />
+  </skill>
+  <skill Name="Customs and Folklore" DisplayName="风俗与民间传说" Description="你熟知卡德的风俗与民间传说。" Snippet="风俗与传说">
+    <power Name="Tactful" DisplayName="圆融" Description="每当你与新的生物行水礼，你获得25点额外声望。若你在与某生物交涉之后才习得此技艺，则下次与其交涉时获得25点额外声望。" Snippet="八面玲珑" />
+    <power Name="Trash Divining" DisplayName="垃圾占卜" Description="每当你翻检垃圾，有5%的几率拼凑出线索，习得一则随机的秘密。" Snippet="垃圾占卜" />
+  </skill>
+  <skill Name="Single Weapon Fighting" DisplayName="单武器战斗" Description="你可选择放弃副手攻击，以换取对单一武器的精通。" Snippet="单手专精">
+    <power Name="Opportune Attacks" DisplayName="乘隙攻击" Description="每当你在单武器战斗时以近战武器打出暴击，至多两项随机武器或盾牌技能的冷却立即刷新。" Snippet="伺机而击" />
+    <power Name="Weapon Expertise" DisplayName="武器专精" Description="每当你在单武器战斗时发动近战攻击，有50%的几率立即免费再攻击一次。" Snippet="单手精擅" />
+    <power Name="Penetrating Strikes" DisplayName="穿透打击" Description="单武器战斗时，你的近战攻击总会多击穿一次。" Snippet="贯穿之击" />
+    <power Name="Weapon Mastery" DisplayName="武器大师" Description="每当你在单武器战斗时发动近战攻击，立即免费再攻击一次。" Snippet="单手宗师" />
+  </skill>
+  <skill Name="Multiweapon Fighting" DisplayName="多武器战斗" Description="你精于多武器战斗，以副手武器攻击的几率提高。" Snippet="双持">
+    <power Name="Flurry" DisplayName="连击" Description="主动技能；冷却60。你以每一只持武器的肢体各攻击一次，包括变异或科技所赐的额外肢体。" Snippet="连击" />
+    <power Name="Multiweapon Proficiency" DisplayName="多武器熟练" Description="你以每件副手武器出击的几率提高20%。" Snippet="副手出击" />
+    <power Name="Multiweapon Expertise" DisplayName="多武器专精" Description="你以每件副手武器出击的几率提高35%。" Snippet="左右开弓" />
+    <power Name="Multiweapon Mastery" DisplayName="多武器大师" Description="你以每件副手武器出击的几率提高50%。" Snippet="多武器战斗" />
+  </skill>
+  <skill Name="Endurance" DisplayName="耐力" Description="你精于忍受恶劣的环境与处境。" Snippet="坚忍">
+    <power Name="Shake It Off" DisplayName="振作精神" Description="每回合你处于眩晕或被击晕时，有（坚韧-10）%的几率摆脱该效果。你受到的毒素伤害亦减少25%。" Snippet="振作精神" />
+    <power Name="Swimming" DisplayName="游泳" Description="游泳时的移动速度惩罚（通常为50点）减少25点。" Snippet="游泳" />
+    <power Name="Poison Tolerance" DisplayName="毒素耐受" Description="你受到的毒素伤害减少25%。" Snippet="耐毒" />
+    <power Name="Weathered" DisplayName="耐候" Description="你受到的加热与冷却效果伤害减少15%。此外，改变你体温的效果，其强度降低15%。" Snippet="风吹雨打" />
+    <power Name="Juicer" DisplayName="榨汁师" Description="你可多服用一剂补剂，而不会与已服下的补剂产生不良反应。" Snippet="豪饮" />
+    <power Name="Calloused" DisplayName="老茧遍布" Description="你的天生护甲值提升至1。" Snippet="皮糙肉厚" />
+    <power Name="Longstrider" DisplayName="健步" Description="你可多疾跑10回合。" Snippet="长途跋涉" />
+  </skill>
+  <skill Name="Physic" DisplayName="医术" Description="你精于医术。" Snippet="医术">
+    <power Name="Staunch Wounds" DisplayName="止血" Description="你所敷的绷带止血效果大为增强。" Snippet="止创" />
+    <power Name="Nostrums" DisplayName="药剂" Description="你可在营火旁为自己与同伴治疗流血、中毒、疾病与病症初发。" Snippet="熬制汤药" />
+    <power Name="Amputate Limb" DisplayName="截肢" Description="你可自愿截去自己的肢体，以及受感染同伴的肢体。" Snippet="截肢" />
+    <power Name="Apothecary" DisplayName="药剂师" Description="你所施用的治疗补剂多持续一回合。" Snippet="施药疗伤" />
+  </skill>
+  <skill Name="Heavy Weapon" DisplayName="重型武器" Description="你精于重型武器。" Snippet="重型武器">
+    <power Name="Strapping Shoulders" DisplayName="强健肩膀" Description="你扛持武器更为得法。重型武器计入你负重时只算一半重量。" Snippet="强健之肩" />
+    <power Name="Tank" DisplayName="坦克" Description="持重型武器时，你不受移动惩罚。" Snippet="肉盾" />
+    <power Name="Sweep" DisplayName="横扫" Description="你以重型武器射出5发，扫过90度扇形区域。每发射击前，你的重型武器都会重新装填。" Snippet="持枪横扫" />
+  </skill>
+  <skill Name="Long Blade" DisplayName="长刃" Description="你精于长直刺剑与长砍刃。" Snippet="长刃">
+    <power Name="Long Blade Proficiency" DisplayName="长刃熟练" Description="你获得两种架势。&#10;进攻架势：主手持长刃时，你的长刃与短刃攻击穿透判定+1，但命中-2。&#10;防守架势：主手持长刃时，你获得+2闪避值。" Snippet="长刃" />
+    <power Name="Lunge" DisplayName="突刺" Description="主动技能；冷却15。&#10;进攻架势：穿过一格空位向对手突进并攻击，穿透判定+2。你必须穿过该空位。&#10;防守架势：攻击对手，随后向后跃退2格。&#10;决斗架势：攻击对手，穿透判定+1。此次攻击必定命中，且至少击穿一次。" Snippet="突刺" />
+    <power Name="Swipe" DisplayName="挥斩" Description="主动技能；冷却15。&#10;进攻架势：对所有相邻的对手各攻击一次。&#10;防守架势：将所有相邻生物向后推开1格，并试图绊倒对手（力量/敏捷豁免；难度30）。&#10;决斗架势：攻击对手并试图缴其械（力量豁免；难度25+你的敏捷调整值）。此次攻击必定命中，且至少击穿一次。" Snippet="挥斩" />
+    <power Name="Dueling Stance" DisplayName="决斗架势" Description="你获得决斗架势。主手持长刃时，你的长刃与短刃攻击命中+2。" Snippet="决斗架势" />
+    <power Name="Improved Aggressive Stance" DisplayName="强化进攻架势" Description="进攻架势的穿透加值提升至+2，但命中惩罚提升至-3。" Snippet="强化进攻架势" />
+    <power Name="Improved Defensive Stance" DisplayName="强化防守架势" Description="防守架势的闪避值加值提升至+3。" Snippet="强化防守架势" />
+    <power Name="Improved Dueling Stance" DisplayName="强化决斗架势" Description="决斗架势的命中加值提升至+3。" Snippet="强化决斗架势" />
+    <power Name="En Garde!" DisplayName="迎战！" Description="主动技能；冷却100。接下来10回合内，突刺与挥斩没有冷却。" Snippet="高呼“迎战！”" />
+  </skill>
+  <skill Name="Persuasion" DisplayName="说服" Description="你精于说服他人。" Snippet="说服">
+    <power Name="Menacing Stare" DisplayName="威吓凝视" Description="你瞪视附近一名对手，令其惊惧奔逃。" Snippet="威吓凝视" />
+    <power Name="Intimidate" DisplayName="威吓" Description="冷却50。你试图恐吓相邻的敌对生物（1d8+[自我调整值]的穿透判定对抗心智护甲）。成功时，受惊的生物会从你身边逃离6d4回合。" Snippet="威吓" />
+    <power Name="Berate" DisplayName="斥责" Description="冷却50。你羞辱附近一名生物，持续6d6回合，使其闪避值、命中、自我、意志各-4，迅捷-10%。" Snippet="斥责" />
+    <power Name="Snake Oiler" DisplayName="油滑说客" Description="在讨价还价时，你的自我视同高出4点。" Snippet="讨价还价" />
+    <power Name="Proselytize" DisplayName="劝诱入教" Description="你说服一名有智慧的生物加入你。" Snippet="劝诱入教" />
+    <power Name="Inspiring Presence" DisplayName="鼓舞气场" Description="你的言语鼓舞同伴的士气。" Snippet="鼓舞人心" />
+  </skill>
+  <skill Name="Pistol" DisplayName="手枪" Description="你精于各式手枪。" Snippet="手枪">
+    <power Name="Steady Hand" DisplayName="稳手" Description="在判定你使用手枪的命中率时，你的敏捷视同高出4点。" Snippet="手枪" />
+    <power Name="Akimbo" DisplayName="双枪齐射" Description="当你持有多把枪进行远程攻击时，每一把枪都会各射出一发。" Snippet="双枪齐射" />
+    <power Name="Weak Spotter" DisplayName="弱点侦察" Description="你以手枪打出暴击的几率提高5%（标准几率为5%）。" Snippet="洞察弱点" />
+    <power Name="Sling and Run" DisplayName="投射后撤" Description="奔跑时开枪，你不受命中惩罚。" Snippet="边跑边射" />
+    <power Name="Disarming Shot" DisplayName="缴械射击" Description="以手枪命中时，你有一定几率缴去对手的武器，几率取决于你的敏捷。" Snippet="以枪缴械" />
+    <power Name="Dead Shot" DisplayName="致命射击" Description="你以手枪打出的暴击更为致命。" Snippet="致命瞄准" />
+    <power Name="Empty the Clips" DisplayName="倾泻弹药" Description="冷却200。20回合内，开一枪只耗半回合，而非一整回合。" Snippet="打空弹匣" />
+    <power Name="Fastest Gun in the Rust" DisplayName="锈土最快枪手" Description="开枪的行动消耗降低25%。" Snippet="迅雷拔枪" />
+  </skill>
+  <skill Name="Self-discipline" DisplayName="自律" Description="你精于自我克制。" Snippet="克己">
+    <power Name="Meditate" DisplayName="冥想" Description="冥想时，你的再生速度为平时的三倍，负面状态效果消退亦快三倍。冥想时你唯一能做的行动是等待。若你单回合所受伤害超过（意志×3）-60，则冥想中断。若你连续休息10回合或更久，则自动开始冥想。" Snippet="冥想" />
+    <power Name="Fasting Way" DisplayName="禁食之道" Description="你的饥渴速度减半。&#10;餐食的代谢效果持续时间延长一倍。" Snippet="禁食" />
+    <power Name="Iron Mind" DisplayName="钢铁意志" Description="每回合你处于混乱时，有（意志-10）%的几率摆脱该效果。" Snippet="铁石之心" />
+    <power Name="Lionheart" DisplayName="狮心" Description="每回合你处于惊惧时，有（意志-10）%的几率摆脱该效果。" Snippet="狮心" />
+    <power Name="Conatus" DisplayName="生命意志" Description="你可多疾跑10回合。" Snippet="生命意志" />
+    <power Name="Mind over Body" DisplayName="以心御身" Description="你的饥渴速度降为六分之一。&#10;餐食的代谢效果持续时间延长为六倍。&#10;你不会因饥馁而受到惩罚。" Snippet="以心御身" />
+  </skill>
+  <skill Name="Shield" DisplayName="盾牌" Description="你精于使用盾牌。" Snippet="盾牌">
+    <power Name="Block" DisplayName="格挡" Description="只要你持有盾牌，每回合有50%的几率格挡一次近战攻击。格挡时，你将盾牌的护甲值加值计入你对该次攻击的护甲值。若你装备多面盾牌，每回合一次的格挡限制按每面盾牌分别计算，且同一次攻击你只能尝试格挡一次，并以你最优的可用盾牌格挡。" Snippet="格挡" />
+    <power Name="Shield Slam" DisplayName="盾击" Description="主动技能；冷却40。你试图将对手击倒，并造成（力量调整值）d2+盾牌护甲值加值的伤害。对手有机会抗拒（力量豁免；难度20+你的力量调整值）。每当你装备盾牌向对手冲锋，即对其免费施以一次盾击。" Snippet="盾击" />
+    <power Name="Deft Blocking" DisplayName="灵巧格挡" Description="你以盾牌格挡的几率提升至75%。" Snippet="巧妙格挡" />
+    <power Name="Swift Blocking" DisplayName="迅捷格挡" Description="你每回合每面盾牌可多格挡一次攻击。" Snippet="迅捷格挡" />
+    <power Name="Staggering Block" DisplayName="震慑格挡" Description="每当你格挡对手的攻击，有（力量×2）-35%的几率使对手被击晕1d2回合。" Snippet="震慑格挡" />
+    <power Name="Shield Wall" DisplayName="盾墙" Description="接下来三回合内，你自动格挡所有来袭的近战攻击（小圆盾不可使用）。" Snippet="以盾成墙" />
+  </skill>
+  <skill Name="Short Blade" DisplayName="短刃" Description="你精于使用小巧的单手刀与短刃。" Snippet="短刃">
+    <power Name="Short Blade Expertise" DisplayName="短刃专精" Description="你使用短刃时命中+1。此外，以主手持短刃攻击的行动消耗降低25%。" Snippet="短刃" />
+    <power Name="Bloodletter" DisplayName="放血者" Description="你的短刃攻击在击穿时，有75%的几率使对手流血（每回合0-1点伤害；坚韧豁免，难度20+你的敏捷调整值）。对手每回合通过豁免即可止血，且豁免难度每回合降低1。此效果可叠加的次数等于1加你的敏捷调整值。" Snippet="放血" />
+    <power Name="Jab" DisplayName="戳刺" Description="每当你以短刃发动副手攻击，立即以同一武器再攻击一次。连击不会触发此效果。" Snippet="戳刺" />
+    <power Name="Hobble" DisplayName="绊倒" Description="你以主手短刃攻击，寻找对手护甲的破绽。若命中，则恰好击穿一次，并使对方跛行（移动速度-50%，持续16-20回合）。" Snippet="绊行" />
+    <power Name="Pointed Circle" DisplayName="尖刃圆舞" Description="每当你手持主手短刃闪避对手，即免费攻击一次。若你拥有放血者，该攻击致人流血的几率为100%。" Snippet="尖刃圆舞" />
+    <power Name="Rejoinder" DisplayName="还击" Description="每回合一次，当对手近战攻击落空时，有40%的几率以你所持的短刃免费还击一次。" Snippet="见招还招" />
+    <power Name="Shank" DisplayName="捅刺" Description="主动技能；冷却10（主手）或20（副手）。你以主手（优先）或副手的短刃发动近战攻击。若命中，对手每受一种负面状态效果，该次攻击的穿透判定便+2。" Snippet="捅刺" />
+  </skill>
+  <skill Name="Tactics" DisplayName="战术" Description="你通晓基本的战斗战术。" Snippet="战术">
+    <power Name="Hurdle" DisplayName="跨越" Description="疾跑时你的闪避值不受惩罚，且可在不中断疾跑的情况下跳跃。" Snippet="跨越" />
+    <power Name="Deft Throwing" DisplayName="灵巧投掷" Description="你的投掷射程增加3，且向射程内目标投掷时，投掷偏差减半。" Snippet="投掷" />
+    <power Name="Charge" DisplayName="冲锋" Description="你向前冲锋两三格，并发动一次近战攻击，穿透判定+1。" Snippet="冲锋" />
+    <power Name="Kickback" DisplayName="反踢" Description="每当你以远程武器射击近战范围内的目标，你会试图将目标踢退。" Snippet="后踢" />
+    <power Name="Juke" DisplayName="闪避" Description="主动技能；冷却40。你移动一格，不消耗行动。你可与敌对的对手互换位置。" Snippet="闪躲" />
+  </skill>
+  <skill Name="Tinkering" DisplayName="修补术" Description="你精于检视、制造、修理与改造神器。" Snippet="修补术">
+    <power Name="Gadget Inspector" DisplayName="装置检视" Description="你检视神器的成功率大为提高，并可布设线路。" Snippet="检视器械" />
+    <power Name="Disassemble" DisplayName="拆解" Description="你可拆解废料与神器以取得零件。你必得物品设计图中最主要的零件，其余每种零件各有50%的几率获得。" Snippet="拆解" />
+    <power Name="Reverse Engineer" DisplayName="逆向工程" Description="每当你拆解一件物品，有25%的几率习得制造该物品的方法。若该物品经过改造，每项改造另有15%的几率习得该改造。" Snippet="逆向工程" />
+    <power Name="Scavenger" DisplayName="拾荒者" Description="每当你踏过垃圾，便会精明地翻检一番，偶尔发现废料。此外，你摧毁机器人时可多收获废料。" Snippet="拾荒" />
+    <power Name="Repair" DisplayName="修理" Description="你可用零件修复损坏的物品。" Snippet="修理" />
+    <power Name="Deploy Turret" DisplayName="部署炮塔" Description="你可将远程武器部署为固定炮塔。" Snippet="部署炮塔" />
+    <power Name="Lay Mine / Set Bomb" DisplayName="布设地雷／安放炸弹" Description="你可将手榴弹布设为地雷，或设为炸弹。" Snippet="布雷与设弹" />
+    <power Name="Tinker I" DisplayName="修补术 I" Description="你可依低阶设计图制造物品，并免费获得1张设计图。你亦可为能量电池与电容器充能。" Snippet="修补术" />
+    <power Name="Tinker II" DisplayName="修补术 II" Description="你可依中阶设计图制造物品，并免费获得1张设计图。" Snippet="高阶修补术" />
+    <power Name="Tinker III" DisplayName="修补术 III" Description="你可依高阶设计图制造物品，并免费获得1张设计图。" Snippet="大师修补术" />
+  </skill>
+  <skill Name="Wayfaring" DisplayName="旅途行术" Description="你精于荒野求生。" Snippet="旅途行术">
+    <power Name="Make Camp" DisplayName="扎营" Description="生起营火，以烹饪餐食、保存食物。" Snippet="扎营" />
+    <power Name="Mind's Compass" DisplayName="心灵罗盘" Description="迷路时重辨方向的几率加倍。&#10;迷路几率降低约15%。&#10;你在世界地图上的行进速度加倍。" Snippet="心灵罗盘" />
+    <power Name="Wilderness Lore: Flower Fields" DisplayName="荒野知识：花田" Description="在世界地图上穿行花田时，遭遇趣事的几率加倍。&#10;在花田中迷路的几率由基础的12%降为1%。&#10;在世界地图上，你穿行花田的速度加倍。" Snippet="穿行花田" />
+    <power Name="Wilderness Lore: Marshes" DisplayName="荒野知识：沼泽" Description="在世界地图上穿行盐沼与水藤田时，遭遇趣事的几率加倍。&#10;在盐沼与水藤田中迷路的几率由基础的12%降为1%。&#10;在世界地图上，你穿行盐沼与水藤田的速度加倍。" Snippet="穿行沼泽" />
+    <power Name="Wilderness Lore: Hills and Mountains" DisplayName="荒野知识：丘陵与山脉" Description="在世界地图上穿行丘陵与山岭时，遭遇趣事的几率加倍。&#10;在丘陵与山岭中迷路的几率由基础的12%降为1%。&#10;在世界地图上，你穿行丘陵与山岭的速度加倍。" Snippet="穿行丘陵山岭" />
+    <power Name="Wilderness Lore: Canyons" DisplayName="荒野知识：峡谷" Description="在世界地图上穿行沙漠峡谷时，遭遇趣事的几率加倍。&#10;在沙漠峡谷中迷路的几率由基础的12%降为1%。&#10;在世界地图上，你穿行沙漠峡谷的速度加倍。" Snippet="穿行沙漠峡谷" />
+    <power Name="Wilderness Lore: Salt Dunes" DisplayName="荒野知识：盐丘" Description="在世界地图上穿行盐丘时，遭遇趣事的几率加倍。&#10;在盐丘中迷路的几率由基础的10%降为1%。&#10;在世界地图上，你穿行盐丘的速度加倍。" Snippet="穿行盐漠" />
+    <power Name="Wilderness Lore: Jungles" DisplayName="荒野知识：丛林" Description="在世界地图上穿行丛林时，遭遇趣事的几率加倍。&#10;在丛林中迷路的几率由基础的12%降为1%。&#10;在世界地图上，你穿行丛林的速度加倍。" Snippet="穿行丛林" />
+    <power Name="Wilderness Lore: Rivers and Lakes" DisplayName="荒野知识：江河湖泊" Description="在世界地图上渡过江河湖泊时，遭遇趣事的几率加倍。&#10;在江河湖泊中迷路的几率由基础的12%降为1%。&#10;在世界地图上，你渡过江河湖泊的速度加倍。" Snippet="渡越江湖" />
+    <power Name="Wilderness Lore: Ruins" DisplayName="荒野知识：遗迹" Description="在世界地图上穿行于铬质废墟时，遭遇奇事的几率翻倍。&#10;在废墟中迷路的几率由基础的12%降至1%。&#10;在世界地图上，你穿越废墟的速度加倍。" Snippet="穿行废墟" />
+  </skill>
+  <skill Name="Nonlinearity" DisplayName="非线性" Description="你伸展开来。" Snippet="非线性">
+    <power Name="Tomorrowful" DisplayName="明日可期" Description="你的预知幻象持续时间延长一倍。" Snippet="今日即见明日" />
+  </skill>
+</skills>

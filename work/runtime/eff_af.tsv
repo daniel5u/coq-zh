@@ -1,0 +1,34 @@
+Inflicts periodic damage.	受到周期性伤害。
+May inflict periodic damage.	可能受到周期性伤害。
+# AV.	护甲值#。
+# DV.	闪避值#。
+Must spend a turn exiting before moving.	必须先花费一回合脱离，才能移动。
+Exiting may not succeed, and is a task dependent on {0}.	离开可能失败，此事取决于{0}。
+Exiting may not succeed.	尝试脱离可能失败。
+Attempting to exit and failing inflicts damage.	尝试脱离但失败时会受到伤害。
+Attempting to exit inflicts damage.	尝试脱离时会受到伤害。
+Exiting inflicts damage.	脱离时会受到伤害。
+Attempting to exit and failing may inflict damage.	尝试脱离但失败时，可能会受到伤害。
+Attempting to exit may inflict damage.	尝试脱离时可能会受到伤害。
+Exiting may inflict damage.	脱离时可能会受到伤害。
+Cannot move until {0} break free.	在{0}挣脱前无法移动。
+Acts semi-randomly.	行动半随机。
+# DV	闪避值降低#点
+# MA	心智护甲降低#点
+# to all mental attributes	所有精神属性降低#点
+Coruscating with the dim light of a # shattered suns.	闪烁着#颗破碎太阳的黯淡微光。
+Cannot fly.	无法飞行。
+heal # hp	恢复#点生命值
+Casts light in radius #.	投射半径为#的光亮。
+For the first # rounds after imbibing, gains # hit points per level (minimum #) each turn.	饮用后的前#回合内，每回合每级恢复#点生命值（至少#点）。
+# Cold Resist	抗寒性提高#
+Can't be poisoned.	不会中毒。
+{{G|hulk}} {{w|honey}} tonic	{{G|巨力}}{{w|蜜}}药剂
+# Strength	力量提高#点
+# temporary hit points per level.	每级临时生命值增加#点。
+# Move Speed	移动速度降低#
+Can't feel pain.	不会感到疼痛。
+Immune to fear.	免疫恐惧。
+Suffers #% of max hit points in damage each turn (can't be reduced below # hit point by this effect).	每回合受到相当于最大生命值#%的伤害（此效果无法使生命值降至#点以下）。
+{{R|enraged}}	{{R|暴怒}}
+ARRRRRRHGHH	啊啊啊啊啊啊！

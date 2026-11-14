@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<genotypes Lang="zh" Encoding="utf-8">
+  <genotype Name="Mutated Human" DisplayName="变异人">
+    <stat Name="Strength" ChargenDescription="你的{{W|力量}}决定近战攻击穿透对手护甲的效果、近战攻击造成的伤害、你抵抗强制位移的能力，以及你的负重上限。" />
+    <stat Name="Agility" ChargenDescription="你的{{W|敏捷}}决定你使用近战与远程武器的命中率，以及你闪避攻击的能力。" />
+    <stat Name="Toughness" ChargenDescription="你的{{W|坚韧}}决定你的生命值上限、自然痊愈速度，以及你抵抗毒素与疾病的能力。" />
+    <stat Name="Intelligence" ChargenDescription="你的{{W|智力}}决定你的技能点数，以及检视古器的能力。" />
+    <stat Name="Willpower" ChargenDescription="你的{{W|意志}}影响主动技艺的冷却时间，决定你抵抗精神攻击的能力，并影响你的自然痊愈速度。" />
+    <stat Name="Ego" ChargenDescription="你的{{W|自我}}决定精神变异的强度、你与商人讨价还价的能力，以及支配其他生物意志的能力。" />
+  </genotype>
+  <genotype Name="True Kin" DisplayName="真族">
+    <stat Name="Strength" ChargenDescription="你的{{W|力量}}决定近战攻击穿透对手护甲的效果、近战攻击造成的伤害、你抵抗强制位移的能力，以及你的负重上限。" />
+    <stat Name="Agility" ChargenDescription="你的{{W|敏捷}}决定你使用近战与远程武器的命中率，以及你闪避攻击的能力。" />
+    <stat Name="Toughness" ChargenDescription="你的{{W|坚韧}}决定你的生命值上限、自然痊愈速度，以及你抵抗毒素与疾病的能力。" />
+    <stat Name="Intelligence" ChargenDescription="你的{{W|智力}}决定你的技能点数，以及检视古器的能力。" />
+    <stat Name="Willpower" ChargenDescription="你的{{W|意志}}影响主动技艺的冷却时间，决定你抵抗精神攻击的能力，并影响你的自然痊愈速度。" />
+    <stat Name="Ego" ChargenDescription="你的{{W|自我}}决定你与商人讨价还价的能力，以及支配其他生物意志的能力。" />
+  </genotype>
+</genotypes>

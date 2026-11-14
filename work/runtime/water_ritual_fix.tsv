@@ -1,0 +1,52 @@
+Your reputation with {0} is {{C|#}}.\n{1} can award an additional {{C|#}} reputation.	你在{0}眼中的声望为{{C|#}}。\n{1}还能给予你{{C|#}}点声望。
+[begin water ritual; {0} dram of {1}]	[开始水礼；{0}打兰{1}]
+[{0} reputation]	[{0}声望]
+[{0} reputation, {1} SP]	[{0}声望，{1}技能点数]
+[learn {0}: {1} reputation]	[学习{0}：{1}声望]
+[learn {0}: {1} reputation, {2} SP]	[学习{0}：{1}声望，{2}技能点数]
+[learn to cook {0}: {1} reputation]	[学习烹制{0}：{1}声望]
+[gain {0}: {1} reputation]	[获得{0}：{1}声望]
+[gain {0} {{W|skill points}}: {1} reputation]	[获得{0}点{{W|技能点数}}：{1}声望]
+[become infected with {0}: {1} reputation]	[感染{0}：{1}声望]
+You are too far from {0} to perform the water ritual.	你离{0}太远，无法行水礼。
+Choose a secret to share:	选择要分享的秘密：
+Choose some gossip to share:	选择要分享的传闻：
+True kin cannot digest this meal.	真族无法消化这道菜肴。
+Only true kin can digest this meal.	只有真族能消化这道菜肴。
+Mutants cannot digest this meal.	变异人无法消化这道菜肴。
+Only mutants can digest this meal.	只有变异人能消化这道菜肴。
+{0} share a recipe with you.	{0}与你分享了一份食谱。
+{0} share some gossip with you.	{0}与你分享了一则传闻。
+{0} share the location of {1}.	{0}告诉了你{1}的位置。
+{0} share an event from the life of a sultan with you.	{0}与你分享了一位苏丹的生平往事。
+{0} share the recipe for {{W|{1}}}!	{0}分享了{{W|{1}}}的食谱！
+{0} shares a recipe with you.	{0}与你分享了一份食谱。
+{0} shares some gossip with you.	{0}与你分享了一则传闻。
+{0} shares the location of {1}.	{0}告诉了你{1}的位置。
+{0} shares an event from the life of a sultan with you.	{0}与你分享了一位苏丹的生平往事。
+{0} shares the recipe for {{W|{1}}}!	{0}分享了{{W|{1}}}的食谱！
+{0} teach you to craft the item modification {{W|{1}}}.	{0}教会了你制作物品改装{{W|{1}}}。
+{0} teach you to craft {1}.	{0}教会了你制作{1}。
+Despite your genetic limitations, {0} teach you to improvise {{M|{1}}}!	尽管你受基因所限，{0}仍教会了你如何变通施展{{M|{1}}}！
+{0} teaches you to craft the item modification {{W|{1}}}.	{0}教会了你制作物品改装{{W|{1}}}。
+{0} teaches you to craft {1}.	{0}教会了你制作{1}。
+Despite your genetic limitations, {0} teaches you to improvise {{M|{1}}}!	尽管你受基因所限，{0}仍教会了你如何变通施展{{M|{1}}}！
+{0} gift you {1}!	{0}赠予你{1}！
+{0} gifts you {1}!	{0}赠予你{1}！
+{0} join you!	{0}加入了你的队伍！
+{0} joins you!	{0}加入了你的队伍！
+Your reputation with {0} increased by {1} to {2}.	你在{0}眼中的声望提升了{1}点，现为{2}。
+Your reputation with {0} decreased by {1} to {2}.	你在{0}眼中的声望降低了{1}点，现为{2}。
+{0}, your reputation with {1} increased by {2} to {3}.	{0}，你在{1}眼中的声望提升了{2}点，现为{3}。
+{0}, your reputation with {1} decreased by {2} to {3}.	{0}，你在{1}眼中的声望降低了{2}点，现为{3}。
+Because they love {0}	因为他们爱戴{0}
+Because they admire {0}	因为他们敬慕{0}
+Because they dislike {0}	因为他们不喜{0}
+Because they despise {0}	因为他们鄙弃{0}
+Because they regard {0}	因为他们看待{0}
+You are now {{G|loved}} by {{C|{0}}}.	你如今受到{{C|{0}}}的{{G|爱戴}}。
+You are now {{g|favored}} by {{C|{0}}}.	你如今受到{{C|{0}}}的{{g|青睐}}。
+You are now {{r|disliked}} by {{C|{0}}}.	你如今受到{{C|{0}}}的{{r|厌恶}}。
+You are now {{R|despised}} by {{C|{0}}}.	你如今受到{{C|{0}}}的{{R|鄙弃}}。
+{0} are now {{C|indifferent}} to you.	{0}如今对你{{C|漠不关心}}。
+{0} is now {{C|indifferent}} to you.	{0}如今对你{{C|漠不关心}}。

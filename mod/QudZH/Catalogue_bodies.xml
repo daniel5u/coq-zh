@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bodies Lang="zh" LoadPriority="-1100">
+  <bodyparttypevariants>
+    <bodyparttypevariant Type="Equipment Rack" VariantOf="Back" Description="装备架" />
+    <bodyparttypevariant Type="Grafted Mirror Arm" VariantOf="Thrown Weapon" Description="移植式镜臂" />
+    <bodyparttypevariant Type="Breadth" VariantOf="Back" DescriptionPrefix="横披于" Description="宽幅" />
+    <bodyparttypevariant Type="Control Unit" VariantOf="Head" Description="控制单元" />
+    <bodyparttypevariant Type="Manipulator" VariantOf="Hand" Description="操纵器" />
+    <bodyparttypevariant Type="Sensory Bud" VariantOf="Face" Description="感官芽" />
+    <bodyparttypevariant Type="Sensory Nodule" VariantOf="Face" Description="感知结节" />
+    <bodyparttypevariant Type="Robo-Hand" VariantOf="Hand" Description="机械手" />
+    <bodyparttypevariant Type="Rockers" VariantOf="Feet" Description="摇脚" />
+    <bodyparttypevariant Type="Molding" VariantOf="Back" Description="饰条" />
+    <bodyparttypevariant Type="Armature" VariantOf="Arm" Description="机械臂架" />
+    <bodyparttypevariant Type="Pseudopod" VariantOf="Hand" Description="拟足" />
+    <bodyparttypevariant Type="Leaves" VariantOf="Hands" Description="叶片" />
+    <bodyparttypevariant Type="Top Rail" VariantOf="Head" Description="上横档" />
+    <bodyparttypevariant Type="Tail Fin" VariantOf="Fin" Description="尾鳍" />
+    <bodyparttypevariant Type="Armbone" VariantOf="Arm" Description="臂骨" />
+    <bodyparttypevariant Type="Handbone" VariantOf="Hand" Description="手骨" />
+    <bodyparttypevariant Type="Cap" VariantOf="Head" Description="菌盖" />
+    <bodyparttypevariant Type="Case" VariantOf="Back" Description="外壳" DescriptionPrefix="用作" />
+    <bodyparttypevariant Type="Mouth" VariantOf="Face" Description="口部" />
+    <bodyparttypevariant Type="Twig" VariantOf="Hand" Description="嫩枝" />
+    <bodyparttypevariant Type="Small Cracks" VariantOf="Hands" Description="小裂隙" />
+    <bodyparttypevariant Type="Sensory Frill" VariantOf="Face" Description="感知褶边" />
+    <bodyparttypevariant Type="Fibrous Node" VariantOf="Arm" Description="纤维结节" />
+    <bodyparttypevariant Type="Support Hyphae" VariantOf="Roots" Description="支撑菌丝" />
+    <bodyparttypevariant Type="Nuclear Protrusion" VariantOf="Head" Description="胞核突起" />
+    <bodyparttypevariant Type="Tentacles" VariantOf="Hands" Description="触手" />
+    <bodyparttypevariant Type="Pillowcase" VariantOf="Face" Description="枕套" />
+    <bodyparttypevariant Type="Muscular Foot" VariantOf="Tail" Description="肌足" />
+    <bodyparttypevariant Type="Knocker" VariantOf="Face" Description="门叩" />
+    <bodyparttypevariant Type="Ear" VariantOf="Head" Description="耳部" />
+    <bodyparttypevariant Type="Skull" VariantOf="Head" Description="颅骨" />
+    <bodyparttypevariant Type="Fine Roots" VariantOf="Hands" Description="细根" />
+    <bodyparttypevariant Type="Central Mass" VariantOf="Head" Description="中央团块" />
+    <bodyparttypevariant Type="Shelf" VariantOf="Hand" Description="搁板" />
+    <bodyparttypevariant Type="Pipe" VariantOf="Arm" Description="管道" />
+    <bodyparttypevariant Type="Legs" VariantOf="Feet" Description="足肢" />
+    <bodyparttypevariant Type="Undercarriage" VariantOf="Feet" Description="底盘" />
+    <bodyparttypevariant Type="Stud" VariantOf="Arm" Description="墙柱" />
+    <bodyparttypevariant Type="Bifurcation" VariantOf="Hand" Description="分叉" />
+    <bodyparttypevariant Type="Tentacle" VariantOf="Hand" Description="触手" />
+    <bodyparttypevariant Type="Tray" VariantOf="Hand" Description="托盘" />
+    <bodyparttypevariant Type="Rear Legs" VariantOf="Feet" Description="后腿" />
+    <bodyparttypevariant Type="Tie Points" VariantOf="Hands" Description="系结点" />
+    <bodyparttypevariant Type="Lateral Hyphae" VariantOf="Hands" Description="侧生菌丝" />
+    <bodyparttypevariant Type="Bottom" VariantOf="Feet" Description="底面" />
+    <bodyparttypevariant Type="Hand Sections" VariantOf="Hands" Description="手部区段" />
+    <bodyparttypevariant Type="Cheliped" VariantOf="Arm" Description="螯足" />
+    <bodyparttypevariant Type="Membrane" VariantOf="Back" Description="膜" />
+    <bodyparttypevariant Type="Sensory Bulb" VariantOf="Face" Description="感官球" />
+    <bodyparttypevariant Type="Branch" VariantOf="Arm" Description="枝条" />
+    <bodyparttypevariant Type="Twigs" VariantOf="Hands" Description="嫩枝" />
+    <bodyparttypevariant Type="Robo-Arm" VariantOf="Arm" Description="机械臂" />
+    <bodyparttypevariant Type="Rails" VariantOf="Hands" Description="轨道" />
+    <bodyparttypevariant Type="Arm Section" VariantOf="Arm" Description="手臂段" />
+    <bodyparttypevariant Type="Stakes" VariantOf="Roots" Description="支桩" />
+    <bodyparttypevariant Type="Quincunx" VariantOf="Hand" Description="五点阵" />
+    <bodyparttypevariant Type="Side" VariantOf="Hand" Description="侧面" />
+    <bodyparttypevariant Type="Extra Face" VariantOf="Face" Description="额外面部" />
+    <bodyparttypevariant Type="Support Pole" VariantOf="Arm" Description="支撑杆" />
+    <bodyparttypevariant Type="Tablecloth" VariantOf="Back" Description="桌布" />
+    <bodyparttypevariant Type="Chassis" VariantOf="Back" Description="底盘" DescriptionPrefix="套于" />
+    <bodyparttypevariant Type="Neck" VariantOf="Head" Description="颈部" />
+    <bodyparttypevariant Type="Stalk" VariantOf="Arm" Description="菌柄" />
+    <bodyparttypevariant Type="Knot" VariantOf="Arm" Description="木结" />
+    <bodyparttypevariant Type="Reflective Surface" VariantOf="Face" Description="反光面" />
+    <bodyparttypevariant Type="Shelves" VariantOf="Hands" Description="搁板" />
+    <bodyparttypevariant Type="Hardpoint" VariantOf="Missile Weapon" Description="武器挂点" />
+    <bodyparttypevariant Type="Mulch" VariantOf="Roots" Description="覆盖料" />
+    <bodyparttypevariant Type="Sensor Array" VariantOf="Face" Description="传感器阵列" />
+    <bodyparttypevariant Type="Arm Stump" VariantOf="Hand" Description="扶手残端" />
+    <bodyparttypevariant Type="Decoration" VariantOf="Face" Description="饰件" />
+    <bodyparttypevariant Type="Base" VariantOf="Feet" Description="底座" />
+    <bodyparttypevariant Type="Stem" VariantOf="Arm" Description="茎" />
+    <bodyparttypevariant Type="Leg" VariantOf="Arm" Description="足肢" />
+    <bodyparttypevariant Type="Robo-Hands" VariantOf="Hands" Description="机械手" />
+    <bodyparttypevariant Type="Easel" VariantOf="Head" Description="画架" />
+    <bodyparttypevariant Type="Access Panel" VariantOf="Face" Description="检修面板" />
+    <bodyparttypevariant Type="Wheels" VariantOf="Tread" Description="车轮" />
+    <bodyparttypevariant Type="Antennae" VariantOf="Face" Description="触角" />
+    <bodyparttypevariant Type="Central Lobe" VariantOf="Head" Description="中央叶瓣" />
+    <bodyparttypevariant Type="Central Node" VariantOf="Head" Description="中央节点" />
+    <bodyparttypevariant Type="Wheel" VariantOf="Tread" Description="车轮" />
+    <bodyparttypevariant Type="Dorsal Fin" VariantOf="Fin" Description="背鳍" />
+    <bodyparttypevariant Type="Writing Surface" VariantOf="Face" Description="书写面" />
+    <bodyparttypevariant Type="Small Crack" VariantOf="Hand" Description="小裂隙" />
+    <bodyparttypevariant Type="Rail" VariantOf="Hand" Description="轨道" />
+    <bodyparttypevariant Type="Dome" VariantOf="Head" Description="穹顶" />
+    <bodyparttypevariant Type="Top Drawer" VariantOf="Hand" Description="顶层抽屉" />
+    <bodyparttypevariant Type="Lip" VariantOf="Face" Description="口沿" />
+    <bodyparttypevariant Type="Fine Root" VariantOf="Hand" Description="细根" />
+    <bodyparttypevariant Type="Smooth Face" VariantOf="Face" Description="光滑表面" />
+    <bodyparttypevariant Type="Reinforcement" VariantOf="Arm" Description="加固件" />
+    <bodyparttypevariant Type="Manipulators" VariantOf="Hands" Description="操纵器" />
+    <bodyparttypevariant Type="Centerpiece" VariantOf="Head" Description="中心构件" />
+    <bodyparttypevariant Type="Bottom Drawer" VariantOf="Hand" Description="底部抽屉" />
+    <bodyparttypevariant Type="Crystal Prism" VariantOf="Arm" Description="水晶棱镜" />
+    <bodyparttypevariant Type="Side Rail" VariantOf="Arm" Description="床侧梁" />
+    <bodyparttypevariant Type="Tie Point" VariantOf="Hand" Description="系结点" />
+    <bodyparttypevariant Type="Quincunces" VariantOf="Hands" Description="五点阵" />
+    <bodyparttypevariant Type="Head Section" VariantOf="Head" Description="头部区段" />
+    <bodyparttypevariant Type="Handles" VariantOf="Hands" Description="把手" />
+    <bodyparttypevariant Type="Hand Section" VariantOf="Hand" Description="手部区段" />
+    <bodyparttypevariant Type="Support Strut" VariantOf="Arm" Description="撑杆" />
+    <bodyparttypevariant Type="Handbones" VariantOf="Hands" Description="手骨" />
+    <bodyparttypevariant Type="Hands-Face" VariantOf="Face" Description="手面" />
+    <bodyparttypevariant Type="Middle Hardpoint" VariantOf="Thrown Weapon" Description="中部挂点" />
+    <bodyparttypevariant Type="Pseudopods" VariantOf="Hands" Description="拟足" />
+    <bodyparttypevariant Type="Hinge" VariantOf="Arm" Description="铰链" />
+    <bodyparttypevariant Type="Drawer" VariantOf="Hand" Description="抽屉" />
+    <bodyparttypevariant Type="Leaf" VariantOf="Hand" Description="叶片" />
+    <bodyparttypevariant Type="Header" VariantOf="Head" Description="顶梁" />
+    <bodyparttypevariant Type="Pillow" VariantOf="Head" Description="枕头" />
+    <bodyparttypevariant Type="Hypha" VariantOf="Hand" Description="菌丝" />
+    <bodyparttypevariant Type="Faceplate" VariantOf="Face" Description="面甲" />
+    <bodyparttypevariant Type="Blanket" VariantOf="Back" Description="毯子" />
+    <bodyparttypevariant Type="Pincers" VariantOf="Hands" Description="螯钳" />
+    <bodyparttypevariant Type="Bine" VariantOf="Arm" Description="缠绕茎" />
+    <bodyparttypevariant Type="Sensory Ganglion" VariantOf="Face" Description="感知神经节" />
+    <bodyparttypevariant Type="Knobs" VariantOf="Hands" Description="突钮" />
+    <bodyparttypevariant Type="Pincer" VariantOf="Hand" Description="螯钳" />
+    <bodyparttypevariant Type="Knob" VariantOf="Hand" Description="突钮" />
+    <bodyparttypevariant Type="Blossom" VariantOf="Head" Description="花冠" />
+    <bodyparttypevariant Type="Divider" VariantOf="Hand" Description="隔板" />
+    <bodyparttypevariant Type="Bifurcations" VariantOf="Hands" Description="分叉" />
+    <bodyparttypevariant Type="Eye" VariantOf="Face" Description="眼部" />
+    <bodyparttypevariant Type="Footbones" VariantOf="Feet" Description="足骨" />
+    <bodyparttypevariant Type="Lobe" VariantOf="Arm" Description="叶瓣" />
+    <bodyparttypevariant Type="Splat" VariantOf="Face" Description="椅背板" />
+    <bodyparttypevariant Type="Frame" VariantOf="Back" Description="框架" />
+    <bodyparttypevariant Type="Support Struts" VariantOf="Feet" Description="撑杆" />
+    <bodyparttypevariant Type="Top" VariantOf="Head" Description="顶部" />
+    <bodyparttypevariant Type="Skull Face" VariantOf="Face" Description="颅骨面" />
+    <bodyparttypevariant Type="Oral Arm" VariantOf="Arm" Description="口腕" />
+    <bodyparttypevariant Type="Arm Stumps" VariantOf="Hands" Description="扶手残端" />
+    <bodyparttypevariant Type="Vane" VariantOf="Hand" Description="机械叶片" />
+    <bodyparttypevariant Type="Tendril" VariantOf="Hand" Description="卷须" />
+    <bodyparttypevariant Type="Foundation" VariantOf="Feet" Description="基座" />
+    <bodyparttypevariant Type="Pinnule" VariantOf="Hand" Description="小羽片" />
+    <bodyparttypevariant Type="Front Legs" VariantOf="Feet" Description="前腿" />
+    <bodyparttypevariant Type="Pinnules" VariantOf="Hands" Description="小羽片" />
+    <bodyparttypevariant Type="Frond" VariantOf="Arm" Description="羽叶" />
+    <bodyparttypevariant Type="Taproot" VariantOf="Arm" Description="主根" />
+    <bodyparttypevariant Type="Vanes" VariantOf="Hands" Description="机械叶片" />
+    <bodyparttypevariant Type="Side Hypha" VariantOf="Hand" Description="侧生菌丝" />
+    <bodyparttypevariant Type="Drawers" VariantOf="Hands" Description="抽屉" />
+    <bodyparttypevariant Type="Feelers" VariantOf="Face" Description="触须" />
+    <bodyparttypevariant Type="Openings" VariantOf="Hands" Description="开口" />
+    <bodyparttypevariant Type="Opening" VariantOf="Hand" Description="开口" />
+    <bodyparttypevariant Type="Tendrils" VariantOf="Hands" Description="卷须" />
+    <bodyparttypevariant Type="Bottom Rail" VariantOf="Feet" Description="底部横档" />
+    <bodyparttypevariant Type="Handle" VariantOf="Hand" Description="把手" />
+    <bodyparttypevariant Type="Trays" VariantOf="Hands" Description="托盘" />
+  </bodyparttypevariants>
+  <bodyparttypes>
+    <bodyparttype Type="Roots" Description="根系" />
+    <bodyparttype Type="Icy Outcrop" Description="冰晶丛" />
+    <bodyparttype Type="Floating Nearby" Description="近身悬浮" />
+    <bodyparttype Type="Foot" Description="足部" />
+    <bodyparttype Type="Face" Description="面部" />
+    <bodyparttype Type="Fin" Description="鳍" />
+    <bodyparttype Type="Tread" Description="履带" />
+    <bodyparttype Type="Hands" Description="双手" DescriptionPrefix="穿戴于" />
+    <bodyparttype Type="Body" Description="躯干" />
+    <bodyparttype Type="Back" Description="背部" DescriptionPrefix="穿戴于" />
+    <bodyparttype Type="Thrown Weapon" Description="投掷武器" />
+    <bodyparttype Type="Fungal Outcrop" Description="真菌丛" />
+    <bodyparttype Type="Head" Description="头部" />
+    <bodyparttype Type="Tail" Description="尾部" />
+    <bodyparttype Type="Missile Weapon" Description="远程武器" />
+    <bodyparttype Type="Ammo" Description="弹药" />
+    <bodyparttype Type="Feet" Description="双脚" />
+    <bodyparttype Type="Arm" Description="手臂" />
+    <bodyparttype Type="Hand" Description="手部" />
+  </bodyparttypes>
+</bodies>

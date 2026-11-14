@@ -1,0 +1,2 @@
+#! StatusScreen.Show writes the HP label directly at XRL.UI/StatusScreen.cs:378.
+HP: {0}	生命值：{0}

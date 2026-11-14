@@ -1,0 +1,57 @@
+springing	弹跃
+Sprints or power skates at thrice move speed.	疾跑或动力滑轮鞋以三倍移动速度前进。
+{{M|in stasis}}	{{M|处于静滞中}}
+Suspended in spacetime. Cannot act or be interacted with.	悬置于时空之中。无法行动，也无法与之交互。
+# Str for the next # hours	力量#，持续#小时
+{{B|stressed}}	{{B|紧张}}
+# Quickness	迅捷#
+Stuck in {0}	困于{0}
+stuck in {0}	困于{0}
+Stuck where it is.	困在原地。
+Stuck where he is.	困在原地。
+Stuck where she is.	困在原地。
+Stuck where they are.	困在原地。
+Stuck where you are.	困在原地。
+{{C|stunned}}	{{C|昏迷}}
+Can't take actions.	无法行动。
+# DV	闪避值#
+DV set to #.	闪避值设为#。
+{{C|stunned by gas}}	{{C|被毒气震昏}}
+(very dense) Can't take actions.	（极浓）无法行动。
+(dense) #% Quickness	（浓）迅捷#%
+(light) #% Quickness	（淡）迅捷#%
+{{B|submerged}}	{{B|潜没}}
+Staying underwater.	停留在水下。
+suppressed	受压制
+Can't move.	无法移动。
+{{B|swimming}}	{{B|游泳}}
+Moving at full speed.	以全速移动。
+# move speed.	移动速度#。
+{{W|terrified}}	{{W|恐惧}}
+Fleeing in panic.	惊慌逃窜。
+{{g|vitalized}}	{{g|活力充沛}}
+# Toughness	坚韧#
+{{r|drained}}	{{r|枯竭}}
+# Toughness	坚韧-#
+entranced	入迷
+{{ubernostrum|ubernostrum}} tonic	{{ubernostrum|万能灵药}}滋补剂
+under the effects of {{ubernostrum|ubernostrum}} tonic	正受{{ubernostrum|万能灵药}}滋补剂影响
+Recovers 0.9 hit points per level (minimum 5) each turn.	每回合按等级恢复0.9点生命值（最低5点）。
+Recovers 0.6 hit points per level (minimum 3) each turn.	每回合按等级恢复0.6点生命值（最低3点）。
+Purged of all short-term, biological debuffs and up to one severed appendage is regrown at the end of the tenth turn.	所有短期生物性减益效果均被清除，至多一条断肢会在第十回合结束时再生。
+This creature performs non-movement actions at #% action cost.	此生物执行非移动动作的行动消耗#%。
+This creature performs non-movement actions # as slowly.	此生物执行非移动动作时，耗时为通常的#倍。
+{{K|unpowered}}	{{K|断电}}
+{{B|wading}}	{{B|涉水}}
+{{W|safe mode}}	{{W|安全模式}}
+{{W|wakeful}}	{{W|清醒}}
+Cannot be put in sleep mode.	无法进入睡眠模式。
+Cannot fall asleep.	无法入睡。
+waking dream	清醒之梦
+Gain a level as this creature to wake pleasantly.	以此生物的身份升一级，即可安然醒来。
+Die or abandon character to wake fitfully.	若死亡或放弃角色，则会惊醒。
+{{r|war trance}}	{{r|战斗恍惚}}
+in a {{r|war trance}}	处于{{r|战斗恍惚}}状态
+# Willpower	意志#
+{{C|warming up}}	{{C|蓄势中}}
+Getting ready to act.	正准备行动。

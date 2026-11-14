@@ -1,0 +1,15 @@
+In power conservation mode.	处于节能模式。
+# DV.	#闪避值。
+Attackers receive # to penetration rolls.	攻击者的穿透判定获得#加值。
+Will return to normal operations dazed if damage is taken.	受到伤害后将恢复正常运行，但会陷入眩晕。
+Unconscious.	失去意识。
+Will wake up dazed if damage is taken.	受到伤害后将醒来并陷入眩晕。
+# damage per turn.	每回合受到#点伤害。
+# damage per turn. Internal.	每回合受到#点伤害。内出血。
+# damage per turn. Has been bandaged.	每回合受到#点伤害。已包扎。
+# damage per turn. Internal. Has been bandaged.	每回合受到#点伤害。内出血，且已包扎。
+#-# damage per turn.	每回合受到#-#点伤害。
+#-# damage per turn. Internal.	每回合受到#-#点伤害。内出血。
+#-# damage per turn. Has been bandaged.	每回合受到#-#点伤害。已包扎。
+#-# damage per turn. Internal. Has been bandaged.	每回合受到#-#点伤害。内出血，且已包扎。
+#% XP gained	获得#%经验值

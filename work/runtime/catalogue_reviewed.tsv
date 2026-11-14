@@ -1,0 +1,520 @@
+#! Coordinator-reviewed catalogue translations only
+ [{{W|space}}] Raise selected statistic or {0} 	 [{{W|空格}}] 提升选中的属性或 {0} 
+ [{{W|{0}}}] Raise	 [{{W|{0}}}] 提升
+ if they fail a difficulty {0} {1} save	 若其未能通过难度为{0}的{1}豁免
+ {{W|{0}}} to exit 	 {{W|{0}}} 退出 
+&CA flash of insight overcomes you!	&C你忽然灵光乍现！
+&MThe Bell of Rest tolls! The dead will be recalled in {0} rounds.	&M安息之钟敲响！{0}回合后，死者将被召回。
+({0})/2 damage per turn.\nDoesn't regenerate hit points.\nHealing effects are only half as effective.\nWill become ill once the poison runs its course.	每回合受到({0})/2点伤害。\n不会自然恢复生命值。\n治疗效果减半。\n毒效结束后会患病。
++1 to your penetration roll and -2 to hit while wielding a long blade in the primary hand.	主手持长刃时，穿透检定 +1，命中 -2。
++10-15 Heat Resist\nReflect 3-4% damage back at your attackers, rounded up.	+10-15热抗\n将3-4%伤害反弹给攻击者，向上取整。
++10-15% to natural healing rate\nYou thirst at half rate.	+10-15%自然恢复速率\n你的口渴速度减半。
++100 electric resistance	+100电击抗性
++2 DV while wielding a long blade in the primary hand.	主手持长刃时，闪避值 +2。
++2 to hit while wielding a long blade in the primary hand.	主手持长刃时，命中 +2。
++2 to your penetration roll and -3 to hit while wielding a long blade in the primary hand.	主手持长刃时，穿透检定+2，命中值-3。
++3 DV while wielding a long blade in the primary hand.	主手持长刃时，闪避值+3。
++3 to hit while wielding a long blade in the primary hand.	主手持长刃时，命中值+3。
++3 to saves vs. disease\nWhenever you eat an unfermented yuckwheat stem, you release an electrical discharge per Electrical Generation at rank 5-6.	+3疾病豁免\n每当你食用未发酵的苦麦茎，便会如5-6阶电能生成变异般释放电流。
++4-5 Quickness\n+8-12 to saves vs. bleeding\n75% chance that itchy skin doesn't develop into a fungal infection.	+4-5 迅捷\n对抗流血的豁免检定 +8-12\n75% 几率使发痒的皮肤不会发展成真菌感染。
++40% Move Speed at night and underground.\n+4 Agility at night and underground.\n-20% Move Speed in the daylight.\n-3 Agility in the daylight.\nCan see in the dark (radius 8).\nSuffers double damage from light-based attacks.	夜间和地下时，移动速度+40%。\n夜间和地下时，敏捷+4。\n白天时，移动速度-20%。\n白天时，敏捷-3。\n可以在黑暗中视物（半径8）。\n受到光系攻击时，伤害加倍。
++6 Agility\n+10 Move Speed	+6 敏捷\n+10 移动速度
++6 Strength\n+2 temporary hit points per level.\n-25 Move Speed\nCan't feel pain.\nImmune to fear.\nSuffers 1% of max hit points in damage each turn (can't be reduced below one hit point by this effect).	+6 力量\n每级 +2 临时生命值。\n-25 移动速度\n感觉不到疼痛。\n免疫恐惧。\n每回合承受相当于最大生命值 1% 的伤害（此效果无法将生命值降至 1 以下）。
++8 DV\n25% chance per turn to phase out of the spatial dimension for 1-3 turns.	+8 闪避值\n每回合有 25% 的几率脱离空间维度 1-3 回合。
++8 DV\nCan phase out of the spatial dimension for 7-9 turns.	闪避值+8\n可以脱离空间维度，持续7-9回合。
++9 Strength\n+3 temporary hit points per level.\n-25 Move Speed\nCan't feel pain.\nImmune to fear.\nSuffers 1% of max hit points in damage each turn (can't be reduced below one hit point by this effect).	+9 力量\n每级 +3 临时生命值。\n移动速度 -25\n感受不到疼痛。\n免疫恐惧。\n每回合受到相当于最大生命值 1% 的伤害（此效果不会使生命值降至 1 以下）。
+, {0} item	，{0}件物品
+, {0} items	，{0}件物品
+-1 to every attribute per turn (current: {0}).	每回合所有属性-1（当前：{0}）。
+-1d6 Move Speed per turn for 14-18 turns.\n[total:-{{rules|{0}}} Move Speed]	每回合移动速度-1d6，持续14-18回合。\n[累计：-{{rules|{0}}}移动速度]
+-70 Quickness\nDoesn't function properly.	-70 迅捷\n无法正常发挥作用。
+-{0} move speed due to missing or broken limbs	因肢体缺失或损坏，移动速度降低{0}
+35% chance to fall prone when moving.	移动时有 35% 的几率跌倒。
+=name= journeyed to the Spindle at Omonporch, voiced a prayer for the Fossilized Saads, and observed a star fall along the planet's axis.	=name=远行至奥蒙门廊的纺锤，为化石萨德诵念祷词，并目睹一颗星沿着行星轴线坠落。
+A force of repulsion from inside the sarcophagus prevents your entry.\n\nYou do not bear the Mark of Death.	石棺内传来一股斥力，将你拒于其外。\n\n你未受死亡印记。
+A loud buzz is emitted. The unauthorized glyph flashes on the side of the applicator.	一阵响亮的蜂鸣声响起。未授权的符号在涂抹器侧面闪现。
+A sphere of light in the chord of {0} radiates away.\n\nYou feel it absorbed elsewhere.	一枚光球自{0}的和弦中逸散。\n\n你感到它在别处被吸收了。
+A torrent of life rushes over you.	一股生命洪流奔涌而过。
+Acid Resist: {0}	酸抗性：{0}
+Acid Resist: {{G|{0}}}	酸抗性：{{G|{0}}}
+Acid Resist: {{R|{0}}}	酸抗性：{{R|{0}}}
+Are you sure you want to ascend the Spindle? You know of no means to descend again.\n\nType 'ASCEND' to confirm.	确定要登上纺锤吗？你不知道有什么办法能再下来。\n\n输入“ASCEND”确认。
+Are you sure you want to disassemble {0}?	确定要拆解{0}吗？
+Are you sure you want to discard your changes?	确定要放弃更改吗？
+Are you sure you want to drop down a level? Move {0} again to confirm.	确定要落到下一层吗？再次向{0}移动以确认。
+Are you sure you want to move into {0}? Move {1} again to confirm.	确定要踏入{0}吗？再次向{1}移动以确认。
+Are you sure you want to return to Qud? \n\nType 'RETURN' to confirm.	确定要返回卡德吗？ \n\n输入 'RETURN' 确认。
+Are you sure you want to slam {0}?	你确定要猛砸{0}吗？
+Are you sure you want to target {0}?	你确定要以{0}为目标吗？
+Attempting to exit and failing inflicts damage.\n	尝试脱离但失败时会受到伤害。\n
+Attempting to exit and failing may inflict damage.\n	尝试脱离但失败时，可能会受到伤害。\n
+Attempting to exit inflicts damage.\n	尝试脱离时会受到伤害。\n
+Attempting to exit may inflict damage.\n	尝试脱离时可能会受到伤害。\n
+Barathrum is not in the golem. Ascend anyway?	巴拉斯鲁姆不在魔像中。仍要上升吗？
+Buy a new random {0} for 4 MP	花费4点变异点数，随机获得一个新的{0}
+Can use Burrowing Claws at rank 5-6. If you already have Burrowing Claws, it's enhanced by 3-4 ranks.\nWhenever you identify an artifact, you gain +6 AV for 50 turns.	可使用5-6阶的掘地利爪。若你已有掘地利爪，则提升3-4阶。\n每当你鉴定一件古器，获得+6护甲值，持续50回合。
+Can use Psychometry at level 4-5.\nWhenever you take damage, there's a 12-15% chance you teleport all creatures surrounding you.	可使用4-5阶的灵视物感。\n每当你受到伤害，有12-15%几率传送周围所有生物。
+Can use Sticky Tongue at rank 4-5.\nWhenever you jump, you beguile a creature as per Beguiling at rank 7-8 for the duration of this effect.	可使用4-5阶的黏舌。\n每当你跳跃，都会对一个生物施加7-8阶魅惑，持续至本效果结束。
+Can use {0} at level {1}.	可使用{1}阶的{0}。
+Can't move or attack.\nDV set to 0.	无法移动或攻击。\n闪避值设为 0。
+Can't move or attack.\n{0} DV	无法移动或攻击。\n{0} 闪避值
+Can't take actions.\nDV set to 0.	无法采取行动。\n闪避值设为 0。
+Can't take actions.\n{0} DV	无法采取行动。\n{0} 闪避值
+Cannot take actions.\nConfuses nearby hostile creatures per Confusion 7.	无法采取行动。\n按7阶困惑的效果使附近敌对生物陷入困惑。
+Casts light in radius 2.\nFor the first 5 rounds after imbibing, gains 0.6 hit points per level (minimum 3) each turn.\n+20 Cold Resist\nCan't be poisoned.	照亮半径2的区域。\n饮用后的前5回合中，每回合恢复0.6×等级的生命值（最低3）。\n+20寒冷抗性\n不会中毒。
+Choose a color for your maker's mark.	为你的制作者印记选择一种颜色。
+Co-processor: When powered, this item grants +{0} {1} and provides {2} units of compute power to the local lattice.	协处理器：供能时，此物品赋予+{0}{1}，并为本地格网提供{2}单位算力。
+Cold Resist: {0}	寒冷抗性：{0}
+Cold Resist: {{G|{0}}}	寒冷抗性：{{G|{0}}}
+Cold Resist: {{R|{0}}}	寒冷抗性：{{R|{0}}}
+Collective	集体
+Coruscating with the dim light of a trillion shattered suns.	闪耀着万亿颗破碎太阳的幽暗微光。
+Crossing into Brightsheol will retire your character. Are you sure you want to do it? Type 'CROSS' to confirm.	进入明冥将使你的角色退役。确定要这样做吗？输入 'CROSS' 确认。
+Defib: When powered, if the wearer enters cardiac arrest, this armor will deliver an electrical shock to the wearer every turn until their heart restarts.	除颤：供能时，若穿戴者心脏骤停，此护甲每回合都会向其释放电击，直至心脏恢复跳动。
+Dies when any attribute reaches zero.	任一属性降至零时死亡。
+Displacer: When powered, this weapon randomly teleports its target {0}-{1} tiles away on a successful hit.	位移：供能时，此武器命中后会将目标随机传送至{0}-{1}格外。
+Do you want to wait until the ascent is done?	你要等到上升结束吗？
+Doesn't function properly and can't be equipped.\nWill erode into dust if rusted again.	无法正常运作，也无法装备。\n若再次锈蚀，将化为尘埃。
+Done trekking through the root-strangled earth, =name= arrived in Kyakukya and was greeted by the village with warmth and reverence. Upon leaving, =name= was named Friend to Oboroqoru.	穿过盘根纠结的大地，=name=抵达基亚库基亚，受到村民热情而崇敬的欢迎。离去之时，=name=获称奥博罗阔鲁的挚友。
+Due to your revelation, {0} change their opinion of {1}.	因你的揭露，{0}改变了对{1}的看法。
+Eater	食者
+Electrical Resist: {0}	电击抗性：{0}
+Electrical Resist: {{G|{0}}}	电击抗性：{{G|{0}}}
+Electrical Resist: {{R|{0}}}	电击抗性：{{R|{0}}}
+Electrified: When powered, this weapon deals an additional {0} electrical damage on hit.	带电：供能时，此武器命中后额外造成{0}点电击伤害。
+Elverson	埃尔弗森
+Enter a new name for {0}.	为{0}输入一个新名称。
+Enter text to filter inventory by item name.	输入文字，按物品名称筛选物品栏。
+Exiting inflicts damage.\n	脱离时会受到伤害。\n
+Exiting may inflict damage.\n	脱离时可能会受到伤害。\n
+Exiting may not succeed, and is a task dependent on {0}.\n	离开可能不会成功，这取决于{0}。\n
+Exiting may not succeed.\n	尝试脱离可能失败。\n
+Female	女性
+Females	女性（复数）
+Flaming: When powered, this weapon deals an additional {0} heat damage on hit.	烈焰：供能时，此武器命中后额外造成{0}点热量伤害。
+Flare-compensating: When powered and started up, the item offers protection against visual flash effects.	抗闪光：通电并启动后，此物品可防护视觉闪光效果。
+Freezing: When powered, this weapon deals an additional {0} cold damage on hit.	冰冻：供能时，此武器命中后额外造成{0}点寒冷伤害。
+Gesticulating: This item grants +{0} Strength but disallows the use of the Floating Nearby equipment slot.	比划手势：此物品赋予+{0}力量，但禁止使用“近身悬浮”装备栏位。
+HUD: When powered and started up, this item can be used with a smartgun to enable its bonuses.	HUD：通电并启动后，此物品可与智能枪搭配使用，以启用其加成。
+Hartind	哈廷德
+Has been latched onto by {0}.\nCan't move without breaking free first.	已被{0}缠住。\n挣脱前无法移动。
+Has been latched onto.\nCan't move without breaking free first.	已被缠住。\n挣脱前无法移动。
+Has grown burrowing claws.\n+25% Move Speed at night and underground.\n+3 Agility at night and underground.\n-20% Move Speed in the daylight.\n-3 Agility in the daylight.\nCan see in the dark (radius 8).\nSuffers double damage from light-based attacks.	长出了掘地利爪。\n夜间和地下移动速度 +25%。\n夜间和地下敏捷 +3。\n白天移动速度 -20%。\n白天敏捷 -3。\n可在黑暗中视物（半径 8）。\n受到光系攻击时，伤害加倍。
+Heartstopper: When powered, this weapon has a chance to put opponents into cardiac arrest.	心停：供能时，此武器有几率使对手心脏骤停。
+Heartstopper: When powered, this weapon has {0}% chance to put opponents into cardiac arrest{1}.	心停：供能时，此武器有{0}%的几率使对手心脏骤停{1}。
+Heat Resist: {0}	热抗性：{0}
+Heat Resist: {{G|{0}}}	热抗性：{{G|{0}}}
+Heat Resist: {{R|{0}}}	热抗性：{{R|{0}}}
+Hindren Female	欣德伦雌性
+Hindren Male	欣德伦雄性
+If you want to apply {0} to {1}, you can do so through the apply action.	若想将{0}用于{1}，可选择“使用”动作。
+If you want to eat {0} {1}, you can do so through the eat action.	若想让{1}食用{0}，可选择“食用”动作。
+Immune to confusing attacks.\nActivated mental mutations cool down twice as quickly.	免疫困惑攻击。\n主动精神变异的冷却速度加快一倍。
+Immune to confusing attacks.\nCan peer into the near future.	免疫困惑攻击。\n能窥见近未来。
+Improves natural healing rate.\nAids in examining and disassembling artifacts.\n-6 DV.\nMust spend a turn to stand up before moving.	提升自然恢复速率。\n有助于检查和拆解古器。\n-6 闪避值。\n移动前必须花费一个回合站起。
+In a glissade of light, {0} morphs into an image pleasing to {1}.	一道流光掠过，{0}变作令{1}赏心悦目的形象。
+In the midst of your disorientation, you find a passageway to another dimension.	恍惚之中，你发现了一条通往异次元的通道。
+Inflicts ongoing damage.\nDistracts from examining and disassembling artifacts.\n-6 DV.\nMust spend a turn to stand up before moving.	持续受到伤害。\n妨碍检查和拆解古器。\n-6 闪避值。\n移动前必须花费一个回合站起。
+Inflicts periodic damage.\n	受到周期性伤害。\n
+It is not {0} that you are enclosed by.	你并非被封闭在{0}内。
+It is not {0} that you are sitting on.	你坐着的并不是{0}。
+Level: {{C|{0}}}	等级：{{C|{0}}}
+Liquid-cooled: This weapon's rate of fire is increased, but it requires pure water to function. When fired, there's a one in {0} chance that 1 dram is consumed.	液冷：此武器射速提高，但需要纯水才能运作。每次开火有1/{0}的几率消耗1打兰纯水。
+Male	男性
+Males	男性（复数）
+Massively overloaded: This item has significantly increased performance but consumes a great deal of extra charge, generates considerable heat when used, and has a chance to break relative to its charge draw.	大幅过载：此物品性能显著提升，但会消耗大量额外电量，使用时产生大量热量，并有与耗电量相关的损坏概率。
+Matching quest target not found.	未找到匹配的任务目标。
+May inflict periodic damage.\n	可能受到周期性伤害。\n
+Microserrated: This weapon has a chance to dismember opponents.	微锯齿：此武器有几率肢解对手。
+Microserrated: This weapon has {0}% chance to dismember opponents.	微锯齿：此武器有{0}%的几率肢解对手。
+Mighty: This weapon has no strength bonus penetration cap.	雄壮：此武器的力量加值穿透上限不受限制。
+Must spend a turn exiting before moving.\n	必须先花费一回合脱离，才能移动。\n
+Nano-Neuro	纳米神经
+Neuter	中性
+Neuterperson	中性之人
+No blueprint named "{0}" found.	未找到名为“{0}”的蓝图。
+Nonspecific	不特定
+One dram of {{neutronic|neutron}} flux evaporates from your inventory.	物品栏中有1打兰{{neutronic|中子}}通量蒸发了。
+One of your flight capabilities fails.	你的一项飞行能力失效了。
+One of {0} stops {1}.	{0}中有一处停止了{1}。
+Only suffers 25% damage from bludgeoning attacks.	只承受25%的钝击伤害。
+Only suffers 25% damage from falling.	只承受25%的坠落伤害。
+Only suffers 50% damage from bludgeoning attacks.	只承受50%的钝击伤害。
+Only suffers 50% damage from falling.	只承受50%的坠落伤害。
+Phased.\n({0})/2 damage per turn.\nDoesn't regenerate hit points.\nHealing effects are only half as effective.\nWill become ill once the poison runs its course.	相位偏移。\n每回合受到({0})/2点伤害。\n不会自然恢复生命值。\n治疗效果减半。\n毒效结束后会患病。
+Plural	复数
+Psychic Glimmer ({{R|{0}}})	心灵微光（{{R|{0}}}）
+Radiates light in radius 3.	照亮半径3的区域。
+Recovers 0.6 hit points per level (minimum 3) each turn.\nPurged of all short-term, biological debuffs and up to one severed appendage is regrown at the end of the tenth turn.	每回合恢复0.6×等级的生命值（最低3）。\n第十回合结束时，清除所有短期生物性减益效果，并至多再生一个被切断的附肢。
+Recovers 0.9 hit points per level (minimum 5) each turn.\nPurged of all short-term, biological debuffs and up to one severed appendage is regrown at the end of the tenth turn.	每回合恢复0.9×等级的生命值（最低5）。\n第十回合结束时，清除所有短期生物性减益效果，并至多再生一个被切断的附肢。
+Regenerates at thrice the normal rate.\nNegative status effects wear off at thrice the normal rate.\nStops meditating if another action is taken or {0} damage is taken in a single round.	以正常速率的三倍恢复。\n负面状态效果以正常速率的三倍消退。\n若采取其他行动，或在单个回合内受到{0}伤害，将停止冥想。
+Serrated: This weapon has {0}% chance to dismember opponents.	锯齿状：此武器有{0}%的几率肢解对手。
+Several {0} appear nearby.	附近出现了几只{0}。
+Skill points: {{{0}|{1}}}, Attribute points: {{{2}|{3}}}	技能点数：{{{0}|{1}}}，属性点数：{{{2}|{3}}}
+Skill points: {{{0}|{1}}}, Attribute points: {{{2}|{3}}}, Mutation points: {{{4}|{5}}}	技能点数：{{{0}|{1}}}，属性点数：{{{2}|{3}}}，变异点数：{{{4}|{5}}}
+Slam has no cooldown.\n100% chance to daze with cudgels.	猛砸没有冷却时间。\n使用棍棒时，100%几率使目标昏乱。
+Slightly improves natural healing rate.\n-6 DV.\nMust spend a turn to stand up before moving.	略微提高自然恢复速率。\n-6 闪避值。\n必须花费一个回合站起，才能移动。
+Slightly improves natural healing rate.\nAids in examining and disassembling artifacts.\n-6 DV.\nMust spend a turn to stand up before moving.	略微提升自然恢复速率。\n有助于检查和拆解古器。\n-6 闪避值。\n移动前必须花费一个回合站起。
+Slightly improves natural healing rate.\nDistracts from examining and disassembling artifacts.\n-6 DV.\nMust spend a turn to stand up before moving.	略微提高自然恢复速率。\n妨碍检查和拆解古器。\n-6闪避值。\n移动前必须花费一个回合站起。
+Some sticky goop mixes in with {0}.	一些黏稠的胶液混进了{0}。
+Some sticky goop passes through {0}.	一些黏糊的胶液穿过了{0}。
+Somehow there seems to be no location for {0}.	不知为何，似乎找不到{0}的位置。
+Something chirps {0}.	{0}传来一声鸣响。
+Something hits {0} (x{1}) with {2} for {3} damage!	有东西以{2}击中{0}（x{1}），造成{3}点伤害！
+Something went wrong.	出了点差错。
+Stable from implosion.\nNothing can emerge.	保持稳定，不会内爆。\n没有东西能从中涌出。
+Talking to {0} rouses in you an inert truth. You once wore the frock of a child. You poured salt through the cracks of your fingers, and you watched worlds form. Can it be all so simple still?	与{0}交谈，唤醒你心中一则沉睡的真理。你曾身着孩童的衣袍。你让盐从指缝间倾泻，看着一个个世界成形。如今，一切仍能如此简单么？
+That name is already in use.	这个名字已被使用。
+That wouldn't leave you with NEARLY enough junk! You can't drop that!	那点破烂还远远不够！你不能丢掉那个！
+The clouds part in your mind and a ray of clarity strikes through.	心中云开雾散，一道清明之光照彻心头。
+The colossal lid slams shut. Darkness engulfs you.	巨大的棺盖轰然合上。黑暗将你吞没。
+The control pit dissolves to silence.\n\nDo you want to wait until the ascent is done?	控制舱化作一片寂静。\n\n要等到上升结束吗？
+The cool swelling deflates as your organs dim.	体内那阵清凉的胀感消退，脏器的光芒也暗淡下来。
+The darkness recedes, and a new light breaks on the shores of your mind.	黑暗退去，新的光芒在你心灵的岸边升起。
+The delegate for {0} gives you {1}!	{0}的代表送给你{1}！
+The gates are sealed for eternity.	大门永世封闭。
+The gates swing wide.	大门轰然敞开。
+The injection fails.	注射失败。
+The liquid mixture inside {0} starts to glitch.	{0}内的混合液开始发生异变。
+The matter of your new body starts to thicken and clot. You're inlaid with ribbons of bone, tissue, nerve, and flesh.	你新生的躯体开始变得稠密，凝结成形。骨骼、组织、神经与血肉如缕缕丝带，嵌入你的身躯。
+The membrane of the egg sac snots apart.	卵囊的膜黏糊糊地裂开。
+The neoteric body is differently charged. Tying inside you is another of the secret knots that bind the world.	新生之躯所负的能量已然不同。又一道维系世界的秘结，系于你体内。
+The pact is struck. The Barathrumites may lease control of the Spindle, and all the attending factions owe a debt to Asphodel.	契约已订。巴拉斯鲁姆派可租用纺锤的控制权，所有与会派系都欠阿斯福德尔一份人情。
+The pact is struck. The Barathrumites may lease control of the Spindle, and the chosen factions owe a debt to Asphodel.	盟约已成。巴拉斯鲁姆派可租借纺锤的控制权，而受选诸派系则欠阿斯福德尔一笔人情。
+The pact is struck. The Barathrumites may lease control the Spindle.	契约已成。巴拉斯鲁姆派可以租用纺锤的控制权。
+The polygel morphs into another {0}!	多凝胶变形成了另一件{0}！
+The protuberance on {0} shrinks.	{0}上的突起缩小了。
+The sarcophagus is inert.	石棺毫无反应。
+The sealing mechanisms inside this sarcophagus will certainly kill you if you close {0} inside. Are you sure you want to enter the sarcophagus?\n\nType 'ENTOMB' to confirm.	若你把{0}关在这具石棺内，里面的封闭机关必会将其杀死。你确定要进入石棺吗？\n\n输入“ENTOMB”确认。
+The soothing tingle fades.	那阵舒缓的麻痒感消退了。
+The sprayer head won't move.	喷洒器的喷头拧不动。
+The svardym egg hatches.	斯瓦迪姆的卵孵化了。
+The svardym eggs hatch.	斯瓦迪姆的卵孵化了。
+The tonics you ingested react adversely to each other. Aaaaaaaaargh!	你服下的几种补剂彼此冲突。啊啊啊啊啊啊啊！
+The tonics you ingested react adversely to each other. The soothing tingle fades.	你服下的几种补剂彼此起了不良反应。那阵舒缓的麻痒感消退了。
+The tonics you ingested react adversely to each other. The torrent of life sweeps away.	你服下的补剂彼此发生不良反应。生命洪流消退了。
+The tonics you ingested react adversely to each other. You cannot see to see -- your mind cracks as a bell struck by a hammer.	你服下的补剂彼此产生不良反应。你无法看见——你的心智如遭锤击的钟般碎裂。
+The tonics you ingested react adversely to each other. You feel awfully frigid.	你摄入的补剂彼此发生了不良反应。你感到异常寒冷。
+The tonics you ingested react adversely to each other. You flicker through spacetime uncontrollably.	你服下的补剂彼此产生不良反应。你在时空中不受控制地闪烁。
+The tonics you ingested react adversely to each other. Your field of vision erupts into a plane of blinding, white light.	你服下的补剂彼此发生不良反应。你的视野骤然化作一片炫目的白光。
+The tonics you ingested react adversely to each other. Your skin starts to knot and misshape.	你服下的补剂彼此产生了不良反应。你的皮肤开始扭曲变形。
+The torrent of life sweeps away.	生命洪流消退了。
+The zealot mumbles inaudibly, encased in ice.	狂信者封在冰中，嘟囔声微不可闻。
+There are no creatures in range.	范围内没有生物。
+There are no places to escape to safely!	没有可供安全逃往的地方！
+There is no liquid here for you to spew.	这里没有液体可供你喷吐。
+There is no one there for you to entangle.	那里没有可供你缠缚的目标。
+There is no one there to use {0} on.	那里没有可供你使用{0}的对象。
+There is no one there you can use {0} on.	那里没有人可供你使用{0}。
+There is no one there you can {0} {1} to.	那里没有可供你{0}{1}的对象。
+There is nobody there to perform Death From Above on.	那里没有可施展天降杀机的目标。
+There is nothing there for you to clone.	那里没有可供你克隆的东西。
+There is nothing you can telekinetically manipulate there.	那里没有可供你以念力操纵的东西。
+There was a duplication glitch involving your player character. It'd be helpful to send the save folder and Player.log to support@freeholdgames.com along with what you were currently doing.	你的角色发生了重复生成错误。请将存档文件夹、Player.log及出错时正在进行的操作说明发送至support@freeholdgames.com，以帮助排查。
+There's no magnetic containment inside {0}. Pour anyway?	{0}内没有磁性约束装置。仍要倾倒吗？
+There's nothing there to lunge at.	那里没有可供突刺的目标。
+There's nothing there to lunge away from.	那里没有可供你突刺后撤的目标。
+There's nothing there to swipe at.	那里没什么可挥斩的。
+There's nothing there you can conk.	那里没有可供你闷击的东西。
+There's nothing there you can lunge at.	那里没有可供你突刺的目标。
+There's nothing there you can shield slam.	那里没有可供你施展盾击的目标。
+There's nothing there you can swipe at.	那里没有可供挥斩的目标。
+This zone didn't build properly, do you wish to rebuild it?	此区域未能正常构建，你想重建它吗？
+To commemorate the imperial conquests of =name=, a triumphal arch was erected across the fruiting gorges.	为纪念=name=的帝国征伐，一座凯旋门横跨果实丰饶的峡谷而建。
+To perform Death From Above from the ground, you must select a target at least {0} away.	从地面施展天降杀机时，必须选择至少相距{0}的目标。
+To perform Death From Above from the ground, you must select a target no more than {0} away.	若要从地面施展天降杀机，你必须选择距离不超过{0}的目标。
+Total weight: {{Y|{0} {{y|/}}  {1} lbs.}}	总负重：{{Y|{0} {{y|/}}  {1}磅}}
+Two tubular sections of {0} flail around and batter {1}!	{0}的两段管状构件胡乱挥舞，击打{1}！
+VISAGE	面容
+Whenever you drink freshwater, there's a 25% chance you become immune to fear for 6 hours.	每当你饮用淡水，有25%几率获得恐惧免疫，持续6小时。
+While flying, you can only perform Death From Above on nearby targets.	飞行时，你只能对附近的目标施展天降杀机。
+Will become ill upon recovery for 5 turns per attribute penalty point.	恢复后会患病，每点属性惩罚对应5回合病程。
+XP: {{C|{0}}} {{K|({{c|{1}}} till next level)}}	经验值：{{C|{0}}} {{K|（升级还需{{c|{1}}}点）}}
+You aggressively swipe your blade in the air.	你凌厉地凌空挥斩刀刃。
+You are a wall-dwelling creature and may only move onto walls.	你是栖墙生物，只能移动到墙上。
+You are already burrowed.	你已经潜入地下了。
+You are already in {0}.	你已经在{0}里面了。
+You are already sitting down.	你已经坐下了。
+You are an aquatic creature and may not move onto land!	你是水生生物，无法移至陆地！
+You are carrying too much to move!	你携带的东西太多，无法移动！
+You are covered in sticky goop!	你浑身沾满了黏糊糊的污物！
+You are fleeing from {0}!	你正在逃离{0}！
+You are healed for {0} by the cold.	寒意使你恢复了{0}点生命值。
+You are leaving the ambient broadcast power grid and transitioning to backup power. Are you sure?	你即将离开环境广播电力网，切换至备用电源。确定吗？
+You are not a mobile creature.	你所属的生物无法移动。
+You are not enclosed.	你并未被封闭在内。
+You are not sitting down.	你没有坐下。
+You are paralyzed!	你被麻痹了！
+You are staggered by {0}!	你被{0}震得踉跄！
+You are startled!	你吓了一跳！
+You are stopped short by {0}.	你被{0}拦了下来。
+You are teleported to an exit.	你被传送至一处出口。
+You are unable to consume food.	你无法进食。
+You are {{C|paralyzed}}!	你{{C|瘫痪}}了！
+You are {{C|paralyzed}}.	你{{C|陷入麻痹}}。
+You avoid {0} pincers.	你躲开了{0}螯钳。
+You backswing with {0}.	你用{0}使出回摆。
+You begin flying!	你开始飞行！
+You begin using an additional flight capability.	你开始使用额外的飞行能力。
+You bothered {0} again.	你又打扰了{0}。
+You can't Demolish until Slam is off cooldown.	猛砸冷却结束前，无法使用粉碎。
+You can't budge {0}.	{0}纹丝不动。
+You can't charge more than {0} {1}.	你无法冲锋超过{0}{1}。
+You can't deploy there!	此处无法部署！
+You can't do that here.	你不能在此处这么做。
+You can't figure out how to fix {0}.	你弄不清该如何修理{0}。
+You can't fly right now.	你现在无法飞行。
+You can't fly underground!	你不能在地下飞行！
+You can't fly while overburdened.	负重过多时无法飞行。
+You can't go berserk until Dismember is off cooldown.	肢解冷却结束前，无法进入狂暴状态。
+You can't imprint yet.	你现在还不能刻印。
+You can't recoil yet.	你还不能使用返程传送。
+You can't safely ascend {0} right now.	你现在无法安全地登上{0}。
+You can't safely descend {0} right now.	你现在无法安全地沿{0}下降。
+You can't scintillate again so soon.	你不能这么快再次闪耀。
+You cannot berate without a tongue.	没有舌头就无法斥责。
+You cannot charge a flying target.	你无法冲锋攻击飞行中的目标。
+You cannot charge while flying.	飞行时无法冲锋。
+You cannot charge while in melee combat.	近战中无法冲锋。
+You cannot charge while overburdened.	负重过多时无法冲锋。
+You cannot clone {0}.	你无法克隆{0}。
+You cannot cross into Brightsheol from this place.	此处无法进入明冥。
+You cannot do that while enclosed by {0}.	你被封闭在{0}内时，无法这样做。
+You cannot do that while enclosed.	身处封闭容器内时无法这样做。
+You cannot do that while engulfed by {0}.	被{0}吞没时，你无法这样做。
+You cannot do that while submerged.	潜没时无法这样做。
+You cannot do that while swimming.	游泳时你无法这样做。
+You cannot do that while wading.	涉水时你无法这么做。
+You cannot fly while engulfing {0}.	吞没{0}时，你无法飞行。
+You cannot go that way.	你不能往那边走。
+You cannot juke both {0} and {1} out of your way.	你无法通过闪避将{0}和{1}一并挤开。
+You cannot juke into {0}.	你无法闪避至{0}中。
+You cannot juke {0} out of your way.	你无法通过闪避将{0}挤开。
+You cannot make contact with {0}.	你无法与{0}接触。
+You cannot perform Death From Above on a door.	你不能对门施展天降杀机。
+You cannot perform Death From Above on a wall.	你无法对墙施展天降杀机。
+You cannot perform Death From Above on {0}.	你无法对{0}施展天降杀机。
+You cannot perform Death From Above while overburdened.	负重过多时无法施展天降杀机。
+You cannot reach {0} to shield slam {1}.	你够不到{0}，无法对{1}施展盾击。
+You cannot reach {0}{1}!	你够不到{0}{1}！
+You cannot repair {0}.	你无法修理{0}。
+You cannot seem to affect {0} in any way.	你似乎无法以任何方式影响{0}。
+You cannot set {0} down!	你无法放下{0}！
+You cannot shield slam {0}.	你无法对{0}使用盾击。
+You cannot sit on {0}.	你不能坐在{0}身上。
+You cannot unequip {0}.	你无法卸下{0}。
+You cannot use disassemble all with hostiles nearby.	附近有敌对生物，无法使用全部拆解。
+You cease using one of your flight capabilities.	你停止使用一种飞行能力。
+You climb into the sarcophagus.	你爬进石棺。
+You compulsively lug around everything you can.\n\nYou must maintain at least 90% of your carry capacity.\n\nYou cannot drop items if dropping them would reduce your weight beneath this requirement.\n\nYou suffer one point of damage each round you do not maintain this requirement.\n\nYou can only drop one set of items every 10 rounds.	你强迫自己把能拿的东西全都带在身上。\n\n你必须至少携带至负重上限的90%。\n\n若丢弃物品会使负重低于此要求，你便不能丢弃。\n\n每回合若未达到此要求，你受到1点伤害。\n\n每10回合只能丢弃一组物品。
+You crossed into Brightsheol.	你踏入了明冥。
+You crossed into the Thin World, rarefied, and stood before the gate to Brightsheol.	你踏入薄界，形体渐薄，立于通往明冥之门前。
+You died and were entombed in the burial chamber of Resheph, the Last Sultan.	你死后被葬于末代苏丹利悉的墓室。
+You died.\n\nEntombed in the burial chamber of Resheph, the Last Sultan.	你死了。\n\n葬于末代苏丹利悉的墓室。
+You disarm {0}.	你拆除了{0}。
+You do not budge.	你纹丝不动。
+You do not have 1 dram of {0}.	你没有1打兰{0}。
+You do not have a thrown weapon equipped.	你没有装备投掷武器。
+You do not have any recoilers.	你没有返程器。
+You don't have a missile weapon equipped that uses that ammunition.	你没有装备使用该弹药的投射武器。
+You don't have a tongue!	你没有舌头！
+You don't have enough allied factions. Come back when you're favored by {{C|4}} or more factions.	你的盟友派系数量不足。待你获{{C|4}}个或更多派系青睐后再来。
+You don't have the capacity to ascend {0}.	你不具备攀上{0}的能力。
+You don't have the capacity to descend {0}.	你不具备沿{0}下降的能力。
+You don't know how to use {0}.	你不知道如何使用{0}。
+You don't penetrate {0}.	你未能穿透{0}。
+You drank the raw entropy of the universe and your genome fluctuated in and out of coherence.	你饮下宇宙原始的熵，基因组在协调与失序之间变幻。
+You drank the raw entropy of the universe and your mind fluctuated in and out of coherence.	你饮下宇宙的原始熵，心智在清醒与混沌间起伏。
+You encode the psyche of {0} and gain +{{C|1}} {{Y|Ego}}!	你将{0}的心灵编码，获得+{{C|1}} {{Y|自我}}！
+You extricate {0} from {1}.	你将{0}从{1}中解脱出来。
+You fail to clone {0}.	你未能克隆{0}。
+You fail to engulf {0}.	你未能吞没{0}。
+You fail to get {0} into {1}.	你没能把{0}塞进{1}。
+You fall to the ground!	你摔到了地上！
+You feel a cool swelling as your organs start to glow through your skin.	你感到体内一阵清凉胀起，脏器透过皮肤泛出光来。
+You feel a soothing tingle in your chest as your wounds start to close.	你感到胸口传来一阵舒缓的麻痒，伤口开始愈合。
+You feel drowsy.	你感到昏昏欲睡。
+You feel feverish.	你感到发热。
+You feel increasingly unstable.	你感到自己愈发不稳定。
+You feel less feverish.	你的热症有所缓解。
+You feel uneasy.	你感到不安。
+You find a passageway back to your home dimension.	你发现了一条返回故乡维度的通道。
+You gain an additional {{rules|Floating Nearby}} slot!	你获得一个额外的{{rules|近身悬浮}}装备栏位！
+You gain {0} mutation {1}!	你获得了{0}变异{1}！
+You gain {{C|{0}}} XP.	你获得了{{C|{0}}}点经验值。
+You gain {{C|{0}}} skill points!	你获得了{{C|{0}}}技能点数！
+You gained {{C|{0}}} skill points!	你获得了{{C|{0}}}技能点数！
+You have already proselytized {0}.	你已劝诱{0}入教。
+You have increased your {0} to {{C|{1}}}!	你的{0}提升到了{{C|{1}}}！
+You have no devices that use energy cells.	你没有使用能量电池的装置。
+You have no explosives to deploy!	你没有可部署的爆炸物！
+You have no hands to beat at the flames with!	你没有手，无法用手扑灭火焰！
+You have no hands to beat at the flames with, and cannot roll on the ground because you are flying!	你没有手可以拍打火焰，而且你正在飞行，无法在地上打滚！
+You have no hands to beat at the flames with, and cannot roll on the ground because you are phased out!	你没有手可拍打火焰；而且你已相位偏移，无法在地上打滚！
+You have no hands to beat at the flames with. Do you want to roll on the ground to try to put them out?	你没有双手可用于扑打火焰。要在地上打滚，试着把火扑灭吗？
+You have no items that can be magnetized.	你没有可磁化的物品。
+You have no missile weapons to deploy.	你没有可部署的远程武器。
+You have no tonics to load.	你没有可装填的补剂。
+You have rapidly advanced {0} by {1} ranks to rank {{C|{2}}}!	你的{0}迅速提升了{1}个阶位，达到{{C|{2}}}阶！
+You have the feeling of waking from a dream.	你仿佛从梦中醒来。
+You hear a shloop and the world around you shifts.	你听见一声咕噜，周围的世界随之变换。
+You hear a shloop and then a hitch. Nothing happens.	你听见一声咕噜，随即卡住了。什么也没发生。
+You hear a shloop, and the world around you warps and shifts violently.	你听见一声咕啉响，周遭世界随即剧烈扭曲、移变。
+You hit something {0}!	你击中了{0}的某物！
+You hit {0} in a vital area.	你击中了{0}的要害部位。
+You hit {0} with {1} (x{2}) for {3} damage!	你用{1}击中{0}（x{2}），造成{3}点伤害！
+You imbue {0} with life.	你赋予{0}生命。
+You journeyed to Kyakukya.	你远行至基亚库基亚。
+You journeyed to Omonporch.	你远行至奥蒙门廊。
+You journeyed to the Six Day Stilt.	你远行至六日高塔。
+You journeyed to the Swilling Vast.	你远行至漩涌浩渊。
+You journeyed to the Tomb of the Eaters.	你远行至食者之墓。
+You kick at {0}, but the kick passes through {1}.	你踢向{0}，这一脚却从{1}身上穿过。
+You kick {0} backwards.	你把{0}踢得向后退去。
+You make some progress disarming {0}.	你在拆除{0}上取得了一些进展。
+You make some progress repairing {0}.	修理{0}略有进展。
+You melt through the floor and descend with your meal.	你融穿地板，带着你的食物一同下沉。
+You mind swerves from afar, and a force of repulsion from inside the sarcophagus prevents your entry.	你的心神在远处便已偏转，石棺内传来一股斥力，将你拒于其外。
+You must be in a long blade stance to use that ability.	必须处于长刃架势，才能使用该能力。
+You must charge at a target!	你必须冲向一个目标！
+You must charge at least {0} {1}.	你必须至少冲锋{0}{1}。
+You must have a cudgel equipped in your primary hand to conk.	你必须在主手装备棍棒才能施展闷击。
+You must have a cudgel equipped in your primary hand to demolish things.	主手必须装备棍棒，才能粉碎物件。
+You must have a long blade equipped to switch stances.	必须装备长刃才能切换架势。
+You must have a shield equipped to perform a shield slam.	你必须装备盾牌才能施展盾击。
+You must have an axe equipped in your primary hand to go berserk.	主手必须装备斧头，才能进入狂暴状态。
+You name {0} '{1}'.	你将{0}命名为“{1}”。
+You pause as the psyche of {0} radiates into nothingness.	{0}的心神消散于虚无，你停下脚步。
+You ponder how best to sow chaos with your words.	你思量着该如何以言辞播撒混乱。
+You recognize the area and stop being lost!	你认出了这片区域，不再迷路了！
+You regain your bearings.	你重新找回了方向。
+You repair {0}.	你修好了{0}。
+You resist {0}!	你抵御了{0}！
+You resist {0}.	你抵御了{0}。
+You return to the ground.	你回到了地面。
+You spasmodically engender wild plant growth around yourself for a short period.\n\nThere is a small chance each round that you enter into a compulsive state of mind for 30-39 rounds.\n\nDuring this time, there is a 25% chance each round that you summon several hostile plants nearby.	你会不由自主地在周围催生野生植物，持续一小段时间。\n\n每回合有小概率进入强迫状态，持续 30-39 回合。\n\n期间，每回合有 25% 几率在附近召唤数株敌对植物。
+You stagger {0} with your shield block!	你用盾牌格挡使{0}踉跄！
+You start calling {0} by the name '{1}'.	你开始称呼{0}为“{1}”。
+You start to feel unstable.	你开始感到不稳定。
+You start to prowl.	你开始潜猎。
+You step on {0} and vibrate through spacetime.	你踩在{0}上，震颤着穿越时空。
+You stop meditating and feel refreshed.	你停止冥想，感到神清气爽。
+You stop meditating.	你停止了冥想。
+You suddenly feel ready to use {0} again.	你突然觉得可以再次使用{0}了。
+You swell with the inspiration to name your {0}. Do you wish to?	灵感涌上心头，你想为{0}取个名字。要取吗？
+You swipe your blade in the air, pushing your enemies backward.	你凌空挥斩刀刃，将敌人向后逼退。
+You were not recalled as you're already in a resting place.	你已身在安息之所，故未被召回。
+You were reconstituted in the material world with a stronger magnetic charge.	你在物质世界中重塑身躯，带上了更强的磁荷。
+You're not hungry enough to bring {0} to eat that.	你还没饿到能强迫{0}吃下那东西。
+You're not under enough stress to scintillate.	你承受的压力还不足以闪耀。
+You've been recalled to a resting place.	你已被召回至一处安息之所。
+Your Ego is decreased by {{R|{0}}}!	你的自我降低了{{R|{0}}}！
+Your Ego is increased by {{G|{0}}}!	你的自我提高了{{G|{0}}}！
+Your Intelligence is increased by {{G|{0}}}!	你的智力提高了{{G|{0}}}！
+Your Willpower is increased by {{G|{0}}}!	你的意志提升了{{G|{0}}}！
+Your adrenaline level returns to normal!	你的肾上腺素水平恢复正常！
+Your attack bounces harmlessly off of {0}.	你的攻击被{0}弹开，未能造成伤害。
+Your attack does not affect {0}.	你的攻击对{0}无效。
+Your bilge sphincter is missing.	你的舱底括约肌不见了。
+Your blood does not clot easily.\n\nIt takes much longer than usual for you to stop bleeding.	你的血液不易凝固。\n\n你止血所需的时间远长于平常。
+Your body flushes with adrenaline!	肾上腺素涌遍你的全身！
+Your cloning capacity is refreshed.	你的克隆能力已恢复。
+Your feverish feeling eases up a bit.	你的发热感稍稍减轻了。
+Your feverish feeling is getting worse.	你的发热感越来越严重。
+Your genome enters an excited state!	你的基因组进入了兴奋状态！
+Your heart begins to beat faster and your pupils dilate.	你的心跳开始加速，瞳孔扩张。
+Your heart is weak.\n\n-5 to save vs. poison, disease, and cardiac arrest.\nSmall chance per turn of entering cardiac arrest.	你的心脏虚弱。\n\n对抗毒素、疾病和心脏骤停的豁免检定 -5。\n每回合有小概率进入心脏骤停。
+Your heart rate returns to normal and your pupils shrink.	你的心率恢复正常，瞳孔也缩小了。
+Your heart rate slows again.	你的心率再次减缓。
+Your heart swells with a burning sensation.	你的心中涌起灼热之感。
+Your hearts begin to beat faster and your pupils dilate.	你的心脏开始加速跳动，瞳孔扩张。
+Your lunge is interrupted.	你的突刺被打断了。
+Your mental attack does not affect {0}.	你的心灵攻击对{0}无效。
+Your mind clouds over once again.	你的心智再度蒙尘。
+Your muscles bulge grotesquely.	你的肌肉怪异地鼓胀起来。
+Your muscles deflate to their usual size.	你的肌肉恢复了平常的大小。
+Your mutant physiology reacts adversely to the tonic. Aaaaaaaaargh!	你的变异生理与补剂发生不良反应。啊啊啊啊啊！
+Your mutant physiology reacts adversely to the tonic. The soothing tingle fades.	你的变异生理与补剂发生不良反应。那阵舒缓的麻痒感消退了。
+Your mutant physiology reacts adversely to the tonic. The torrent of life sweeps away.	你的变异生理与补剂发生不良反应。生命洪流消退了。
+Your mutant physiology reacts adversely to the tonic. You cannot see to see -- your mind cracks as a bell struck by a hammer.	你的变异生理与补剂发生不良反应。你无法看见——你的心智如遭锤击的钟般碎裂。
+Your mutant physiology reacts adversely to the tonic. You feel awfully frigid.	你的变异生理与补剂发生不良反应。你感到酷寒难耐。
+Your mutant physiology reacts adversely to the tonic. You flicker through spacetime uncontrollably.	你的变异生理对补剂产生不良反应。你不受控制地在时空中闪烁。
+Your mutant physiology reacts adversely to the tonic. Your field of vision erupts into a plane of blinding, white light.	你的变异生理与补剂发生不良反应。眼前骤然炸开一片刺目的白光。
+Your mutant physiology reacts adversely to the tonic. Your skin starts to knot and misshape.	你的变异生理与补剂发生不良反应。皮肤开始扭结变形。
+Your onboard cloning systems are offline.	你的内置克隆系统已离线。
+Your onboard systems are out of {0}.	你的内置系统缺少{0}。
+Your psyche is too exhausted.	你的心神已过度疲惫。
+Your shot goes wild!	你的射击偏离了目标！
+Your skin flattens out and stretches tautly around your body once again.	你的皮肤再次舒展开来，紧紧贴合身体。
+Your skin shrivels and dimples.	你的皮肤皱缩，浮现出小坑。
+Your {0} discharges {1} {2} of {3} all over you.	你的{0}向你身上喷出{1}{2}{3}。
+Your {0} is increased by {{G|1}}!	你的{0}提高了{{G|1}}！
+Your {0} pass through {1}.	你的{0}穿过了{1}。
+Your {{sphynx|sphynx}} {{Y|salt}} is about to run out. Would you like to return to the start of your vision?	你的{{sphynx|斯芬克斯}}{{Y|盐}}即将耗尽。要回到预见开始之时吗？
+[ {{M|Esoterica}} ]	[ {{M|秘传}} ]
+[ {{W|Character Sheet}} ]	[ {{W|角色面板}} ]
+active {{W|e}}ffects [{{C|{0}}}]	当前状态效果 [{{C|{0}}}]（{{W|e}}）
+all the {0}	所有{0}
+{0}\n+{1} hit points.	{0}\n+{1}生命值。
+{0}\nYou gain {{C|{1}}} XP!	{0}\n你获得了{{C|{1}}}点经验值！
+{0} Quickness\nWill become sluggish soon.	{0}迅捷\n即将变得迟缓。
+{0} appear all around.	{0}在四周现身。
+{0} begin {1} more heavily.	{0}{1}愈发严重。
+{0} begins {1} more heavily.	{0}{1}愈发严重。
+{0} bounces harmlessly off of {1}.	{0}被{1}弹开，未能造成伤害。
+{0} burns into bright slag.	{0}燃烧着化为明亮的炉渣。
+{0} can't grant you any more reputation.	{0}已无法再为你增加声望。
+{0} cannot be cloned.	{0}无法被克隆。
+{0} cannot reach {1}.	{0}够不到{1}。
+{0} consciousness dissipates into {1}.	{0}意识消散，化为{1}。
+{0} consciousness dissipates.	{0}意识消散了。
+{0} damage per turn.	每回合受到{0}点伤害。
+{0} dims until it's extinguished.	{0}逐渐黯淡，直至熄灭。
+{0} flattening fire drops {1} to the ground!	{0}扫平射击将{1}击倒在地！
+{0} goes offline.	{0}已停机。
+{0} goes wild!	{0}射偏了！
+{0} grows out of {1} {2}!	{1}{2}长出了{0}！
+{0} has no more secrets to share.	{0}再没有秘密可分享了。
+{0} is folded a trillion times by the pressure of the nether, causing the local region of spacetime to lose contiguity.	{0}被幽冥之压折叠万亿次，令附近时空失去连续性。
+{0} is smeared into stone by the rasp of time.	{0}被时光锉磨，碾入石中。
+{0} is vacuumed to another place and time. The void that remains is filled with three important objects from one of your side lives.	{0}被吸往别处的时空，留下的空缺由你某段旁支人生中的三件重要物品填满。
+{0} is vectorized into a line of force.	{0}被转化为一条力线。
+{0} is vectorized into a line of normality.	{0}被化作一条常态之线。
+{0} is vectorized into a line of plants.	{0}被化作一列植物。
+{0} items hidden by filter	筛选隐藏了{0}件物品
+{0} level to {1}.	{1}阶位{0}。
+{0} levels to {1}.	{1}阶位{0}。
+{0} life drained per turn.	每回合被汲取{0}点生命。
+{0} liquifies into several pools of{1}&y.	{0}液化成了几滩{1}&y。
+{0} lunge is interrupted.	{0}突刺被打断了。
+{0} lunge passes through {1}{2}.	{0}突刺穿过了{1}{2}。
+{0} move speed.	{0}移动速度。
+{0} passes harmlessly through {1}.	{0}穿过{1}，未能造成伤害。
+{0} passes through {1}!	{0}穿过了{1}！
+{0} pincers pass through you harmlessly.	{0}螯钳从你身上穿过，未能造成伤害。
+{0} snaps and {1} binal specter substantiates as {2}.	{0}断裂，{1}双生幽灵凝成{2}的实体。
+{0} starts to flicker.	{0}开始闪掠。
+{0} starts to glitch.	{0}开始发生异变。
+{0} stop {1} quite so heavily.	{0}{1}不再那么严重。
+{0} stops {1} quite so heavily.	{0}{1}不再那么严重。
+{0} suppressive fire locks {1} in place.	{0}压制射击将{1}钉在原地。
+{0} until you stop demolishing.	距离你停止粉碎还剩{0}。
+{0} until your guard is down.	距离你收起防备还剩{0}。
+{0} {1} discharges {2} {3} of {4} all over {5}.	{0}{1}喷出{2}{3}{4}，淋遍{5}全身。
+{0} {1} of {2} discharges all over you.	{0}{1}{2}喷洒在你全身。
+{0} {1} of {2} discharges all over {3}{4}.	{0}{1}{2}喷洒在{3}{4}全身。
+{0} {1} tears itself apart!	{0}{1}自行崩裂了！
+{{G| + grow a new body part}}	{{G| + 长出新的身体部位}}
+{{G|You prepare {0} for demolition.}}	{{G|你让{0}做好施展粉碎的准备。}}
+{{K|You have learned no recipes.}}	{{K|你尚未学会任何食谱。}}
+{{K|You have made no observations.}}	{{K|你尚无观察记录。}}
+{{K|You have no history. That's pretty weird to be honest.}}	{{K|你没有任何历史。说实话，这挺奇怪的。}}
+{{K|You have no knowledge of any villages.}}	{{K|你尚无任何村庄的见闻。}}
+{{K|You have no knowledge of the sultans.}}	{{K|你尚无诸苏丹的见闻。}}
+{{K|You have no map notes.}}	{{K|你没有地图笔记。}}
+{{W|<more...>}}	{{W|<更多...>}}
+{{W|M}} - Buy a new random {0} for 4 MP	{{W|M}} - 花费4点变异点数，随机获得一个新的{0}
+{{rules|All your mental cooldowns are refreshed.}}	{{rules|你的所有精神能力均已冷却完毕。}}
+{{r|You cannot berate {0} while frozen.}}	{{r|冰封时，你无法斥责{0}。}}
+{{r|You cannot berate {0} without a tongue.}}	{{r|没有舌头，你无法斥责{0}。}}
+{{r|You cannot make telepathic contact with {0}.}}	{{r|你无法与{0}建立心灵感应联系。}}

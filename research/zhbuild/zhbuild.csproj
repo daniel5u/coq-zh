@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <NoStdLib>true</NoStdLib>
+    <DisableImplicitFrameworkReferences>true</DisableImplicitFrameworkReferences>
+    <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+    <GameManaged Condition="'$(GameManaged)' == ''">$(HOME)/Library/Application Support/Steam/steamapps/common/Caves of Qud/CoQ.app/Contents/Resources/Data/Managed</GameManaged>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="../../mod/QudZH/Scripts/*.cs" />
+    <ManagedDll Include="$(GameManaged)/*.dll" />
+    <Reference Include="@(ManagedDll->'%(FullPath)')">
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+</Project>

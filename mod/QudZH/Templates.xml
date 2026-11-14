@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<templates Lang="zh" Encoding="utf-8">
+  <statDefaultUnit Name="Cooldown" Unit="回合" />
+  <statDefaultUnit Name="Duration" Unit="回合" />
+</templates>

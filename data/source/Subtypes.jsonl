@@ -1,0 +1,31 @@
+{"id": "Subtypes#00001", "file": "Subtypes", "tag": "class", "attr": "ChargenTitle", "path": "[subtypes][class,ID=Castes]", "src": "choose caste"}
+{"id": "Subtypes#00002", "file": "Subtypes", "tag": "class", "attr": "SingularTitle", "path": "[subtypes][class,ID=Castes]", "src": "caste"}
+{"id": "Subtypes#00003", "file": "Subtypes", "tag": "category", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ekuemekiyye]", "src": "{{G|The Toxic Arboreta of Ekuemekiyye, the Holy City}}"}
+{"id": "Subtypes#00004", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ekuemekiyye][subtype,Name=Horticulturist]", "src": "Horticulturist"}
+{"id": "Subtypes#00005", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ekuemekiyye][subtype,Name=Priest of All Suns]", "src": "Priest of All Suns"}
+{"id": "Subtypes#00006", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ekuemekiyye][subtype,Name=Priest of All Moons]", "src": "Priest of All Moons"}
+{"id": "Subtypes#00007", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ekuemekiyye][subtype,Name=Syzygyrior]", "src": "Syzygyrior"}
+{"id": "Subtypes#00008", "file": "Subtypes", "tag": "category", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ibul]", "src": "{{C|The Ice-Sheathed Arcology of Ibul}}"}
+{"id": "Subtypes#00009", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ibul][subtype,Name=Artifex]", "src": "Artifex"}
+{"id": "Subtypes#00010", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ibul][subtype,Name=Consul]", "src": "Consul"}
+{"id": "Subtypes#00011", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ibul][subtype,Name=Praetorian]", "src": "Praetorian"}
+{"id": "Subtypes#00012", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Ibul][subtype,Name=Eunuch]", "src": "Eunuch"}
+{"id": "Subtypes#00013", "file": "Subtypes", "tag": "category", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Yawningmoon]", "src": "{{R|The Crustal Mortars of Yawningmoon}}"}
+{"id": "Subtypes#00014", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Yawningmoon][subtype,Name=Child of the Hearth]", "src": "Child of the Hearth"}
+{"id": "Subtypes#00015", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Yawningmoon][subtype,Name=Child of the Wheel]", "src": "Child of the Wheel"}
+{"id": "Subtypes#00016", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Yawningmoon][subtype,Name=Child of the Deep]", "src": "Child of the Deep"}
+{"id": "Subtypes#00017", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Castes][category,Name=Yawningmoon][subtype,Name=Fuming God-Child]", "src": "Fuming God-Child"}
+{"id": "Subtypes#00018", "file": "Subtypes", "tag": "class", "attr": "ChargenTitle", "path": "[subtypes][class,ID=Callings]", "src": "choose calling"}
+{"id": "Subtypes#00019", "file": "Subtypes", "tag": "class", "attr": "SingularTitle", "path": "[subtypes][class,ID=Callings]", "src": "calling"}
+{"id": "Subtypes#00020", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Apostle]", "src": "Apostle"}
+{"id": "Subtypes#00021", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Arconaut]", "src": "Arconaut"}
+{"id": "Subtypes#00022", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Greybeard]", "src": "Greybeard"}
+{"id": "Subtypes#00023", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Gunslinger]", "src": "Gunslinger"}
+{"id": "Subtypes#00024", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Marauder]", "src": "Marauder"}
+{"id": "Subtypes#00025", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Pilgrim]", "src": "Pilgrim"}
+{"id": "Subtypes#00026", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Nomad]", "src": "Nomad"}
+{"id": "Subtypes#00027", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Scholar]", "src": "Scholar"}
+{"id": "Subtypes#00028", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Tinker]", "src": "Tinker"}
+{"id": "Subtypes#00029", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Warden]", "src": "Warden"}
+{"id": "Subtypes#00030", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Water Merchant]", "src": "Water Merchant"}
+{"id": "Subtypes#00031", "file": "Subtypes", "tag": "subtype", "attr": "DisplayName", "path": "[subtypes][class,ID=Callings][subtype,Name=Watervine Farmer]", "src": "Watervine Farmer"}
